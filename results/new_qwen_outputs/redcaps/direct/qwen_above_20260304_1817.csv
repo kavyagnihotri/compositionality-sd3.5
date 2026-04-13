@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_97463254.pt,0,above,direct,Yes.,,giraffe,hair drier
+redcaps,phrase_97463254.pt,1,above,direct,Yes,,broccoli,skis
+redcaps,phrase_97463254.pt,2,above,direct,Yes,,book,sports ball
+redcaps,phrase_97463254.pt,3,above,direct,No,,bench,cow
+redcaps,phrase_97463254.pt,4,above,direct,No,,computer keyboard,skateboard
+redcaps,phrase_97463254.pt,5,above,direct,No,,toilet,potted plant
+redcaps,phrase_97463254.pt,6,above,direct,No,,oven,vase
+redcaps,phrase_97463254.pt,7,above,direct,No,,bed,book
+redcaps,phrase_97463254.pt,8,above,direct,Yes,,cell phone,bear
+redcaps,phrase_97463254.pt,9,above,direct,Yes.,,sports ball,refrigerator
+redcaps,phrase_97463254.pt,10,above,direct,Yes.,,baseball bat,dog
+redcaps,phrase_97463254.pt,11,above,direct,Yes.,,orange,traffic light
+redcaps,phrase_97463254.pt,12,above,direct,Yes,,teddy bear,orange
+redcaps,phrase_97463254.pt,13,above,direct,No,,skis,tennis racket
+redcaps,phrase_97463254.pt,14,above,direct,No,,zebra,bicycle
+redcaps,phrase_97463254.pt,15,above,direct,Yes,,sheep,computer mouse
+redcaps,phrase_97463254.pt,16,above,direct,Yes,,cell phone,orange
+redcaps,phrase_97463254.pt,17,above,direct,No,,knife,umbrella
+redcaps,phrase_97463254.pt,18,above,direct,Yes,,motorcycle,carrot
+redcaps,phrase_97463254.pt,19,above,direct,Yes,,traffic light,horse
+redcaps,phrase_97463254.pt,20,above,direct,Yes,,surfboard,tv
+redcaps,phrase_97463254.pt,21,above,direct,Yes,,carrot,truck
+redcaps,phrase_97463254.pt,22,above,direct,No,,giraffe,fire hydrant
+redcaps,phrase_97463254.pt,23,above,direct,Yes.,,elephant,toaster
+redcaps,phrase_97463254.pt,24,above,direct,Yes.,,bowl,dog
+redcaps,phrase_97463254.pt,25,above,direct,No,,bench,motorcycle
+redcaps,phrase_97463254.pt,26,above,direct,Yes,,frisbee,handbag
+redcaps,phrase_97463254.pt,27,above,direct,No,,skis,cat
+redcaps,phrase_97463254.pt,28,above,direct,No,,surfboard,spoon
+redcaps,phrase_97463254.pt,29,above,direct,Yes.,,bicycle,bus
+redcaps,phrase_97463254.pt,30,above,direct,No,,car,laptop
+redcaps,phrase_97463254.pt,31,above,direct,Yes.,,frisbee,cat
+redcaps,phrase_97463254.pt,32,above,direct,No,,skis,motorcycle
+redcaps,phrase_97463254.pt,33,above,direct,No.,,toilet,cat
+redcaps,phrase_97463254.pt,34,above,direct,Yes,,snowboard,boat
+redcaps,phrase_97463254.pt,35,above,direct,Yes,,broccoli,bird
+redcaps,phrase_97463254.pt,36,above,direct,Yes,,scissors,airplane
+redcaps,phrase_97463254.pt,37,above,direct,Yes,,bowl,banana
+redcaps,phrase_97463254.pt,38,above,direct,Yes.,,baseball glove,bicycle
+redcaps,phrase_97463254.pt,39,above,direct,Yes,,microwave,skis
+redcaps,phrase_97463254.pt,40,above,direct,Yes,,banana,stop sign
+redcaps,phrase_97463254.pt,41,above,direct,No,,oven,snowboard
+redcaps,phrase_97463254.pt,42,above,direct,Yes,,giraffe,tie
+redcaps,phrase_97463254.pt,43,above,direct,Yes,,parking meter,toilet
+redcaps,phrase_97463254.pt,44,above,direct,Yes,,banana,fork
+redcaps,phrase_97463254.pt,45,above,direct,Yes,,laptop,broccoli
+redcaps,phrase_97463254.pt,46,above,direct,Yes,,orange,toothbrush
+redcaps,phrase_97463254.pt,47,above,direct,No,,baseball bat,boat
+redcaps,phrase_97463254.pt,48,above,direct,No,,snowboard,skateboard
+redcaps,phrase_97463254.pt,49,above,direct,Yes,,book,dog
+redcaps,phrase_97463254.pt,50,above,direct,No,,chair,pizza
+redcaps,phrase_97463254.pt,51,above,direct,No,,suitcase,train
+redcaps,phrase_97463254.pt,52,above,direct,No,,refrigerator,sports ball
+redcaps,phrase_97463254.pt,53,above,direct,Yes,,baseball bat,sandwich
+redcaps,phrase_97463254.pt,54,above,direct,Yes.,,potted plant,fork
+redcaps,phrase_97463254.pt,55,above,direct,Yes,,clock,cow
+redcaps,phrase_97463254.pt,56,above,direct,No,,skateboard,motorcycle
+redcaps,phrase_97463254.pt,57,above,direct,Yes.,,orange,bottle
+redcaps,phrase_97463254.pt,58,above,direct,No,,backpack,wine glass
+redcaps,phrase_97463254.pt,59,above,direct,No.,,surfboard,handbag
+redcaps,phrase_97463254.pt,60,above,direct,No,,frisbee,broccoli
+redcaps,phrase_97463254.pt,61,above,direct,Yes,,cell phone,dog
+redcaps,phrase_97463254.pt,62,above,direct,No,,chair,tennis racket
+redcaps,phrase_97463254.pt,63,above,direct,No,,couch,tv remote
+redcaps,phrase_97463254.pt,64,above,direct,Yes,,donut,knife
+redcaps,phrase_97463254.pt,65,above,direct,No,,tv remote,laptop
+redcaps,phrase_97463254.pt,66,above,direct,Yes,,traffic light,pizza
+redcaps,phrase_97463254.pt,67,above,direct,Yes.,,motorcycle,cat
+redcaps,phrase_97463254.pt,68,above,direct,Yes,,snowboard,bottle
+redcaps,phrase_97463254.pt,69,above,direct,No,,chair,umbrella
+redcaps,phrase_97463254.pt,70,above,direct,Yes.,,fork,hot dog
+redcaps,phrase_97463254.pt,71,above,direct,Yes,,clock,skateboard
+redcaps,phrase_97463254.pt,72,above,direct,Yes,,potted plant,tv
+redcaps,phrase_97463254.pt,73,above,direct,No,,laptop,computer keyboard
+redcaps,phrase_97463254.pt,74,above,direct,Yes.,,broccoli,dog
+redcaps,phrase_97463254.pt,75,above,direct,Yes,,tv,traffic light
+redcaps,phrase_97463254.pt,76,above,direct,Yes,,cell phone,parking meter
+redcaps,phrase_97463254.pt,77,above,direct,No,,fork,snowboard
+redcaps,phrase_97463254.pt,78,above,direct,Yes.,,cow,carrot
+redcaps,phrase_97463254.pt,79,above,direct,Yes,,truck,bus
+redcaps,phrase_97463254.pt,80,above,direct,No.,,toaster,fire hydrant
+redcaps,phrase_97463254.pt,81,above,direct,Yes,,bear,pizza
+redcaps,phrase_97463254.pt,82,above,direct,Yes,,pizza,frisbee
+redcaps,phrase_97463254.pt,83,above,direct,No,,oven,donut
+redcaps,phrase_97463254.pt,84,above,direct,Yes,,refrigerator,motorcycle
+redcaps,phrase_97463254.pt,85,above,direct,No,,book,tie
+redcaps,phrase_97463254.pt,86,above,direct,No,,hair drier,parking meter
+redcaps,phrase_97463254.pt,87,above,direct,Yes,,tv,truck
+redcaps,phrase_97463254.pt,88,above,direct,Yes.,,teddy bear,microwave
+redcaps,phrase_97463254.pt,89,above,direct,Yes,,clock,giraffe
+redcaps,phrase_97463254.pt,90,above,direct,No,,person,refrigerator
+redcaps,phrase_97463254.pt,91,above,direct,Yes,,tv,cow
+redcaps,phrase_97463254.pt,92,above,direct,Yes,,microwave,cow
+redcaps,phrase_97463254.pt,93,above,direct,Yes,,fire hydrant,tv remote
+redcaps,phrase_97463254.pt,94,above,direct,Yes.,,donut,clock
+redcaps,phrase_97463254.pt,95,above,direct,Yes,,baseball glove,sandwich
+redcaps,phrase_97463254.pt,96,above,direct,Yes.,,hair drier,computer mouse
+redcaps,phrase_97463254.pt,97,above,direct,Yes,,skateboard,bear
+redcaps,phrase_97463254.pt,98,above,direct,No,,refrigerator,orange
+redcaps,phrase_97463254.pt,99,above,direct,Yes,,clock,dining table

@@ -1,0 +1,101 @@
+tensor_file,tensor_index,prompt,class1,class2,phrase,question,full_answer,answer,used_incontext
+phrase_97999771.pt,0,a photo of a giraffe below a hair drier,giraffe,hair drier,below,Is a giraffe below a hair drier? Answer in Yes or No.,No. The image does not show a giraffe below a hair drier.,NO,True
+phrase_97999771.pt,1,a photo of a broccoli below a skis,broccoli,skis,below,Is a broccoli below a skis? Answer in Yes or No.,No. The image does not show a broccoli below a skis.,NO,True
+phrase_97999771.pt,2,a photo of a book below a sports ball,book,sports ball,below,Is a book below a sports ball? Answer in Yes or No.,No. The image does not show a book below a sports ball.,NO,True
+phrase_97999771.pt,3,a photo of a bench below a cow,bench,cow,below,Is a bench below a cow? Answer in Yes or No.,No. The image does not show a bench below a cow.,NO,True
+phrase_97999771.pt,4,a photo of a computer keyboard below a skateboard,computer keyboard,skateboard,below,Is a computer keyboard below a skateboard? Answer in Yes or No.,No. The image does not show a computer keyboard below a skateboard.,NO,True
+phrase_97999771.pt,5,a photo of a toilet below a potted plant,toilet,potted plant,below,Is a toilet below a potted plant? Answer in Yes or No.,No. The image does not show a toilet below a potted plant.,NO,True
+phrase_97999771.pt,6,a photo of a oven below a vase,oven,vase,below,Is a oven below a vase? Answer in Yes or No.,Yes.,YES,True
+phrase_97999771.pt,7,a photo of a bed below a book,bed,book,below,Is a bed below a book? Answer in Yes or No.,No. The image does not show a bed below a book.,NO,True
+phrase_97999771.pt,8,a photo of a cell phone below a bear,cell phone,bear,below,Is a cell phone below a bear? Answer in Yes or No.,Yes. The image shows a cell phone below a bear.,YES,True
+phrase_97999771.pt,9,a photo of a sports ball below a refrigerator,sports ball,refrigerator,below,Is a sports ball below a refrigerator? Answer in Yes or No.,Yes. The image shows a sports ball below a refrigerator.,YES,True
+phrase_97999771.pt,10,a photo of a baseball bat below a dog,baseball bat,dog,below,Is a baseball bat below a dog? Answer in Yes or No.,No. The image does not show a baseball bat below a dog.,NO,True
+phrase_97999771.pt,11,a photo of a orange below a traffic light,orange,traffic light,below,Is a orange below a traffic light? Answer in Yes or No.,No. The image does not show an orange below a traffic light.,NO,True
+phrase_97999771.pt,12,a photo of a teddy bear below a orange,teddy bear,orange,below,Is a teddy bear below a orange? Answer in Yes or No.,No. The image does not show a teddy bear below an orange.,NO,True
+phrase_97999771.pt,13,a photo of a skis below a tennis racket,skis,tennis racket,below,Is a skis below a tennis racket? Answer in Yes or No.,No. The image does not show a skis below a tennis racket.,NO,True
+phrase_97999771.pt,14,a photo of a zebra below a bicycle,zebra,bicycle,below,Is a zebra below a bicycle? Answer in Yes or No.,No. The image does not show a zebra below a bicycle.,NO,True
+phrase_97999771.pt,15,a photo of a sheep below a computer mouse,sheep,computer mouse,below,Is a sheep below a computer mouse? Answer in Yes or No.,No. The image does not show a sheep below a computer mouse.,NO,True
+phrase_97999771.pt,16,a photo of a cell phone below a orange,cell phone,orange,below,Is a cell phone below a orange? Answer in Yes or No.,No. The image does not show a cell phone below an orange.,NO,True
+phrase_97999771.pt,17,a photo of a knife below a umbrella,knife,umbrella,below,Is a knife below a umbrella? Answer in Yes or No.,No. The image does not show a knife below a umbrella.,NO,True
+phrase_97999771.pt,18,a photo of a motorcycle below a carrot,motorcycle,carrot,below,Is a motorcycle below a carrot? Answer in Yes or No.,No. The image does not show a motorcycle below a carrot.,NO,True
+phrase_97999771.pt,19,a photo of a traffic light below a horse,traffic light,horse,below,Is a traffic light below a horse? Answer in Yes or No.,No. The image does not show a traffic light below a horse.,NO,True
+phrase_97999771.pt,20,a photo of a surfboard below a tv,surfboard,tv,below,Is a surfboard below a tv? Answer in Yes or No.,No. The image does not show a surfboard below a tv.,NO,True
+phrase_97999771.pt,21,a photo of a carrot below a truck,carrot,truck,below,Is a carrot below a truck? Answer in Yes or No.,No. The image does not show a carrot below a truck.,NO,True
+phrase_97999771.pt,22,a photo of a giraffe below a fire hydrant,giraffe,fire hydrant,below,Is a giraffe below a fire hydrant? Answer in Yes or No.,No. The image does not show a giraffe below a fire hydrant.,NO,True
+phrase_97999771.pt,23,a photo of a elephant below a toaster,elephant,toaster,below,Is a elephant below a toaster? Answer in Yes or No.,No. The image does not show an elephant below a toaster.,NO,True
+phrase_97999771.pt,24,a photo of a bowl below a dog,bowl,dog,below,Is a bowl below a dog? Answer in Yes or No.,No. The image does not show a bowl below a dog.,NO,True
+phrase_97999771.pt,25,a photo of a bench below a motorcycle,bench,motorcycle,below,Is a bench below a motorcycle? Answer in Yes or No.,No. The image does not show a bench below a motorcycle.,NO,True
+phrase_97999771.pt,26,a photo of a frisbee below a handbag,frisbee,handbag,below,Is a frisbee below a handbag? Answer in Yes or No.,No. The image does not show a frisbee below a handbag.,NO,True
+phrase_97999771.pt,27,a photo of a skis below a cat,skis,cat,below,Is a skis below a cat? Answer in Yes or No.,No. The image does not show a skis below a cat.,NO,True
+phrase_97999771.pt,28,a photo of a surfboard below a spoon,surfboard,spoon,below,Is a surfboard below a spoon? Answer in Yes or No.,No. The image does not show a surfboard below a spoon.,NO,True
+phrase_97999771.pt,29,a photo of a bicycle below a bus,bicycle,bus,below,Is a bicycle below a bus? Answer in Yes or No.,No. The image does not show a bicycle below a bus.,NO,True
+phrase_97999771.pt,30,a photo of a car below a laptop,car,laptop,below,Is a car below a laptop? Answer in Yes or No.,No. The image does not show a car below a laptop.,NO,True
+phrase_97999771.pt,31,a photo of a frisbee below a cat,frisbee,cat,below,Is a frisbee below a cat? Answer in Yes or No.,No. The image does not show a frisbee below a cat.,NO,True
+phrase_97999771.pt,32,a photo of a skis below a motorcycle,skis,motorcycle,below,Is a skis below a motorcycle? Answer in Yes or No.,No. The image does not show a skis below a motorcycle.,NO,True
+phrase_97999771.pt,33,a photo of a toilet below a cat,toilet,cat,below,Is a toilet below a cat? Answer in Yes or No.,No. The image does not show a toilet below a cat.,NO,True
+phrase_97999771.pt,34,a photo of a snowboard below a boat,snowboard,boat,below,Is a snowboard below a boat? Answer in Yes or No.,No. The image does not show a snowboard below a boat.,NO,True
+phrase_97999771.pt,35,a photo of a broccoli below a bird,broccoli,bird,below,Is a broccoli below a bird? Answer in Yes or No.,No. The image does not show a broccoli below a bird.,NO,True
+phrase_97999771.pt,36,a photo of a scissors below a airplane,scissors,airplane,below,Is a scissors below a airplane? Answer in Yes or No.,No. The image does not show a scissors below an airplane.,NO,True
+phrase_97999771.pt,37,a photo of a bowl below a banana,bowl,banana,below,Is a bowl below a banana? Answer in Yes or No.,No. The image does not show a bowl below a banana.,NO,True
+phrase_97999771.pt,38,a photo of a baseball glove below a bicycle,baseball glove,bicycle,below,Is a baseball glove below a bicycle? Answer in Yes or No.,No. The image does not show a baseball glove below a bicycle.,NO,True
+phrase_97999771.pt,39,a photo of a microwave below a skis,microwave,skis,below,Is a microwave below a skis? Answer in Yes or No.,No. The image does not show a microwave below a skis.,NO,True
+phrase_97999771.pt,40,a photo of a banana below a stop sign,banana,stop sign,below,Is a banana below a stop sign? Answer in Yes or No.,No. The image does not show a banana below a stop sign.,NO,True
+phrase_97999771.pt,41,a photo of a oven below a snowboard,oven,snowboard,below,Is a oven below a snowboard? Answer in Yes or No.,No. The image does not show an oven below a snowboard.,NO,True
+phrase_97999771.pt,42,a photo of a giraffe below a tie,giraffe,tie,below,Is a giraffe below a tie? Answer in Yes or No.,No. The image does not show a giraffe below a tie.,NO,True
+phrase_97999771.pt,43,a photo of a parking meter below a toilet,parking meter,toilet,below,Is a parking meter below a toilet? Answer in Yes or No.,No. The image does not show a parking meter below a toilet.,NO,True
+phrase_97999771.pt,44,a photo of a banana below a fork,banana,fork,below,Is a banana below a fork? Answer in Yes or No.,No. The image does not show a banana below a fork.,NO,True
+phrase_97999771.pt,45,a photo of a laptop below a broccoli,laptop,broccoli,below,Is a laptop below a broccoli? Answer in Yes or No.,No. The image does not show a laptop below a broccoli.,NO,True
+phrase_97999771.pt,46,a photo of a orange below a toothbrush,orange,toothbrush,below,Is a orange below a toothbrush? Answer in Yes or No.,No. The image does not show an orange below a toothbrush.,NO,True
+phrase_97999771.pt,47,a photo of a baseball bat below a boat,baseball bat,boat,below,Is a baseball bat below a boat? Answer in Yes or No.,No. The image does not show a baseball bat below a boat.,NO,True
+phrase_97999771.pt,48,a photo of a snowboard below a skateboard,snowboard,skateboard,below,Is a snowboard below a skateboard? Answer in Yes or No.,No. The image does not show a snowboard below a skateboard.,NO,True
+phrase_97999771.pt,49,a photo of a book below a dog,book,dog,below,Is a book below a dog? Answer in Yes or No.,No. The image does not show a book below a dog.,NO,True
+phrase_97999771.pt,50,a photo of a chair below a pizza,chair,pizza,below,Is a chair below a pizza? Answer in Yes or No.,No. The image does not show a chair below a pizza.,NO,True
+phrase_97999771.pt,51,a photo of a suitcase below a train,suitcase,train,below,Is a suitcase below a train? Answer in Yes or No.,No. The image does not show a suitcase below a train.,NO,True
+phrase_97999771.pt,52,a photo of a refrigerator below a sports ball,refrigerator,sports ball,below,Is a refrigerator below a sports ball? Answer in Yes or No.,No. The image does not show a refrigerator below a sports ball.,NO,True
+phrase_97999771.pt,53,a photo of a baseball bat below a sandwich,baseball bat,sandwich,below,Is a baseball bat below a sandwich? Answer in Yes or No.,No. The image does not show a baseball bat below a sandwich.,NO,True
+phrase_97999771.pt,54,a photo of a potted plant below a fork,potted plant,fork,below,Is a potted plant below a fork? Answer in Yes or No.,No. The image does not show a potted plant below a fork.,NO,True
+phrase_97999771.pt,55,a photo of a clock below a cow,clock,cow,below,Is a clock below a cow? Answer in Yes or No.,No. The image does not show a clock below a cow.,NO,True
+phrase_97999771.pt,56,a photo of a skateboard below a motorcycle,skateboard,motorcycle,below,Is a skateboard below a motorcycle? Answer in Yes or No.,No. The image does not show a skateboard below a motorcycle.,NO,True
+phrase_97999771.pt,57,a photo of a orange below a bottle,orange,bottle,below,Is a orange below a bottle? Answer in Yes or No.,No. The image does not show an orange below a bottle.,NO,True
+phrase_97999771.pt,58,a photo of a backpack below a wine glass,backpack,wine glass,below,Is a backpack below a wine glass? Answer in Yes or No.,No. The image does not show a backpack below a wine glass.,NO,True
+phrase_97999771.pt,59,a photo of a surfboard below a handbag,surfboard,handbag,below,Is a surfboard below a handbag? Answer in Yes or No.,No. The image does not show a surfboard below a handbag.,NO,True
+phrase_97999771.pt,60,a photo of a frisbee below a broccoli,frisbee,broccoli,below,Is a frisbee below a broccoli? Answer in Yes or No.,No. The image does not show a frisbee below a broccoli.,NO,True
+phrase_97999771.pt,61,a photo of a cell phone below a dog,cell phone,dog,below,Is a cell phone below a dog? Answer in Yes or No.,Yes. The image shows a cell phone below a dog.,YES,True
+phrase_97999771.pt,62,a photo of a chair below a tennis racket,chair,tennis racket,below,Is a chair below a tennis racket? Answer in Yes or No.,No. The image does not show a chair below a tennis racket.,NO,True
+phrase_97999771.pt,63,a photo of a couch below a tv remote,couch,tv remote,below,Is a couch below a tv remote? Answer in Yes or No.,No. The image does not show a couch below a tv remote.,NO,True
+phrase_97999771.pt,64,a photo of a donut below a knife,donut,knife,below,Is a donut below a knife? Answer in Yes or No.,No. The image does not show a donut below a knife.,NO,True
+phrase_97999771.pt,65,a photo of a tv remote below a laptop,tv remote,laptop,below,Is a tv remote below a laptop? Answer in Yes or No.,Yes. The image shows a tv remote below a laptop.,YES,True
+phrase_97999771.pt,66,a photo of a traffic light below a pizza,traffic light,pizza,below,Is a traffic light below a pizza? Answer in Yes or No.,No. The image does not show a traffic light below a pizza.,NO,True
+phrase_97999771.pt,67,a photo of a motorcycle below a cat,motorcycle,cat,below,Is a motorcycle below a cat? Answer in Yes or No.,No. The image does not show a motorcycle below a cat.,NO,True
+phrase_97999771.pt,68,a photo of a snowboard below a bottle,snowboard,bottle,below,Is a snowboard below a bottle? Answer in Yes or No.,No. The image does not show a snowboard below a bottle.,NO,True
+phrase_97999771.pt,69,a photo of a chair below a umbrella,chair,umbrella,below,Is a chair below a umbrella? Answer in Yes or No.,No. The image does not show a chair below a umbrella.,NO,True
+phrase_97999771.pt,70,a photo of a fork below a hot dog,fork,hot dog,below,Is a fork below a hot dog? Answer in Yes or No.,No. The image does not show a fork below a hot dog.,NO,True
+phrase_97999771.pt,71,a photo of a clock below a skateboard,clock,skateboard,below,Is a clock below a skateboard? Answer in Yes or No.,No. The image does not show a clock below a skateboard.,NO,True
+phrase_97999771.pt,72,a photo of a potted plant below a tv,potted plant,tv,below,Is a potted plant below a tv? Answer in Yes or No.,No. The image does not show a potted plant below a tv.,NO,True
+phrase_97999771.pt,73,a photo of a laptop below a computer keyboard,laptop,computer keyboard,below,Is a laptop below a computer keyboard? Answer in Yes or No.,Yes. The image shows a laptop below a computer keyboard.,YES,True
+phrase_97999771.pt,74,a photo of a broccoli below a dog,broccoli,dog,below,Is a broccoli below a dog? Answer in Yes or No.,No. The image does not show a broccoli below a dog.,NO,True
+phrase_97999771.pt,75,a photo of a tv below a traffic light,tv,traffic light,below,Is a tv below a traffic light? Answer in Yes or No.,No. The image does not show a tv below a traffic light.,NO,True
+phrase_97999771.pt,76,a photo of a cell phone below a parking meter,cell phone,parking meter,below,Is a cell phone below a parking meter? Answer in Yes or No.,No. The image does not show a cell phone below a parking meter.,NO,True
+phrase_97999771.pt,77,a photo of a fork below a snowboard,fork,snowboard,below,Is a fork below a snowboard? Answer in Yes or No.,No. The image does not show a fork below a snowboard.,NO,True
+phrase_97999771.pt,78,a photo of a cow below a carrot,cow,carrot,below,Is a cow below a carrot? Answer in Yes or No.,No. The image does not show a cow below a carrot.,NO,True
+phrase_97999771.pt,79,a photo of a truck below a bus,truck,bus,below,Is a truck below a bus? Answer in Yes or No.,No. The image does not show a truck below a bus.,NO,True
+phrase_97999771.pt,80,a photo of a toaster below a fire hydrant,toaster,fire hydrant,below,Is a toaster below a fire hydrant? Answer in Yes or No.,No. The image does not show a toaster below a fire hydrant.,NO,True
+phrase_97999771.pt,81,a photo of a bear below a pizza,bear,pizza,below,Is a bear below a pizza? Answer in Yes or No.,No. The image does not show a bear below a pizza.,NO,True
+phrase_97999771.pt,82,a photo of a pizza below a frisbee,pizza,frisbee,below,Is a pizza below a frisbee? Answer in Yes or No.,No. The image does not show a pizza below a frisbee.,NO,True
+phrase_97999771.pt,83,a photo of a oven below a donut,oven,donut,below,Is a oven below a donut? Answer in Yes or No.,No. The image does not show an oven below a donut.,NO,True
+phrase_97999771.pt,84,a photo of a refrigerator below a motorcycle,refrigerator,motorcycle,below,Is a refrigerator below a motorcycle? Answer in Yes or No.,No. The image does not show a refrigerator below a motorcycle.,NO,True
+phrase_97999771.pt,85,a photo of a book below a tie,book,tie,below,Is a book below a tie? Answer in Yes or No.,No. The image does not show a book below a tie.,NO,True
+phrase_97999771.pt,86,a photo of a hair drier below a parking meter,hair drier,parking meter,below,Is a hair drier below a parking meter? Answer in Yes or No.,No. The image does not show a hair drier below a parking meter.,NO,True
+phrase_97999771.pt,87,a photo of a tv below a truck,tv,truck,below,Is a tv below a truck? Answer in Yes or No.,No. The image does not show a tv below a truck.,NO,True
+phrase_97999771.pt,88,a photo of a teddy bear below a microwave,teddy bear,microwave,below,Is a teddy bear below a microwave? Answer in Yes or No.,No. The image does not show a teddy bear below a microwave.,NO,True
+phrase_97999771.pt,89,a photo of a clock below a giraffe,clock,giraffe,below,Is a clock below a giraffe? Answer in Yes or No.,No. The image does not show a clock below a giraffe.,NO,True
+phrase_97999771.pt,90,a photo of a person below a refrigerator,person,refrigerator,below,Is a person below a refrigerator? Answer in Yes or No.,No. The image does not show a person below a refrigerator.,NO,True
+phrase_97999771.pt,91,a photo of a tv below a cow,tv,cow,below,Is a tv below a cow? Answer in Yes or No.,No. The image does not show a tv below a cow.,NO,True
+phrase_97999771.pt,92,a photo of a microwave below a cow,microwave,cow,below,Is a microwave below a cow? Answer in Yes or No.,No. The image does not show a microwave below a cow.,NO,True
+phrase_97999771.pt,93,a photo of a fire hydrant below a tv remote,fire hydrant,tv remote,below,Is a fire hydrant below a tv remote? Answer in Yes or No.,No. The image does not show a fire hydrant below a tv remote.,NO,True
+phrase_97999771.pt,94,a photo of a donut below a clock,donut,clock,below,Is a donut below a clock? Answer in Yes or No.,No. The image does not show a donut below a clock.,NO,True
+phrase_97999771.pt,95,a photo of a baseball glove below a sandwich,baseball glove,sandwich,below,Is a baseball glove below a sandwich? Answer in Yes or No.,No. The image does not show a baseball glove below a sandwich.,NO,True
+phrase_97999771.pt,96,a photo of a hair drier below a computer mouse,hair drier,computer mouse,below,Is a hair drier below a computer mouse? Answer in Yes or No.,No. The image does not show a hair drier below a computer mouse.,NO,True
+phrase_97999771.pt,97,a photo of a skateboard below a bear,skateboard,bear,below,Is a skateboard below a bear? Answer in Yes or No.,No. The image does not show a skateboard below a bear.,NO,True
+phrase_97999771.pt,98,a photo of a refrigerator below a orange,refrigerator,orange,below,Is a refrigerator below a orange? Answer in Yes or No.,No. The image does not show a refrigerator below an orange.,NO,True
+phrase_97999771.pt,99,a photo of a clock below a dining table,clock,dining table,below,Is a clock below a dining table? Answer in Yes or No.,No. The image does not show a clock below a dining table.,NO,True

@@ -1,0 +1,231 @@
+\subsection{Weight Comparison for RedCaps and CogVLM CLIC}\label{sec:weights}
+Table \ref{tab:weights} gives the Forbenius Norm of the difference between the original CLIP-L text encoder and the two CLIC variants layer by layer.
+
+\onecolumn
+
+\begin{longtable}{lcc}
+\caption{Frobenius Norm of the difference between the original CLIP-L text encoder and the two CLIC variants layer by layer.} \label{tab:weights} \\
+\toprule
+Layer Name & RedCaps CLIC & CogVLM CLIC \\
+\midrule
+\endfirsthead
+
+\caption[]{Frobenius Norm of the difference... (Continued)} \\
+\toprule
+Layer Name & RedCaps CLIC & CogVLM CLIC \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{3}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+% \begin{table*}
+% \centering
+% \begin{tabular}{lccc}
+% \toprule
+% Layer Name & RedCaps CLIC & CogVLM CLIC \\
+% \midrule
+text\_model.embeddings.position\_embedding.weight & 0.008173 & 0.010895 \\
+text\_model.embeddings.token\_embedding.weight & 0.085015 & 0.108735 \\
+text\_model.encoder.layers.0.layer\_norm1.bias & 0.00229 & 0.002786 \\ 
+text\_model.encoder.layers.0.layer\_norm1.weight & 0.00792 & 0.008126 \\
+text\_model.encoder.layers.0.layer\_norm2.bias & 0.003267 & 0.003584 \\
+text\_model.encoder.layers.0.layer\_norm2.weight & 0.00894 & 0.00904 \\
+text\_model.encoder.layers.0.mlp.fc1.bias & 0.003521 & 0.004379 \\
+text\_model.encoder.layers.0.mlp.fc1.weight & 0.089096 & 0.111279 \\
+text\_model.encoder.layers.0.mlp.fc2.bias & 0.002044 & 0.0024 \\
+text\_model.encoder.layers.0.mlp.fc2.weight & 0.099352 & 0.121168 \\
+text\_model.encoder.layers.0.self\_attn.k\_proj.bias & 0.000566 & 0.000585 \\
+text\_model.encoder.layers.0.self\_attn.k\_proj.weight & 0.041081 & 0.049799 \\
+text\_model.encoder.layers.0.self\_attn.out\_proj.bias & 0.00209 & 0.002455 \\
+text\_model.encoder.layers.0.self\_attn.out\_proj.weight & 0.047979 & 0.059674 \\
+text\_model.encoder.layers.0.self\_attn.q\_proj.bias & 0.002145 & 0.002933 \\
+text\_model.encoder.layers.0.self\_attn.q\_proj.weight & 0.042259 & 0.04872 \\
+text\_model.encoder.layers.0.self\_attn.v\_proj.bias & 0.001954 & 0.002359 \\
+text\_model.encoder.layers.0.self\_attn.v\_proj.weight & 0.045594 & 0.056023 \\
+text\_model.encoder.layers.1.layer\_norm1.bias & 0.002564 & 0.002799 \\
+text\_model.encoder.layers.1.layer\_norm1.weight & 0.008256 & 0.00845 \\
+text\_model.encoder.layers.1.layer\_norm2.bias & 0.003566 & 0.004009 \\
+text\_model.encoder.layers.1.layer\_norm2.weight & 0.009192 & 0.009304 \\
+text\_model.encoder.layers.1.mlp.fc1.bias & 0.003676 & 0.004657 \\
+text\_model.encoder.layers.1.mlp.fc1.weight & 0.094367 & 0.118555 \\
+text\_model.encoder.layers.1.mlp.fc2.bias & 0.002028 & 0.002409 \\
+text\_model.encoder.layers.1.mlp.fc2.weight & 0.102252 & 0.126965 \\
+text\_model.encoder.layers.1.self\_attn.k\_proj.bias & 0.000493 & 0.000503 \\
+text\_model.encoder.layers.1.self\_attn.k\_proj.weight & 0.049575 & 0.063828 \\
+text\_model.encoder.layers.1.self\_attn.out\_proj.bias & 0.002076 & 0.00244 \\
+text\_model.encoder.layers.1.self\_attn.out\_proj.weight & 0.055471 & 0.069272 \\
+text\_model.encoder.layers.1.self\_attn.q\_proj.bias & 0.002261 & 0.002955 \\
+text\_model.encoder.layers.1.self\_attn.q\_proj.weight & 0.049195 & 0.062208 \\
+text\_model.encoder.layers.1.self\_attn.v\_proj.bias & 0.002267 & 0.002576 \\
+text\_model.encoder.layers.1.self\_attn.v\_proj.weight & 0.055425 & 0.069046 \\
+text\_model.encoder.layers.10.layer\_norm1.bias & 0.002351 & 0.003011 \\
+text\_model.encoder.layers.10.layer\_norm1.weight & 0.008342 & 0.008363 \\
+text\_model.encoder.layers.10.layer\_norm2.bias & 0.002832 & 0.004221 \\
+text\_model.encoder.layers.10.layer\_norm2.weight & 0.015948 & 0.016136 \\
+text\_model.encoder.layers.10.mlp.fc1.bias & 0.004668 & 0.006185 \\
+text\_model.encoder.layers.10.mlp.fc1.weight & 0.10911 & 0.12916 \\
+text\_model.encoder.layers.10.mlp.fc2.bias & 0.002667 & 0.003855 \\
+text\_model.encoder.layers.10.mlp.fc2.weight & 0.125197 & 0.159847 \\
+text\_model.encoder.layers.10.self\_attn.k\_proj.bias & 0.000441 & 0.000506 \\
+text\_model.encoder.layers.10.self\_attn.k\_proj.weight & 0.053107 & 0.062582 \\
+text\_model.encoder.layers.10.self\_attn.out\_proj.bias & 0.00243 & 0.003414 \\
+text\_model.encoder.layers.10.self\_attn.out\_proj.weight & 0.060872 & 0.06861 \\
+text\_model.encoder.layers.10.self\_attn.q\_proj.bias & 0.002373 & 0.003071 \\
+text\_model.encoder.layers.10.self\_attn.q\_proj.weight & 0.057276 & 0.069416 \\
+text\_model.encoder.layers.10.self\_attn.v\_proj.bias & 0.002383 & 0.003037 \\
+text\_model.encoder.layers.10.self\_attn.v\_proj.weight & 0.062501 & 0.071082 \\
+text\_model.encoder.layers.11.layer\_norm1.bias & 0.002951 & 0.003573 \\
+text\_model.encoder.layers.11.layer\_norm1.weight & 0.008756 & 0.008711 \\
+text\_model.encoder.layers.11.layer\_norm2.bias & 0.003578 & 0.005459 \\
+text\_model.encoder.layers.11.layer\_norm2.weight & 0.008666 & 0.00925 \\
+text\_model.encoder.layers.11.mlp.fc1.bias & 0.006129 & 0.007344 \\
+text\_model.encoder.layers.11.mlp.fc1.weight & 0.129025 & 0.142604 \\
+text\_model.encoder.layers.11.mlp.fc2.bias & 0.003224 & 0.004483 \\
+text\_model.encoder.layers.11.mlp.fc2.weight & 0.144867 & 0.177204 \\
+text\_model.encoder.layers.11.self\_attn.k\_proj.bias & 0.000455 & 0.00053 \\
+text\_model.encoder.layers.11.self\_attn.k\_proj.weight & 0.053445 & 0.054786 \\
+text\_model.encoder.layers.11.self\_attn.out\_proj.bias & 0.003147 & 0.004476 \\
+text\_model.encoder.layers.11.self\_attn.out\_proj.weight & 0.058852 & 0.063449 \\
+text\_model.encoder.layers.11.self\_attn.q\_proj.bias & 0.002626 & 0.002632 \\
+text\_model.encoder.layers.11.self\_attn.q\_proj.weight & 0.057155 & 0.059257 \\
+text\_model.encoder.layers.11.self\_attn.v\_proj.bias & 0.002916 & 0.003503 \\
+text\_model.encoder.layers.11.self\_attn.v\_proj.weight & 0.056031 & 0.057719 \\
+text\_model.encoder.layers.2.layer\_norm1.bias & 0.002412 & 0.00267 \\
+text\_model.encoder.layers.2.layer\_norm1.weight & 0.008049 & 0.008201 \\
+text\_model.encoder.layers.2.layer\_norm2.bias & 0.003513 & 0.00387 \\
+text\_model.encoder.layers.2.layer\_norm2.weight & 0.012964 & 0.012956 \\
+text\_model.encoder.layers.2.mlp.fc1.bias & 0.003917 & 0.004983 \\
+text\_model.encoder.layers.2.mlp.fc1.weight & 0.098964 & 0.122465 \\
+text\_model.encoder.layers.2.mlp.fc2.bias & 0.001939 & 0.002318 \\
+text\_model.encoder.layers.2.mlp.fc2.weight & 0.101707 & 0.127526 \\
+text\_model.encoder.layers.2.self\_attn.k\_proj.bias & 0.000467 & 0.000496 \\
+text\_model.encoder.layers.2.self\_attn.k\_proj.weight & 0.051009 & 0.064013 \\
+text\_model.encoder.layers.2.self\_attn.out\_proj.bias & 0.001943 & 0.002303 \\
+text\_model.encoder.layers.2.self\_attn.out\_proj.weight & 0.058717 & 0.073337 \\
+text\_model.encoder.layers.2.self\_attn.q\_proj.bias & 0.002355 & 0.002809 \\
+text\_model.encoder.layers.2.self\_attn.q\_proj.weight & 0.051531 & 0.063047 \\
+text\_model.encoder.layers.2.self\_attn.v\_proj.bias & 0.002126 & 0.002457 \\
+text\_model.encoder.layers.2.self\_attn.v\_proj.weight & 0.05749 & 0.072235 \\
+text\_model.encoder.layers.3.layer\_norm1.bias & 0.003124 & 0.003421 \\
+text\_model.encoder.layers.3.layer\_norm1.weight & 0.008333 & 0.008608 \\
+text\_model.encoder.layers.3.layer\_norm2.bias & 0.003646 & 0.003995 \\
+text\_model.encoder.layers.3.layer\_norm2.weight & 0.014765 & 0.01487 \\
+text\_model.encoder.layers.3.mlp.fc1.bias & 0.004083 & 0.005219 \\
+text\_model.encoder.layers.3.mlp.fc1.weight & 0.103157 & 0.12407 \\
+text\_model.encoder.layers.3.mlp.fc2.bias & 0.001906 & 0.00239 \\
+text\_model.encoder.layers.3.mlp.fc2.weight & 0.107144 & 0.132704 \\
+text\_model.encoder.layers.3.self\_attn.k\_proj.bias & 0.000454 & 0.000484 \\
+text\_model.encoder.layers.3.self\_attn.k\_proj.weight & 0.057809 & 0.069354 \\
+text\_model.encoder.layers.3.self\_attn.out\_proj.bias & 0.001951 & 0.002359 \\
+text\_model.encoder.layers.3.self\_attn.out\_proj.weight & 0.062525 & 0.077634 \\
+text\_model.encoder.layers.3.self\_attn.q\_proj.bias & 0.002541 & 0.003468 \\
+text\_model.encoder.layers.3.self\_attn.q\_proj.weight & 0.058596 & 0.068339 \\
+text\_model.encoder.layers.3.self\_attn.v\_proj.bias & 0.002037 & 0.002453 \\
+text\_model.encoder.layers.3.self\_attn.v\_proj.weight & 0.061898 & 0.076816 \\
+text\_model.encoder.layers.4.layer\_norm1.bias & 0.002604 & 0.003014 \\
+text\_model.encoder.layers.4.layer\_norm1.weight & 0.008217 & 0.008424 \\
+text\_model.encoder.layers.4.layer\_norm2.bias & 0.003601 & 0.004041 \\
+text\_model.encoder.layers.4.layer\_norm2.weight & 0.015312 & 0.015459 \\
+text\_model.encoder.layers.4.mlp.fc1.bias & 0.004018 & 0.005087 \\
+text\_model.encoder.layers.4.mlp.fc1.weight & 0.105542 & 0.126395 \\
+text\_model.encoder.layers.4.mlp.fc2.bias & 0.001791 & 0.002343 \\
+text\_model.encoder.layers.4.mlp.fc2.weight & 0.105839 & 0.133286 \\
+text\_model.encoder.layers.4.self\_attn.k\_proj.bias & 0.000382 & 0.000455 \\
+text\_model.encoder.layers.4.self\_attn.k\_proj.weight & 0.056201 & 0.069655 \\
+text\_model.encoder.layers.4.self\_attn.out\_proj.bias & 0.001882 & 0.002335 \\
+text\_model.encoder.layers.4.self\_attn.out\_proj.weight & 0.063063 & 0.080001 \\
+text\_model.encoder.layers.4.self\_attn.q\_proj.bias & 0.002408 & 0.003384 \\
+text\_model.encoder.layers.4.self\_attn.q\_proj.weight & 0.059726 & 0.073507 \\
+text\_model.encoder.layers.4.self\_attn.v\_proj.bias & 0.001827 & 0.002351 \\
+text\_model.encoder.layers.4.self\_attn.v\_proj.weight & 0.06099 & 0.076788 \\
+text\_model.encoder.layers.5.layer\_norm1.bias & 0.002729 & 0.00334 \\
+text\_model.encoder.layers.5.layer\_norm1.weight & 0.00811 & 0.008459 \\
+text\_model.encoder.layers.5.layer\_norm2.bias & 0.003539 & 0.003892 \\
+text\_model.encoder.layers.5.layer\_norm2.weight & 0.015581 & 0.015487 \\
+text\_model.encoder.layers.5.mlp.fc1.bias & 0.004108 & 0.005241 \\
+text\_model.encoder.layers.5.mlp.fc1.weight & 0.109652 & 0.130334 \\
+text\_model.encoder.layers.5.mlp.fc2.bias & 0.001734 & 0.002295 \\
+text\_model.encoder.layers.5.mlp.fc2.weight & 0.105196 & 0.133991 \\
+text\_model.encoder.layers.5.self\_attn.k\_proj.bias & 0.000397 & 0.000479 \\
+text\_model.encoder.layers.5.self\_attn.k\_proj.weight & 0.055773 & 0.068963 \\
+text\_model.encoder.layers.5.self\_attn.out\_proj.bias & 0.001737 & 0.00235 \\
+text\_model.encoder.layers.5.self\_attn.out\_proj.weight & 0.060264 & 0.080776 \\
+text\_model.encoder.layers.5.self\_attn.q\_proj.bias & 0.002164 & 0.003065 \\
+text\_model.encoder.layers.5.self\_attn.q\_proj.weight & 0.056652 & 0.069674 \\
+text\_model.encoder.layers.5.self\_attn.v\_proj.bias & 0.001693 & 0.00237 \\
+text\_model.encoder.layers.5.self\_attn.v\_proj.weight & 0.057974 & 0.077634 \\
+text\_model.encoder.layers.6.layer\_norm1.bias & 0.002379 & 0.002759 \\
+text\_model.encoder.layers.6.layer\_norm1.weight & 0.008284 & 0.008269 \\
+text\_model.encoder.layers.6.layer\_norm2.bias & 0.00386 & 0.00423 \\
+text\_model.encoder.layers.6.layer\_norm2.weight & 0.015301 & 0.015312 \\
+text\_model.encoder.layers.6.mlp.fc1.bias & 0.004155 & 0.005143 \\
+text\_model.encoder.layers.6.mlp.fc1.weight & 0.108709 & 0.130725 \\
+text\_model.encoder.layers.6.mlp.fc2.bias & 0.001783 & 0.002332 \\
+text\_model.encoder.layers.6.mlp.fc2.weight & 0.105817 & 0.135144 \\
+text\_model.encoder.layers.6.self\_attn.k\_proj.bias & 0.00046 & 0.000528 \\
+text\_model.encoder.layers.6.self\_attn.k\_proj.weight & 0.056081 & 0.068587 \\
+text\_model.encoder.layers.6.self\_attn.out\_proj.bias & 0.001763 & 0.002342 \\
+text\_model.encoder.layers.6.self\_attn.out\_proj.weight & 0.061265 & 0.078309 \\
+text\_model.encoder.layers.6.self\_attn.q\_proj.bias & 0.002066 & 0.002653 \\
+text\_model.encoder.layers.6.self\_attn.q\_proj.weight & 0.058913 & 0.069418 \\
+text\_model.encoder.layers.6.self\_attn.v\_proj.bias & 0.001692 & 0.002261 \\
+text\_model.encoder.layers.6.self\_attn.v\_proj.weight & 0.059581 & 0.076724 \\
+text\_model.encoder.layers.7.layer\_norm1.bias & 0.002778 & 0.00314 \\
+text\_model.encoder.layers.7.layer\_norm1.weight & 0.008431 & 0.00839 \\
+text\_model.encoder.layers.7.layer\_norm2.bias & 0.00349 & 0.003684 \\
+text\_model.encoder.layers.7.layer\_norm2.weight & 0.015476 & 0.01543 \\
+text\_model.encoder.layers.7.mlp.fc1.bias & 0.004086 & 0.005151 \\
+text\_model.encoder.layers.7.mlp.fc1.weight & 0.10613 & 0.128304 \\
+text\_model.encoder.layers.7.mlp.fc2.bias & 0.001893 & 0.002423 \\
+text\_model.encoder.layers.7.mlp.fc2.weight & 0.10737 & 0.134731 \\
+text\_model.encoder.layers.7.self\_attn.k\_proj.bias & 0.000425 & 0.000508 \\
+text\_model.encoder.layers.7.self\_attn.k\_proj.weight & 0.053459 & 0.064851 \\
+text\_model.encoder.layers.7.self\_attn.out\_proj.bias & 0.001848 & 0.002337 \\
+text\_model.encoder.layers.7.self\_attn.out\_proj.weight & 0.060451 & 0.076152 \\
+text\_model.encoder.layers.7.self\_attn.q\_proj.bias & 0.002237 & 0.002805 \\
+text\_model.encoder.layers.7.self\_attn.q\_proj.weight & 0.056506 & 0.068229 \\
+text\_model.encoder.layers.7.self\_attn.v\_proj.bias & 0.001787 & 0.002218 \\
+text\_model.encoder.layers.7.self\_attn.v\_proj.weight & 0.058207 & 0.075241 \\
+text\_model.encoder.layers.8.layer\_norm1.bias & 0.002233 & 0.002667 \\
+text\_model.encoder.layers.8.layer\_norm1.weight & 0.008338 & 0.008513 \\
+text\_model.encoder.layers.8.layer\_norm2.bias & 0.003256 & 0.003737 \\
+text\_model.encoder.layers.8.layer\_norm2.weight & 0.015716 & 0.015836 \\
+text\_model.encoder.layers.8.mlp.fc1.bias & 0.004069 & 0.005309 \\
+text\_model.encoder.layers.8.mlp.fc1.weight & 0.106005 & 0.127332 \\
+text\_model.encoder.layers.8.mlp.fc2.bias & 0.00206 & 0.002734 \\
+text\_model.encoder.layers.8.mlp.fc2.weight & 0.112115 & 0.141943 \\
+text\_model.encoder.layers.8.self\_attn.k\_proj.bias & 0.000412 & 0.000481 \\
+text\_model.encoder.layers.8.self\_attn.k\_proj.weight & 0.051519 & 0.067374 \\
+text\_model.encoder.layers.8.self\_attn.out\_proj.bias & 0.002003 & 0.002552 \\
+text\_model.encoder.layers.8.self\_attn.out\_proj.weight & 0.059103 & 0.071199 \\
+text\_model.encoder.layers.8.self\_attn.q\_proj.bias & 0.002087 & 0.002898 \\
+text\_model.encoder.layers.8.self\_attn.q\_proj.weight & 0.053 & 0.069356 \\
+text\_model.encoder.layers.8.self\_attn.v\_proj.bias & 0.001918 & 0.002482 \\
+text\_model.encoder.layers.8.self\_attn.v\_proj.weight & 0.058047 & 0.071918 \\
+text\_model.encoder.layers.9.layer\_norm1.bias & 0.003024 & 0.003472 \\
+text\_model.encoder.layers.9.layer\_norm1.weight & 0.007936 & 0.008213 \\
+text\_model.encoder.layers.9.layer\_norm2.bias & 0.003413 & 0.003914  \\
+text\_model.encoder.layers.9.layer\_norm2.weight & 0.015666 & 0.015855 \\
+text\_model.encoder.layers.9.mlp.fc1.bias & 0.004386 & 0.005424 \\
+text\_model.encoder.layers.9.mlp.fc1.weight & 0.108228 & 0.126033 \\
+text\_model.encoder.layers.9.mlp.fc2.bias & 0.002245 & 0.003108 \\
+text\_model.encoder.layers.9.mlp.fc2.weight & 0.116033 & 0.146626 \\
+text\_model.encoder.layers.9.self\_attn.k\_proj.bias & 0.000478 & 0.000577 \\
+text\_model.encoder.layers.9.self\_attn.k\_proj.weight & 0.05651 & 0.062531 \\
+text\_model.encoder.layers.9.self\_attn.out\_proj.bias & 0.002153 & 0.002809 \\
+text\_model.encoder.layers.9.self\_attn.out\_proj.weight & 0.064986 & 0.072812 \\
+text\_model.encoder.layers.9.self\_attn.q\_proj.bias & 0.002454 & 0.002814 \\
+text\_model.encoder.layers.9.self\_attn.q\_proj.weight & 0.058875 & 0.066071 \\
+text\_model.encoder.layers.9.self\_attn.v\_proj.bias & 0.002173 & 0.002791 \\
+text\_model.encoder.layers.9.self\_attn.v\_proj.weight & 0.065208 & 0.074562 \\
+text\_model.final\_layer\_norm.bias & 0.003565 & 0.005115 \\
+text\_model.final\_layer\_norm.weight & 0.00607 & 0.006321 \\
+text\_projection.weight & 29.918453 & 29.918283 \\
+
+\end{longtable}
+
+\twocolumn

@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_12951651.pt,0,behind,direct,No,,giraffe,hair drier
+cogvlm,phrase_12951651.pt,1,behind,direct,Yes.,,broccoli,skis
+cogvlm,phrase_12951651.pt,2,behind,direct,No,,book,sports ball
+cogvlm,phrase_12951651.pt,3,behind,direct,No,,bench,cow
+cogvlm,phrase_12951651.pt,4,behind,direct,No,,computer keyboard,skateboard
+cogvlm,phrase_12951651.pt,5,behind,direct,No.,,toilet,potted plant
+cogvlm,phrase_12951651.pt,6,behind,direct,No,,oven,vase
+cogvlm,phrase_12951651.pt,7,behind,direct,No.,,bed,book
+cogvlm,phrase_12951651.pt,8,behind,direct,No.,,cell phone,bear
+cogvlm,phrase_12951651.pt,9,behind,direct,No.,,sports ball,refrigerator
+cogvlm,phrase_12951651.pt,10,behind,direct,No,,baseball bat,dog
+cogvlm,phrase_12951651.pt,11,behind,direct,No.,,orange,traffic light
+cogvlm,phrase_12951651.pt,12,behind,direct,No.,,teddy bear,orange
+cogvlm,phrase_12951651.pt,13,behind,direct,No,,skis,tennis racket
+cogvlm,phrase_12951651.pt,14,behind,direct,No.,,zebra,bicycle
+cogvlm,phrase_12951651.pt,15,behind,direct,No.,,sheep,computer mouse
+cogvlm,phrase_12951651.pt,16,behind,direct,Yes.,,cell phone,orange
+cogvlm,phrase_12951651.pt,17,behind,direct,No,,knife,umbrella
+cogvlm,phrase_12951651.pt,18,behind,direct,No,,motorcycle,carrot
+cogvlm,phrase_12951651.pt,19,behind,direct,No.,,traffic light,horse
+cogvlm,phrase_12951651.pt,20,behind,direct,No,,surfboard,tv
+cogvlm,phrase_12951651.pt,21,behind,direct,No,,carrot,truck
+cogvlm,phrase_12951651.pt,22,behind,direct,No,,giraffe,fire hydrant
+cogvlm,phrase_12951651.pt,23,behind,direct,Yes.,,elephant,toaster
+cogvlm,phrase_12951651.pt,24,behind,direct,No.,,bowl,dog
+cogvlm,phrase_12951651.pt,25,behind,direct,Yes,,bench,motorcycle
+cogvlm,phrase_12951651.pt,26,behind,direct,No.,,frisbee,handbag
+cogvlm,phrase_12951651.pt,27,behind,direct,Yes,,skis,cat
+cogvlm,phrase_12951651.pt,28,behind,direct,No,,surfboard,spoon
+cogvlm,phrase_12951651.pt,29,behind,direct,No,,bicycle,bus
+cogvlm,phrase_12951651.pt,30,behind,direct,No.,,car,laptop
+cogvlm,phrase_12951651.pt,31,behind,direct,No.,,frisbee,cat
+cogvlm,phrase_12951651.pt,32,behind,direct,No,,skis,motorcycle
+cogvlm,phrase_12951651.pt,33,behind,direct,No.,,toilet,cat
+cogvlm,phrase_12951651.pt,34,behind,direct,No.,,snowboard,boat
+cogvlm,phrase_12951651.pt,35,behind,direct,No,,broccoli,bird
+cogvlm,phrase_12951651.pt,36,behind,direct,No.,,scissors,airplane
+cogvlm,phrase_12951651.pt,37,behind,direct,Yes,,bowl,banana
+cogvlm,phrase_12951651.pt,38,behind,direct,No,,baseball glove,bicycle
+cogvlm,phrase_12951651.pt,39,behind,direct,No,,microwave,skis
+cogvlm,phrase_12951651.pt,40,behind,direct,Yes,,banana,stop sign
+cogvlm,phrase_12951651.pt,41,behind,direct,No,,oven,snowboard
+cogvlm,phrase_12951651.pt,42,behind,direct,No.,,giraffe,tie
+cogvlm,phrase_12951651.pt,43,behind,direct,No.,,parking meter,toilet
+cogvlm,phrase_12951651.pt,44,behind,direct,No,,banana,fork
+cogvlm,phrase_12951651.pt,45,behind,direct,No,,laptop,broccoli
+cogvlm,phrase_12951651.pt,46,behind,direct,No,,orange,toothbrush
+cogvlm,phrase_12951651.pt,47,behind,direct,No,,baseball bat,boat
+cogvlm,phrase_12951651.pt,48,behind,direct,No,,snowboard,skateboard
+cogvlm,phrase_12951651.pt,49,behind,direct,No.,,book,dog
+cogvlm,phrase_12951651.pt,50,behind,direct,No,,chair,pizza
+cogvlm,phrase_12951651.pt,51,behind,direct,No.,,suitcase,train
+cogvlm,phrase_12951651.pt,52,behind,direct,No,,refrigerator,sports ball
+cogvlm,phrase_12951651.pt,53,behind,direct,No,,baseball bat,sandwich
+cogvlm,phrase_12951651.pt,54,behind,direct,No,,potted plant,fork
+cogvlm,phrase_12951651.pt,55,behind,direct,Yes,,clock,cow
+cogvlm,phrase_12951651.pt,56,behind,direct,No,,skateboard,motorcycle
+cogvlm,phrase_12951651.pt,57,behind,direct,No,,orange,bottle
+cogvlm,phrase_12951651.pt,58,behind,direct,No,,backpack,wine glass
+cogvlm,phrase_12951651.pt,59,behind,direct,No.,,surfboard,handbag
+cogvlm,phrase_12951651.pt,60,behind,direct,No.,,frisbee,broccoli
+cogvlm,phrase_12951651.pt,61,behind,direct,No.,,cell phone,dog
+cogvlm,phrase_12951651.pt,62,behind,direct,No,,chair,tennis racket
+cogvlm,phrase_12951651.pt,63,behind,direct,Yes,,couch,tv remote
+cogvlm,phrase_12951651.pt,64,behind,direct,No,,donut,knife
+cogvlm,phrase_12951651.pt,65,behind,direct,No,,tv remote,laptop
+cogvlm,phrase_12951651.pt,66,behind,direct,No.,,traffic light,pizza
+cogvlm,phrase_12951651.pt,67,behind,direct,Yes.,,motorcycle,cat
+cogvlm,phrase_12951651.pt,68,behind,direct,No.,,snowboard,bottle
+cogvlm,phrase_12951651.pt,69,behind,direct,No.,,chair,umbrella
+cogvlm,phrase_12951651.pt,70,behind,direct,No.,,fork,hot dog
+cogvlm,phrase_12951651.pt,71,behind,direct,No,,clock,skateboard
+cogvlm,phrase_12951651.pt,72,behind,direct,No,,potted plant,tv
+cogvlm,phrase_12951651.pt,73,behind,direct,Yes.,,laptop,computer keyboard
+cogvlm,phrase_12951651.pt,74,behind,direct,No,,broccoli,dog
+cogvlm,phrase_12951651.pt,75,behind,direct,No,,tv,traffic light
+cogvlm,phrase_12951651.pt,76,behind,direct,No,,cell phone,parking meter
+cogvlm,phrase_12951651.pt,77,behind,direct,No.,,fork,snowboard
+cogvlm,phrase_12951651.pt,78,behind,direct,No,,cow,carrot
+cogvlm,phrase_12951651.pt,79,behind,direct,No,,truck,bus
+cogvlm,phrase_12951651.pt,80,behind,direct,No.,,toaster,fire hydrant
+cogvlm,phrase_12951651.pt,81,behind,direct,No.,,bear,pizza
+cogvlm,phrase_12951651.pt,82,behind,direct,No.,,pizza,frisbee
+cogvlm,phrase_12951651.pt,83,behind,direct,No.,,oven,donut
+cogvlm,phrase_12951651.pt,84,behind,direct,No,,refrigerator,motorcycle
+cogvlm,phrase_12951651.pt,85,behind,direct,No,,book,tie
+cogvlm,phrase_12951651.pt,86,behind,direct,No.,,hair drier,parking meter
+cogvlm,phrase_12951651.pt,87,behind,direct,No,,tv,truck
+cogvlm,phrase_12951651.pt,88,behind,direct,No.,,teddy bear,microwave
+cogvlm,phrase_12951651.pt,89,behind,direct,No,,clock,giraffe
+cogvlm,phrase_12951651.pt,90,behind,direct,No,,person,refrigerator
+cogvlm,phrase_12951651.pt,91,behind,direct,No,,tv,cow
+cogvlm,phrase_12951651.pt,92,behind,direct,No,,microwave,cow
+cogvlm,phrase_12951651.pt,93,behind,direct,No.,,fire hydrant,tv remote
+cogvlm,phrase_12951651.pt,94,behind,direct,No,,donut,clock
+cogvlm,phrase_12951651.pt,95,behind,direct,No.,,baseball glove,sandwich
+cogvlm,phrase_12951651.pt,96,behind,direct,No.,,hair drier,computer mouse
+cogvlm,phrase_12951651.pt,97,behind,direct,No,,skateboard,bear
+cogvlm,phrase_12951651.pt,98,behind,direct,No.,,refrigerator,orange
+cogvlm,phrase_12951651.pt,99,behind,direct,Yes.,,clock,dining table

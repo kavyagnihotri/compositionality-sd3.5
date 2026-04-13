@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_83840957.pt,1,above,direct,Yes,,giraffe,hair drier
+standard,phrase_83840957.pt,2,above,direct,No,,broccoli,skis
+standard,phrase_83840957.pt,3,above,direct,No,,book,sports ball
+standard,phrase_83840957.pt,4,above,direct,No,,bench,cow
+standard,phrase_83840957.pt,5,above,direct,No,,computer keyboard,skateboard
+standard,phrase_83840957.pt,6,above,direct,No,,toilet,potted plant
+standard,phrase_83840957.pt,7,above,direct,No,,oven,vase
+standard,phrase_83840957.pt,8,above,direct,No,,bed,book
+standard,phrase_83840957.pt,9,above,direct,No.,,cell phone,bear
+standard,phrase_83840957.pt,10,above,direct,Yes,,sports ball,refrigerator
+standard,phrase_83840957.pt,11,above,direct,No.,,baseball bat,dog
+standard,phrase_83840957.pt,12,above,direct,No.,,orange,traffic light
+standard,phrase_83840957.pt,13,above,direct,Yes,,teddy bear,orange
+standard,phrase_83840957.pt,14,above,direct,No,,skis,tennis racket
+standard,phrase_83840957.pt,15,above,direct,No,,zebra,bicycle
+standard,phrase_83840957.pt,16,above,direct,No,,sheep,computer mouse
+standard,phrase_83840957.pt,17,above,direct,No,,cell phone,orange
+standard,phrase_83840957.pt,18,above,direct,Yes.,,knife,umbrella
+standard,phrase_83840957.pt,19,above,direct,No,,motorcycle,carrot
+standard,phrase_83840957.pt,20,above,direct,No,,traffic light,horse
+standard,phrase_83840957.pt,21,above,direct,No,,surfboard,tv
+standard,phrase_83840957.pt,22,above,direct,No,,carrot,truck
+standard,phrase_83840957.pt,23,above,direct,No,,giraffe,fire hydrant
+standard,phrase_83840957.pt,24,above,direct,Yes,,elephant,toaster
+standard,phrase_83840957.pt,25,above,direct,No,,bowl,dog
+standard,phrase_83840957.pt,26,above,direct,No,,bench,motorcycle
+standard,phrase_83840957.pt,27,above,direct,No,,frisbee,handbag
+standard,phrase_83840957.pt,28,above,direct,No,,skis,cat
+standard,phrase_83840957.pt,29,above,direct,No,,surfboard,spoon
+standard,phrase_83840957.pt,30,above,direct,Yes,,bicycle,bus
+standard,phrase_83840957.pt,31,above,direct,No,,car,laptop
+standard,phrase_83840957.pt,32,above,direct,Yes.,,frisbee,cat
+standard,phrase_83840957.pt,33,above,direct,Yes,,skis,motorcycle
+standard,phrase_83840957.pt,34,above,direct,No,,toilet,cat
+standard,phrase_83840957.pt,35,above,direct,No,,snowboard,boat
+standard,phrase_83840957.pt,36,above,direct,No,,broccoli,bird
+standard,phrase_83840957.pt,37,above,direct,No.,,scissors,airplane
+standard,phrase_83840957.pt,38,above,direct,No,,bowl,banana
+standard,phrase_83840957.pt,39,above,direct,Yes,,baseball glove,bicycle
+standard,phrase_83840957.pt,40,above,direct,No,,microwave,skis
+standard,phrase_83840957.pt,41,above,direct,Yes.,,banana,stop sign
+standard,phrase_83840957.pt,42,above,direct,No.,,oven,snowboard
+standard,phrase_83840957.pt,43,above,direct,No.,,giraffe,tie
+standard,phrase_83840957.pt,44,above,direct,Yes,,parking meter,toilet
+standard,phrase_83840957.pt,45,above,direct,No,,banana,fork
+standard,phrase_83840957.pt,46,above,direct,No.,,laptop,broccoli
+standard,phrase_83840957.pt,47,above,direct,No,,orange,toothbrush
+standard,phrase_83840957.pt,48,above,direct,No,,baseball bat,boat
+standard,phrase_83840957.pt,49,above,direct,No,,snowboard,skateboard
+standard,phrase_83840957.pt,50,above,direct,No,,book,dog
+standard,phrase_83840957.pt,51,above,direct,No,,chair,pizza
+standard,phrase_83840957.pt,52,above,direct,No,,suitcase,train
+standard,phrase_83840957.pt,53,above,direct,No,,refrigerator,sports ball
+standard,phrase_83840957.pt,54,above,direct,Yes,,baseball bat,sandwich
+standard,phrase_83840957.pt,55,above,direct,No,,potted plant,fork
+standard,phrase_83840957.pt,56,above,direct,No,,clock,cow
+standard,phrase_83840957.pt,57,above,direct,Yes,,skateboard,motorcycle
+standard,phrase_83840957.pt,58,above,direct,Yes.,,orange,bottle
+standard,phrase_83840957.pt,59,above,direct,No,,backpack,wine glass
+standard,phrase_83840957.pt,60,above,direct,No,,surfboard,handbag
+standard,phrase_83840957.pt,61,above,direct,Yes,,frisbee,broccoli
+standard,phrase_83840957.pt,62,above,direct,No,,cell phone,dog
+standard,phrase_83840957.pt,63,above,direct,No,,chair,tennis racket
+standard,phrase_83840957.pt,64,above,direct,No,,couch,tv remote
+standard,phrase_83840957.pt,65,above,direct,Yes,,donut,knife
+standard,phrase_83840957.pt,66,above,direct,No,,tv remote,laptop
+standard,phrase_83840957.pt,67,above,direct,No,,traffic light,pizza
+standard,phrase_83840957.pt,68,above,direct,No,,motorcycle,cat
+standard,phrase_83840957.pt,69,above,direct,Yes,,snowboard,bottle
+standard,phrase_83840957.pt,70,above,direct,No,,chair,umbrella
+standard,phrase_83840957.pt,71,above,direct,Yes,,fork,hot dog
+standard,phrase_83840957.pt,72,above,direct,No,,clock,skateboard
+standard,phrase_83840957.pt,73,above,direct,No,,potted plant,tv
+standard,phrase_83840957.pt,74,above,direct,No,,laptop,computer keyboard
+standard,phrase_83840957.pt,75,above,direct,No,,broccoli,dog
+standard,phrase_83840957.pt,76,above,direct,No,,tv,traffic light
+standard,phrase_83840957.pt,77,above,direct,Yes,,cell phone,parking meter
+standard,phrase_83840957.pt,78,above,direct,No,,fork,snowboard
+standard,phrase_83840957.pt,79,above,direct,No,,cow,carrot
+standard,phrase_83840957.pt,80,above,direct,No,,truck,bus
+standard,phrase_83840957.pt,81,above,direct,No,,toaster,fire hydrant
+standard,phrase_83840957.pt,82,above,direct,No,,bear,pizza
+standard,phrase_83840957.pt,83,above,direct,No,,pizza,frisbee
+standard,phrase_83840957.pt,84,above,direct,No,,oven,donut
+standard,phrase_83840957.pt,85,above,direct,No,,refrigerator,motorcycle
+standard,phrase_83840957.pt,86,above,direct,No,,book,tie
+standard,phrase_83840957.pt,87,above,direct,No.,,hair drier,parking meter
+standard,phrase_83840957.pt,88,above,direct,Yes,,tv,truck
+standard,phrase_83840957.pt,89,above,direct,Yes,,teddy bear,microwave
+standard,phrase_83840957.pt,90,above,direct,No.,,clock,giraffe
+standard,phrase_83840957.pt,91,above,direct,No,,person,refrigerator
+standard,phrase_83840957.pt,92,above,direct,No,,tv,cow
+standard,phrase_83840957.pt,93,above,direct,No.,,microwave,cow
+standard,phrase_83840957.pt,94,above,direct,Yes,,fire hydrant,tv remote
+standard,phrase_83840957.pt,95,above,direct,No,,donut,clock
+standard,phrase_83840957.pt,96,above,direct,No,,baseball glove,sandwich
+standard,phrase_83840957.pt,97,above,direct,Yes,,hair drier,computer mouse
+standard,phrase_83840957.pt,98,above,direct,No,,skateboard,bear
+standard,phrase_83840957.pt,99,above,direct,No,,refrigerator,orange
+standard,phrase_83840957.pt,100,above,direct,Yes,,clock,dining table

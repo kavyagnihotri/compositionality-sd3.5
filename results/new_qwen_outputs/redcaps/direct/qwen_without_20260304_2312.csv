@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_69594860.pt,0,without,direct,No.,,giraffe,hair drier
+redcaps,phrase_69594860.pt,1,without,direct,No.,,broccoli,skis
+redcaps,phrase_69594860.pt,2,without,direct,Yes.,,book,sports ball
+redcaps,phrase_69594860.pt,3,without,direct,No,,bench,cow
+redcaps,phrase_69594860.pt,4,without,direct,No,,computer keyboard,skateboard
+redcaps,phrase_69594860.pt,5,without,direct,No,,toilet,potted plant
+redcaps,phrase_69594860.pt,6,without,direct,No.,,oven,vase
+redcaps,phrase_69594860.pt,7,without,direct,No.,,bed,book
+redcaps,phrase_69594860.pt,8,without,direct,No.,,cell phone,bear
+redcaps,phrase_69594860.pt,9,without,direct,No.,,sports ball,refrigerator
+redcaps,phrase_69594860.pt,10,without,direct,No.,,baseball bat,dog
+redcaps,phrase_69594860.pt,11,without,direct,No,,orange,traffic light
+redcaps,phrase_69594860.pt,12,without,direct,No,,teddy bear,orange
+redcaps,phrase_69594860.pt,13,without,direct,No.,,skis,tennis racket
+redcaps,phrase_69594860.pt,14,without,direct,No,,zebra,bicycle
+redcaps,phrase_69594860.pt,15,without,direct,No.,,sheep,computer mouse
+redcaps,phrase_69594860.pt,16,without,direct,No,,cell phone,orange
+redcaps,phrase_69594860.pt,17,without,direct,No.,,knife,umbrella
+redcaps,phrase_69594860.pt,18,without,direct,No.,,motorcycle,carrot
+redcaps,phrase_69594860.pt,19,without,direct,No.,,traffic light,horse
+redcaps,phrase_69594860.pt,20,without,direct,No,,surfboard,tv
+redcaps,phrase_69594860.pt,21,without,direct,Yes.,,carrot,truck
+redcaps,phrase_69594860.pt,22,without,direct,No.,,giraffe,fire hydrant
+redcaps,phrase_69594860.pt,23,without,direct,Yes.,,elephant,toaster
+redcaps,phrase_69594860.pt,24,without,direct,No,,bowl,dog
+redcaps,phrase_69594860.pt,25,without,direct,No.,,bench,motorcycle
+redcaps,phrase_69594860.pt,26,without,direct,Yes.,,frisbee,handbag
+redcaps,phrase_69594860.pt,27,without,direct,No.,,skis,cat
+redcaps,phrase_69594860.pt,28,without,direct,No.,,surfboard,spoon
+redcaps,phrase_69594860.pt,29,without,direct,No.,,bicycle,bus
+redcaps,phrase_69594860.pt,30,without,direct,No,,car,laptop
+redcaps,phrase_69594860.pt,31,without,direct,No,,frisbee,cat
+redcaps,phrase_69594860.pt,32,without,direct,No,,skis,motorcycle
+redcaps,phrase_69594860.pt,33,without,direct,No,,toilet,cat
+redcaps,phrase_69594860.pt,34,without,direct,Yes.,,snowboard,boat
+redcaps,phrase_69594860.pt,35,without,direct,Yes.,,broccoli,bird
+redcaps,phrase_69594860.pt,36,without,direct,No.,,scissors,airplane
+redcaps,phrase_69594860.pt,37,without,direct,No.,,bowl,banana
+redcaps,phrase_69594860.pt,38,without,direct,No.,,baseball glove,bicycle
+redcaps,phrase_69594860.pt,39,without,direct,No,,microwave,skis
+redcaps,phrase_69594860.pt,40,without,direct,No.,,banana,stop sign
+redcaps,phrase_69594860.pt,41,without,direct,Yes.,,oven,snowboard
+redcaps,phrase_69594860.pt,42,without,direct,No,,giraffe,tie
+redcaps,phrase_69594860.pt,43,without,direct,No,,parking meter,toilet
+redcaps,phrase_69594860.pt,44,without,direct,No,,banana,fork
+redcaps,phrase_69594860.pt,45,without,direct,No,,laptop,broccoli
+redcaps,phrase_69594860.pt,46,without,direct,No.,,orange,toothbrush
+redcaps,phrase_69594860.pt,47,without,direct,No.,,baseball bat,boat
+redcaps,phrase_69594860.pt,48,without,direct,No,,snowboard,skateboard
+redcaps,phrase_69594860.pt,49,without,direct,No.,,book,dog
+redcaps,phrase_69594860.pt,50,without,direct,No.,,chair,pizza
+redcaps,phrase_69594860.pt,51,without,direct,No,,suitcase,train
+redcaps,phrase_69594860.pt,52,without,direct,No.,,refrigerator,sports ball
+redcaps,phrase_69594860.pt,53,without,direct,No,,baseball bat,sandwich
+redcaps,phrase_69594860.pt,54,without,direct,No,,potted plant,fork
+redcaps,phrase_69594860.pt,55,without,direct,No.,,clock,cow
+redcaps,phrase_69594860.pt,56,without,direct,No,,skateboard,motorcycle
+redcaps,phrase_69594860.pt,57,without,direct,No.,,orange,bottle
+redcaps,phrase_69594860.pt,58,without,direct,No.,,backpack,wine glass
+redcaps,phrase_69594860.pt,59,without,direct,No,,surfboard,handbag
+redcaps,phrase_69594860.pt,60,without,direct,No,,frisbee,broccoli
+redcaps,phrase_69594860.pt,61,without,direct,No.,,cell phone,dog
+redcaps,phrase_69594860.pt,62,without,direct,No.,,chair,tennis racket
+redcaps,phrase_69594860.pt,63,without,direct,No.,,couch,tv remote
+redcaps,phrase_69594860.pt,64,without,direct,No.,,donut,knife
+redcaps,phrase_69594860.pt,65,without,direct,Yes.,,tv remote,laptop
+redcaps,phrase_69594860.pt,66,without,direct,No,,traffic light,pizza
+redcaps,phrase_69594860.pt,67,without,direct,No,,motorcycle,cat
+redcaps,phrase_69594860.pt,68,without,direct,No.,,snowboard,bottle
+redcaps,phrase_69594860.pt,69,without,direct,No.,,chair,umbrella
+redcaps,phrase_69594860.pt,70,without,direct,Yes,,fork,hot dog
+redcaps,phrase_69594860.pt,71,without,direct,No.,,clock,skateboard
+redcaps,phrase_69594860.pt,72,without,direct,No,,potted plant,tv
+redcaps,phrase_69594860.pt,73,without,direct,No.,,laptop,computer keyboard
+redcaps,phrase_69594860.pt,74,without,direct,Yes.,,broccoli,dog
+redcaps,phrase_69594860.pt,75,without,direct,No,,tv,traffic light
+redcaps,phrase_69594860.pt,76,without,direct,No.,,cell phone,parking meter
+redcaps,phrase_69594860.pt,77,without,direct,Yes.,,fork,snowboard
+redcaps,phrase_69594860.pt,78,without,direct,No.,,cow,carrot
+redcaps,phrase_69594860.pt,79,without,direct,No,,truck,bus
+redcaps,phrase_69594860.pt,80,without,direct,No.,,toaster,fire hydrant
+redcaps,phrase_69594860.pt,81,without,direct,Yes.,,bear,pizza
+redcaps,phrase_69594860.pt,82,without,direct,Yes.,,pizza,frisbee
+redcaps,phrase_69594860.pt,83,without,direct,No.,,oven,donut
+redcaps,phrase_69594860.pt,84,without,direct,No.,,refrigerator,motorcycle
+redcaps,phrase_69594860.pt,85,without,direct,No,,book,tie
+redcaps,phrase_69594860.pt,86,without,direct,No.,,hair drier,parking meter
+redcaps,phrase_69594860.pt,87,without,direct,No.,,tv,truck
+redcaps,phrase_69594860.pt,88,without,direct,No.,,teddy bear,microwave
+redcaps,phrase_69594860.pt,89,without,direct,No,,clock,giraffe
+redcaps,phrase_69594860.pt,90,without,direct,No.,,person,refrigerator
+redcaps,phrase_69594860.pt,91,without,direct,No.,,tv,cow
+redcaps,phrase_69594860.pt,92,without,direct,No.,,microwave,cow
+redcaps,phrase_69594860.pt,93,without,direct,No,,fire hydrant,tv remote
+redcaps,phrase_69594860.pt,94,without,direct,Yes.,,donut,clock
+redcaps,phrase_69594860.pt,95,without,direct,Yes.,,baseball glove,sandwich
+redcaps,phrase_69594860.pt,96,without,direct,Yes,,hair drier,computer mouse
+redcaps,phrase_69594860.pt,97,without,direct,No.,,skateboard,bear
+redcaps,phrase_69594860.pt,98,without,direct,No.,,refrigerator,orange
+redcaps,phrase_69594860.pt,99,without,direct,No.,,clock,dining table

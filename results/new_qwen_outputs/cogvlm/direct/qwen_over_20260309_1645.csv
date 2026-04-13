@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_34465157.pt,0,over,direct,Yes.,,giraffe,hair drier
+cogvlm,phrase_34465157.pt,1,over,direct,Yes.,,broccoli,skis
+cogvlm,phrase_34465157.pt,2,over,direct,No,,book,sports ball
+cogvlm,phrase_34465157.pt,3,over,direct,No.,,bench,cow
+cogvlm,phrase_34465157.pt,4,over,direct,Yes,,computer keyboard,skateboard
+cogvlm,phrase_34465157.pt,5,over,direct,No,,toilet,potted plant
+cogvlm,phrase_34465157.pt,6,over,direct,No,,oven,vase
+cogvlm,phrase_34465157.pt,7,over,direct,No.,,bed,book
+cogvlm,phrase_34465157.pt,8,over,direct,No,,cell phone,bear
+cogvlm,phrase_34465157.pt,9,over,direct,No.,,sports ball,refrigerator
+cogvlm,phrase_34465157.pt,10,over,direct,Yes,,baseball bat,dog
+cogvlm,phrase_34465157.pt,11,over,direct,Yes.,,orange,traffic light
+cogvlm,phrase_34465157.pt,12,over,direct,Yes,,teddy bear,orange
+cogvlm,phrase_34465157.pt,13,over,direct,No,,skis,tennis racket
+cogvlm,phrase_34465157.pt,14,over,direct,No.,,zebra,bicycle
+cogvlm,phrase_34465157.pt,15,over,direct,No.,,sheep,computer mouse
+cogvlm,phrase_34465157.pt,16,over,direct,Yes,,cell phone,orange
+cogvlm,phrase_34465157.pt,17,over,direct,Yes.,,knife,umbrella
+cogvlm,phrase_34465157.pt,18,over,direct,No,,motorcycle,carrot
+cogvlm,phrase_34465157.pt,19,over,direct,No,,traffic light,horse
+cogvlm,phrase_34465157.pt,20,over,direct,Yes,,surfboard,tv
+cogvlm,phrase_34465157.pt,21,over,direct,No,,carrot,truck
+cogvlm,phrase_34465157.pt,22,over,direct,Yes,,giraffe,fire hydrant
+cogvlm,phrase_34465157.pt,23,over,direct,Yes,,elephant,toaster
+cogvlm,phrase_34465157.pt,24,over,direct,No,,bowl,dog
+cogvlm,phrase_34465157.pt,25,over,direct,No,,bench,motorcycle
+cogvlm,phrase_34465157.pt,26,over,direct,Yes,,frisbee,handbag
+cogvlm,phrase_34465157.pt,27,over,direct,No.,,skis,cat
+cogvlm,phrase_34465157.pt,28,over,direct,No.,,surfboard,spoon
+cogvlm,phrase_34465157.pt,29,over,direct,Yes,,bicycle,bus
+cogvlm,phrase_34465157.pt,30,over,direct,Yes,,car,laptop
+cogvlm,phrase_34465157.pt,31,over,direct,Yes,,frisbee,cat
+cogvlm,phrase_34465157.pt,32,over,direct,No,,skis,motorcycle
+cogvlm,phrase_34465157.pt,33,over,direct,No,,toilet,cat
+cogvlm,phrase_34465157.pt,34,over,direct,Yes,,snowboard,boat
+cogvlm,phrase_34465157.pt,35,over,direct,Yes,,broccoli,bird
+cogvlm,phrase_34465157.pt,36,over,direct,No.,,scissors,airplane
+cogvlm,phrase_34465157.pt,37,over,direct,Yes.,,bowl,banana
+cogvlm,phrase_34465157.pt,38,over,direct,Yes,,baseball glove,bicycle
+cogvlm,phrase_34465157.pt,39,over,direct,No,,microwave,skis
+cogvlm,phrase_34465157.pt,40,over,direct,Yes.,,banana,stop sign
+cogvlm,phrase_34465157.pt,41,over,direct,No.,,oven,snowboard
+cogvlm,phrase_34465157.pt,42,over,direct,No,,giraffe,tie
+cogvlm,phrase_34465157.pt,43,over,direct,Yes,,parking meter,toilet
+cogvlm,phrase_34465157.pt,44,over,direct,Yes,,banana,fork
+cogvlm,phrase_34465157.pt,45,over,direct,No,,laptop,broccoli
+cogvlm,phrase_34465157.pt,46,over,direct,Yes,,orange,toothbrush
+cogvlm,phrase_34465157.pt,47,over,direct,No,,baseball bat,boat
+cogvlm,phrase_34465157.pt,48,over,direct,No,,snowboard,skateboard
+cogvlm,phrase_34465157.pt,49,over,direct,No,,book,dog
+cogvlm,phrase_34465157.pt,50,over,direct,No,,chair,pizza
+cogvlm,phrase_34465157.pt,51,over,direct,No,,suitcase,train
+cogvlm,phrase_34465157.pt,52,over,direct,No.,,refrigerator,sports ball
+cogvlm,phrase_34465157.pt,53,over,direct,Yes,,baseball bat,sandwich
+cogvlm,phrase_34465157.pt,54,over,direct,Yes,,potted plant,fork
+cogvlm,phrase_34465157.pt,55,over,direct,Yes,,clock,cow
+cogvlm,phrase_34465157.pt,56,over,direct,No,,skateboard,motorcycle
+cogvlm,phrase_34465157.pt,57,over,direct,Yes,,orange,bottle
+cogvlm,phrase_34465157.pt,58,over,direct,No,,backpack,wine glass
+cogvlm,phrase_34465157.pt,59,over,direct,No,,surfboard,handbag
+cogvlm,phrase_34465157.pt,60,over,direct,No.,,frisbee,broccoli
+cogvlm,phrase_34465157.pt,61,over,direct,No.,,cell phone,dog
+cogvlm,phrase_34465157.pt,62,over,direct,No,,chair,tennis racket
+cogvlm,phrase_34465157.pt,63,over,direct,No,,couch,tv remote
+cogvlm,phrase_34465157.pt,64,over,direct,No.,,donut,knife
+cogvlm,phrase_34465157.pt,65,over,direct,Yes,,tv remote,laptop
+cogvlm,phrase_34465157.pt,66,over,direct,No.,,traffic light,pizza
+cogvlm,phrase_34465157.pt,67,over,direct,No,,motorcycle,cat
+cogvlm,phrase_34465157.pt,68,over,direct,No,,snowboard,bottle
+cogvlm,phrase_34465157.pt,69,over,direct,No,,chair,umbrella
+cogvlm,phrase_34465157.pt,70,over,direct,No,,fork,hot dog
+cogvlm,phrase_34465157.pt,71,over,direct,Yes,,clock,skateboard
+cogvlm,phrase_34465157.pt,72,over,direct,Yes,,potted plant,tv
+cogvlm,phrase_34465157.pt,73,over,direct,No,,laptop,computer keyboard
+cogvlm,phrase_34465157.pt,74,over,direct,Yes,,broccoli,dog
+cogvlm,phrase_34465157.pt,75,over,direct,Yes,,tv,traffic light
+cogvlm,phrase_34465157.pt,76,over,direct,Yes.,,cell phone,parking meter
+cogvlm,phrase_34465157.pt,77,over,direct,No,,fork,snowboard
+cogvlm,phrase_34465157.pt,78,over,direct,No.,,cow,carrot
+cogvlm,phrase_34465157.pt,79,over,direct,Yes,,truck,bus
+cogvlm,phrase_34465157.pt,80,over,direct,Yes.,,toaster,fire hydrant
+cogvlm,phrase_34465157.pt,81,over,direct,Yes.,,bear,pizza
+cogvlm,phrase_34465157.pt,82,over,direct,No,,pizza,frisbee
+cogvlm,phrase_34465157.pt,83,over,direct,No.,,oven,donut
+cogvlm,phrase_34465157.pt,84,over,direct,Yes.,,refrigerator,motorcycle
+cogvlm,phrase_34465157.pt,85,over,direct,No,,book,tie
+cogvlm,phrase_34465157.pt,86,over,direct,Yes.,,hair drier,parking meter
+cogvlm,phrase_34465157.pt,87,over,direct,Yes,,tv,truck
+cogvlm,phrase_34465157.pt,88,over,direct,Yes.,,teddy bear,microwave
+cogvlm,phrase_34465157.pt,89,over,direct,No,,clock,giraffe
+cogvlm,phrase_34465157.pt,90,over,direct,No.,,person,refrigerator
+cogvlm,phrase_34465157.pt,91,over,direct,Yes,,tv,cow
+cogvlm,phrase_34465157.pt,92,over,direct,Yes,,microwave,cow
+cogvlm,phrase_34465157.pt,93,over,direct,No.,,fire hydrant,tv remote
+cogvlm,phrase_34465157.pt,94,over,direct,Yes,,donut,clock
+cogvlm,phrase_34465157.pt,95,over,direct,No.,,baseball glove,sandwich
+cogvlm,phrase_34465157.pt,96,over,direct,Yes,,hair drier,computer mouse
+cogvlm,phrase_34465157.pt,97,over,direct,No,,skateboard,bear
+cogvlm,phrase_34465157.pt,98,over,direct,No,,refrigerator,orange
+cogvlm,phrase_34465157.pt,99,over,direct,Yes,,clock,dining table

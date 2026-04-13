@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_99679077.pt,0,in front of,direct,No,,giraffe,hair drier
+cogvlm,phrase_99679077.pt,1,in front of,direct,Yes.,,broccoli,skis
+cogvlm,phrase_99679077.pt,2,in front of,direct,No,,book,sports ball
+cogvlm,phrase_99679077.pt,3,in front of,direct,No,,bench,cow
+cogvlm,phrase_99679077.pt,4,in front of,direct,Yes,,computer keyboard,skateboard
+cogvlm,phrase_99679077.pt,5,in front of,direct,No,,toilet,potted plant
+cogvlm,phrase_99679077.pt,6,in front of,direct,No,,oven,vase
+cogvlm,phrase_99679077.pt,7,in front of,direct,No,,bed,book
+cogvlm,phrase_99679077.pt,8,in front of,direct,Yes,,cell phone,bear
+cogvlm,phrase_99679077.pt,9,in front of,direct,Yes.,,sports ball,refrigerator
+cogvlm,phrase_99679077.pt,10,in front of,direct,No,,baseball bat,dog
+cogvlm,phrase_99679077.pt,11,in front of,direct,No.,,orange,traffic light
+cogvlm,phrase_99679077.pt,12,in front of,direct,No.,,teddy bear,orange
+cogvlm,phrase_99679077.pt,13,in front of,direct,No,,skis,tennis racket
+cogvlm,phrase_99679077.pt,14,in front of,direct,Yes.,,zebra,bicycle
+cogvlm,phrase_99679077.pt,15,in front of,direct,No,,sheep,computer mouse
+cogvlm,phrase_99679077.pt,16,in front of,direct,No.,,cell phone,orange
+cogvlm,phrase_99679077.pt,17,in front of,direct,Yes,,knife,umbrella
+cogvlm,phrase_99679077.pt,18,in front of,direct,No,,motorcycle,carrot
+cogvlm,phrase_99679077.pt,19,in front of,direct,No,,traffic light,horse
+cogvlm,phrase_99679077.pt,20,in front of,direct,Yes,,surfboard,tv
+cogvlm,phrase_99679077.pt,21,in front of,direct,Yes,,carrot,truck
+cogvlm,phrase_99679077.pt,22,in front of,direct,No.,,giraffe,fire hydrant
+cogvlm,phrase_99679077.pt,23,in front of,direct,Yes.,,elephant,toaster
+cogvlm,phrase_99679077.pt,24,in front of,direct,Yes.,,bowl,dog
+cogvlm,phrase_99679077.pt,25,in front of,direct,No,,bench,motorcycle
+cogvlm,phrase_99679077.pt,26,in front of,direct,No,,frisbee,handbag
+cogvlm,phrase_99679077.pt,27,in front of,direct,No,,skis,cat
+cogvlm,phrase_99679077.pt,28,in front of,direct,No,,surfboard,spoon
+cogvlm,phrase_99679077.pt,29,in front of,direct,No,,bicycle,bus
+cogvlm,phrase_99679077.pt,30,in front of,direct,Yes,,car,laptop
+cogvlm,phrase_99679077.pt,31,in front of,direct,No,,frisbee,cat
+cogvlm,phrase_99679077.pt,32,in front of,direct,Yes,,skis,motorcycle
+cogvlm,phrase_99679077.pt,33,in front of,direct,No.,,toilet,cat
+cogvlm,phrase_99679077.pt,34,in front of,direct,Yes,,snowboard,boat
+cogvlm,phrase_99679077.pt,35,in front of,direct,No,,broccoli,bird
+cogvlm,phrase_99679077.pt,36,in front of,direct,Yes,,scissors,airplane
+cogvlm,phrase_99679077.pt,37,in front of,direct,No,,bowl,banana
+cogvlm,phrase_99679077.pt,38,in front of,direct,Yes.,,baseball glove,bicycle
+cogvlm,phrase_99679077.pt,39,in front of,direct,No,,microwave,skis
+cogvlm,phrase_99679077.pt,40,in front of,direct,Yes.,,banana,stop sign
+cogvlm,phrase_99679077.pt,41,in front of,direct,No.,,oven,snowboard
+cogvlm,phrase_99679077.pt,42,in front of,direct,No.,,giraffe,tie
+cogvlm,phrase_99679077.pt,43,in front of,direct,No.,,parking meter,toilet
+cogvlm,phrase_99679077.pt,44,in front of,direct,No.,,banana,fork
+cogvlm,phrase_99679077.pt,45,in front of,direct,No,,laptop,broccoli
+cogvlm,phrase_99679077.pt,46,in front of,direct,No,,orange,toothbrush
+cogvlm,phrase_99679077.pt,47,in front of,direct,Yes.,,baseball bat,boat
+cogvlm,phrase_99679077.pt,48,in front of,direct,No.,,snowboard,skateboard
+cogvlm,phrase_99679077.pt,49,in front of,direct,Yes.,,book,dog
+cogvlm,phrase_99679077.pt,50,in front of,direct,No.,,chair,pizza
+cogvlm,phrase_99679077.pt,51,in front of,direct,Yes.,,suitcase,train
+cogvlm,phrase_99679077.pt,52,in front of,direct,No.,,refrigerator,sports ball
+cogvlm,phrase_99679077.pt,53,in front of,direct,No,,baseball bat,sandwich
+cogvlm,phrase_99679077.pt,54,in front of,direct,No,,potted plant,fork
+cogvlm,phrase_99679077.pt,55,in front of,direct,Yes,,clock,cow
+cogvlm,phrase_99679077.pt,56,in front of,direct,Yes,,skateboard,motorcycle
+cogvlm,phrase_99679077.pt,57,in front of,direct,Yes,,orange,bottle
+cogvlm,phrase_99679077.pt,58,in front of,direct,No,,backpack,wine glass
+cogvlm,phrase_99679077.pt,59,in front of,direct,Yes,,surfboard,handbag
+cogvlm,phrase_99679077.pt,60,in front of,direct,No,,frisbee,broccoli
+cogvlm,phrase_99679077.pt,61,in front of,direct,No.,,cell phone,dog
+cogvlm,phrase_99679077.pt,62,in front of,direct,No,,chair,tennis racket
+cogvlm,phrase_99679077.pt,63,in front of,direct,Yes,,couch,tv remote
+cogvlm,phrase_99679077.pt,64,in front of,direct,Yes.,,donut,knife
+cogvlm,phrase_99679077.pt,65,in front of,direct,No,,tv remote,laptop
+cogvlm,phrase_99679077.pt,66,in front of,direct,No.,,traffic light,pizza
+cogvlm,phrase_99679077.pt,67,in front of,direct,No,,motorcycle,cat
+cogvlm,phrase_99679077.pt,68,in front of,direct,No,,snowboard,bottle
+cogvlm,phrase_99679077.pt,69,in front of,direct,No,,chair,umbrella
+cogvlm,phrase_99679077.pt,70,in front of,direct,Yes.,,fork,hot dog
+cogvlm,phrase_99679077.pt,71,in front of,direct,No,,clock,skateboard
+cogvlm,phrase_99679077.pt,72,in front of,direct,Yes,,potted plant,tv
+cogvlm,phrase_99679077.pt,73,in front of,direct,No.,,laptop,computer keyboard
+cogvlm,phrase_99679077.pt,74,in front of,direct,Yes,,broccoli,dog
+cogvlm,phrase_99679077.pt,75,in front of,direct,No.,,tv,traffic light
+cogvlm,phrase_99679077.pt,76,in front of,direct,No.,,cell phone,parking meter
+cogvlm,phrase_99679077.pt,77,in front of,direct,Yes.,,fork,snowboard
+cogvlm,phrase_99679077.pt,78,in front of,direct,Yes.,,cow,carrot
+cogvlm,phrase_99679077.pt,79,in front of,direct,No,,truck,bus
+cogvlm,phrase_99679077.pt,80,in front of,direct,No,,toaster,fire hydrant
+cogvlm,phrase_99679077.pt,81,in front of,direct,No.,,bear,pizza
+cogvlm,phrase_99679077.pt,82,in front of,direct,No,,pizza,frisbee
+cogvlm,phrase_99679077.pt,83,in front of,direct,No.,,oven,donut
+cogvlm,phrase_99679077.pt,84,in front of,direct,No.,,refrigerator,motorcycle
+cogvlm,phrase_99679077.pt,85,in front of,direct,No,,book,tie
+cogvlm,phrase_99679077.pt,86,in front of,direct,Yes,,hair drier,parking meter
+cogvlm,phrase_99679077.pt,87,in front of,direct,Yes,,tv,truck
+cogvlm,phrase_99679077.pt,88,in front of,direct,Yes,,teddy bear,microwave
+cogvlm,phrase_99679077.pt,89,in front of,direct,No,,clock,giraffe
+cogvlm,phrase_99679077.pt,90,in front of,direct,Yes.,,person,refrigerator
+cogvlm,phrase_99679077.pt,91,in front of,direct,Yes,,tv,cow
+cogvlm,phrase_99679077.pt,92,in front of,direct,No.,,microwave,cow
+cogvlm,phrase_99679077.pt,93,in front of,direct,No,,fire hydrant,tv remote
+cogvlm,phrase_99679077.pt,94,in front of,direct,Yes,,donut,clock
+cogvlm,phrase_99679077.pt,95,in front of,direct,Yes,,baseball glove,sandwich
+cogvlm,phrase_99679077.pt,96,in front of,direct,No,,hair drier,computer mouse
+cogvlm,phrase_99679077.pt,97,in front of,direct,Yes,,skateboard,bear
+cogvlm,phrase_99679077.pt,98,in front of,direct,No,,refrigerator,orange
+cogvlm,phrase_99679077.pt,99,in front of,direct,Yes.,,clock,dining table

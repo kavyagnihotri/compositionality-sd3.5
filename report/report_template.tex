@@ -1,0 +1,162 @@
+%%% Based on the 2025 ICML template, available at https://icml.cc/Conferences/2025/AuthorInstructions %%%
+
+\documentclass{article}
+
+% Recommended, but optional, packages for figures and better typesetting:
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{booktabs} % for professional tables
+\usepackage[utf8]{inputenc}
+\usepackage{tabularx}
+\usepackage{longtable}
+
+\usepackage{tikz}
+% Corporate Design of the University of Tübingen
+% Primary Colors
+\definecolor{TUred}{RGB}{165,30,55}
+\definecolor{TUgold}{RGB}{180,160,105}
+\definecolor{TUdark}{RGB}{50,65,75}
+\definecolor{TUgray}{RGB}{175,179,183}
+
+% Secondary Colors
+\definecolor{TUdarkblue}{RGB}{65,90,140}
+\definecolor{TUblue}{RGB}{0,105,170}
+\definecolor{TUlightblue}{RGB}{80,170,200}
+\definecolor{TUlightgreen}{RGB}{130,185,160}
+\definecolor{TUgreen}{RGB}{125,165,75}
+\definecolor{TUdarkgreen}{RGB}{50,110,30}
+\definecolor{TUocre}{RGB}{200,80,60}
+\definecolor{TUviolet}{RGB}{175,110,150}
+\definecolor{TUmauve}{RGB}{180,160,150}
+\definecolor{TUbeige}{RGB}{215,180,105}
+\definecolor{TUorange}{RGB}{210,150,0}
+\definecolor{TUbrown}{RGB}{145,105,70}
+
+% hyperref makes hyperlinks in the resulting PDF.
+% If your build breaks (sometimes temporarily if a hyperlink spans a page)
+% please comment out the following usepackage line and replace
+% \usepackage{icml2023} with \usepackage[nohyperref]{icml2023} above.
+\usepackage{hyperref}
+
+
+% Attempt to make hyperref and algorithmic work together better:
+\newcommand{\theHalgorithm}{\arabic{algorithm}}
+
+\usepackage[accepted]{icml2025}
+
+% For theorems and such
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{amsthm}
+
+% if you use cleveref..
+\usepackage[capitalize,noabbrev]{cleveref}
+
+% Todonotes is useful during development; simply uncomment the next line
+%    and comment out the line below the next line to turn off comments
+%\usepackage[disable,textsize=tiny]{todonotes}
+\usepackage[textsize=tiny]{todonotes}
+
+
+% The \icmltitle you define below is probably too long as a header.
+% Therefore, a short form for the running title is supplied here:
+\icmltitlerunning{Project Report Template for Data Literacy 2025}
+
+\begin{document}
+
+\twocolumn[
+\icmltitle{Understanding and Improving Compositionality of Stable Diffusion}
+
+% It is OKAY to include author information, even for blind
+% submissions: the style file will automatically remove it for you
+% unless you've provided the [accepted] option to the icml2023
+% package.
+
+% List of affiliations: The first argument should be a (short)
+% identifier you will use later to specify author affiliations
+% Academic affiliations should list Department, University, City, Region, Country
+% Industry affiliations should list Company, City, Region, Country
+
+% You can specify symbols, otherwise they are numbered in order.
+% Ideally, you should not use this facility. Affiliations will be numbered
+% in order of appearance and this is the preferred way.
+% \icmlsetsymbol{equal}{*}
+
+\begin{icmlauthorlist}
+% \icmlauthor{Kavyanjali Agnihotri}{equal}
+\icmlauthor{Kavyanjali Agnihotri}{}
+\end{icmlauthorlist}
+
+% fill in your matrikelnummer, email address, degree, for each group member
+% \icmlaffiliation{first}{Matrikelnummer 12345678, MSc Machine Learning}
+% \icmlaffiliation{second}{Matrikelnummer 12345678, MSc Computer Science}
+% \icmlaffiliation{third}{Matrikelnummer 12345678, MSc Media Informatics}
+% \icmlaffiliation{fourth}{Matrikelnummer 12345678, MSc Medical Informatics}
+% \icmlaffiliation{fifth}{Matrikelnummer 12345678, MSc QDS}
+
+% put your email addresses here. You can use initials to save space, 
+\icmlcorrespondingauthor{KA}{kavyanjali.agnihotri@student.uni-tuebingen.de} 
+
+% You may provide any keywords that you
+% find helpful for describing your paper; these are used to populate
+% the "keywords" metadata in the PDF but will not be shown in the document
+\icmlkeywords{Machine Learning, ICML}
+
+\vskip 0.3in
+]
+
+% this must go after the closing bracket ] following \twocolumn[ ...
+
+% This command actually creates the footnote in the first column
+% listing the affiliations and the copyright notice.
+% The command takes one argument, which is text to display at the start of the footnote.
+% The \icmlEqualContribution command is standard text for equal contribution.
+% Remove it (just {}) if you do not need this facility.
+
+%\printAffiliationsAndNotice{}  % leave blank if no need to mention equal contribution
+\printAffiliationsAndNotice{\icmlEqualContribution} % otherwise use the standard text.
+
+% \begin{abstract}
+% {\color{red}Put your abstract here. Abstracts typically start with a sentence motivating why the subject is interesting. Then mention the data, methodology or methods you are working with, and describe results. }
+% \end{abstract}
+\begin{abstract}
+Modern text-to-image diffusion models struggle with compositional reasoning because standard text encoders lack strict spatial grounding. In this work, we investigate whether targeted text-encoder interventions can resolve these spatial deficits without the prohibitive computational cost of full-model retraining. We perform a modular ``weight surgery'' on Stable Diffusion 3.5 (SD3.5), replacing its default CLIP-L encoder with two compositionally-aware variants: CLIC RedCaps and CLIC CogVLM. Evaluating across a standardized benchmark of over 1,600 relational prompts using Qwen3-VL-30B and manual annotation, we demonstrate substantial improvements in spatial accuracy—particularly in complex directional and containment tasks—while improving global generative image fidelity (FID $\approx$ 57.9 compared to the baseline 60.6). Furthermore, our error analysis uncovers a ``Reasoning-Output Paradox'' within automated VLM evaluators and highlights the persistent dominance of semantic priors over structural nouns. Ultimately, our findings establish that visual compositionality relies heavily on text-encoder grounding rather than mere model scale, providing a highly efficient framework to enhance spatial reliability in production-ready diffusion pipelines.
+\end{abstract}
+
+\section{Introduction}\label{sec:intro}
+
+% {\color{red}Motivate the problem, situation or topic you decided to work on. Describe why it matters (is it of societal, economic, scientific value?). Outline the rest of the paper (use references, e.g.~to \Cref{sec:methods}: What kind of data you are working with, how you analyse it, and what kind of conclusion you reached. The point of the introduction is to make the reader want to read the rest of the paper.}
+
+\input{sections/intro}
+
+\section{Methods and Data}\label{sec:methods}
+% {\color{red}In this section, describe \emph{what you did}. Roughly speaking, explain what data you worked with, how or from where it was collected, it's structure and size. Explain your analysis, and any specific choices you made in it. Depending on the nature of your project, you may focus more or less on certain aspects. If you collected data yourself, explain the collection process in detail. If you downloaded data from the net, show an exploratory analysis that builds intuition for the data, and shows that you know the data well. If you are doing a custom analysis, explain how it works and why it is the right choice. If you are using a standard tool, it may still help to briefly outline it. Cite relevant works. You can use the \verb|\citep| and \verb|\citet| commands for this purpose \citep{mackay2003information}.}
+
+\input{sections/methods}
+
+
+\section{Results}\label{sec:results}
+
+% {\color{red}In this section outline your results. At this point, you are just stating the outcome of your analysis. You can highlight important aspects (``we observe a significantly higher value of $x$ over $y$''), but leave interpretation and opinion to the next section. This section absoultely \emph{must} include at least two figures.}
+
+\input{sections/results}
+
+\section{Discussion \& Conclusion}\label{sec:conclusion}
+
+% {\color{red}Use this section to briefly summarize the entire text. Highlight limitations and problems, but also make clear statements where they are possible and supported by the analysis. }
+
+\input{sections/dicussion.tex}
+
+\bibliography{bibliography}
+\bibliographystyle{icml2025}
+
+\section{Appendix}\label{sec:appendix}
+\input{sections/appendices.tex}
+
+\end{document}
+
+% This document was modified from the files available at https://icml.cc/Conferences/2025/AuthorInstructions
+% the full copyright notice is available within the file icml2025.sty
+

@@ -1,0 +1,199 @@
+CLIC Name,Converted SD3.5 Name,Frobenius Norm,Max Absolute Diff
+token_embedding.weight,text_model.embeddings.token_embedding.weight,0.00e+00
+positional_embedding,text_model.embeddings.position_embedding.weight,0.00e+00
+transformer.resblocks.0.attn.in_proj_weight (Q),text_model.encoder.layers.0.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.0.attn.in_proj_weight (K),text_model.encoder.layers.0.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.0.attn.in_proj_weight (V),text_model.encoder.layers.0.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.0.attn.in_proj_bias (Q),text_model.encoder.layers.0.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.0.attn.in_proj_bias (K),text_model.encoder.layers.0.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.0.attn.in_proj_bias (V),text_model.encoder.layers.0.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.0.attn.out_proj.weight,text_model.encoder.layers.0.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.0.attn.out_proj.bias,text_model.encoder.layers.0.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.0.mlp.c_fc.weight,text_model.encoder.layers.0.mlp.fc1.weight,0.00e+00
+transformer.resblocks.0.mlp.c_fc.bias,text_model.encoder.layers.0.mlp.fc1.bias,0.00e+00
+transformer.resblocks.0.mlp.c_proj.weight,text_model.encoder.layers.0.mlp.fc2.weight,0.00e+00
+transformer.resblocks.0.mlp.c_proj.bias,text_model.encoder.layers.0.mlp.fc2.bias,0.00e+00
+transformer.resblocks.0.ln_1.weight,text_model.encoder.layers.0.layer_norm1.weight,0.00e+00
+transformer.resblocks.0.ln_1.bias,text_model.encoder.layers.0.layer_norm1.bias,0.00e+00
+transformer.resblocks.0.ln_2.weight,text_model.encoder.layers.0.layer_norm2.weight,0.00e+00
+transformer.resblocks.0.ln_2.bias,text_model.encoder.layers.0.layer_norm2.bias,0.00e+00
+transformer.resblocks.1.attn.in_proj_weight (Q),text_model.encoder.layers.1.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.1.attn.in_proj_weight (K),text_model.encoder.layers.1.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.1.attn.in_proj_weight (V),text_model.encoder.layers.1.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.1.attn.in_proj_bias (Q),text_model.encoder.layers.1.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.1.attn.in_proj_bias (K),text_model.encoder.layers.1.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.1.attn.in_proj_bias (V),text_model.encoder.layers.1.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.1.attn.out_proj.weight,text_model.encoder.layers.1.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.1.attn.out_proj.bias,text_model.encoder.layers.1.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.1.mlp.c_fc.weight,text_model.encoder.layers.1.mlp.fc1.weight,0.00e+00
+transformer.resblocks.1.mlp.c_fc.bias,text_model.encoder.layers.1.mlp.fc1.bias,0.00e+00
+transformer.resblocks.1.mlp.c_proj.weight,text_model.encoder.layers.1.mlp.fc2.weight,0.00e+00
+transformer.resblocks.1.mlp.c_proj.bias,text_model.encoder.layers.1.mlp.fc2.bias,0.00e+00
+transformer.resblocks.1.ln_1.weight,text_model.encoder.layers.1.layer_norm1.weight,0.00e+00
+transformer.resblocks.1.ln_1.bias,text_model.encoder.layers.1.layer_norm1.bias,0.00e+00
+transformer.resblocks.1.ln_2.weight,text_model.encoder.layers.1.layer_norm2.weight,0.00e+00
+transformer.resblocks.1.ln_2.bias,text_model.encoder.layers.1.layer_norm2.bias,0.00e+00
+transformer.resblocks.2.attn.in_proj_weight (Q),text_model.encoder.layers.2.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.2.attn.in_proj_weight (K),text_model.encoder.layers.2.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.2.attn.in_proj_weight (V),text_model.encoder.layers.2.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.2.attn.in_proj_bias (Q),text_model.encoder.layers.2.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.2.attn.in_proj_bias (K),text_model.encoder.layers.2.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.2.attn.in_proj_bias (V),text_model.encoder.layers.2.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.2.attn.out_proj.weight,text_model.encoder.layers.2.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.2.attn.out_proj.bias,text_model.encoder.layers.2.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.2.mlp.c_fc.weight,text_model.encoder.layers.2.mlp.fc1.weight,0.00e+00
+transformer.resblocks.2.mlp.c_fc.bias,text_model.encoder.layers.2.mlp.fc1.bias,0.00e+00
+transformer.resblocks.2.mlp.c_proj.weight,text_model.encoder.layers.2.mlp.fc2.weight,0.00e+00
+transformer.resblocks.2.mlp.c_proj.bias,text_model.encoder.layers.2.mlp.fc2.bias,0.00e+00
+transformer.resblocks.2.ln_1.weight,text_model.encoder.layers.2.layer_norm1.weight,0.00e+00
+transformer.resblocks.2.ln_1.bias,text_model.encoder.layers.2.layer_norm1.bias,0.00e+00
+transformer.resblocks.2.ln_2.weight,text_model.encoder.layers.2.layer_norm2.weight,0.00e+00
+transformer.resblocks.2.ln_2.bias,text_model.encoder.layers.2.layer_norm2.bias,0.00e+00
+transformer.resblocks.3.attn.in_proj_weight (Q),text_model.encoder.layers.3.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.3.attn.in_proj_weight (K),text_model.encoder.layers.3.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.3.attn.in_proj_weight (V),text_model.encoder.layers.3.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.3.attn.in_proj_bias (Q),text_model.encoder.layers.3.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.3.attn.in_proj_bias (K),text_model.encoder.layers.3.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.3.attn.in_proj_bias (V),text_model.encoder.layers.3.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.3.attn.out_proj.weight,text_model.encoder.layers.3.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.3.attn.out_proj.bias,text_model.encoder.layers.3.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.3.mlp.c_fc.weight,text_model.encoder.layers.3.mlp.fc1.weight,0.00e+00
+transformer.resblocks.3.mlp.c_fc.bias,text_model.encoder.layers.3.mlp.fc1.bias,0.00e+00
+transformer.resblocks.3.mlp.c_proj.weight,text_model.encoder.layers.3.mlp.fc2.weight,0.00e+00
+transformer.resblocks.3.mlp.c_proj.bias,text_model.encoder.layers.3.mlp.fc2.bias,0.00e+00
+transformer.resblocks.3.ln_1.weight,text_model.encoder.layers.3.layer_norm1.weight,0.00e+00
+transformer.resblocks.3.ln_1.bias,text_model.encoder.layers.3.layer_norm1.bias,0.00e+00
+transformer.resblocks.3.ln_2.weight,text_model.encoder.layers.3.layer_norm2.weight,0.00e+00
+transformer.resblocks.3.ln_2.bias,text_model.encoder.layers.3.layer_norm2.bias,0.00e+00
+transformer.resblocks.4.attn.in_proj_weight (Q),text_model.encoder.layers.4.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.4.attn.in_proj_weight (K),text_model.encoder.layers.4.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.4.attn.in_proj_weight (V),text_model.encoder.layers.4.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.4.attn.in_proj_bias (Q),text_model.encoder.layers.4.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.4.attn.in_proj_bias (K),text_model.encoder.layers.4.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.4.attn.in_proj_bias (V),text_model.encoder.layers.4.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.4.attn.out_proj.weight,text_model.encoder.layers.4.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.4.attn.out_proj.bias,text_model.encoder.layers.4.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.4.mlp.c_fc.weight,text_model.encoder.layers.4.mlp.fc1.weight,0.00e+00
+transformer.resblocks.4.mlp.c_fc.bias,text_model.encoder.layers.4.mlp.fc1.bias,0.00e+00
+transformer.resblocks.4.mlp.c_proj.weight,text_model.encoder.layers.4.mlp.fc2.weight,0.00e+00
+transformer.resblocks.4.mlp.c_proj.bias,text_model.encoder.layers.4.mlp.fc2.bias,0.00e+00
+transformer.resblocks.4.ln_1.weight,text_model.encoder.layers.4.layer_norm1.weight,0.00e+00
+transformer.resblocks.4.ln_1.bias,text_model.encoder.layers.4.layer_norm1.bias,0.00e+00
+transformer.resblocks.4.ln_2.weight,text_model.encoder.layers.4.layer_norm2.weight,0.00e+00
+transformer.resblocks.4.ln_2.bias,text_model.encoder.layers.4.layer_norm2.bias,0.00e+00
+transformer.resblocks.5.attn.in_proj_weight (Q),text_model.encoder.layers.5.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.5.attn.in_proj_weight (K),text_model.encoder.layers.5.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.5.attn.in_proj_weight (V),text_model.encoder.layers.5.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.5.attn.in_proj_bias (Q),text_model.encoder.layers.5.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.5.attn.in_proj_bias (K),text_model.encoder.layers.5.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.5.attn.in_proj_bias (V),text_model.encoder.layers.5.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.5.attn.out_proj.weight,text_model.encoder.layers.5.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.5.attn.out_proj.bias,text_model.encoder.layers.5.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.5.mlp.c_fc.weight,text_model.encoder.layers.5.mlp.fc1.weight,0.00e+00
+transformer.resblocks.5.mlp.c_fc.bias,text_model.encoder.layers.5.mlp.fc1.bias,0.00e+00
+transformer.resblocks.5.mlp.c_proj.weight,text_model.encoder.layers.5.mlp.fc2.weight,0.00e+00
+transformer.resblocks.5.mlp.c_proj.bias,text_model.encoder.layers.5.mlp.fc2.bias,0.00e+00
+transformer.resblocks.5.ln_1.weight,text_model.encoder.layers.5.layer_norm1.weight,0.00e+00
+transformer.resblocks.5.ln_1.bias,text_model.encoder.layers.5.layer_norm1.bias,0.00e+00
+transformer.resblocks.5.ln_2.weight,text_model.encoder.layers.5.layer_norm2.weight,0.00e+00
+transformer.resblocks.5.ln_2.bias,text_model.encoder.layers.5.layer_norm2.bias,0.00e+00
+transformer.resblocks.6.attn.in_proj_weight (Q),text_model.encoder.layers.6.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.6.attn.in_proj_weight (K),text_model.encoder.layers.6.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.6.attn.in_proj_weight (V),text_model.encoder.layers.6.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.6.attn.in_proj_bias (Q),text_model.encoder.layers.6.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.6.attn.in_proj_bias (K),text_model.encoder.layers.6.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.6.attn.in_proj_bias (V),text_model.encoder.layers.6.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.6.attn.out_proj.weight,text_model.encoder.layers.6.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.6.attn.out_proj.bias,text_model.encoder.layers.6.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.6.mlp.c_fc.weight,text_model.encoder.layers.6.mlp.fc1.weight,0.00e+00
+transformer.resblocks.6.mlp.c_fc.bias,text_model.encoder.layers.6.mlp.fc1.bias,0.00e+00
+transformer.resblocks.6.mlp.c_proj.weight,text_model.encoder.layers.6.mlp.fc2.weight,0.00e+00
+transformer.resblocks.6.mlp.c_proj.bias,text_model.encoder.layers.6.mlp.fc2.bias,0.00e+00
+transformer.resblocks.6.ln_1.weight,text_model.encoder.layers.6.layer_norm1.weight,0.00e+00
+transformer.resblocks.6.ln_1.bias,text_model.encoder.layers.6.layer_norm1.bias,0.00e+00
+transformer.resblocks.6.ln_2.weight,text_model.encoder.layers.6.layer_norm2.weight,0.00e+00
+transformer.resblocks.6.ln_2.bias,text_model.encoder.layers.6.layer_norm2.bias,0.00e+00
+transformer.resblocks.7.attn.in_proj_weight (Q),text_model.encoder.layers.7.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.7.attn.in_proj_weight (K),text_model.encoder.layers.7.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.7.attn.in_proj_weight (V),text_model.encoder.layers.7.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.7.attn.in_proj_bias (Q),text_model.encoder.layers.7.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.7.attn.in_proj_bias (K),text_model.encoder.layers.7.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.7.attn.in_proj_bias (V),text_model.encoder.layers.7.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.7.attn.out_proj.weight,text_model.encoder.layers.7.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.7.attn.out_proj.bias,text_model.encoder.layers.7.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.7.mlp.c_fc.weight,text_model.encoder.layers.7.mlp.fc1.weight,0.00e+00
+transformer.resblocks.7.mlp.c_fc.bias,text_model.encoder.layers.7.mlp.fc1.bias,0.00e+00
+transformer.resblocks.7.mlp.c_proj.weight,text_model.encoder.layers.7.mlp.fc2.weight,0.00e+00
+transformer.resblocks.7.mlp.c_proj.bias,text_model.encoder.layers.7.mlp.fc2.bias,0.00e+00
+transformer.resblocks.7.ln_1.weight,text_model.encoder.layers.7.layer_norm1.weight,0.00e+00
+transformer.resblocks.7.ln_1.bias,text_model.encoder.layers.7.layer_norm1.bias,0.00e+00
+transformer.resblocks.7.ln_2.weight,text_model.encoder.layers.7.layer_norm2.weight,0.00e+00
+transformer.resblocks.7.ln_2.bias,text_model.encoder.layers.7.layer_norm2.bias,0.00e+00
+transformer.resblocks.8.attn.in_proj_weight (Q),text_model.encoder.layers.8.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.8.attn.in_proj_weight (K),text_model.encoder.layers.8.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.8.attn.in_proj_weight (V),text_model.encoder.layers.8.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.8.attn.in_proj_bias (Q),text_model.encoder.layers.8.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.8.attn.in_proj_bias (K),text_model.encoder.layers.8.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.8.attn.in_proj_bias (V),text_model.encoder.layers.8.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.8.attn.out_proj.weight,text_model.encoder.layers.8.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.8.attn.out_proj.bias,text_model.encoder.layers.8.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.8.mlp.c_fc.weight,text_model.encoder.layers.8.mlp.fc1.weight,0.00e+00
+transformer.resblocks.8.mlp.c_fc.bias,text_model.encoder.layers.8.mlp.fc1.bias,0.00e+00
+transformer.resblocks.8.mlp.c_proj.weight,text_model.encoder.layers.8.mlp.fc2.weight,0.00e+00
+transformer.resblocks.8.mlp.c_proj.bias,text_model.encoder.layers.8.mlp.fc2.bias,0.00e+00
+transformer.resblocks.8.ln_1.weight,text_model.encoder.layers.8.layer_norm1.weight,0.00e+00
+transformer.resblocks.8.ln_1.bias,text_model.encoder.layers.8.layer_norm1.bias,0.00e+00
+transformer.resblocks.8.ln_2.weight,text_model.encoder.layers.8.layer_norm2.weight,0.00e+00
+transformer.resblocks.8.ln_2.bias,text_model.encoder.layers.8.layer_norm2.bias,0.00e+00
+transformer.resblocks.9.attn.in_proj_weight (Q),text_model.encoder.layers.9.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.9.attn.in_proj_weight (K),text_model.encoder.layers.9.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.9.attn.in_proj_weight (V),text_model.encoder.layers.9.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.9.attn.in_proj_bias (Q),text_model.encoder.layers.9.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.9.attn.in_proj_bias (K),text_model.encoder.layers.9.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.9.attn.in_proj_bias (V),text_model.encoder.layers.9.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.9.attn.out_proj.weight,text_model.encoder.layers.9.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.9.attn.out_proj.bias,text_model.encoder.layers.9.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.9.mlp.c_fc.weight,text_model.encoder.layers.9.mlp.fc1.weight,0.00e+00
+transformer.resblocks.9.mlp.c_fc.bias,text_model.encoder.layers.9.mlp.fc1.bias,0.00e+00
+transformer.resblocks.9.mlp.c_proj.weight,text_model.encoder.layers.9.mlp.fc2.weight,0.00e+00
+transformer.resblocks.9.mlp.c_proj.bias,text_model.encoder.layers.9.mlp.fc2.bias,0.00e+00
+transformer.resblocks.9.ln_1.weight,text_model.encoder.layers.9.layer_norm1.weight,0.00e+00
+transformer.resblocks.9.ln_1.bias,text_model.encoder.layers.9.layer_norm1.bias,0.00e+00
+transformer.resblocks.9.ln_2.weight,text_model.encoder.layers.9.layer_norm2.weight,0.00e+00
+transformer.resblocks.9.ln_2.bias,text_model.encoder.layers.9.layer_norm2.bias,0.00e+00
+transformer.resblocks.10.attn.in_proj_weight (Q),text_model.encoder.layers.10.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.10.attn.in_proj_weight (K),text_model.encoder.layers.10.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.10.attn.in_proj_weight (V),text_model.encoder.layers.10.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.10.attn.in_proj_bias (Q),text_model.encoder.layers.10.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.10.attn.in_proj_bias (K),text_model.encoder.layers.10.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.10.attn.in_proj_bias (V),text_model.encoder.layers.10.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.10.attn.out_proj.weight,text_model.encoder.layers.10.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.10.attn.out_proj.bias,text_model.encoder.layers.10.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.10.mlp.c_fc.weight,text_model.encoder.layers.10.mlp.fc1.weight,0.00e+00
+transformer.resblocks.10.mlp.c_fc.bias,text_model.encoder.layers.10.mlp.fc1.bias,0.00e+00
+transformer.resblocks.10.mlp.c_proj.weight,text_model.encoder.layers.10.mlp.fc2.weight,0.00e+00
+transformer.resblocks.10.mlp.c_proj.bias,text_model.encoder.layers.10.mlp.fc2.bias,0.00e+00
+transformer.resblocks.10.ln_1.weight,text_model.encoder.layers.10.layer_norm1.weight,0.00e+00
+transformer.resblocks.10.ln_1.bias,text_model.encoder.layers.10.layer_norm1.bias,0.00e+00
+transformer.resblocks.10.ln_2.weight,text_model.encoder.layers.10.layer_norm2.weight,0.00e+00
+transformer.resblocks.10.ln_2.bias,text_model.encoder.layers.10.layer_norm2.bias,0.00e+00
+transformer.resblocks.11.attn.in_proj_weight (Q),text_model.encoder.layers.11.self_attn.q_proj.weight,0.00e+00
+transformer.resblocks.11.attn.in_proj_weight (K),text_model.encoder.layers.11.self_attn.k_proj.weight,0.00e+00
+transformer.resblocks.11.attn.in_proj_weight (V),text_model.encoder.layers.11.self_attn.v_proj.weight,0.00e+00
+transformer.resblocks.11.attn.in_proj_bias (Q),text_model.encoder.layers.11.self_attn.q_proj.bias,0.00e+00
+transformer.resblocks.11.attn.in_proj_bias (K),text_model.encoder.layers.11.self_attn.k_proj.bias,0.00e+00
+transformer.resblocks.11.attn.in_proj_bias (V),text_model.encoder.layers.11.self_attn.v_proj.bias,0.00e+00
+transformer.resblocks.11.attn.out_proj.weight,text_model.encoder.layers.11.self_attn.out_proj.weight,0.00e+00
+transformer.resblocks.11.attn.out_proj.bias,text_model.encoder.layers.11.self_attn.out_proj.bias,0.00e+00
+transformer.resblocks.11.mlp.c_fc.weight,text_model.encoder.layers.11.mlp.fc1.weight,0.00e+00
+transformer.resblocks.11.mlp.c_fc.bias,text_model.encoder.layers.11.mlp.fc1.bias,0.00e+00
+transformer.resblocks.11.mlp.c_proj.weight,text_model.encoder.layers.11.mlp.fc2.weight,0.00e+00
+transformer.resblocks.11.mlp.c_proj.bias,text_model.encoder.layers.11.mlp.fc2.bias,0.00e+00
+transformer.resblocks.11.ln_1.weight,text_model.encoder.layers.11.layer_norm1.weight,0.00e+00
+transformer.resblocks.11.ln_1.bias,text_model.encoder.layers.11.layer_norm1.bias,0.00e+00
+transformer.resblocks.11.ln_2.weight,text_model.encoder.layers.11.layer_norm2.weight,0.00e+00
+transformer.resblocks.11.ln_2.bias,text_model.encoder.layers.11.layer_norm2.bias,0.00e+00
+ln_final.weight,text_model.final_layer_norm.weight,0.00e+00
+ln_final.bias,text_model.final_layer_norm.bias,0.00e+00
+text_projection,text_projection.weight,0.00e+00
+

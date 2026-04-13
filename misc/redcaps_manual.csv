@@ -1,0 +1,14 @@
+phrase,tensor_file,[tensor_index-es for ambigious images],[tensor_index-es for incorrect images],checked
+above,phrase_97463254.pt,[17],[5;6;7;11;13],20
+below,phrase_16842051.pt,[9],[0;1;2;3;7;12;14;15;16;17;18;19],20
+to the left of,phrase_30234472.pt,[],[4;5;6;7;10;11;16;17;18],20
+to the right of,phrase_30806336.pt,[],[3;7;10;11;12;14;16;17;18],20
+between,phrase_28524339.pt,[3;9;15],[1;7],20
+behind,phrase_42639713.pt,[2;4],[1;3;5;6;8;9],10
+closeby,phrase_4976332.pt,[],[8],10
+far from,phrase_71577718.pt,[],[0;1;2;3;6;7;8],10
+in front of,phrase_944229.pt,[],[0;5;6;7],10
+on top of,phrase_85063682.pt,[0],[2;5;7;],10
+under,phrase_81859637.pt,[],[0],10
+over,phrase_56264520.pt,[],[5;6;7],10
+without,phrase_69594860.pt,[],[2;3;4;5;6;7],10

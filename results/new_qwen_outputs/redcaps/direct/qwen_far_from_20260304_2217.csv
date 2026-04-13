@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_71577718.pt,0,far from,direct,Ambiguous,,giraffe,hair drier
+redcaps,phrase_71577718.pt,1,far from,direct,No.,,broccoli,skis
+redcaps,phrase_71577718.pt,2,far from,direct,No.,,book,sports ball
+redcaps,phrase_71577718.pt,3,far from,direct,No,,bench,cow
+redcaps,phrase_71577718.pt,4,far from,direct,No.,,computer keyboard,skateboard
+redcaps,phrase_71577718.pt,5,far from,direct,No.,,toilet,potted plant
+redcaps,phrase_71577718.pt,6,far from,direct,Yes,,oven,vase
+redcaps,phrase_71577718.pt,7,far from,direct,No.,,bed,book
+redcaps,phrase_71577718.pt,8,far from,direct,Ambiguous.,,cell phone,bear
+redcaps,phrase_71577718.pt,9,far from,direct,No,,sports ball,refrigerator
+redcaps,phrase_71577718.pt,10,far from,direct,No.,,baseball bat,dog
+redcaps,phrase_71577718.pt,11,far from,direct,No.,,orange,traffic light
+redcaps,phrase_71577718.pt,12,far from,direct,No.,,teddy bear,orange
+redcaps,phrase_71577718.pt,13,far from,direct,No,,skis,tennis racket
+redcaps,phrase_71577718.pt,14,far from,direct,No.,,zebra,bicycle
+redcaps,phrase_71577718.pt,15,far from,direct,No.,,sheep,computer mouse
+redcaps,phrase_71577718.pt,16,far from,direct,No,,cell phone,orange
+redcaps,phrase_71577718.pt,17,far from,direct,No,,knife,umbrella
+redcaps,phrase_71577718.pt,18,far from,direct,No.,,motorcycle,carrot
+redcaps,phrase_71577718.pt,19,far from,direct,No.,,traffic light,horse
+redcaps,phrase_71577718.pt,20,far from,direct,No,,surfboard,tv
+redcaps,phrase_71577718.pt,21,far from,direct,No.,,carrot,truck
+redcaps,phrase_71577718.pt,22,far from,direct,No.,,giraffe,fire hydrant
+redcaps,phrase_71577718.pt,23,far from,direct,No.,,elephant,toaster
+redcaps,phrase_71577718.pt,24,far from,direct,No,,bowl,dog
+redcaps,phrase_71577718.pt,25,far from,direct,No.,,bench,motorcycle
+redcaps,phrase_71577718.pt,26,far from,direct,No,,frisbee,handbag
+redcaps,phrase_71577718.pt,27,far from,direct,No.,,skis,cat
+redcaps,phrase_71577718.pt,28,far from,direct,Yes,,surfboard,spoon
+redcaps,phrase_71577718.pt,29,far from,direct,No.,,bicycle,bus
+redcaps,phrase_71577718.pt,30,far from,direct,No,,car,laptop
+redcaps,phrase_71577718.pt,31,far from,direct,No,,frisbee,cat
+redcaps,phrase_71577718.pt,32,far from,direct,No.,,skis,motorcycle
+redcaps,phrase_71577718.pt,33,far from,direct,No.,,toilet,cat
+redcaps,phrase_71577718.pt,34,far from,direct,No,,snowboard,boat
+redcaps,phrase_71577718.pt,35,far from,direct,No.,,broccoli,bird
+redcaps,phrase_71577718.pt,36,far from,direct,No.,,scissors,airplane
+redcaps,phrase_71577718.pt,37,far from,direct,No,,bowl,banana
+redcaps,phrase_71577718.pt,38,far from,direct,No.,,baseball glove,bicycle
+redcaps,phrase_71577718.pt,39,far from,direct,No,,microwave,skis
+redcaps,phrase_71577718.pt,40,far from,direct,No,,banana,stop sign
+redcaps,phrase_71577718.pt,41,far from,direct,Yes,,oven,snowboard
+redcaps,phrase_71577718.pt,42,far from,direct,No.,,giraffe,tie
+redcaps,phrase_71577718.pt,43,far from,direct,Ambiguous,,parking meter,toilet
+redcaps,phrase_71577718.pt,44,far from,direct,No,,banana,fork
+redcaps,phrase_71577718.pt,45,far from,direct,No.,,laptop,broccoli
+redcaps,phrase_71577718.pt,46,far from,direct,No.,,orange,toothbrush
+redcaps,phrase_71577718.pt,47,far from,direct,No.,,baseball bat,boat
+redcaps,phrase_71577718.pt,48,far from,direct,No.,,snowboard,skateboard
+redcaps,phrase_71577718.pt,49,far from,direct,No,,book,dog
+redcaps,phrase_71577718.pt,50,far from,direct,No.,,chair,pizza
+redcaps,phrase_71577718.pt,51,far from,direct,No.,,suitcase,train
+redcaps,phrase_71577718.pt,52,far from,direct,No,,refrigerator,sports ball
+redcaps,phrase_71577718.pt,53,far from,direct,No,,baseball bat,sandwich
+redcaps,phrase_71577718.pt,54,far from,direct,No,,potted plant,fork
+redcaps,phrase_71577718.pt,55,far from,direct,No.,,clock,cow
+redcaps,phrase_71577718.pt,56,far from,direct,No,,skateboard,motorcycle
+redcaps,phrase_71577718.pt,57,far from,direct,No.,,orange,bottle
+redcaps,phrase_71577718.pt,58,far from,direct,No,,backpack,wine glass
+redcaps,phrase_71577718.pt,59,far from,direct,No.,,surfboard,handbag
+redcaps,phrase_71577718.pt,60,far from,direct,No.,,frisbee,broccoli
+redcaps,phrase_71577718.pt,61,far from,direct,No.,,cell phone,dog
+redcaps,phrase_71577718.pt,62,far from,direct,No,,chair,tennis racket
+redcaps,phrase_71577718.pt,63,far from,direct,No,,couch,tv remote
+redcaps,phrase_71577718.pt,64,far from,direct,No.,,donut,knife
+redcaps,phrase_71577718.pt,65,far from,direct,No,,tv remote,laptop
+redcaps,phrase_71577718.pt,66,far from,direct,No.,,traffic light,pizza
+redcaps,phrase_71577718.pt,67,far from,direct,No,,motorcycle,cat
+redcaps,phrase_71577718.pt,68,far from,direct,No,,snowboard,bottle
+redcaps,phrase_71577718.pt,69,far from,direct,No.,,chair,umbrella
+redcaps,phrase_71577718.pt,70,far from,direct,No,,fork,hot dog
+redcaps,phrase_71577718.pt,71,far from,direct,No,,clock,skateboard
+redcaps,phrase_71577718.pt,72,far from,direct,No,,potted plant,tv
+redcaps,phrase_71577718.pt,73,far from,direct,No.,,laptop,computer keyboard
+redcaps,phrase_71577718.pt,74,far from,direct,No.,,broccoli,dog
+redcaps,phrase_71577718.pt,75,far from,direct,No.,,tv,traffic light
+redcaps,phrase_71577718.pt,76,far from,direct,No,,cell phone,parking meter
+redcaps,phrase_71577718.pt,77,far from,direct,No,,fork,snowboard
+redcaps,phrase_71577718.pt,78,far from,direct,No.,,cow,carrot
+redcaps,phrase_71577718.pt,79,far from,direct,No.,,truck,bus
+redcaps,phrase_71577718.pt,80,far from,direct,No,,toaster,fire hydrant
+redcaps,phrase_71577718.pt,81,far from,direct,No,,bear,pizza
+redcaps,phrase_71577718.pt,82,far from,direct,No.,,pizza,frisbee
+redcaps,phrase_71577718.pt,83,far from,direct,No,,oven,donut
+redcaps,phrase_71577718.pt,84,far from,direct,No.,,refrigerator,motorcycle
+redcaps,phrase_71577718.pt,85,far from,direct,No,,book,tie
+redcaps,phrase_71577718.pt,86,far from,direct,No.,,hair drier,parking meter
+redcaps,phrase_71577718.pt,87,far from,direct,No.,,tv,truck
+redcaps,phrase_71577718.pt,88,far from,direct,No,,teddy bear,microwave
+redcaps,phrase_71577718.pt,89,far from,direct,No,,clock,giraffe
+redcaps,phrase_71577718.pt,90,far from,direct,No,,person,refrigerator
+redcaps,phrase_71577718.pt,91,far from,direct,No.,,tv,cow
+redcaps,phrase_71577718.pt,92,far from,direct,No.,,microwave,cow
+redcaps,phrase_71577718.pt,93,far from,direct,No,,fire hydrant,tv remote
+redcaps,phrase_71577718.pt,94,far from,direct,No.,,donut,clock
+redcaps,phrase_71577718.pt,95,far from,direct,No.,,baseball glove,sandwich
+redcaps,phrase_71577718.pt,96,far from,direct,No.,,hair drier,computer mouse
+redcaps,phrase_71577718.pt,97,far from,direct,No,,skateboard,bear
+redcaps,phrase_71577718.pt,98,far from,direct,No,,refrigerator,orange
+redcaps,phrase_71577718.pt,99,far from,direct,Yes,,clock,dining table

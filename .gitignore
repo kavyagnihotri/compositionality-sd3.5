@@ -1,3 +1,19 @@
+# report latex files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.bst
+*.sty
+
+# report reg pdf
+Registration*.pdf
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

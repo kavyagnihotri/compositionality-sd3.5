@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_99671981.pt,0,closeby,direct,Yes.,,giraffe,hair drier
+cogvlm,phrase_99671981.pt,1,closeby,direct,Yes,,broccoli,skis
+cogvlm,phrase_99671981.pt,2,closeby,direct,Yes.,,book,sports ball
+cogvlm,phrase_99671981.pt,3,closeby,direct,No.,,bench,cow
+cogvlm,phrase_99671981.pt,4,closeby,direct,Yes,,computer keyboard,skateboard
+cogvlm,phrase_99671981.pt,5,closeby,direct,Yes,,toilet,potted plant
+cogvlm,phrase_99671981.pt,6,closeby,direct,Yes.,,oven,vase
+cogvlm,phrase_99671981.pt,7,closeby,direct,Yes.,,bed,book
+cogvlm,phrase_99671981.pt,8,closeby,direct,No.,,cell phone,bear
+cogvlm,phrase_99671981.pt,9,closeby,direct,Yes,,sports ball,refrigerator
+cogvlm,phrase_99671981.pt,10,closeby,direct,Yes.,,baseball bat,dog
+cogvlm,phrase_99671981.pt,11,closeby,direct,Yes,,orange,traffic light
+cogvlm,phrase_99671981.pt,12,closeby,direct,Yes.,,teddy bear,orange
+cogvlm,phrase_99671981.pt,13,closeby,direct,Yes,,skis,tennis racket
+cogvlm,phrase_99671981.pt,14,closeby,direct,Yes.,,zebra,bicycle
+cogvlm,phrase_99671981.pt,15,closeby,direct,Yes,,sheep,computer mouse
+cogvlm,phrase_99671981.pt,16,closeby,direct,Yes.,,cell phone,orange
+cogvlm,phrase_99671981.pt,17,closeby,direct,Yes,,knife,umbrella
+cogvlm,phrase_99671981.pt,18,closeby,direct,No,,motorcycle,carrot
+cogvlm,phrase_99671981.pt,19,closeby,direct,Yes.,,traffic light,horse
+cogvlm,phrase_99671981.pt,20,closeby,direct,Yes,,surfboard,tv
+cogvlm,phrase_99671981.pt,21,closeby,direct,Yes.,,carrot,truck
+cogvlm,phrase_99671981.pt,22,closeby,direct,Yes.,,giraffe,fire hydrant
+cogvlm,phrase_99671981.pt,23,closeby,direct,Yes.,,elephant,toaster
+cogvlm,phrase_99671981.pt,24,closeby,direct,Yes,,bowl,dog
+cogvlm,phrase_99671981.pt,25,closeby,direct,Yes,,bench,motorcycle
+cogvlm,phrase_99671981.pt,26,closeby,direct,No.,,frisbee,handbag
+cogvlm,phrase_99671981.pt,27,closeby,direct,Yes,,skis,cat
+cogvlm,phrase_99671981.pt,28,closeby,direct,Yes.,,surfboard,spoon
+cogvlm,phrase_99671981.pt,29,closeby,direct,Yes,,bicycle,bus
+cogvlm,phrase_99671981.pt,30,closeby,direct,Yes.,,car,laptop
+cogvlm,phrase_99671981.pt,31,closeby,direct,Yes.,,frisbee,cat
+cogvlm,phrase_99671981.pt,32,closeby,direct,Yes,,skis,motorcycle
+cogvlm,phrase_99671981.pt,33,closeby,direct,Yes,,toilet,cat
+cogvlm,phrase_99671981.pt,34,closeby,direct,Yes,,snowboard,boat
+cogvlm,phrase_99671981.pt,35,closeby,direct,No.,,broccoli,bird
+cogvlm,phrase_99671981.pt,36,closeby,direct,No.,,scissors,airplane
+cogvlm,phrase_99671981.pt,37,closeby,direct,Yes,,bowl,banana
+cogvlm,phrase_99671981.pt,38,closeby,direct,Yes.,,baseball glove,bicycle
+cogvlm,phrase_99671981.pt,39,closeby,direct,No.,,microwave,skis
+cogvlm,phrase_99671981.pt,40,closeby,direct,Yes,,banana,stop sign
+cogvlm,phrase_99671981.pt,41,closeby,direct,No.,,oven,snowboard
+cogvlm,phrase_99671981.pt,42,closeby,direct,No.,,giraffe,tie
+cogvlm,phrase_99671981.pt,43,closeby,direct,Yes,,parking meter,toilet
+cogvlm,phrase_99671981.pt,44,closeby,direct,Yes.,,banana,fork
+cogvlm,phrase_99671981.pt,45,closeby,direct,Yes,,laptop,broccoli
+cogvlm,phrase_99671981.pt,46,closeby,direct,Yes.,,orange,toothbrush
+cogvlm,phrase_99671981.pt,47,closeby,direct,Yes.,,baseball bat,boat
+cogvlm,phrase_99671981.pt,48,closeby,direct,Yes,,snowboard,skateboard
+cogvlm,phrase_99671981.pt,49,closeby,direct,Yes.,,book,dog
+cogvlm,phrase_99671981.pt,50,closeby,direct,Yes,,chair,pizza
+cogvlm,phrase_99671981.pt,51,closeby,direct,Yes.,,suitcase,train
+cogvlm,phrase_99671981.pt,52,closeby,direct,Yes.,,refrigerator,sports ball
+cogvlm,phrase_99671981.pt,53,closeby,direct,No,,baseball bat,sandwich
+cogvlm,phrase_99671981.pt,54,closeby,direct,Yes,,potted plant,fork
+cogvlm,phrase_99671981.pt,55,closeby,direct,Yes.,,clock,cow
+cogvlm,phrase_99671981.pt,56,closeby,direct,Yes.,,skateboard,motorcycle
+cogvlm,phrase_99671981.pt,57,closeby,direct,Yes,,orange,bottle
+cogvlm,phrase_99671981.pt,58,closeby,direct,Yes,,backpack,wine glass
+cogvlm,phrase_99671981.pt,59,closeby,direct,Yes.,,surfboard,handbag
+cogvlm,phrase_99671981.pt,60,closeby,direct,No,,frisbee,broccoli
+cogvlm,phrase_99671981.pt,61,closeby,direct,Yes.,,cell phone,dog
+cogvlm,phrase_99671981.pt,62,closeby,direct,Yes.,,chair,tennis racket
+cogvlm,phrase_99671981.pt,63,closeby,direct,Yes,,couch,tv remote
+cogvlm,phrase_99671981.pt,64,closeby,direct,Yes,,donut,knife
+cogvlm,phrase_99671981.pt,65,closeby,direct,Yes,,tv remote,laptop
+cogvlm,phrase_99671981.pt,66,closeby,direct,Yes.,,traffic light,pizza
+cogvlm,phrase_99671981.pt,67,closeby,direct,Yes.,,motorcycle,cat
+cogvlm,phrase_99671981.pt,68,closeby,direct,Yes.,,snowboard,bottle
+cogvlm,phrase_99671981.pt,69,closeby,direct,Yes,,chair,umbrella
+cogvlm,phrase_99671981.pt,70,closeby,direct,Yes.,,fork,hot dog
+cogvlm,phrase_99671981.pt,71,closeby,direct,Yes,,clock,skateboard
+cogvlm,phrase_99671981.pt,72,closeby,direct,Yes,,potted plant,tv
+cogvlm,phrase_99671981.pt,73,closeby,direct,Yes.,,laptop,computer keyboard
+cogvlm,phrase_99671981.pt,74,closeby,direct,Yes,,broccoli,dog
+cogvlm,phrase_99671981.pt,75,closeby,direct,No,,tv,traffic light
+cogvlm,phrase_99671981.pt,76,closeby,direct,Yes,,cell phone,parking meter
+cogvlm,phrase_99671981.pt,77,closeby,direct,No.,,fork,snowboard
+cogvlm,phrase_99671981.pt,78,closeby,direct,Yes,,cow,carrot
+cogvlm,phrase_99671981.pt,79,closeby,direct,Yes.,,truck,bus
+cogvlm,phrase_99671981.pt,80,closeby,direct,Yes.,,toaster,fire hydrant
+cogvlm,phrase_99671981.pt,81,closeby,direct,Yes.,,bear,pizza
+cogvlm,phrase_99671981.pt,82,closeby,direct,Yes,,pizza,frisbee
+cogvlm,phrase_99671981.pt,83,closeby,direct,Yes.,,oven,donut
+cogvlm,phrase_99671981.pt,84,closeby,direct,Yes.,,refrigerator,motorcycle
+cogvlm,phrase_99671981.pt,85,closeby,direct,Yes.,,book,tie
+cogvlm,phrase_99671981.pt,86,closeby,direct,Yes,,hair drier,parking meter
+cogvlm,phrase_99671981.pt,87,closeby,direct,No.,,tv,truck
+cogvlm,phrase_99671981.pt,88,closeby,direct,Yes.,,teddy bear,microwave
+cogvlm,phrase_99671981.pt,89,closeby,direct,Yes.,,clock,giraffe
+cogvlm,phrase_99671981.pt,90,closeby,direct,Yes.,,person,refrigerator
+cogvlm,phrase_99671981.pt,91,closeby,direct,Yes.,,tv,cow
+cogvlm,phrase_99671981.pt,92,closeby,direct,Yes,,microwave,cow
+cogvlm,phrase_99671981.pt,93,closeby,direct,Yes,,fire hydrant,tv remote
+cogvlm,phrase_99671981.pt,94,closeby,direct,Yes.,,donut,clock
+cogvlm,phrase_99671981.pt,95,closeby,direct,Yes,,baseball glove,sandwich
+cogvlm,phrase_99671981.pt,96,closeby,direct,Yes,,hair drier,computer mouse
+cogvlm,phrase_99671981.pt,97,closeby,direct,Yes,,skateboard,bear
+cogvlm,phrase_99671981.pt,98,closeby,direct,Yes.,,refrigerator,orange
+cogvlm,phrase_99671981.pt,99,closeby,direct,Yes.,,clock,dining table

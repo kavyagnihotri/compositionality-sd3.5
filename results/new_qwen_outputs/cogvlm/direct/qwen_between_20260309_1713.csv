@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_65225796.pt,0,between,direct,No.,,giraffe,hair drier
+cogvlm,phrase_65225796.pt,1,between,direct,No.,,broccoli,skis
+cogvlm,phrase_65225796.pt,2,between,direct,No,,book,sports ball
+cogvlm,phrase_65225796.pt,3,between,direct,No.,,bench,cow
+cogvlm,phrase_65225796.pt,4,between,direct,Yes.,,computer keyboard,skateboard
+cogvlm,phrase_65225796.pt,5,between,direct,No,,toilet,potted plant
+cogvlm,phrase_65225796.pt,6,between,direct,No,,oven,vase
+cogvlm,phrase_65225796.pt,7,between,direct,No.,,bed,book
+cogvlm,phrase_65225796.pt,8,between,direct,Yes.,,cell phone,bear
+cogvlm,phrase_65225796.pt,9,between,direct,No,,sports ball,refrigerator
+cogvlm,phrase_65225796.pt,10,between,direct,Yes,,baseball bat,dog
+cogvlm,phrase_65225796.pt,11,between,direct,No.,,orange,traffic light
+cogvlm,phrase_65225796.pt,12,between,direct,Yes.,,teddy bear,orange
+cogvlm,phrase_65225796.pt,13,between,direct,Yes,,skis,tennis racket
+cogvlm,phrase_65225796.pt,14,between,direct,Yes.,,zebra,bicycle
+cogvlm,phrase_65225796.pt,15,between,direct,No.,,sheep,computer mouse
+cogvlm,phrase_65225796.pt,16,between,direct,No.,,cell phone,orange
+cogvlm,phrase_65225796.pt,17,between,direct,Yes.,,knife,umbrella
+cogvlm,phrase_65225796.pt,18,between,direct,No.,,motorcycle,carrot
+cogvlm,phrase_65225796.pt,19,between,direct,Yes.,,traffic light,horse
+cogvlm,phrase_65225796.pt,20,between,direct,Yes,,surfboard,tv
+cogvlm,phrase_65225796.pt,21,between,direct,Yes.,,carrot,truck
+cogvlm,phrase_65225796.pt,22,between,direct,Yes,,giraffe,fire hydrant
+cogvlm,phrase_65225796.pt,23,between,direct,Yes.,,elephant,toaster
+cogvlm,phrase_65225796.pt,24,between,direct,Yes,,bowl,dog
+cogvlm,phrase_65225796.pt,25,between,direct,Yes,,bench,motorcycle
+cogvlm,phrase_65225796.pt,26,between,direct,No,,frisbee,handbag
+cogvlm,phrase_65225796.pt,27,between,direct,Yes.,,skis,cat
+cogvlm,phrase_65225796.pt,28,between,direct,Yes.,,surfboard,spoon
+cogvlm,phrase_65225796.pt,29,between,direct,No.,,bicycle,bus
+cogvlm,phrase_65225796.pt,30,between,direct,No,,car,laptop
+cogvlm,phrase_65225796.pt,31,between,direct,Yes.,,frisbee,cat
+cogvlm,phrase_65225796.pt,32,between,direct,No,,skis,motorcycle
+cogvlm,phrase_65225796.pt,33,between,direct,Yes.,,toilet,cat
+cogvlm,phrase_65225796.pt,34,between,direct,Yes.,,snowboard,boat
+cogvlm,phrase_65225796.pt,35,between,direct,Yes.,,broccoli,bird
+cogvlm,phrase_65225796.pt,36,between,direct,Yes,,scissors,airplane
+cogvlm,phrase_65225796.pt,37,between,direct,Yes.,,bowl,banana
+cogvlm,phrase_65225796.pt,38,between,direct,No,,baseball glove,bicycle
+cogvlm,phrase_65225796.pt,39,between,direct,No,,microwave,skis
+cogvlm,phrase_65225796.pt,40,between,direct,Yes.,,banana,stop sign
+cogvlm,phrase_65225796.pt,41,between,direct,Yes,,oven,snowboard
+cogvlm,phrase_65225796.pt,42,between,direct,Yes.,,giraffe,tie
+cogvlm,phrase_65225796.pt,43,between,direct,Yes,,parking meter,toilet
+cogvlm,phrase_65225796.pt,44,between,direct,Yes.,,banana,fork
+cogvlm,phrase_65225796.pt,45,between,direct,No,,laptop,broccoli
+cogvlm,phrase_65225796.pt,46,between,direct,Yes.,,orange,toothbrush
+cogvlm,phrase_65225796.pt,47,between,direct,Yes.,,baseball bat,boat
+cogvlm,phrase_65225796.pt,48,between,direct,No,,snowboard,skateboard
+cogvlm,phrase_65225796.pt,49,between,direct,Yes.,,book,dog
+cogvlm,phrase_65225796.pt,50,between,direct,No.,,chair,pizza
+cogvlm,phrase_65225796.pt,51,between,direct,No,,suitcase,train
+cogvlm,phrase_65225796.pt,52,between,direct,Yes.,,refrigerator,sports ball
+cogvlm,phrase_65225796.pt,53,between,direct,No,,baseball bat,sandwich
+cogvlm,phrase_65225796.pt,54,between,direct,Yes.,,potted plant,fork
+cogvlm,phrase_65225796.pt,55,between,direct,Yes,,clock,cow
+cogvlm,phrase_65225796.pt,56,between,direct,Yes.,,skateboard,motorcycle
+cogvlm,phrase_65225796.pt,57,between,direct,Yes,,orange,bottle
+cogvlm,phrase_65225796.pt,58,between,direct,Yes,,backpack,wine glass
+cogvlm,phrase_65225796.pt,59,between,direct,Yes,,surfboard,handbag
+cogvlm,phrase_65225796.pt,60,between,direct,Yes,,frisbee,broccoli
+cogvlm,phrase_65225796.pt,61,between,direct,Yes,,cell phone,dog
+cogvlm,phrase_65225796.pt,62,between,direct,Yes.,,chair,tennis racket
+cogvlm,phrase_65225796.pt,63,between,direct,No,,couch,tv remote
+cogvlm,phrase_65225796.pt,64,between,direct,Yes,,donut,knife
+cogvlm,phrase_65225796.pt,65,between,direct,No,,tv remote,laptop
+cogvlm,phrase_65225796.pt,66,between,direct,Yes,,traffic light,pizza
+cogvlm,phrase_65225796.pt,67,between,direct,Yes,,motorcycle,cat
+cogvlm,phrase_65225796.pt,68,between,direct,No,,snowboard,bottle
+cogvlm,phrase_65225796.pt,69,between,direct,No.,,chair,umbrella
+cogvlm,phrase_65225796.pt,70,between,direct,Yes,,fork,hot dog
+cogvlm,phrase_65225796.pt,71,between,direct,Yes,,clock,skateboard
+cogvlm,phrase_65225796.pt,72,between,direct,Yes,,potted plant,tv
+cogvlm,phrase_65225796.pt,73,between,direct,No.,,laptop,computer keyboard
+cogvlm,phrase_65225796.pt,74,between,direct,Yes.,,broccoli,dog
+cogvlm,phrase_65225796.pt,75,between,direct,No,,tv,traffic light
+cogvlm,phrase_65225796.pt,76,between,direct,No.,,cell phone,parking meter
+cogvlm,phrase_65225796.pt,77,between,direct,No.,,fork,snowboard
+cogvlm,phrase_65225796.pt,78,between,direct,No.,,cow,carrot
+cogvlm,phrase_65225796.pt,79,between,direct,No.,,truck,bus
+cogvlm,phrase_65225796.pt,80,between,direct,No.,,toaster,fire hydrant
+cogvlm,phrase_65225796.pt,81,between,direct,Yes.,,bear,pizza
+cogvlm,phrase_65225796.pt,82,between,direct,Yes.,,pizza,frisbee
+cogvlm,phrase_65225796.pt,83,between,direct,No,,oven,donut
+cogvlm,phrase_65225796.pt,84,between,direct,Yes.,,refrigerator,motorcycle
+cogvlm,phrase_65225796.pt,85,between,direct,No,,book,tie
+cogvlm,phrase_65225796.pt,86,between,direct,No,,hair drier,parking meter
+cogvlm,phrase_65225796.pt,87,between,direct,Yes,,tv,truck
+cogvlm,phrase_65225796.pt,88,between,direct,No.,,teddy bear,microwave
+cogvlm,phrase_65225796.pt,89,between,direct,Yes.,,clock,giraffe
+cogvlm,phrase_65225796.pt,90,between,direct,Yes.,,person,refrigerator
+cogvlm,phrase_65225796.pt,91,between,direct,Yes.,,tv,cow
+cogvlm,phrase_65225796.pt,92,between,direct,Yes.,,microwave,cow
+cogvlm,phrase_65225796.pt,93,between,direct,Yes,,fire hydrant,tv remote
+cogvlm,phrase_65225796.pt,94,between,direct,Yes,,donut,clock
+cogvlm,phrase_65225796.pt,95,between,direct,No.,,baseball glove,sandwich
+cogvlm,phrase_65225796.pt,96,between,direct,Yes.,,hair drier,computer mouse
+cogvlm,phrase_65225796.pt,97,between,direct,No.,,skateboard,bear
+cogvlm,phrase_65225796.pt,98,between,direct,Yes.,,refrigerator,orange
+cogvlm,phrase_65225796.pt,99,between,direct,No.,,clock,dining table

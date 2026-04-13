@@ -1,0 +1,19 @@
+tensor_index,phrase,example_type
+2,above,positive
+6,above,negative
+7,above,negative
+8,above,negative
+13,above,positive
+18,above,positive
+1,below,negative
+2,below,negative
+3,below,negative
+6,below,positive
+8,below,positive
+9,below,positive
+1,to the left of,positive
+2,to the left of,positive
+3,to the left of,positive
+5,to the left of,negative
+6,to the left of,negative
+8,to the left of,negative

@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_76551336.pt,0,to the left of,direct,Yes,,giraffe,hair drier
+cogvlm,phrase_76551336.pt,1,to the left of,direct,Yes.,,broccoli,skis
+cogvlm,phrase_76551336.pt,2,to the left of,direct,Yes,,book,sports ball
+cogvlm,phrase_76551336.pt,3,to the left of,direct,Yes,,bench,cow
+cogvlm,phrase_76551336.pt,4,to the left of,direct,No,,computer keyboard,skateboard
+cogvlm,phrase_76551336.pt,5,to the left of,direct,Yes,,toilet,potted plant
+cogvlm,phrase_76551336.pt,6,to the left of,direct,No.,,oven,vase
+cogvlm,phrase_76551336.pt,7,to the left of,direct,No,,bed,book
+cogvlm,phrase_76551336.pt,8,to the left of,direct,Yes,,cell phone,bear
+cogvlm,phrase_76551336.pt,9,to the left of,direct,Yes,,sports ball,refrigerator
+cogvlm,phrase_76551336.pt,10,to the left of,direct,No,,baseball bat,dog
+cogvlm,phrase_76551336.pt,11,to the left of,direct,No.,,orange,traffic light
+cogvlm,phrase_76551336.pt,12,to the left of,direct,Yes,,teddy bear,orange
+cogvlm,phrase_76551336.pt,13,to the left of,direct,Yes,,skis,tennis racket
+cogvlm,phrase_76551336.pt,14,to the left of,direct,Yes.,,zebra,bicycle
+cogvlm,phrase_76551336.pt,15,to the left of,direct,Yes,,sheep,computer mouse
+cogvlm,phrase_76551336.pt,16,to the left of,direct,No,,cell phone,orange
+cogvlm,phrase_76551336.pt,17,to the left of,direct,No,,knife,umbrella
+cogvlm,phrase_76551336.pt,18,to the left of,direct,No,,motorcycle,carrot
+cogvlm,phrase_76551336.pt,19,to the left of,direct,No,,traffic light,horse
+cogvlm,phrase_76551336.pt,20,to the left of,direct,Yes.,,surfboard,tv
+cogvlm,phrase_76551336.pt,21,to the left of,direct,Yes.,,carrot,truck
+cogvlm,phrase_76551336.pt,22,to the left of,direct,Yes,,giraffe,fire hydrant
+cogvlm,phrase_76551336.pt,23,to the left of,direct,Yes,,elephant,toaster
+cogvlm,phrase_76551336.pt,24,to the left of,direct,No.,,bowl,dog
+cogvlm,phrase_76551336.pt,25,to the left of,direct,Yes,,bench,motorcycle
+cogvlm,phrase_76551336.pt,26,to the left of,direct,Yes,,frisbee,handbag
+cogvlm,phrase_76551336.pt,27,to the left of,direct,No,,skis,cat
+cogvlm,phrase_76551336.pt,28,to the left of,direct,Yes,,surfboard,spoon
+cogvlm,phrase_76551336.pt,29,to the left of,direct,Yes,,bicycle,bus
+cogvlm,phrase_76551336.pt,30,to the left of,direct,Yes,,car,laptop
+cogvlm,phrase_76551336.pt,31,to the left of,direct,Yes,,frisbee,cat
+cogvlm,phrase_76551336.pt,32,to the left of,direct,Yes,,skis,motorcycle
+cogvlm,phrase_76551336.pt,33,to the left of,direct,Yes.,,toilet,cat
+cogvlm,phrase_76551336.pt,34,to the left of,direct,Yes,,snowboard,boat
+cogvlm,phrase_76551336.pt,35,to the left of,direct,Yes.,,broccoli,bird
+cogvlm,phrase_76551336.pt,36,to the left of,direct,Yes.,,scissors,airplane
+cogvlm,phrase_76551336.pt,37,to the left of,direct,Yes,,bowl,banana
+cogvlm,phrase_76551336.pt,38,to the left of,direct,Yes,,baseball glove,bicycle
+cogvlm,phrase_76551336.pt,39,to the left of,direct,Yes,,microwave,skis
+cogvlm,phrase_76551336.pt,40,to the left of,direct,Yes,,banana,stop sign
+cogvlm,phrase_76551336.pt,41,to the left of,direct,No.,,oven,snowboard
+cogvlm,phrase_76551336.pt,42,to the left of,direct,Yes.,,giraffe,tie
+cogvlm,phrase_76551336.pt,43,to the left of,direct,Yes.,,parking meter,toilet
+cogvlm,phrase_76551336.pt,44,to the left of,direct,No,,banana,fork
+cogvlm,phrase_76551336.pt,45,to the left of,direct,Yes,,laptop,broccoli
+cogvlm,phrase_76551336.pt,46,to the left of,direct,No,,orange,toothbrush
+cogvlm,phrase_76551336.pt,47,to the left of,direct,Yes,,baseball bat,boat
+cogvlm,phrase_76551336.pt,48,to the left of,direct,Yes,,snowboard,skateboard
+cogvlm,phrase_76551336.pt,49,to the left of,direct,No.,,book,dog
+cogvlm,phrase_76551336.pt,50,to the left of,direct,Yes,,chair,pizza
+cogvlm,phrase_76551336.pt,51,to the left of,direct,No.,,suitcase,train
+cogvlm,phrase_76551336.pt,52,to the left of,direct,Yes,,refrigerator,sports ball
+cogvlm,phrase_76551336.pt,53,to the left of,direct,No,,baseball bat,sandwich
+cogvlm,phrase_76551336.pt,54,to the left of,direct,No,,potted plant,fork
+cogvlm,phrase_76551336.pt,55,to the left of,direct,Yes,,clock,cow
+cogvlm,phrase_76551336.pt,56,to the left of,direct,Yes.,,skateboard,motorcycle
+cogvlm,phrase_76551336.pt,57,to the left of,direct,No.,,orange,bottle
+cogvlm,phrase_76551336.pt,58,to the left of,direct,Yes,,backpack,wine glass
+cogvlm,phrase_76551336.pt,59,to the left of,direct,Yes,,surfboard,handbag
+cogvlm,phrase_76551336.pt,60,to the left of,direct,No,,frisbee,broccoli
+cogvlm,phrase_76551336.pt,61,to the left of,direct,Yes,,cell phone,dog
+cogvlm,phrase_76551336.pt,62,to the left of,direct,No,,chair,tennis racket
+cogvlm,phrase_76551336.pt,63,to the left of,direct,No.,,couch,tv remote
+cogvlm,phrase_76551336.pt,64,to the left of,direct,No,,donut,knife
+cogvlm,phrase_76551336.pt,65,to the left of,direct,Yes.,,tv remote,laptop
+cogvlm,phrase_76551336.pt,66,to the left of,direct,No.,,traffic light,pizza
+cogvlm,phrase_76551336.pt,67,to the left of,direct,No.,,motorcycle,cat
+cogvlm,phrase_76551336.pt,68,to the left of,direct,Yes,,snowboard,bottle
+cogvlm,phrase_76551336.pt,69,to the left of,direct,Yes,,chair,umbrella
+cogvlm,phrase_76551336.pt,70,to the left of,direct,Yes,,fork,hot dog
+cogvlm,phrase_76551336.pt,71,to the left of,direct,Yes,,clock,skateboard
+cogvlm,phrase_76551336.pt,72,to the left of,direct,Yes,,potted plant,tv
+cogvlm,phrase_76551336.pt,73,to the left of,direct,No,,laptop,computer keyboard
+cogvlm,phrase_76551336.pt,74,to the left of,direct,Yes,,broccoli,dog
+cogvlm,phrase_76551336.pt,75,to the left of,direct,Yes.,,tv,traffic light
+cogvlm,phrase_76551336.pt,76,to the left of,direct,Yes,,cell phone,parking meter
+cogvlm,phrase_76551336.pt,77,to the left of,direct,No,,fork,snowboard
+cogvlm,phrase_76551336.pt,78,to the left of,direct,Yes,,cow,carrot
+cogvlm,phrase_76551336.pt,79,to the left of,direct,Yes,,truck,bus
+cogvlm,phrase_76551336.pt,80,to the left of,direct,No,,toaster,fire hydrant
+cogvlm,phrase_76551336.pt,81,to the left of,direct,Yes.,,bear,pizza
+cogvlm,phrase_76551336.pt,82,to the left of,direct,No,,pizza,frisbee
+cogvlm,phrase_76551336.pt,83,to the left of,direct,No.,,oven,donut
+cogvlm,phrase_76551336.pt,84,to the left of,direct,Yes,,refrigerator,motorcycle
+cogvlm,phrase_76551336.pt,85,to the left of,direct,Yes,,book,tie
+cogvlm,phrase_76551336.pt,86,to the left of,direct,Yes,,hair drier,parking meter
+cogvlm,phrase_76551336.pt,87,to the left of,direct,Yes,,tv,truck
+cogvlm,phrase_76551336.pt,88,to the left of,direct,Yes,,teddy bear,microwave
+cogvlm,phrase_76551336.pt,89,to the left of,direct,Yes,,clock,giraffe
+cogvlm,phrase_76551336.pt,90,to the left of,direct,No,,person,refrigerator
+cogvlm,phrase_76551336.pt,91,to the left of,direct,Yes.,,tv,cow
+cogvlm,phrase_76551336.pt,92,to the left of,direct,Yes,,microwave,cow
+cogvlm,phrase_76551336.pt,93,to the left of,direct,Yes,,fire hydrant,tv remote
+cogvlm,phrase_76551336.pt,94,to the left of,direct,No.,,donut,clock
+cogvlm,phrase_76551336.pt,95,to the left of,direct,Yes,,baseball glove,sandwich
+cogvlm,phrase_76551336.pt,96,to the left of,direct,Yes,,hair drier,computer mouse
+cogvlm,phrase_76551336.pt,97,to the left of,direct,Yes,,skateboard,bear
+cogvlm,phrase_76551336.pt,98,to the left of,direct,Yes,,refrigerator,orange
+cogvlm,phrase_76551336.pt,99,to the left of,direct,Yes,,clock,dining table

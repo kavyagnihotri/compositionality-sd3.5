@@ -1,0 +1,4 @@
+comparison,dataset_1,dataset_2,fid_score,num_images,timestamp
+Standard_vs_COCO,Standard SD-3.5,COCO Ground-Truth,84.28175231665932,1000,20260214_025842
+Custom_vs_COCO,Custom SD-3.5,COCO Ground-Truth,83.50401711509392,1000,20260214_025842
+CogVLM_vs_COCO,CogVLM Custom SD-3.5,COCO Ground-Truth,83.82283700028256,1000,20260307_211317
