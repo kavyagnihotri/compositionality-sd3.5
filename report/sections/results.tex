@@ -455,7 +455,7 @@ Despite this accurate breakdown, it ultimately concludes that the bed is \textit
 Additionally, during inverse prompting modes, the VLM frequently produced excessively verbose reasoning outputs. When the final answer was cut off due to token limits, this resulted in an automatic ``Ambiguous'' label across all models, though this specific failure occurred most frequently when evaluating the standard SD outputs.
 
 \subsection{Image Fidelity (FID) Scores}
-To ensure that improving compositional alignment did not degrade overall image quality, FID scores were calculated against 5,000 COCO validation images. As shown in Table \ref{tab:fid}, the custom text encoders maintained parity with—and even marginally outperformed—the standard model's generative quality, likely due to more precise feature alignment during the denoising process.
+To ensure that improving compositional alignment did not degrade overall image quality, FID scores were calculated against 5,000 COCO validation images. As shown in Table \ref{tab:fid}, the custom text encoders maintained parity with and even marginally outperformed the standard model's generative quality, likely due to more precise feature alignment during the denoising process.
 
 \begin{table}[ht]
 \caption{FID Scores Against COCO Ground-Truth Validation Set}
