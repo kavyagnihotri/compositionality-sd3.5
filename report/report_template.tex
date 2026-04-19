@@ -116,13 +116,13 @@
 % Remove it (just {}) if you do not need this facility.
 
 %\printAffiliationsAndNotice{}  % leave blank if no need to mention equal contribution
-\printAffiliationsAndNotice{\icmlEqualContribution} % otherwise use the standard text.
+\printAffiliationsAndNotice{} % otherwise use the standard text.
 
 % \begin{abstract}
 % {\color{red}Put your abstract here. Abstracts typically start with a sentence motivating why the subject is interesting. Then mention the data, methodology or methods you are working with, and describe results. }
 % \end{abstract}
 \begin{abstract}
-Modern text-to-image diffusion models struggle with compositional reasoning because standard text encoders lack strict spatial grounding. In this work, we investigate whether targeted text-encoder interventions can resolve these spatial deficits without the prohibitive computational cost of full-model retraining. We perform a modular ``weight surgery'' on Stable Diffusion 3.5 (SD3.5), replacing its default CLIP-L encoder with two compositionally-aware variants: CLIC RedCaps and CLIC CogVLM. Evaluating across a standardized benchmark of over 1,600 relational prompts using Qwen3-VL-30B and manual annotation, we demonstrate substantial improvements in spatial accuracy—particularly in complex directional and containment tasks—while improving global generative image fidelity (FID $\approx$ 57.9 compared to the baseline 60.6). Furthermore, our error analysis uncovers a ``Reasoning-Output Paradox'' within automated VLM evaluators and highlights the persistent dominance of semantic priors over structural nouns. Ultimately, our findings establish that visual compositionality relies heavily on text-encoder grounding rather than mere model scale, providing a highly efficient framework to enhance spatial reliability in production-ready diffusion pipelines.
+Modern text-to-image diffusion models struggle with compositional reasoning because standard text encoders lack strict spatial grounding. In this work, we investigate whether targeted text-encoder interventions can resolve these spatial deficits without the prohibitive computational cost of full-model retraining. We perform a modular ``weight surgery'' on Stable Diffusion 3.5 (SD3.5), replacing its default CLIP-L encoder with two compositionally-aware variants: CLIC RedCaps and CLIC CogVLM. Evaluating across a standardized benchmark of over 1,300 relational prompts using Qwen3-VL-30B and manual annotation, we demonstrate substantial improvements in spatial accuracy—particularly in complex directional and containment tasks—while improving global generative image fidelity (FID $\approx$ 57.9 compared to the baseline 60.6). Furthermore, our error analysis uncovers a ``Reasoning-Output Paradox'' within automated VLM evaluators and highlights the persistent dominance of semantic priors over structural nouns. Ultimately, our findings establish that visual compositionality relies heavily on text-encoder grounding rather than mere model scale, providing a highly efficient framework to enhance spatial reliability in production-ready diffusion pipelines.
 \end{abstract}
 
 \section{Introduction}\label{sec:intro}

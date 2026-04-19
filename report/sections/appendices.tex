@@ -2,6 +2,158 @@
 % \label{sec:appendix_distributions}
 % This appendix provides the complete distribution mapping between manual human annotations and the majority-voted Qwen3-VL-30B predictions. These distributions highlight the specific categorical shifts where the VLM evaluator and human annotators diverged.
 
+\subsection{Classes Taken from Self-Bench for Prompt Generation}
+\label{sec:appendix_class_pairs}
+\cref{tab:class_pairs}, \cref{tab:class_pairs_2} and \cref{tab:class_pairs_3} lists the unique class pairs used for generating the different prompts using the phrases ``above'', ``below'', ``to the left of'', ``to the right of'', ``between'', ``behind'', ``closeby'', ``far from'',``in front of'', ``on top of'', ``under'', ``over'', and ``without''.
+
+% \onecolumn
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{cc}
+\toprule
+Class 1 & Class 2 \\
+\midrule
+giraffe & hair drier \\
+broccoli & skis \\
+book & sports ball \\
+bench & cow \\
+computer keyboard & skateboard \\
+toilet & potted plant \\
+oven & vase \\
+bed & book \\
+cell phone & bear \\
+sports ball & refrigerator \\
+baseball bat & dog \\
+orange & traffic light \\
+teddy bear & orange \\
+skis & tennis racket \\
+zebra & bicycle \\
+sheep & computer mouse \\
+cell phone & orange \\
+knife & umbrella \\
+motorcycle & carrot \\
+traffic light & horse \\
+surfboard & tv \\
+\bottomrule
+\end{tabular}
+\caption{Unique class pairs used for generating the different prompts (Continued).}
+\label{tab:class_pairs}
+\end{table}
+
+\begin{table}
+\centering
+\begin{tabular}{cc}
+\toprule
+Class 1 & Class 2 \\
+\midrule
+carrot & truck \\
+giraffe & fire hydrant \\
+elephant & toaster \\
+bowl & dog \\
+bench & motorcycle \\
+frisbee & handbag \\
+skis & cat \\
+surfboard & spoon \\
+bicycle & bus \\
+car & laptop \\
+frisbee & cat \\
+skis & motorcycle \\
+toilet & cat \\
+snowboard & boat \\
+broccoli & bird \\
+scissors & airplane \\
+bowl & banana \\
+baseball glove & bicycle \\
+microwave & skis \\
+banana & stop sign \\
+oven & snowboard \\
+giraffe & tie \\
+parking meter & toilet \\
+banana & fork \\
+laptop & broccoli \\
+orange & toothbrush \\
+baseball bat & boat \\
+snowboard & skateboard \\
+book & dog \\
+chair & pizza \\
+suitcase & train \\
+refrigerator & sports ball \\
+baseball bat & sandwich \\
+potted plant & fork \\
+clock & cow \\
+skateboard & motorcycle \\
+orange & bottle \\
+backpack & wine glass \\
+surfboard & handbag \\
+frisbee & broccoli \\
+cell phone & dog \\
+chair & tennis racket \\
+couch & tv remote \\
+donut & knife \\
+tv remote & laptop \\
+traffic light & pizza \\
+motorcycle & cat \\
+snowboard & bottle \\
+chair & umbrella \\
+\bottomrule
+\end{tabular}
+\caption{Unique class pairs used for generating the different prompts.}
+\label{tab:class_pairs_2}
+\end{table}
+
+\onecolumn
+\begin{table}
+\centering
+\begin{tabular}{cc}
+\toprule
+Class 1 & Class 2 \\
+\midrule
+fork & hot dog \\
+clock & skateboard \\
+potted plant & tv \\
+laptop & computer keyboard \\
+broccoli & dog \\
+tv & traffic light \\
+cell phone & parking meter \\
+fork & snowboard \\
+cow & carrot \\
+truck & bus \\
+toaster & fire hydrant \\
+bear & pizza \\
+pizza & frisbee \\
+oven & donut \\
+refrigerator & motorcycle \\
+book & tie \\
+hair drier & parking meter \\
+tv & truck \\
+teddy bear & microwave \\
+clock & giraffe \\
+person & refrigerator \\
+tv & cow \\
+microwave & cow \\
+fire hydrant & tv remote \\
+donut & clock \\
+baseball glove & sandwich \\
+hair drier & computer mouse \\
+skateboard & bear \\
+refrigerator & orange \\
+clock & dining table \\
+\bottomrule
+\end{tabular}
+\caption{Unique class pairs used for generating the different prompts (Continued).}
+\label{tab:class_pairs_3}
+\end{table}
+
+
+% \subsection{Phrases and Spatial Prepositions Used for Prompt Generation}
+% \label{sec:appendix_phrases}
+% \cref{tab:phrases} lists the unique phrases and spatial prepositions used for generating the different prompts.
+
+% \begin{table}[ht]
+% \centering
+% \begin{tabular}{c}
+
 
 \subsection{Weight Comparison for RedCaps and CogVLM CLIC}\label{sec:weights}
 Table \ref{tab:weights} gives the Forbenius Norm of the difference between the original CLIP-L text encoder and the two CLIC variants layer by layer.
