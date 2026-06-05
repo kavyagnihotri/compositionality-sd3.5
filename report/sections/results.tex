@@ -1,4 +1,4 @@
-In this section, we present the quantitative and qualitative outcomes of our experiments. We compare the baseline Stable Diffusion 3.5 Large Turbo (SD3.5) model against the CLIC RedCaps and CLIC CogVLM variants across a comprehensive set of spatial and relational benchmarks. Our analysis utilizes a multi-modal approach, combining large-scale automated VLM assessment, granular manual annotation to ensure evaluator reliability, and GenEval2 Soft-TIFA benchmarking to contextualize our findings within a broader compositionality framework. 
+In this section, we present the quantitative and qualitative outcomes of our experiments. We compare the baseline Stable Diffusion 3.5 Large Turbo (SD3.5) model against the CLIC RedCaps and CLIC CogVLM variants across a comprehensive set of spatial and relational benchmarks. Our analysis utilizes a multi-modal approach, combining granular manual annotation to ensure evaluator reliability, large-scale automated VLM assessment, and GenEval2 Soft-TIFA benchmarking to contextualize our findings within a broader compositionality framework.
 
 \subsection{Exploratory Pilot Findings}
 Prior to the structured benchmarking phase, our unconstrained pilot exploration revealed several notable failure modes inherent to the baseline SD3.5 model. Examples of these anomalies are illustrated in \cref{fig:comparison}.
@@ -143,13 +143,13 @@ Following the pilot, we utilized a standardized taxonomy derived from the Self-B
 % \end{table}
 
 \begin{table}[ht]
-\caption{Comparative accuracy across SD3.5 model variants using Majority-Voted VLM Scoring.}
+\caption{Accuracy (\%) across SD3.5 Large Turbo variants using majority-voted VLM scoring. A dash indicates automated scoring was excluded due to persistent evaluator inconsistency for that phrase--variant combination; manual results appear in Table~\ref{tab:manual}. ``Closeby'' and ``far from'' are omitted from automated evaluation because VLM agreement on these subjective phrases was too low for reliable scoring (see Section~\ref{sec:conclusion}).}
 \label{tab:accuracy}
 \begin{center}
 \begin{small}
 \begin{tabular}{lccc}
 \toprule
-\textbf{Phrase} & \textbf{Standard SD3.5} & \textbf{RedCaps SD} & \textbf{CogVLM SD} \\
+\textbf{Phrase} & \textbf{Standard} & \textbf{RedCaps} & \textbf{CogVLM} \\
 \midrule
 above           & 72.73 & 85.00 & 90.00 \\
 below           & 70.00 & 75.00 & 90.00 \\

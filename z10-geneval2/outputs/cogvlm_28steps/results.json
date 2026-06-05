@@ -1,0 +1,6 @@
+{
+  "variant": "cogvlm",
+  "num_prompts": 800,
+  "soft_tifa_am": 56.5163,
+  "soft_tifa_gm": 10.5119
+}
