@@ -1,4 +1,4 @@
-In this section, we present the quantitative and qualitative outcomes of our experiments. We compare the baseline Stable Diffusion 3.5 Large Turbo (SD3.5) model against the CLIC RedCaps and CLIC CogVLM variants across a comprehensive set of spatial and relational benchmarks. Our analysis utilizes a multi-modal approach, combining large-scale automated VLM assessment, granular manual annotation to ensure evaluator reliability, and Fréchet Inception Distance for generative fidelity tracking.
+In this section, we present the quantitative and qualitative outcomes of our experiments. We compare the baseline Stable Diffusion 3.5 Large Turbo (SD3.5) model against the CLIC RedCaps and CLIC CogVLM variants across a comprehensive set of spatial and relational benchmarks. Our analysis utilizes a multi-modal approach, combining large-scale automated VLM assessment, granular manual annotation to ensure evaluator reliability, and GenEval2 Soft-TIFA benchmarking to contextualize our findings within a broader compositionality framework. 
 
 \subsection{Exploratory Pilot Findings}
 Prior to the structured benchmarking phase, our unconstrained pilot exploration revealed several notable failure modes inherent to the baseline SD3.5 model. Examples of these anomalies are illustrated in \cref{fig:comparison}.
@@ -231,21 +231,27 @@ Despite this accurate breakdown, it ultimately concludes that the bed is \textit
 
 Additionally, during inverse prompting modes, the VLM frequently produced excessively verbose reasoning outputs. When the final answer was cut off due to token limits, this resulted in an automatic ``Ambiguous'' label across all models, though this specific failure occurred most frequently when evaluating the standard SD outputs.
 
-\subsection{Image Fidelity (FID) Scores}
-To ensure that improving compositional alignment did not degrade overall image quality, FID scores were calculated against 5,000 COCO validation images. As shown in Table \ref{tab:fid}, the custom text encoders maintained parity with and even marginally outperformed the standard model's generative quality, likely due to more precise feature alignment during the denoising process.
+\subsection{GenEval2 Soft-TIFA Benchmark}
+To complement our spatial-relation evaluation with a broader, question-answering-based compositional metric, we evaluated all three variants on the GenEval2 benchmark \citep{kamath2025geneval} using Qwen3-VL-8B-Instruct as the oracle. We report the arithmetic mean (AM, atom-level) and geometric mean (GM, prompt-level) of per-prompt Soft-TIFA scores in Table \ref{tab:tifa}.
 
 \begin{table}[ht]
-\caption{FID Scores Against COCO Ground-Truth Validation Set}
-\label{tab:fid}
+\caption{Soft-TIFA scores on GenEval2 (800 prompts, Qwen3-VL-8B oracle). AM = arithmetic mean (atom-level); GM = geometric mean (prompt-level). $^\dagger$Paper-reported values for SD3.5-Large (non-Turbo).}
+\label{tab:tifa}
 \begin{center}
+\begin{small}
 \begin{tabular}{lcc}
 \toprule
-\textbf{Model} & \textbf{FID Score}  \\
+\textbf{Model} & \textbf{AM (\%)} & \textbf{GM (\%)} \\
 \midrule
-Standard SD3.5  & 60.60 \\
-CLIC RedCaps    & 57.92 \\
-CogVLM Custom   & 57.86 \\
+SD3.5-Large$^\dagger$ \citep{kamath2025geneval} & 69.70 & 22.80 \\
+\midrule
+Standard SD3.5 (Turbo)  & 55.48 & 8.91  \\
+CLIC RedCaps (Turbo)    & 56.34 & \textbf{10.68} \\
+CogVLM (Turbo)          & \textbf{56.52} & 10.51 \\
 \bottomrule
 \end{tabular}
+\end{small}
 \end{center}
 \end{table}
+
+The 14 pp gap in AM between SD3.5-Large and our Turbo baseline is consistent with the known quality-speed trade-off of distillation. The GM gap is even starker (22.80 vs.\ 8.91), reflecting that the Turbo model frequently fails entire prompts rather than individual atoms. Within our Turbo variants, both CLIC variants improve over the baseline: CogVLM achieves the highest AM ($56.52\%$) and RedCaps achieves the highest GM ($10.68\%$), indicating that the two variants differ in whether they more reliably handle individual atoms or complete prompts.

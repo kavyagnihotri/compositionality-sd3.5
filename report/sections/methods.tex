@@ -25,7 +25,7 @@ Before formalizing the evaluation dataset, an unconstrained exploratory phase wa
 To explicitly isolate the linguistic understanding of the text encoder from the generative capacity of the diffusion transformer, we utilized the Self-Bench \citep{jeong2025diffusionclassifiersunderstandcompositionality} framework.
 
 \begin{enumerate}
-    \item \textbf{Class Extraction:} We extracted 100 unqiue class pairs (Appendix \ref{sec:appendix_class_pairs}), such that they are visually distinct object classes (e.g., ``giraffe'', ``book'', ``broccoli'') and to ensure that any failure in the final image could be confidently attributed to a misunderstanding of the spatial relationship, rather than an inability to render the objects themselves.
+    \item \textbf{Class Extraction:} We extracted 100 unique class pairs (Appendix \ref{sec:appendix_class_pairs}), such that they are visually distinct object classes (e.g., ``giraffe'', ``book'', ``broccoli'') and to ensure that any failure in the final image could be confidently attributed to a misunderstanding of the spatial relationship, rather than an inability to render the objects themselves.
     \item \textbf{Prompt Taxonomy:} A comprehensive benchmark of over 1,300 unique prompts was constructed across 13 core spatial and relational phrases: above, below, to the left of, to the right of, between, behind, closeby, far from, in front of, on top of, under, over, and without.
     \item \textbf{Template Structure:} Every prompt followed a rigid syntactic template: ``a photo of a [class1] [phrase] a [class2]''. For the phrase ``between'', we adapted the template to: ``a photo of a [class1] between [class2]s''. This strict standardization allowed for controlled, apples-to-apples comparisons across the baseline and custom model variants. 
 \end{enumerate}
@@ -78,6 +78,9 @@ To analyze the resulting dataset of over 3,000 generated images, we initially ev
 
 Within our evaluation framework, a generated image is categorized as ``Ambiguous'' when the spatial relationship between the prompted objects is visually confusing or indeterminate, preventing a strict ``Correct'' or ``Incorrect'' classification. In these cases, the objects themselves may be identifiable, but their physical arrangement, perspective, or interaction within the scene makes the targeted spatial preposition impossible to evaluate definitively. 
 
+\textbf{Manual Annotation}: To ground the automated metrics and ensure VLM reliability, a representative subset of 10 to 20 images per phrase - model combination was sampled for manual review. Each image was assigned one of three labels: Correct, Incorrect, or Ambiguous; which were then compared against the Qwen3-VL predictions to measure inter-evaluator agreement.
+
+
 % To consolidate the multi-modal assessment, we implemented a Majority Vote Consensus mechanism. For every generated image, the outputs from the three prompting strategies (Direct Query, Expert, and Inverse Logic) were normalized into a categorical label (Yes, No, or Ambiguous). The final VLM prediction for each image was determined by the label with the highest frequency across the strategies. In cases where only two strategies were available or a tie occurred, the most conservative label was prioritized to ensure benchmark rigor.
 
 \subsubsection{Majority Vote Consensus Mechanism}
@@ -87,14 +90,11 @@ Most spatial phrases were evaluated using all three styles (Direct Query, Expert
 
 To ensure rigorous benchmarking, we instituted a conservative tie-breaking protocol: in any instance lacking a clear majority—such as a three way split of [Correct, Incorrect, Ambiguous] across three prompts, or a conflicting [Correct, Incorrect] split for phrases with only two prompts the final prediction automatically defaulted to ``Ambiguous.'' This guarantees that the models are only credited with a correct generation when the automated evaluator demonstrates consistent, high-confidence agreement.
 
-\subsection{Manual Annotation and Fidelity Benchmarking}
-To ground the automated metrics and ensure VLM reliability, a comprehensive manual validation was conducted, comprising the following steps:
 
-\begin{enumerate}
-    \item \textbf{Sampling Strategy:} For each phrase and model combination, a representative subset of 10 to 20 images was sampled for rigorous manual review.
-    \item \textbf{Labeling Scheme:} Manual annotation classified images into three distinct categories: Correct, Incorrect, or Ambiguous. This process allowed for the calculation of inter-evaluator agreement with the automated Qwen3-VL predictions.
-    \item \textbf{FID Calculation:} General image fidelity was measured using the Fréchet Inception Distance (FID) via the \texttt{pytorch-fid} library. We generated 5,000 images per model variant using standard COCO \citep{lin2015microsoftcococommonobjects} validation captions. Following standard protocols, features were extracted using a pre-trained InceptionV3 network at the 2048-dimensional pooling layer with a batch size of 50. These distributions were then compared against the ground-truth COCO validation set to ensure that no overarching degradation in visual quality occurred as a side-effect of the encoder replacement.
-\end{enumerate}
+\subsection{GenEval2 Soft-TIFA Evaluation}
+We evaluated all three model variants on GenEval2 \citep{kamath2025geneval}, an 800-prompt benchmark measuring Text-to-Image faithfulness across primitive visual concepts (objects, attributes, counting, spatial relations, and verbs) with varying degrees of compositionality.
+
+Evaluation used the benchmark's recommended \emph{Soft-TIFA} method: for each prompt, a VQA oracle (Qwen3-VL-8B-Instruct) answers a fixed set of question--answer pairs about the generated image, producing a soft probability per question. We report two aggregate scores: the arithmetic mean (AM) of per-prompt scores, which estimates atom-level accuracy, and the geometric mean (GM), which estimates prompt-level accuracy and penalises any single failed atom more heavily. All three variants were evaluated on images generated with identical settings (28 inference steps, guidance scale 4.0, seed 42).
 
 \subsection{Hardware and Computational Environment}
 All experiments were executed on the University of Tübingen's high-performance cluster, utilizing NVIDIA A100 (40GB) GPUs. The software environment was built utilizing \texttt{diffusers} version 0.24.0 and \texttt{transformers} version 4.35.0. The total computational footprint including exploratory pilots, weight conversion, large-scale generation, and VLM inference amounted to approximately 150 GPU hours.
