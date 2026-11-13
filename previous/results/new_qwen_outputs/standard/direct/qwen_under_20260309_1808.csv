@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_53123201.pt,0,under,direct,Yes.,,giraffe,hair drier
+standard,phrase_53123201.pt,1,under,direct,No,,broccoli,skis
+standard,phrase_53123201.pt,2,under,direct,No,,book,sports ball
+standard,phrase_53123201.pt,3,under,direct,No,,bench,cow
+standard,phrase_53123201.pt,4,under,direct,No,,computer keyboard,skateboard
+standard,phrase_53123201.pt,5,under,direct,No,,toilet,potted plant
+standard,phrase_53123201.pt,6,under,direct,No,,oven,vase
+standard,phrase_53123201.pt,7,under,direct,No,,bed,book
+standard,phrase_53123201.pt,8,under,direct,No.,,cell phone,bear
+standard,phrase_53123201.pt,9,under,direct,No,,sports ball,refrigerator
+standard,phrase_53123201.pt,10,under,direct,No.,,baseball bat,dog
+standard,phrase_53123201.pt,11,under,direct,No,,orange,traffic light
+standard,phrase_53123201.pt,12,under,direct,No,,teddy bear,orange
+standard,phrase_53123201.pt,13,under,direct,No,,skis,tennis racket
+standard,phrase_53123201.pt,14,under,direct,No.,,zebra,bicycle
+standard,phrase_53123201.pt,15,under,direct,No,,sheep,computer mouse
+standard,phrase_53123201.pt,16,under,direct,No,,cell phone,orange
+standard,phrase_53123201.pt,17,under,direct,No,,knife,umbrella
+standard,phrase_53123201.pt,18,under,direct,No,,motorcycle,carrot
+standard,phrase_53123201.pt,19,under,direct,No,,traffic light,horse
+standard,phrase_53123201.pt,20,under,direct,No,,surfboard,tv
+standard,phrase_53123201.pt,21,under,direct,No,,carrot,truck
+standard,phrase_53123201.pt,22,under,direct,No,,giraffe,fire hydrant
+standard,phrase_53123201.pt,23,under,direct,No.,,elephant,toaster
+standard,phrase_53123201.pt,24,under,direct,No,,bowl,dog
+standard,phrase_53123201.pt,25,under,direct,No,,bench,motorcycle
+standard,phrase_53123201.pt,26,under,direct,No,,frisbee,handbag
+standard,phrase_53123201.pt,27,under,direct,No,,skis,cat
+standard,phrase_53123201.pt,28,under,direct,No,,surfboard,spoon
+standard,phrase_53123201.pt,29,under,direct,No,,bicycle,bus
+standard,phrase_53123201.pt,30,under,direct,No,,car,laptop
+standard,phrase_53123201.pt,31,under,direct,No,,frisbee,cat
+standard,phrase_53123201.pt,32,under,direct,No,,skis,motorcycle
+standard,phrase_53123201.pt,33,under,direct,No,,toilet,cat
+standard,phrase_53123201.pt,34,under,direct,No.,,snowboard,boat
+standard,phrase_53123201.pt,35,under,direct,No,,broccoli,bird
+standard,phrase_53123201.pt,36,under,direct,No,,scissors,airplane
+standard,phrase_53123201.pt,37,under,direct,No,,bowl,banana
+standard,phrase_53123201.pt,38,under,direct,No.,,baseball glove,bicycle
+standard,phrase_53123201.pt,39,under,direct,No,,microwave,skis
+standard,phrase_53123201.pt,40,under,direct,No,,banana,stop sign
+standard,phrase_53123201.pt,41,under,direct,No,,oven,snowboard
+standard,phrase_53123201.pt,42,under,direct,No.,,giraffe,tie
+standard,phrase_53123201.pt,43,under,direct,No,,parking meter,toilet
+standard,phrase_53123201.pt,44,under,direct,No,,banana,fork
+standard,phrase_53123201.pt,45,under,direct,No,,laptop,broccoli
+standard,phrase_53123201.pt,46,under,direct,No.,,orange,toothbrush
+standard,phrase_53123201.pt,47,under,direct,No.,,baseball bat,boat
+standard,phrase_53123201.pt,48,under,direct,No,,snowboard,skateboard
+standard,phrase_53123201.pt,49,under,direct,No,,book,dog
+standard,phrase_53123201.pt,50,under,direct,No,,chair,pizza
+standard,phrase_53123201.pt,51,under,direct,No,,suitcase,train
+standard,phrase_53123201.pt,52,under,direct,No.,,refrigerator,sports ball
+standard,phrase_53123201.pt,53,under,direct,No.,,baseball bat,sandwich
+standard,phrase_53123201.pt,54,under,direct,No,,potted plant,fork
+standard,phrase_53123201.pt,55,under,direct,No,,clock,cow
+standard,phrase_53123201.pt,56,under,direct,No,,skateboard,motorcycle
+standard,phrase_53123201.pt,57,under,direct,No,,orange,bottle
+standard,phrase_53123201.pt,58,under,direct,No,,backpack,wine glass
+standard,phrase_53123201.pt,59,under,direct,No,,surfboard,handbag
+standard,phrase_53123201.pt,60,under,direct,No,,frisbee,broccoli
+standard,phrase_53123201.pt,61,under,direct,No,,cell phone,dog
+standard,phrase_53123201.pt,62,under,direct,No,,chair,tennis racket
+standard,phrase_53123201.pt,63,under,direct,No,,couch,tv remote
+standard,phrase_53123201.pt,64,under,direct,No,,donut,knife
+standard,phrase_53123201.pt,65,under,direct,No,,tv remote,laptop
+standard,phrase_53123201.pt,66,under,direct,No,,traffic light,pizza
+standard,phrase_53123201.pt,67,under,direct,No,,motorcycle,cat
+standard,phrase_53123201.pt,68,under,direct,No,,snowboard,bottle
+standard,phrase_53123201.pt,69,under,direct,No,,chair,umbrella
+standard,phrase_53123201.pt,70,under,direct,No,,fork,hot dog
+standard,phrase_53123201.pt,71,under,direct,No,,clock,skateboard
+standard,phrase_53123201.pt,72,under,direct,No,,potted plant,tv
+standard,phrase_53123201.pt,73,under,direct,No,,laptop,computer keyboard
+standard,phrase_53123201.pt,74,under,direct,No,,broccoli,dog
+standard,phrase_53123201.pt,75,under,direct,No,,tv,traffic light
+standard,phrase_53123201.pt,76,under,direct,No,,cell phone,parking meter
+standard,phrase_53123201.pt,77,under,direct,No,,fork,snowboard
+standard,phrase_53123201.pt,78,under,direct,No,,cow,carrot
+standard,phrase_53123201.pt,79,under,direct,No,,truck,bus
+standard,phrase_53123201.pt,80,under,direct,No.,,toaster,fire hydrant
+standard,phrase_53123201.pt,81,under,direct,No,,bear,pizza
+standard,phrase_53123201.pt,82,under,direct,No.,,pizza,frisbee
+standard,phrase_53123201.pt,83,under,direct,No.,,oven,donut
+standard,phrase_53123201.pt,84,under,direct,No,,refrigerator,motorcycle
+standard,phrase_53123201.pt,85,under,direct,No.,,book,tie
+standard,phrase_53123201.pt,86,under,direct,No.,,hair drier,parking meter
+standard,phrase_53123201.pt,87,under,direct,Yes,,tv,truck
+standard,phrase_53123201.pt,88,under,direct,No.,,teddy bear,microwave
+standard,phrase_53123201.pt,89,under,direct,No.,,clock,giraffe
+standard,phrase_53123201.pt,90,under,direct,No,,person,refrigerator
+standard,phrase_53123201.pt,91,under,direct,No.,,tv,cow
+standard,phrase_53123201.pt,92,under,direct,No,,microwave,cow
+standard,phrase_53123201.pt,93,under,direct,No,,fire hydrant,tv remote
+standard,phrase_53123201.pt,94,under,direct,No,,donut,clock
+standard,phrase_53123201.pt,95,under,direct,No,,baseball glove,sandwich
+standard,phrase_53123201.pt,96,under,direct,No,,hair drier,computer mouse
+standard,phrase_53123201.pt,97,under,direct,No,,skateboard,bear
+standard,phrase_53123201.pt,98,under,direct,No.,,refrigerator,orange
+standard,phrase_53123201.pt,99,under,direct,No,,clock,dining table

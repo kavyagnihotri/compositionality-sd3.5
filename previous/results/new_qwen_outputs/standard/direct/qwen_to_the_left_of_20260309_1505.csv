@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_46534700.pt,1,to the left of,direct,Yes,,giraffe,hair drier
+standard,phrase_46534700.pt,2,to the left of,direct,Yes,,broccoli,skis
+standard,phrase_46534700.pt,3,to the left of,direct,Yes,,book,sports ball
+standard,phrase_46534700.pt,4,to the left of,direct,Yes,,bench,cow
+standard,phrase_46534700.pt,5,to the left of,direct,No,,computer keyboard,skateboard
+standard,phrase_46534700.pt,6,to the left of,direct,No,,toilet,potted plant
+standard,phrase_46534700.pt,7,to the left of,direct,Yes,,oven,vase
+standard,phrase_46534700.pt,8,to the left of,direct,No.,,bed,book
+standard,phrase_46534700.pt,9,to the left of,direct,Yes,,cell phone,bear
+standard,phrase_46534700.pt,10,to the left of,direct,Yes,,sports ball,refrigerator
+standard,phrase_46534700.pt,11,to the left of,direct,No,,baseball bat,dog
+standard,phrase_46534700.pt,12,to the left of,direct,No.,,orange,traffic light
+standard,phrase_46534700.pt,13,to the left of,direct,No,,teddy bear,orange
+standard,phrase_46534700.pt,14,to the left of,direct,Yes,,skis,tennis racket
+standard,phrase_46534700.pt,15,to the left of,direct,Yes,,zebra,bicycle
+standard,phrase_46534700.pt,16,to the left of,direct,No,,sheep,computer mouse
+standard,phrase_46534700.pt,17,to the left of,direct,No,,cell phone,orange
+standard,phrase_46534700.pt,18,to the left of,direct,No,,knife,umbrella
+standard,phrase_46534700.pt,19,to the left of,direct,No,,motorcycle,carrot
+standard,phrase_46534700.pt,20,to the left of,direct,Yes,,traffic light,horse
+standard,phrase_46534700.pt,21,to the left of,direct,No,,surfboard,tv
+standard,phrase_46534700.pt,22,to the left of,direct,No,,carrot,truck
+standard,phrase_46534700.pt,23,to the left of,direct,Yes,,giraffe,fire hydrant
+standard,phrase_46534700.pt,24,to the left of,direct,Yes,,elephant,toaster
+standard,phrase_46534700.pt,25,to the left of,direct,No,,bowl,dog
+standard,phrase_46534700.pt,26,to the left of,direct,Yes,,bench,motorcycle
+standard,phrase_46534700.pt,27,to the left of,direct,No,,frisbee,handbag
+standard,phrase_46534700.pt,28,to the left of,direct,Yes,,skis,cat
+standard,phrase_46534700.pt,29,to the left of,direct,No,,surfboard,spoon
+standard,phrase_46534700.pt,30,to the left of,direct,No,,bicycle,bus
+standard,phrase_46534700.pt,31,to the left of,direct,Yes,,car,laptop
+standard,phrase_46534700.pt,32,to the left of,direct,No,,frisbee,cat
+standard,phrase_46534700.pt,33,to the left of,direct,Yes.,,skis,motorcycle
+standard,phrase_46534700.pt,34,to the left of,direct,No,,toilet,cat
+standard,phrase_46534700.pt,35,to the left of,direct,No,,snowboard,boat
+standard,phrase_46534700.pt,36,to the left of,direct,Yes,,broccoli,bird
+standard,phrase_46534700.pt,37,to the left of,direct,No,,scissors,airplane
+standard,phrase_46534700.pt,38,to the left of,direct,No,,bowl,banana
+standard,phrase_46534700.pt,39,to the left of,direct,No,,baseball glove,bicycle
+standard,phrase_46534700.pt,40,to the left of,direct,No,,microwave,skis
+standard,phrase_46534700.pt,41,to the left of,direct,Yes,,banana,stop sign
+standard,phrase_46534700.pt,42,to the left of,direct,Yes,,oven,snowboard
+standard,phrase_46534700.pt,43,to the left of,direct,No,,giraffe,tie
+standard,phrase_46534700.pt,44,to the left of,direct,Yes,,parking meter,toilet
+standard,phrase_46534700.pt,45,to the left of,direct,No,,banana,fork
+standard,phrase_46534700.pt,46,to the left of,direct,No,,laptop,broccoli
+standard,phrase_46534700.pt,47,to the left of,direct,No,,orange,toothbrush
+standard,phrase_46534700.pt,48,to the left of,direct,No,,baseball bat,boat
+standard,phrase_46534700.pt,49,to the left of,direct,Yes,,snowboard,skateboard
+standard,phrase_46534700.pt,50,to the left of,direct,No.,,book,dog
+standard,phrase_46534700.pt,51,to the left of,direct,No,,chair,pizza
+standard,phrase_46534700.pt,52,to the left of,direct,No,,suitcase,train
+standard,phrase_46534700.pt,53,to the left of,direct,No,,refrigerator,sports ball
+standard,phrase_46534700.pt,54,to the left of,direct,Yes,,baseball bat,sandwich
+standard,phrase_46534700.pt,55,to the left of,direct,No,,potted plant,fork
+standard,phrase_46534700.pt,56,to the left of,direct,Yes,,clock,cow
+standard,phrase_46534700.pt,57,to the left of,direct,No,,skateboard,motorcycle
+standard,phrase_46534700.pt,58,to the left of,direct,Yes,,orange,bottle
+standard,phrase_46534700.pt,59,to the left of,direct,Yes,,backpack,wine glass
+standard,phrase_46534700.pt,60,to the left of,direct,Yes,,surfboard,handbag
+standard,phrase_46534700.pt,61,to the left of,direct,No,,frisbee,broccoli
+standard,phrase_46534700.pt,62,to the left of,direct,Yes.,,cell phone,dog
+standard,phrase_46534700.pt,63,to the left of,direct,No,,chair,tennis racket
+standard,phrase_46534700.pt,64,to the left of,direct,Yes,,couch,tv remote
+standard,phrase_46534700.pt,65,to the left of,direct,No,,donut,knife
+standard,phrase_46534700.pt,66,to the left of,direct,No,,tv remote,laptop
+standard,phrase_46534700.pt,67,to the left of,direct,Yes,,traffic light,pizza
+standard,phrase_46534700.pt,68,to the left of,direct,No,,motorcycle,cat
+standard,phrase_46534700.pt,69,to the left of,direct,Yes,,snowboard,bottle
+standard,phrase_46534700.pt,70,to the left of,direct,No,,chair,umbrella
+standard,phrase_46534700.pt,71,to the left of,direct,Yes,,fork,hot dog
+standard,phrase_46534700.pt,72,to the left of,direct,No,,clock,skateboard
+standard,phrase_46534700.pt,73,to the left of,direct,Yes,,potted plant,tv
+standard,phrase_46534700.pt,74,to the left of,direct,No.,,laptop,computer keyboard
+standard,phrase_46534700.pt,75,to the left of,direct,Yes,,broccoli,dog
+standard,phrase_46534700.pt,76,to the left of,direct,Yes,,tv,traffic light
+standard,phrase_46534700.pt,77,to the left of,direct,No,,cell phone,parking meter
+standard,phrase_46534700.pt,78,to the left of,direct,No,,fork,snowboard
+standard,phrase_46534700.pt,79,to the left of,direct,No,,cow,carrot
+standard,phrase_46534700.pt,80,to the left of,direct,No,,truck,bus
+standard,phrase_46534700.pt,81,to the left of,direct,No,,toaster,fire hydrant
+standard,phrase_46534700.pt,82,to the left of,direct,Yes,,bear,pizza
+standard,phrase_46534700.pt,83,to the left of,direct,No,,pizza,frisbee
+standard,phrase_46534700.pt,84,to the left of,direct,No.,,oven,donut
+standard,phrase_46534700.pt,85,to the left of,direct,Yes,,refrigerator,motorcycle
+standard,phrase_46534700.pt,86,to the left of,direct,No,,book,tie
+standard,phrase_46534700.pt,87,to the left of,direct,No,,hair drier,parking meter
+standard,phrase_46534700.pt,88,to the left of,direct,No,,tv,truck
+standard,phrase_46534700.pt,89,to the left of,direct,No,,teddy bear,microwave
+standard,phrase_46534700.pt,90,to the left of,direct,Yes,,clock,giraffe
+standard,phrase_46534700.pt,91,to the left of,direct,Yes,,person,refrigerator
+standard,phrase_46534700.pt,92,to the left of,direct,Yes,,tv,cow
+standard,phrase_46534700.pt,93,to the left of,direct,No.,,microwave,cow
+standard,phrase_46534700.pt,94,to the left of,direct,No,,fire hydrant,tv remote
+standard,phrase_46534700.pt,95,to the left of,direct,No.,,donut,clock
+standard,phrase_46534700.pt,96,to the left of,direct,Yes,,baseball glove,sandwich
+standard,phrase_46534700.pt,97,to the left of,direct,No,,hair drier,computer mouse
+standard,phrase_46534700.pt,98,to the left of,direct,Yes,,skateboard,bear
+standard,phrase_46534700.pt,99,to the left of,direct,No,,refrigerator,orange
+standard,phrase_46534700.pt,100,to the left of,direct,Yes,,clock,dining table

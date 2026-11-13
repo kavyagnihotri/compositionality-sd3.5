@@ -1,0 +1,301 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_77619676.pt,0,a photo of a giraffe below a hair drier,giraffe,simple_positional,below,hair drier
+phrase_77619676.pt,1,a photo of a broccoli below a skis,broccoli,simple_positional,below,skis
+phrase_77619676.pt,2,a photo of a book below a sports ball,book,simple_positional,below,sports ball
+phrase_77619676.pt,3,a photo of a bench below a cow,bench,simple_positional,below,cow
+phrase_77619676.pt,4,a photo of a computer keyboard below a skateboard,computer keyboard,simple_positional,below,skateboard
+phrase_77619676.pt,5,a photo of a toilet below a potted plant,toilet,simple_positional,below,potted plant
+phrase_77619676.pt,6,a photo of a oven below a vase,oven,simple_positional,below,vase
+phrase_77619676.pt,7,a photo of a bed below a book,bed,simple_positional,below,book
+phrase_77619676.pt,8,a photo of a cell phone below a bear,cell phone,simple_positional,below,bear
+phrase_77619676.pt,9,a photo of a sports ball below a refrigerator,sports ball,simple_positional,below,refrigerator
+phrase_77619676.pt,10,a photo of a baseball bat below a dog,baseball bat,simple_positional,below,dog
+phrase_77619676.pt,11,a photo of a orange below a traffic light,orange,simple_positional,below,traffic light
+phrase_77619676.pt,12,a photo of a teddy bear below a orange,teddy bear,simple_positional,below,orange
+phrase_77619676.pt,13,a photo of a skis below a tennis racket,skis,simple_positional,below,tennis racket
+phrase_77619676.pt,14,a photo of a zebra below a bicycle,zebra,simple_positional,below,bicycle
+phrase_77619676.pt,15,a photo of a sheep below a computer mouse,sheep,simple_positional,below,computer mouse
+phrase_77619676.pt,16,a photo of a cell phone below a orange,cell phone,simple_positional,below,orange
+phrase_77619676.pt,17,a photo of a knife below a umbrella,knife,simple_positional,below,umbrella
+phrase_77619676.pt,18,a photo of a motorcycle below a carrot,motorcycle,simple_positional,below,carrot
+phrase_77619676.pt,19,a photo of a traffic light below a horse,traffic light,simple_positional,below,horse
+phrase_77619676.pt,20,a photo of a surfboard below a tv,surfboard,simple_positional,below,tv
+phrase_77619676.pt,21,a photo of a carrot below a truck,carrot,simple_positional,below,truck
+phrase_77619676.pt,22,a photo of a giraffe below a fire hydrant,giraffe,simple_positional,below,fire hydrant
+phrase_77619676.pt,23,a photo of a elephant below a toaster,elephant,simple_positional,below,toaster
+phrase_77619676.pt,24,a photo of a bowl below a dog,bowl,simple_positional,below,dog
+phrase_77619676.pt,25,a photo of a bench below a motorcycle,bench,simple_positional,below,motorcycle
+phrase_77619676.pt,26,a photo of a frisbee below a handbag,frisbee,simple_positional,below,handbag
+phrase_77619676.pt,27,a photo of a skis below a cat,skis,simple_positional,below,cat
+phrase_77619676.pt,28,a photo of a surfboard below a spoon,surfboard,simple_positional,below,spoon
+phrase_77619676.pt,29,a photo of a bicycle below a bus,bicycle,simple_positional,below,bus
+phrase_77619676.pt,30,a photo of a car below a laptop,car,simple_positional,below,laptop
+phrase_77619676.pt,31,a photo of a frisbee below a cat,frisbee,simple_positional,below,cat
+phrase_77619676.pt,32,a photo of a skis below a motorcycle,skis,simple_positional,below,motorcycle
+phrase_77619676.pt,33,a photo of a toilet below a cat,toilet,simple_positional,below,cat
+phrase_77619676.pt,34,a photo of a snowboard below a boat,snowboard,simple_positional,below,boat
+phrase_77619676.pt,35,a photo of a broccoli below a bird,broccoli,simple_positional,below,bird
+phrase_77619676.pt,36,a photo of a scissors below a airplane,scissors,simple_positional,below,airplane
+phrase_77619676.pt,37,a photo of a bowl below a banana,bowl,simple_positional,below,banana
+phrase_77619676.pt,38,a photo of a baseball glove below a bicycle,baseball glove,simple_positional,below,bicycle
+phrase_77619676.pt,39,a photo of a microwave below a skis,microwave,simple_positional,below,skis
+phrase_77619676.pt,40,a photo of a banana below a stop sign,banana,simple_positional,below,stop sign
+phrase_77619676.pt,41,a photo of a oven below a snowboard,oven,simple_positional,below,snowboard
+phrase_77619676.pt,42,a photo of a giraffe below a tie,giraffe,simple_positional,below,tie
+phrase_77619676.pt,43,a photo of a parking meter below a toilet,parking meter,simple_positional,below,toilet
+phrase_77619676.pt,44,a photo of a banana below a fork,banana,simple_positional,below,fork
+phrase_77619676.pt,45,a photo of a laptop below a broccoli,laptop,simple_positional,below,broccoli
+phrase_77619676.pt,46,a photo of a orange below a toothbrush,orange,simple_positional,below,toothbrush
+phrase_77619676.pt,47,a photo of a baseball bat below a boat,baseball bat,simple_positional,below,boat
+phrase_77619676.pt,48,a photo of a snowboard below a skateboard,snowboard,simple_positional,below,skateboard
+phrase_77619676.pt,49,a photo of a book below a dog,book,simple_positional,below,dog
+phrase_77619676.pt,50,a photo of a chair below a pizza,chair,simple_positional,below,pizza
+phrase_77619676.pt,51,a photo of a suitcase below a train,suitcase,simple_positional,below,train
+phrase_77619676.pt,52,a photo of a refrigerator below a sports ball,refrigerator,simple_positional,below,sports ball
+phrase_77619676.pt,53,a photo of a baseball bat below a sandwich,baseball bat,simple_positional,below,sandwich
+phrase_77619676.pt,54,a photo of a potted plant below a fork,potted plant,simple_positional,below,fork
+phrase_77619676.pt,55,a photo of a clock below a cow,clock,simple_positional,below,cow
+phrase_77619676.pt,56,a photo of a skateboard below a motorcycle,skateboard,simple_positional,below,motorcycle
+phrase_77619676.pt,57,a photo of a orange below a bottle,orange,simple_positional,below,bottle
+phrase_77619676.pt,58,a photo of a backpack below a wine glass,backpack,simple_positional,below,wine glass
+phrase_77619676.pt,59,a photo of a surfboard below a handbag,surfboard,simple_positional,below,handbag
+phrase_77619676.pt,60,a photo of a frisbee below a broccoli,frisbee,simple_positional,below,broccoli
+phrase_77619676.pt,61,a photo of a cell phone below a dog,cell phone,simple_positional,below,dog
+phrase_77619676.pt,62,a photo of a chair below a tennis racket,chair,simple_positional,below,tennis racket
+phrase_77619676.pt,63,a photo of a couch below a tv remote,couch,simple_positional,below,tv remote
+phrase_77619676.pt,64,a photo of a donut below a knife,donut,simple_positional,below,knife
+phrase_77619676.pt,65,a photo of a tv remote below a laptop,tv remote,simple_positional,below,laptop
+phrase_77619676.pt,66,a photo of a traffic light below a pizza,traffic light,simple_positional,below,pizza
+phrase_77619676.pt,67,a photo of a motorcycle below a cat,motorcycle,simple_positional,below,cat
+phrase_77619676.pt,68,a photo of a snowboard below a bottle,snowboard,simple_positional,below,bottle
+phrase_77619676.pt,69,a photo of a chair below a umbrella,chair,simple_positional,below,umbrella
+phrase_77619676.pt,70,a photo of a fork below a hot dog,fork,simple_positional,below,hot dog
+phrase_77619676.pt,71,a photo of a clock below a skateboard,clock,simple_positional,below,skateboard
+phrase_77619676.pt,72,a photo of a potted plant below a tv,potted plant,simple_positional,below,tv
+phrase_77619676.pt,73,a photo of a laptop below a computer keyboard,laptop,simple_positional,below,computer keyboard
+phrase_77619676.pt,74,a photo of a broccoli below a dog,broccoli,simple_positional,below,dog
+phrase_77619676.pt,75,a photo of a tv below a traffic light,tv,simple_positional,below,traffic light
+phrase_77619676.pt,76,a photo of a cell phone below a parking meter,cell phone,simple_positional,below,parking meter
+phrase_77619676.pt,77,a photo of a fork below a snowboard,fork,simple_positional,below,snowboard
+phrase_77619676.pt,78,a photo of a cow below a carrot,cow,simple_positional,below,carrot
+phrase_77619676.pt,79,a photo of a truck below a bus,truck,simple_positional,below,bus
+phrase_77619676.pt,80,a photo of a toaster below a fire hydrant,toaster,simple_positional,below,fire hydrant
+phrase_77619676.pt,81,a photo of a bear below a pizza,bear,simple_positional,below,pizza
+phrase_77619676.pt,82,a photo of a pizza below a frisbee,pizza,simple_positional,below,frisbee
+phrase_77619676.pt,83,a photo of a oven below a donut,oven,simple_positional,below,donut
+phrase_77619676.pt,84,a photo of a refrigerator below a motorcycle,refrigerator,simple_positional,below,motorcycle
+phrase_77619676.pt,85,a photo of a book below a tie,book,simple_positional,below,tie
+phrase_77619676.pt,86,a photo of a hair drier below a parking meter,hair drier,simple_positional,below,parking meter
+phrase_77619676.pt,87,a photo of a tv below a truck,tv,simple_positional,below,truck
+phrase_77619676.pt,88,a photo of a teddy bear below a microwave,teddy bear,simple_positional,below,microwave
+phrase_77619676.pt,89,a photo of a clock below a giraffe,clock,simple_positional,below,giraffe
+phrase_77619676.pt,90,a photo of a person below a refrigerator,person,simple_positional,below,refrigerator
+phrase_77619676.pt,91,a photo of a tv below a cow,tv,simple_positional,below,cow
+phrase_77619676.pt,92,a photo of a microwave below a cow,microwave,simple_positional,below,cow
+phrase_77619676.pt,93,a photo of a fire hydrant below a tv remote,fire hydrant,simple_positional,below,tv remote
+phrase_77619676.pt,94,a photo of a donut below a clock,donut,simple_positional,below,clock
+phrase_77619676.pt,95,a photo of a baseball glove below a sandwich,baseball glove,simple_positional,below,sandwich
+phrase_77619676.pt,96,a photo of a hair drier below a computer mouse,hair drier,simple_positional,below,computer mouse
+phrase_77619676.pt,97,a photo of a skateboard below a bear,skateboard,simple_positional,below,bear
+phrase_77619676.pt,98,a photo of a refrigerator below a orange,refrigerator,simple_positional,below,orange
+phrase_77619676.pt,99,a photo of a clock below a dining table,clock,simple_positional,below,dining table
+phrase_53492656.pt,0,a photo of a giraffe under a hair drier,giraffe,simple_positional,under,hair drier
+phrase_53492656.pt,1,a photo of a broccoli under a skis,broccoli,simple_positional,under,skis
+phrase_53492656.pt,2,a photo of a book under a sports ball,book,simple_positional,under,sports ball
+phrase_53492656.pt,3,a photo of a bench under a cow,bench,simple_positional,under,cow
+phrase_53492656.pt,4,a photo of a computer keyboard under a skateboard,computer keyboard,simple_positional,under,skateboard
+phrase_53492656.pt,5,a photo of a toilet under a potted plant,toilet,simple_positional,under,potted plant
+phrase_53492656.pt,6,a photo of a oven under a vase,oven,simple_positional,under,vase
+phrase_53492656.pt,7,a photo of a bed under a book,bed,simple_positional,under,book
+phrase_53492656.pt,8,a photo of a cell phone under a bear,cell phone,simple_positional,under,bear
+phrase_53492656.pt,9,a photo of a sports ball under a refrigerator,sports ball,simple_positional,under,refrigerator
+phrase_53492656.pt,10,a photo of a baseball bat under a dog,baseball bat,simple_positional,under,dog
+phrase_53492656.pt,11,a photo of a orange under a traffic light,orange,simple_positional,under,traffic light
+phrase_53492656.pt,12,a photo of a teddy bear under a orange,teddy bear,simple_positional,under,orange
+phrase_53492656.pt,13,a photo of a skis under a tennis racket,skis,simple_positional,under,tennis racket
+phrase_53492656.pt,14,a photo of a zebra under a bicycle,zebra,simple_positional,under,bicycle
+phrase_53492656.pt,15,a photo of a sheep under a computer mouse,sheep,simple_positional,under,computer mouse
+phrase_53492656.pt,16,a photo of a cell phone under a orange,cell phone,simple_positional,under,orange
+phrase_53492656.pt,17,a photo of a knife under a umbrella,knife,simple_positional,under,umbrella
+phrase_53492656.pt,18,a photo of a motorcycle under a carrot,motorcycle,simple_positional,under,carrot
+phrase_53492656.pt,19,a photo of a traffic light under a horse,traffic light,simple_positional,under,horse
+phrase_53492656.pt,20,a photo of a surfboard under a tv,surfboard,simple_positional,under,tv
+phrase_53492656.pt,21,a photo of a carrot under a truck,carrot,simple_positional,under,truck
+phrase_53492656.pt,22,a photo of a giraffe under a fire hydrant,giraffe,simple_positional,under,fire hydrant
+phrase_53492656.pt,23,a photo of a elephant under a toaster,elephant,simple_positional,under,toaster
+phrase_53492656.pt,24,a photo of a bowl under a dog,bowl,simple_positional,under,dog
+phrase_53492656.pt,25,a photo of a bench under a motorcycle,bench,simple_positional,under,motorcycle
+phrase_53492656.pt,26,a photo of a frisbee under a handbag,frisbee,simple_positional,under,handbag
+phrase_53492656.pt,27,a photo of a skis under a cat,skis,simple_positional,under,cat
+phrase_53492656.pt,28,a photo of a surfboard under a spoon,surfboard,simple_positional,under,spoon
+phrase_53492656.pt,29,a photo of a bicycle under a bus,bicycle,simple_positional,under,bus
+phrase_53492656.pt,30,a photo of a car under a laptop,car,simple_positional,under,laptop
+phrase_53492656.pt,31,a photo of a frisbee under a cat,frisbee,simple_positional,under,cat
+phrase_53492656.pt,32,a photo of a skis under a motorcycle,skis,simple_positional,under,motorcycle
+phrase_53492656.pt,33,a photo of a toilet under a cat,toilet,simple_positional,under,cat
+phrase_53492656.pt,34,a photo of a snowboard under a boat,snowboard,simple_positional,under,boat
+phrase_53492656.pt,35,a photo of a broccoli under a bird,broccoli,simple_positional,under,bird
+phrase_53492656.pt,36,a photo of a scissors under a airplane,scissors,simple_positional,under,airplane
+phrase_53492656.pt,37,a photo of a bowl under a banana,bowl,simple_positional,under,banana
+phrase_53492656.pt,38,a photo of a baseball glove under a bicycle,baseball glove,simple_positional,under,bicycle
+phrase_53492656.pt,39,a photo of a microwave under a skis,microwave,simple_positional,under,skis
+phrase_53492656.pt,40,a photo of a banana under a stop sign,banana,simple_positional,under,stop sign
+phrase_53492656.pt,41,a photo of a oven under a snowboard,oven,simple_positional,under,snowboard
+phrase_53492656.pt,42,a photo of a giraffe under a tie,giraffe,simple_positional,under,tie
+phrase_53492656.pt,43,a photo of a parking meter under a toilet,parking meter,simple_positional,under,toilet
+phrase_53492656.pt,44,a photo of a banana under a fork,banana,simple_positional,under,fork
+phrase_53492656.pt,45,a photo of a laptop under a broccoli,laptop,simple_positional,under,broccoli
+phrase_53492656.pt,46,a photo of a orange under a toothbrush,orange,simple_positional,under,toothbrush
+phrase_53492656.pt,47,a photo of a baseball bat under a boat,baseball bat,simple_positional,under,boat
+phrase_53492656.pt,48,a photo of a snowboard under a skateboard,snowboard,simple_positional,under,skateboard
+phrase_53492656.pt,49,a photo of a book under a dog,book,simple_positional,under,dog
+phrase_53492656.pt,50,a photo of a chair under a pizza,chair,simple_positional,under,pizza
+phrase_53492656.pt,51,a photo of a suitcase under a train,suitcase,simple_positional,under,train
+phrase_53492656.pt,52,a photo of a refrigerator under a sports ball,refrigerator,simple_positional,under,sports ball
+phrase_53492656.pt,53,a photo of a baseball bat under a sandwich,baseball bat,simple_positional,under,sandwich
+phrase_53492656.pt,54,a photo of a potted plant under a fork,potted plant,simple_positional,under,fork
+phrase_53492656.pt,55,a photo of a clock under a cow,clock,simple_positional,under,cow
+phrase_53492656.pt,56,a photo of a skateboard under a motorcycle,skateboard,simple_positional,under,motorcycle
+phrase_53492656.pt,57,a photo of a orange under a bottle,orange,simple_positional,under,bottle
+phrase_53492656.pt,58,a photo of a backpack under a wine glass,backpack,simple_positional,under,wine glass
+phrase_53492656.pt,59,a photo of a surfboard under a handbag,surfboard,simple_positional,under,handbag
+phrase_53492656.pt,60,a photo of a frisbee under a broccoli,frisbee,simple_positional,under,broccoli
+phrase_53492656.pt,61,a photo of a cell phone under a dog,cell phone,simple_positional,under,dog
+phrase_53492656.pt,62,a photo of a chair under a tennis racket,chair,simple_positional,under,tennis racket
+phrase_53492656.pt,63,a photo of a couch under a tv remote,couch,simple_positional,under,tv remote
+phrase_53492656.pt,64,a photo of a donut under a knife,donut,simple_positional,under,knife
+phrase_53492656.pt,65,a photo of a tv remote under a laptop,tv remote,simple_positional,under,laptop
+phrase_53492656.pt,66,a photo of a traffic light under a pizza,traffic light,simple_positional,under,pizza
+phrase_53492656.pt,67,a photo of a motorcycle under a cat,motorcycle,simple_positional,under,cat
+phrase_53492656.pt,68,a photo of a snowboard under a bottle,snowboard,simple_positional,under,bottle
+phrase_53492656.pt,69,a photo of a chair under a umbrella,chair,simple_positional,under,umbrella
+phrase_53492656.pt,70,a photo of a fork under a hot dog,fork,simple_positional,under,hot dog
+phrase_53492656.pt,71,a photo of a clock under a skateboard,clock,simple_positional,under,skateboard
+phrase_53492656.pt,72,a photo of a potted plant under a tv,potted plant,simple_positional,under,tv
+phrase_53492656.pt,73,a photo of a laptop under a computer keyboard,laptop,simple_positional,under,computer keyboard
+phrase_53492656.pt,74,a photo of a broccoli under a dog,broccoli,simple_positional,under,dog
+phrase_53492656.pt,75,a photo of a tv under a traffic light,tv,simple_positional,under,traffic light
+phrase_53492656.pt,76,a photo of a cell phone under a parking meter,cell phone,simple_positional,under,parking meter
+phrase_53492656.pt,77,a photo of a fork under a snowboard,fork,simple_positional,under,snowboard
+phrase_53492656.pt,78,a photo of a cow under a carrot,cow,simple_positional,under,carrot
+phrase_53492656.pt,79,a photo of a truck under a bus,truck,simple_positional,under,bus
+phrase_53492656.pt,80,a photo of a toaster under a fire hydrant,toaster,simple_positional,under,fire hydrant
+phrase_53492656.pt,81,a photo of a bear under a pizza,bear,simple_positional,under,pizza
+phrase_53492656.pt,82,a photo of a pizza under a frisbee,pizza,simple_positional,under,frisbee
+phrase_53492656.pt,83,a photo of a oven under a donut,oven,simple_positional,under,donut
+phrase_53492656.pt,84,a photo of a refrigerator under a motorcycle,refrigerator,simple_positional,under,motorcycle
+phrase_53492656.pt,85,a photo of a book under a tie,book,simple_positional,under,tie
+phrase_53492656.pt,86,a photo of a hair drier under a parking meter,hair drier,simple_positional,under,parking meter
+phrase_53492656.pt,87,a photo of a tv under a truck,tv,simple_positional,under,truck
+phrase_53492656.pt,88,a photo of a teddy bear under a microwave,teddy bear,simple_positional,under,microwave
+phrase_53492656.pt,89,a photo of a clock under a giraffe,clock,simple_positional,under,giraffe
+phrase_53492656.pt,90,a photo of a person under a refrigerator,person,simple_positional,under,refrigerator
+phrase_53492656.pt,91,a photo of a tv under a cow,tv,simple_positional,under,cow
+phrase_53492656.pt,92,a photo of a microwave under a cow,microwave,simple_positional,under,cow
+phrase_53492656.pt,93,a photo of a fire hydrant under a tv remote,fire hydrant,simple_positional,under,tv remote
+phrase_53492656.pt,94,a photo of a donut under a clock,donut,simple_positional,under,clock
+phrase_53492656.pt,95,a photo of a baseball glove under a sandwich,baseball glove,simple_positional,under,sandwich
+phrase_53492656.pt,96,a photo of a hair drier under a computer mouse,hair drier,simple_positional,under,computer mouse
+phrase_53492656.pt,97,a photo of a skateboard under a bear,skateboard,simple_positional,under,bear
+phrase_53492656.pt,98,a photo of a refrigerator under a orange,refrigerator,simple_positional,under,orange
+phrase_53492656.pt,99,a photo of a clock under a dining table,clock,simple_positional,under,dining table
+phrase_34465157.pt,0,a photo of a giraffe over a hair drier,giraffe,simple_positional,over,hair drier
+phrase_34465157.pt,1,a photo of a broccoli over a skis,broccoli,simple_positional,over,skis
+phrase_34465157.pt,2,a photo of a book over a sports ball,book,simple_positional,over,sports ball
+phrase_34465157.pt,3,a photo of a bench over a cow,bench,simple_positional,over,cow
+phrase_34465157.pt,4,a photo of a computer keyboard over a skateboard,computer keyboard,simple_positional,over,skateboard
+phrase_34465157.pt,5,a photo of a toilet over a potted plant,toilet,simple_positional,over,potted plant
+phrase_34465157.pt,6,a photo of a oven over a vase,oven,simple_positional,over,vase
+phrase_34465157.pt,7,a photo of a bed over a book,bed,simple_positional,over,book
+phrase_34465157.pt,8,a photo of a cell phone over a bear,cell phone,simple_positional,over,bear
+phrase_34465157.pt,9,a photo of a sports ball over a refrigerator,sports ball,simple_positional,over,refrigerator
+phrase_34465157.pt,10,a photo of a baseball bat over a dog,baseball bat,simple_positional,over,dog
+phrase_34465157.pt,11,a photo of a orange over a traffic light,orange,simple_positional,over,traffic light
+phrase_34465157.pt,12,a photo of a teddy bear over a orange,teddy bear,simple_positional,over,orange
+phrase_34465157.pt,13,a photo of a skis over a tennis racket,skis,simple_positional,over,tennis racket
+phrase_34465157.pt,14,a photo of a zebra over a bicycle,zebra,simple_positional,over,bicycle
+phrase_34465157.pt,15,a photo of a sheep over a computer mouse,sheep,simple_positional,over,computer mouse
+phrase_34465157.pt,16,a photo of a cell phone over a orange,cell phone,simple_positional,over,orange
+phrase_34465157.pt,17,a photo of a knife over a umbrella,knife,simple_positional,over,umbrella
+phrase_34465157.pt,18,a photo of a motorcycle over a carrot,motorcycle,simple_positional,over,carrot
+phrase_34465157.pt,19,a photo of a traffic light over a horse,traffic light,simple_positional,over,horse
+phrase_34465157.pt,20,a photo of a surfboard over a tv,surfboard,simple_positional,over,tv
+phrase_34465157.pt,21,a photo of a carrot over a truck,carrot,simple_positional,over,truck
+phrase_34465157.pt,22,a photo of a giraffe over a fire hydrant,giraffe,simple_positional,over,fire hydrant
+phrase_34465157.pt,23,a photo of a elephant over a toaster,elephant,simple_positional,over,toaster
+phrase_34465157.pt,24,a photo of a bowl over a dog,bowl,simple_positional,over,dog
+phrase_34465157.pt,25,a photo of a bench over a motorcycle,bench,simple_positional,over,motorcycle
+phrase_34465157.pt,26,a photo of a frisbee over a handbag,frisbee,simple_positional,over,handbag
+phrase_34465157.pt,27,a photo of a skis over a cat,skis,simple_positional,over,cat
+phrase_34465157.pt,28,a photo of a surfboard over a spoon,surfboard,simple_positional,over,spoon
+phrase_34465157.pt,29,a photo of a bicycle over a bus,bicycle,simple_positional,over,bus
+phrase_34465157.pt,30,a photo of a car over a laptop,car,simple_positional,over,laptop
+phrase_34465157.pt,31,a photo of a frisbee over a cat,frisbee,simple_positional,over,cat
+phrase_34465157.pt,32,a photo of a skis over a motorcycle,skis,simple_positional,over,motorcycle
+phrase_34465157.pt,33,a photo of a toilet over a cat,toilet,simple_positional,over,cat
+phrase_34465157.pt,34,a photo of a snowboard over a boat,snowboard,simple_positional,over,boat
+phrase_34465157.pt,35,a photo of a broccoli over a bird,broccoli,simple_positional,over,bird
+phrase_34465157.pt,36,a photo of a scissors over a airplane,scissors,simple_positional,over,airplane
+phrase_34465157.pt,37,a photo of a bowl over a banana,bowl,simple_positional,over,banana
+phrase_34465157.pt,38,a photo of a baseball glove over a bicycle,baseball glove,simple_positional,over,bicycle
+phrase_34465157.pt,39,a photo of a microwave over a skis,microwave,simple_positional,over,skis
+phrase_34465157.pt,40,a photo of a banana over a stop sign,banana,simple_positional,over,stop sign
+phrase_34465157.pt,41,a photo of a oven over a snowboard,oven,simple_positional,over,snowboard
+phrase_34465157.pt,42,a photo of a giraffe over a tie,giraffe,simple_positional,over,tie
+phrase_34465157.pt,43,a photo of a parking meter over a toilet,parking meter,simple_positional,over,toilet
+phrase_34465157.pt,44,a photo of a banana over a fork,banana,simple_positional,over,fork
+phrase_34465157.pt,45,a photo of a laptop over a broccoli,laptop,simple_positional,over,broccoli
+phrase_34465157.pt,46,a photo of a orange over a toothbrush,orange,simple_positional,over,toothbrush
+phrase_34465157.pt,47,a photo of a baseball bat over a boat,baseball bat,simple_positional,over,boat
+phrase_34465157.pt,48,a photo of a snowboard over a skateboard,snowboard,simple_positional,over,skateboard
+phrase_34465157.pt,49,a photo of a book over a dog,book,simple_positional,over,dog
+phrase_34465157.pt,50,a photo of a chair over a pizza,chair,simple_positional,over,pizza
+phrase_34465157.pt,51,a photo of a suitcase over a train,suitcase,simple_positional,over,train
+phrase_34465157.pt,52,a photo of a refrigerator over a sports ball,refrigerator,simple_positional,over,sports ball
+phrase_34465157.pt,53,a photo of a baseball bat over a sandwich,baseball bat,simple_positional,over,sandwich
+phrase_34465157.pt,54,a photo of a potted plant over a fork,potted plant,simple_positional,over,fork
+phrase_34465157.pt,55,a photo of a clock over a cow,clock,simple_positional,over,cow
+phrase_34465157.pt,56,a photo of a skateboard over a motorcycle,skateboard,simple_positional,over,motorcycle
+phrase_34465157.pt,57,a photo of a orange over a bottle,orange,simple_positional,over,bottle
+phrase_34465157.pt,58,a photo of a backpack over a wine glass,backpack,simple_positional,over,wine glass
+phrase_34465157.pt,59,a photo of a surfboard over a handbag,surfboard,simple_positional,over,handbag
+phrase_34465157.pt,60,a photo of a frisbee over a broccoli,frisbee,simple_positional,over,broccoli
+phrase_34465157.pt,61,a photo of a cell phone over a dog,cell phone,simple_positional,over,dog
+phrase_34465157.pt,62,a photo of a chair over a tennis racket,chair,simple_positional,over,tennis racket
+phrase_34465157.pt,63,a photo of a couch over a tv remote,couch,simple_positional,over,tv remote
+phrase_34465157.pt,64,a photo of a donut over a knife,donut,simple_positional,over,knife
+phrase_34465157.pt,65,a photo of a tv remote over a laptop,tv remote,simple_positional,over,laptop
+phrase_34465157.pt,66,a photo of a traffic light over a pizza,traffic light,simple_positional,over,pizza
+phrase_34465157.pt,67,a photo of a motorcycle over a cat,motorcycle,simple_positional,over,cat
+phrase_34465157.pt,68,a photo of a snowboard over a bottle,snowboard,simple_positional,over,bottle
+phrase_34465157.pt,69,a photo of a chair over a umbrella,chair,simple_positional,over,umbrella
+phrase_34465157.pt,70,a photo of a fork over a hot dog,fork,simple_positional,over,hot dog
+phrase_34465157.pt,71,a photo of a clock over a skateboard,clock,simple_positional,over,skateboard
+phrase_34465157.pt,72,a photo of a potted plant over a tv,potted plant,simple_positional,over,tv
+phrase_34465157.pt,73,a photo of a laptop over a computer keyboard,laptop,simple_positional,over,computer keyboard
+phrase_34465157.pt,74,a photo of a broccoli over a dog,broccoli,simple_positional,over,dog
+phrase_34465157.pt,75,a photo of a tv over a traffic light,tv,simple_positional,over,traffic light
+phrase_34465157.pt,76,a photo of a cell phone over a parking meter,cell phone,simple_positional,over,parking meter
+phrase_34465157.pt,77,a photo of a fork over a snowboard,fork,simple_positional,over,snowboard
+phrase_34465157.pt,78,a photo of a cow over a carrot,cow,simple_positional,over,carrot
+phrase_34465157.pt,79,a photo of a truck over a bus,truck,simple_positional,over,bus
+phrase_34465157.pt,80,a photo of a toaster over a fire hydrant,toaster,simple_positional,over,fire hydrant
+phrase_34465157.pt,81,a photo of a bear over a pizza,bear,simple_positional,over,pizza
+phrase_34465157.pt,82,a photo of a pizza over a frisbee,pizza,simple_positional,over,frisbee
+phrase_34465157.pt,83,a photo of a oven over a donut,oven,simple_positional,over,donut
+phrase_34465157.pt,84,a photo of a refrigerator over a motorcycle,refrigerator,simple_positional,over,motorcycle
+phrase_34465157.pt,85,a photo of a book over a tie,book,simple_positional,over,tie
+phrase_34465157.pt,86,a photo of a hair drier over a parking meter,hair drier,simple_positional,over,parking meter
+phrase_34465157.pt,87,a photo of a tv over a truck,tv,simple_positional,over,truck
+phrase_34465157.pt,88,a photo of a teddy bear over a microwave,teddy bear,simple_positional,over,microwave
+phrase_34465157.pt,89,a photo of a clock over a giraffe,clock,simple_positional,over,giraffe
+phrase_34465157.pt,90,a photo of a person over a refrigerator,person,simple_positional,over,refrigerator
+phrase_34465157.pt,91,a photo of a tv over a cow,tv,simple_positional,over,cow
+phrase_34465157.pt,92,a photo of a microwave over a cow,microwave,simple_positional,over,cow
+phrase_34465157.pt,93,a photo of a fire hydrant over a tv remote,fire hydrant,simple_positional,over,tv remote
+phrase_34465157.pt,94,a photo of a donut over a clock,donut,simple_positional,over,clock
+phrase_34465157.pt,95,a photo of a baseball glove over a sandwich,baseball glove,simple_positional,over,sandwich
+phrase_34465157.pt,96,a photo of a hair drier over a computer mouse,hair drier,simple_positional,over,computer mouse
+phrase_34465157.pt,97,a photo of a skateboard over a bear,skateboard,simple_positional,over,bear
+phrase_34465157.pt,98,a photo of a refrigerator over a orange,refrigerator,simple_positional,over,orange
+phrase_34465157.pt,99,a photo of a clock over a dining table,clock,simple_positional,over,dining table

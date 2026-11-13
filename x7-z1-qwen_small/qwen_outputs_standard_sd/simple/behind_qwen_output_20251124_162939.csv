@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_26255437.pt,1,giraffe,hair drier,behind,"Does this figure show 'a giraffe behind a hair drier'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,2,broccoli,skis,behind,"Does this figure show 'a broccoli behind a skis'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,3,book,sports ball,behind,"Does this figure show 'a book behind a sports ball'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,4,bench,cow,behind,"Does this figure show 'a bench behind a cow'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,5,computer keyboard,skateboard,behind,"Does this figure show 'a computer keyboard behind a skateboard'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,6,toilet,potted plant,behind,"Does this figure show 'a toilet behind a potted plant'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,7,oven,vase,behind,"Does this figure show 'a oven behind a vase'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,8,bed,book,behind,"Does this figure show 'a bed behind a book'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,9,cell phone,bear,behind,"Does this figure show 'a cell phone behind a bear'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,10,sports ball,refrigerator,behind,"Does this figure show 'a sports ball behind a refrigerator'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,11,baseball bat,dog,behind,"Does this figure show 'a baseball bat behind a dog'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,12,orange,traffic light,behind,"Does this figure show 'a orange behind a traffic light'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,13,teddy bear,orange,behind,"Does this figure show 'a teddy bear behind a orange'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,14,skis,tennis racket,behind,"Does this figure show 'a skis behind a tennis racket'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,15,zebra,bicycle,behind,"Does this figure show 'a zebra behind a bicycle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,16,sheep,computer mouse,behind,"Does this figure show 'a sheep behind a computer mouse'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,17,cell phone,orange,behind,"Does this figure show 'a cell phone behind a orange'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,18,knife,umbrella,behind,"Does this figure show 'a knife behind a umbrella'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,19,motorcycle,carrot,behind,"Does this figure show 'a motorcycle behind a carrot'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,20,traffic light,horse,behind,"Does this figure show 'a traffic light behind a horse'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,21,surfboard,tv,behind,"Does this figure show 'a surfboard behind a tv'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,22,carrot,truck,behind,"Does this figure show 'a carrot behind a truck'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,23,giraffe,fire hydrant,behind,"Does this figure show 'a giraffe behind a fire hydrant'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,24,elephant,toaster,behind,"Does this figure show 'a elephant behind a toaster'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,25,bowl,dog,behind,"Does this figure show 'a bowl behind a dog'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,26,bench,motorcycle,behind,"Does this figure show 'a bench behind a motorcycle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,27,frisbee,handbag,behind,"Does this figure show 'a frisbee behind a handbag'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,28,skis,cat,behind,"Does this figure show 'a skis behind a cat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,29,surfboard,spoon,behind,"Does this figure show 'a surfboard behind a spoon'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,30,bicycle,bus,behind,"Does this figure show 'a bicycle behind a bus'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,31,car,laptop,behind,"Does this figure show 'a car behind a laptop'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,32,frisbee,cat,behind,"Does this figure show 'a frisbee behind a cat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,33,skis,motorcycle,behind,"Does this figure show 'a skis behind a motorcycle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,34,toilet,cat,behind,"Does this figure show 'a toilet behind a cat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,35,snowboard,boat,behind,"Does this figure show 'a snowboard behind a boat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,36,broccoli,bird,behind,"Does this figure show 'a broccoli behind a bird'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,37,scissors,airplane,behind,"Does this figure show 'a scissors behind a airplane'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,38,bowl,banana,behind,"Does this figure show 'a bowl behind a banana'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,39,baseball glove,bicycle,behind,"Does this figure show 'a baseball glove behind a bicycle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,40,microwave,skis,behind,"Does this figure show 'a microwave behind a skis'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,41,banana,stop sign,behind,"Does this figure show 'a banana behind a stop sign'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,42,oven,snowboard,behind,"Does this figure show 'a oven behind a snowboard'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,43,giraffe,tie,behind,"Does this figure show 'a giraffe behind a tie'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,44,parking meter,toilet,behind,"Does this figure show 'a parking meter behind a toilet'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,45,banana,fork,behind,"Does this figure show 'a banana behind a fork'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,46,laptop,broccoli,behind,"Does this figure show 'a laptop behind a broccoli'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,47,orange,toothbrush,behind,"Does this figure show 'a orange behind a toothbrush'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,48,baseball bat,boat,behind,"Does this figure show 'a baseball bat behind a boat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,49,snowboard,skateboard,behind,"Does this figure show 'a snowboard behind a skateboard'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,50,book,dog,behind,"Does this figure show 'a book behind a dog'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,51,chair,pizza,behind,"Does this figure show 'a chair behind a pizza'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,52,suitcase,train,behind,"Does this figure show 'a suitcase behind a train'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,53,refrigerator,sports ball,behind,"Does this figure show 'a refrigerator behind a sports ball'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,54,baseball bat,sandwich,behind,"Does this figure show 'a baseball bat behind a sandwich'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,55,potted plant,fork,behind,"Does this figure show 'a potted plant behind a fork'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,56,clock,cow,behind,"Does this figure show 'a clock behind a cow'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,57,skateboard,motorcycle,behind,"Does this figure show 'a skateboard behind a motorcycle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,58,orange,bottle,behind,"Does this figure show 'a orange behind a bottle'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,59,backpack,wine glass,behind,"Does this figure show 'a backpack behind a wine glass'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,60,surfboard,handbag,behind,"Does this figure show 'a surfboard behind a handbag'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,61,frisbee,broccoli,behind,"Does this figure show 'a frisbee behind a broccoli'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,62,cell phone,dog,behind,"Does this figure show 'a cell phone behind a dog'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,63,chair,tennis racket,behind,"Does this figure show 'a chair behind a tennis racket'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,64,couch,tv remote,behind,"Does this figure show 'a couch behind a tv remote'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,65,donut,knife,behind,"Does this figure show 'a donut behind a knife'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,66,tv remote,laptop,behind,"Does this figure show 'a tv remote behind a laptop'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,67,traffic light,pizza,behind,"Does this figure show 'a traffic light behind a pizza'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,68,motorcycle,cat,behind,"Does this figure show 'a motorcycle behind a cat'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,69,snowboard,bottle,behind,"Does this figure show 'a snowboard behind a bottle'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,70,chair,umbrella,behind,"Does this figure show 'a chair behind a umbrella'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,71,fork,hot dog,behind,"Does this figure show 'a fork behind a hot dog'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,72,clock,skateboard,behind,"Does this figure show 'a clock behind a skateboard'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,73,potted plant,tv,behind,"Does this figure show 'a potted plant behind a tv'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,74,laptop,computer keyboard,behind,"Does this figure show 'a laptop behind a computer keyboard'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,75,broccoli,dog,behind,"Does this figure show 'a broccoli behind a dog'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,76,tv,traffic light,behind,"Does this figure show 'a tv behind a traffic light'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,77,cell phone,parking meter,behind,"Does this figure show 'a cell phone behind a parking meter'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,78,fork,snowboard,behind,"Does this figure show 'a fork behind a snowboard'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,79,cow,carrot,behind,"Does this figure show 'a cow behind a carrot'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,80,truck,bus,behind,"Does this figure show 'a truck behind a bus'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,81,toaster,fire hydrant,behind,"Does this figure show 'a toaster behind a fire hydrant'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,82,bear,pizza,behind,"Does this figure show 'a bear behind a pizza'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,83,pizza,frisbee,behind,"Does this figure show 'a pizza behind a frisbee'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,84,oven,donut,behind,"Does this figure show 'a oven behind a donut'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,85,refrigerator,motorcycle,behind,"Does this figure show 'a refrigerator behind a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,86,book,tie,behind,"Does this figure show 'a book behind a tie'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,87,hair drier,parking meter,behind,"Does this figure show 'a hair drier behind a parking meter'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,88,tv,truck,behind,"Does this figure show 'a tv behind a truck'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,89,teddy bear,microwave,behind,"Does this figure show 'a teddy bear behind a microwave'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,90,clock,giraffe,behind,"Does this figure show 'a clock behind a giraffe'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,91,person,refrigerator,behind,"Does this figure show 'a person behind a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_26255437.pt,92,tv,cow,behind,"Does this figure show 'a tv behind a cow'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,93,microwave,cow,behind,"Does this figure show 'a microwave behind a cow'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,94,fire hydrant,tv remote,behind,"Does this figure show 'a fire hydrant behind a tv remote'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,95,donut,clock,behind,"Does this figure show 'a donut behind a clock'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,96,baseball glove,sandwich,behind,"Does this figure show 'a baseball glove behind a sandwich'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,97,hair drier,computer mouse,behind,"Does this figure show 'a hair drier behind a computer mouse'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,98,skateboard,bear,behind,"Does this figure show 'a skateboard behind a bear'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,99,refrigerator,orange,behind,"Does this figure show 'a refrigerator behind a orange'? Please answer yes, no.",No.,NO
+phrase_26255437.pt,100,clock,dining table,behind,"Does this figure show 'a clock behind a dining table'? Please answer yes, no.",Yes.,YES

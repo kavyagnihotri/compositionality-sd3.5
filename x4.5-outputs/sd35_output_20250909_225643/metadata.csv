@@ -1,0 +1,11 @@
+prompt_text,png_path_sd35,tensor_path_sd35,image_index_sd35
+A violin resting next to a cracked mirror.,sd35_output_20250909_225643/png_images/sd35/prompt_69656902.png,sd35_output_20250909_225643/tensors/sd35/prompt_69656902.pt,0
+A candle burning next to an open window.,sd35_output_20250909_225643/png_images/sd35/prompt_18913657.png,sd35_output_20250909_225643/tensors/sd35/prompt_18913657.pt,1
+A pair of shoes left next to a puddle.,sd35_output_20250909_225643/png_images/sd35/prompt_53371267.png,sd35_output_20250909_225643/tensors/sd35/prompt_53371267.pt,2
+A typewriter sitting next to a stack of letters.,sd35_output_20250909_225643/png_images/sd35/prompt_34648222.png,sd35_output_20250909_225643/tensors/sd35/prompt_34648222.pt,3
+A lantern glowing next to a broken fence.,sd35_output_20250909_225643/png_images/sd35/prompt_6033409.png,sd35_output_20250909_225643/tensors/sd35/prompt_6033409.pt,4
+A clock hanging above a doorway.,sd35_output_20250909_225643/png_images/sd35/prompt_74055560.png,sd35_output_20250909_225643/tensors/sd35/prompt_74055560.pt,5
+A shadow floating above the surface of the lake.,sd35_output_20250909_225643/png_images/sd35/prompt_60697194.png,sd35_output_20250909_225643/tensors/sd35/prompt_60697194.pt,6
+A spider crawling under a glass jar.,sd35_output_20250909_225643/png_images/sd35/prompt_86571644.png,sd35_output_20250909_225643/tensors/sd35/prompt_86571644.pt,7
+A cat hiding under a wooden chair.,sd35_output_20250909_225643/png_images/sd35/prompt_48631305.png,sd35_output_20250909_225643/tensors/sd35/prompt_48631305.pt,8
+A bridge standing above the rushing river.,sd35_output_20250909_225643/png_images/sd35/prompt_77834305.png,sd35_output_20250909_225643/tensors/sd35/prompt_77834305.pt,9

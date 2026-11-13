@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_944229.pt,1,giraffe,hair drier,in front of,"Does this figure show 'a giraffe in front of a hair drier'? Please answer yes, no.",No.,NO
+phrase_944229.pt,2,broccoli,skis,in front of,"Does this figure show 'a broccoli in front of a skis'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,3,book,sports ball,in front of,"Does this figure show 'a book in front of a sports ball'? Please answer yes, no.",No.,NO
+phrase_944229.pt,4,bench,cow,in front of,"Does this figure show 'a bench in front of a cow'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,5,computer keyboard,skateboard,in front of,"Does this figure show 'a computer keyboard in front of a skateboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,6,toilet,potted plant,in front of,"Does this figure show 'a toilet in front of a potted plant'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,7,oven,vase,in front of,"Does this figure show 'a oven in front of a vase'? Please answer yes, no.",No.,NO
+phrase_944229.pt,8,bed,book,in front of,"Does this figure show 'a bed in front of a book'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,9,cell phone,bear,in front of,"Does this figure show 'a cell phone in front of a bear'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,10,sports ball,refrigerator,in front of,"Does this figure show 'a sports ball in front of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,11,baseball bat,dog,in front of,"Does this figure show 'a baseball bat in front of a dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,12,orange,traffic light,in front of,"Does this figure show 'a orange in front of a traffic light'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,13,teddy bear,orange,in front of,"Does this figure show 'a teddy bear in front of a orange'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,14,skis,tennis racket,in front of,"Does this figure show 'a skis in front of a tennis racket'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,15,zebra,bicycle,in front of,"Does this figure show 'a zebra in front of a bicycle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,16,sheep,computer mouse,in front of,"Does this figure show 'a sheep in front of a computer mouse'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,17,cell phone,orange,in front of,"Does this figure show 'a cell phone in front of a orange'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,18,knife,umbrella,in front of,"Does this figure show 'a knife in front of a umbrella'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,19,motorcycle,carrot,in front of,"Does this figure show 'a motorcycle in front of a carrot'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,20,traffic light,horse,in front of,"Does this figure show 'a traffic light in front of a horse'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,21,surfboard,tv,in front of,"Does this figure show 'a surfboard in front of a tv'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,22,carrot,truck,in front of,"Does this figure show 'a carrot in front of a truck'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,23,giraffe,fire hydrant,in front of,"Does this figure show 'a giraffe in front of a fire hydrant'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,24,elephant,toaster,in front of,"Does this figure show 'a elephant in front of a toaster'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,25,bowl,dog,in front of,"Does this figure show 'a bowl in front of a dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,26,bench,motorcycle,in front of,"Does this figure show 'a bench in front of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,27,frisbee,handbag,in front of,"Does this figure show 'a frisbee in front of a handbag'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,28,skis,cat,in front of,"Does this figure show 'a skis in front of a cat'? Please answer yes, no.",No.,NO
+phrase_944229.pt,29,surfboard,spoon,in front of,"Does this figure show 'a surfboard in front of a spoon'? Please answer yes, no.",No.,NO
+phrase_944229.pt,30,bicycle,bus,in front of,"Does this figure show 'a bicycle in front of a bus'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,31,car,laptop,in front of,"Does this figure show 'a car in front of a laptop'? Please answer yes, no.",No.,NO
+phrase_944229.pt,32,frisbee,cat,in front of,"Does this figure show 'a frisbee in front of a cat'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,33,skis,motorcycle,in front of,"Does this figure show 'a skis in front of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,34,toilet,cat,in front of,"Does this figure show 'a toilet in front of a cat'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,35,snowboard,boat,in front of,"Does this figure show 'a snowboard in front of a boat'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,36,broccoli,bird,in front of,"Does this figure show 'a broccoli in front of a bird'? Please answer yes, no.",No.,NO
+phrase_944229.pt,37,scissors,airplane,in front of,"Does this figure show 'a scissors in front of a airplane'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,38,bowl,banana,in front of,"Does this figure show 'a bowl in front of a banana'? Please answer yes, no.",No.,NO
+phrase_944229.pt,39,baseball glove,bicycle,in front of,"Does this figure show 'a baseball glove in front of a bicycle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,40,microwave,skis,in front of,"Does this figure show 'a microwave in front of a skis'? Please answer yes, no.",No.,NO
+phrase_944229.pt,41,banana,stop sign,in front of,"Does this figure show 'a banana in front of a stop sign'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,42,oven,snowboard,in front of,"Does this figure show 'a oven in front of a snowboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,43,giraffe,tie,in front of,"Does this figure show 'a giraffe in front of a tie'? Please answer yes, no.",No.,NO
+phrase_944229.pt,44,parking meter,toilet,in front of,"Does this figure show 'a parking meter in front of a toilet'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,45,banana,fork,in front of,"Does this figure show 'a banana in front of a fork'? Please answer yes, no.",No.,NO
+phrase_944229.pt,46,laptop,broccoli,in front of,"Does this figure show 'a laptop in front of a broccoli'? Please answer yes, no.",No.,NO
+phrase_944229.pt,47,orange,toothbrush,in front of,"Does this figure show 'a orange in front of a toothbrush'? Please answer yes, no.",No.,NO
+phrase_944229.pt,48,baseball bat,boat,in front of,"Does this figure show 'a baseball bat in front of a boat'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,49,snowboard,skateboard,in front of,"Does this figure show 'a snowboard in front of a skateboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,50,book,dog,in front of,"Does this figure show 'a book in front of a dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,51,chair,pizza,in front of,"Does this figure show 'a chair in front of a pizza'? Please answer yes, no.",No.,NO
+phrase_944229.pt,52,suitcase,train,in front of,"Does this figure show 'a suitcase in front of a train'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,53,refrigerator,sports ball,in front of,"Does this figure show 'a refrigerator in front of a sports ball'? Please answer yes, no.",No.,NO
+phrase_944229.pt,54,baseball bat,sandwich,in front of,"Does this figure show 'a baseball bat in front of a sandwich'? Please answer yes, no.",No.,NO
+phrase_944229.pt,55,potted plant,fork,in front of,"Does this figure show 'a potted plant in front of a fork'? Please answer yes, no.",No.,NO
+phrase_944229.pt,56,clock,cow,in front of,"Does this figure show 'a clock in front of a cow'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,57,skateboard,motorcycle,in front of,"Does this figure show 'a skateboard in front of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,58,orange,bottle,in front of,"Does this figure show 'a orange in front of a bottle'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,59,backpack,wine glass,in front of,"Does this figure show 'a backpack in front of a wine glass'? Please answer yes, no.",No.,NO
+phrase_944229.pt,60,surfboard,handbag,in front of,"Does this figure show 'a surfboard in front of a handbag'? Please answer yes, no.",No.,NO
+phrase_944229.pt,61,frisbee,broccoli,in front of,"Does this figure show 'a frisbee in front of a broccoli'? Please answer yes, no.",No.,NO
+phrase_944229.pt,62,cell phone,dog,in front of,"Does this figure show 'a cell phone in front of a dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,63,chair,tennis racket,in front of,"Does this figure show 'a chair in front of a tennis racket'? Please answer yes, no.",No.,NO
+phrase_944229.pt,64,couch,tv remote,in front of,"Does this figure show 'a couch in front of a tv remote'? Please answer yes, no.",No.,NO
+phrase_944229.pt,65,donut,knife,in front of,"Does this figure show 'a donut in front of a knife'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,66,tv remote,laptop,in front of,"Does this figure show 'a tv remote in front of a laptop'? Please answer yes, no.",No.,NO
+phrase_944229.pt,67,traffic light,pizza,in front of,"Does this figure show 'a traffic light in front of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,68,motorcycle,cat,in front of,"Does this figure show 'a motorcycle in front of a cat'? Please answer yes, no.",No.,NO
+phrase_944229.pt,69,snowboard,bottle,in front of,"Does this figure show 'a snowboard in front of a bottle'? Please answer yes, no.",No.,NO
+phrase_944229.pt,70,chair,umbrella,in front of,"Does this figure show 'a chair in front of a umbrella'? Please answer yes, no.",No.,NO
+phrase_944229.pt,71,fork,hot dog,in front of,"Does this figure show 'a fork in front of a hot dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,72,clock,skateboard,in front of,"Does this figure show 'a clock in front of a skateboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,73,potted plant,tv,in front of,"Does this figure show 'a potted plant in front of a tv'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,74,laptop,computer keyboard,in front of,"Does this figure show 'a laptop in front of a computer keyboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,75,broccoli,dog,in front of,"Does this figure show 'a broccoli in front of a dog'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,76,tv,traffic light,in front of,"Does this figure show 'a tv in front of a traffic light'? Please answer yes, no.",No.,NO
+phrase_944229.pt,77,cell phone,parking meter,in front of,"Does this figure show 'a cell phone in front of a parking meter'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,78,fork,snowboard,in front of,"Does this figure show 'a fork in front of a snowboard'? Please answer yes, no.",No.,NO
+phrase_944229.pt,79,cow,carrot,in front of,"Does this figure show 'a cow in front of a carrot'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,80,truck,bus,in front of,"Does this figure show 'a truck in front of a bus'? Please answer yes, no.",No.,NO
+phrase_944229.pt,81,toaster,fire hydrant,in front of,"Does this figure show 'a toaster in front of a fire hydrant'? Please answer yes, no.",No.,NO
+phrase_944229.pt,82,bear,pizza,in front of,"Does this figure show 'a bear in front of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,83,pizza,frisbee,in front of,"Does this figure show 'a pizza in front of a frisbee'? Please answer yes, no.",No.,NO
+phrase_944229.pt,84,oven,donut,in front of,"Does this figure show 'a oven in front of a donut'? Please answer yes, no.",No.,NO
+phrase_944229.pt,85,refrigerator,motorcycle,in front of,"Does this figure show 'a refrigerator in front of a motorcycle'? Please answer yes, no.",No.,NO
+phrase_944229.pt,86,book,tie,in front of,"Does this figure show 'a book in front of a tie'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,87,hair drier,parking meter,in front of,"Does this figure show 'a hair drier in front of a parking meter'? Please answer yes, no.",No.,NO
+phrase_944229.pt,88,tv,truck,in front of,"Does this figure show 'a tv in front of a truck'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,89,teddy bear,microwave,in front of,"Does this figure show 'a teddy bear in front of a microwave'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,90,clock,giraffe,in front of,"Does this figure show 'a clock in front of a giraffe'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,91,person,refrigerator,in front of,"Does this figure show 'a person in front of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,92,tv,cow,in front of,"Does this figure show 'a tv in front of a cow'? Please answer yes, no.",No.,NO
+phrase_944229.pt,93,microwave,cow,in front of,"Does this figure show 'a microwave in front of a cow'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,94,fire hydrant,tv remote,in front of,"Does this figure show 'a fire hydrant in front of a tv remote'? Please answer yes, no.",No.,NO
+phrase_944229.pt,95,donut,clock,in front of,"Does this figure show 'a donut in front of a clock'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,96,baseball glove,sandwich,in front of,"Does this figure show 'a baseball glove in front of a sandwich'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,97,hair drier,computer mouse,in front of,"Does this figure show 'a hair drier in front of a computer mouse'? Please answer yes, no.",Yes.,YES
+phrase_944229.pt,98,skateboard,bear,in front of,"Does this figure show 'a skateboard in front of a bear'? Please answer yes, no.",No.,NO
+phrase_944229.pt,99,refrigerator,orange,in front of,"Does this figure show 'a refrigerator in front of a orange'? Please answer yes, no.",No.,NO
+phrase_944229.pt,100,clock,dining table,in front of,"Does this figure show 'a clock in front of a dining table'? Please answer yes, no.",No.,NO

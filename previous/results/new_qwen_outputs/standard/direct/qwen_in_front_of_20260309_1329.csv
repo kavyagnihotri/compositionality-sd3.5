@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_944229.pt,1,in front of,direct,No,,giraffe,hair drier
+standard,phrase_944229.pt,2,in front of,direct,No,,broccoli,skis
+standard,phrase_944229.pt,3,in front of,direct,No,,book,sports ball
+standard,phrase_944229.pt,4,in front of,direct,No,,bench,cow
+standard,phrase_944229.pt,5,in front of,direct,No,,computer keyboard,skateboard
+standard,phrase_944229.pt,6,in front of,direct,No,,toilet,potted plant
+standard,phrase_944229.pt,7,in front of,direct,No,,oven,vase
+standard,phrase_944229.pt,8,in front of,direct,No.,,bed,book
+standard,phrase_944229.pt,9,in front of,direct,Yes.,,cell phone,bear
+standard,phrase_944229.pt,10,in front of,direct,Yes.,,sports ball,refrigerator
+standard,phrase_944229.pt,11,in front of,direct,Yes.,,baseball bat,dog
+standard,phrase_944229.pt,12,in front of,direct,No,,orange,traffic light
+standard,phrase_944229.pt,13,in front of,direct,No,,teddy bear,orange
+standard,phrase_944229.pt,14,in front of,direct,No,,skis,tennis racket
+standard,phrase_944229.pt,15,in front of,direct,No.,,zebra,bicycle
+standard,phrase_944229.pt,16,in front of,direct,No,,sheep,computer mouse
+standard,phrase_944229.pt,17,in front of,direct,No,,cell phone,orange
+standard,phrase_944229.pt,18,in front of,direct,Yes.,,knife,umbrella
+standard,phrase_944229.pt,19,in front of,direct,No,,motorcycle,carrot
+standard,phrase_944229.pt,20,in front of,direct,No,,traffic light,horse
+standard,phrase_944229.pt,21,in front of,direct,Yes,,surfboard,tv
+standard,phrase_944229.pt,22,in front of,direct,Yes,,carrot,truck
+standard,phrase_944229.pt,23,in front of,direct,No,,giraffe,fire hydrant
+standard,phrase_944229.pt,24,in front of,direct,No,,elephant,toaster
+standard,phrase_944229.pt,25,in front of,direct,No,,bowl,dog
+standard,phrase_944229.pt,26,in front of,direct,No,,bench,motorcycle
+standard,phrase_944229.pt,27,in front of,direct,Yes,,frisbee,handbag
+standard,phrase_944229.pt,28,in front of,direct,No,,skis,cat
+standard,phrase_944229.pt,29,in front of,direct,No,,surfboard,spoon
+standard,phrase_944229.pt,30,in front of,direct,No,,bicycle,bus
+standard,phrase_944229.pt,31,in front of,direct,No,,car,laptop
+standard,phrase_944229.pt,32,in front of,direct,No,,frisbee,cat
+standard,phrase_944229.pt,33,in front of,direct,Yes,,skis,motorcycle
+standard,phrase_944229.pt,34,in front of,direct,No,,toilet,cat
+standard,phrase_944229.pt,35,in front of,direct,Yes,,snowboard,boat
+standard,phrase_944229.pt,36,in front of,direct,No,,broccoli,bird
+standard,phrase_944229.pt,37,in front of,direct,Yes,,scissors,airplane
+standard,phrase_944229.pt,38,in front of,direct,No,,bowl,banana
+standard,phrase_944229.pt,39,in front of,direct,Yes,,baseball glove,bicycle
+standard,phrase_944229.pt,40,in front of,direct,No,,microwave,skis
+standard,phrase_944229.pt,41,in front of,direct,No.,,banana,stop sign
+standard,phrase_944229.pt,42,in front of,direct,No,,oven,snowboard
+standard,phrase_944229.pt,43,in front of,direct,No,,giraffe,tie
+standard,phrase_944229.pt,44,in front of,direct,No,,parking meter,toilet
+standard,phrase_944229.pt,45,in front of,direct,No,,banana,fork
+standard,phrase_944229.pt,46,in front of,direct,No,,laptop,broccoli
+standard,phrase_944229.pt,47,in front of,direct,No,,orange,toothbrush
+standard,phrase_944229.pt,48,in front of,direct,Yes.,,baseball bat,boat
+standard,phrase_944229.pt,49,in front of,direct,No,,snowboard,skateboard
+standard,phrase_944229.pt,50,in front of,direct,Yes,,book,dog
+standard,phrase_944229.pt,51,in front of,direct,No,,chair,pizza
+standard,phrase_944229.pt,52,in front of,direct,No.,,suitcase,train
+standard,phrase_944229.pt,53,in front of,direct,No,,refrigerator,sports ball
+standard,phrase_944229.pt,54,in front of,direct,No,,baseball bat,sandwich
+standard,phrase_944229.pt,55,in front of,direct,No.,,potted plant,fork
+standard,phrase_944229.pt,56,in front of,direct,Yes,,clock,cow
+standard,phrase_944229.pt,57,in front of,direct,Yes,,skateboard,motorcycle
+standard,phrase_944229.pt,58,in front of,direct,Yes,,orange,bottle
+standard,phrase_944229.pt,59,in front of,direct,No,,backpack,wine glass
+standard,phrase_944229.pt,60,in front of,direct,No,,surfboard,handbag
+standard,phrase_944229.pt,61,in front of,direct,No,,frisbee,broccoli
+standard,phrase_944229.pt,62,in front of,direct,No,,cell phone,dog
+standard,phrase_944229.pt,63,in front of,direct,No.,,chair,tennis racket
+standard,phrase_944229.pt,64,in front of,direct,No,,couch,tv remote
+standard,phrase_944229.pt,65,in front of,direct,No,,donut,knife
+standard,phrase_944229.pt,66,in front of,direct,No,,tv remote,laptop
+standard,phrase_944229.pt,67,in front of,direct,No,,traffic light,pizza
+standard,phrase_944229.pt,68,in front of,direct,No,,motorcycle,cat
+standard,phrase_944229.pt,69,in front of,direct,No,,snowboard,bottle
+standard,phrase_944229.pt,70,in front of,direct,No,,chair,umbrella
+standard,phrase_944229.pt,71,in front of,direct,No,,fork,hot dog
+standard,phrase_944229.pt,72,in front of,direct,No,,clock,skateboard
+standard,phrase_944229.pt,73,in front of,direct,Yes,,potted plant,tv
+standard,phrase_944229.pt,74,in front of,direct,No,,laptop,computer keyboard
+standard,phrase_944229.pt,75,in front of,direct,Yes,,broccoli,dog
+standard,phrase_944229.pt,76,in front of,direct,No.,,tv,traffic light
+standard,phrase_944229.pt,77,in front of,direct,Yes,,cell phone,parking meter
+standard,phrase_944229.pt,78,in front of,direct,No,,fork,snowboard
+standard,phrase_944229.pt,79,in front of,direct,No,,cow,carrot
+standard,phrase_944229.pt,80,in front of,direct,No,,truck,bus
+standard,phrase_944229.pt,81,in front of,direct,No,,toaster,fire hydrant
+standard,phrase_944229.pt,82,in front of,direct,Yes.,,bear,pizza
+standard,phrase_944229.pt,83,in front of,direct,No.,,pizza,frisbee
+standard,phrase_944229.pt,84,in front of,direct,No.,,oven,donut
+standard,phrase_944229.pt,85,in front of,direct,No,,refrigerator,motorcycle
+standard,phrase_944229.pt,86,in front of,direct,No.,,book,tie
+standard,phrase_944229.pt,87,in front of,direct,No,,hair drier,parking meter
+standard,phrase_944229.pt,88,in front of,direct,No,,tv,truck
+standard,phrase_944229.pt,89,in front of,direct,Yes.,,teddy bear,microwave
+standard,phrase_944229.pt,90,in front of,direct,No.,,clock,giraffe
+standard,phrase_944229.pt,91,in front of,direct,Yes.,,person,refrigerator
+standard,phrase_944229.pt,92,in front of,direct,No,,tv,cow
+standard,phrase_944229.pt,93,in front of,direct,No,,microwave,cow
+standard,phrase_944229.pt,94,in front of,direct,No,,fire hydrant,tv remote
+standard,phrase_944229.pt,95,in front of,direct,No,,donut,clock
+standard,phrase_944229.pt,96,in front of,direct,No,,baseball glove,sandwich
+standard,phrase_944229.pt,97,in front of,direct,No,,hair drier,computer mouse
+standard,phrase_944229.pt,98,in front of,direct,No,,skateboard,bear
+standard,phrase_944229.pt,99,in front of,direct,No,,refrigerator,orange
+standard,phrase_944229.pt,100,in front of,direct,Yes,,clock,dining table

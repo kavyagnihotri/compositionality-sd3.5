@@ -1,0 +1,201 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_97483629.pt,0,a photo of a giraffe and not a hair drier,giraffe,negative_words,and not,hair drier
+phrase_97483629.pt,1,a photo of a broccoli and not a skis,broccoli,negative_words,and not,skis
+phrase_97483629.pt,2,a photo of a book and not a sports ball,book,negative_words,and not,sports ball
+phrase_97483629.pt,3,a photo of a bench and not a cow,bench,negative_words,and not,cow
+phrase_97483629.pt,4,a photo of a computer keyboard and not a skateboard,computer keyboard,negative_words,and not,skateboard
+phrase_97483629.pt,5,a photo of a toilet and not a potted plant,toilet,negative_words,and not,potted plant
+phrase_97483629.pt,6,a photo of a oven and not a vase,oven,negative_words,and not,vase
+phrase_97483629.pt,7,a photo of a bed and not a book,bed,negative_words,and not,book
+phrase_97483629.pt,8,a photo of a cell phone and not a bear,cell phone,negative_words,and not,bear
+phrase_97483629.pt,9,a photo of a sports ball and not a refrigerator,sports ball,negative_words,and not,refrigerator
+phrase_97483629.pt,10,a photo of a baseball bat and not a dog,baseball bat,negative_words,and not,dog
+phrase_97483629.pt,11,a photo of a orange and not a traffic light,orange,negative_words,and not,traffic light
+phrase_97483629.pt,12,a photo of a teddy bear and not a orange,teddy bear,negative_words,and not,orange
+phrase_97483629.pt,13,a photo of a skis and not a tennis racket,skis,negative_words,and not,tennis racket
+phrase_97483629.pt,14,a photo of a zebra and not a bicycle,zebra,negative_words,and not,bicycle
+phrase_97483629.pt,15,a photo of a sheep and not a computer mouse,sheep,negative_words,and not,computer mouse
+phrase_97483629.pt,16,a photo of a cell phone and not a orange,cell phone,negative_words,and not,orange
+phrase_97483629.pt,17,a photo of a knife and not a umbrella,knife,negative_words,and not,umbrella
+phrase_97483629.pt,18,a photo of a motorcycle and not a carrot,motorcycle,negative_words,and not,carrot
+phrase_97483629.pt,19,a photo of a traffic light and not a horse,traffic light,negative_words,and not,horse
+phrase_97483629.pt,20,a photo of a surfboard and not a tv,surfboard,negative_words,and not,tv
+phrase_97483629.pt,21,a photo of a carrot and not a truck,carrot,negative_words,and not,truck
+phrase_97483629.pt,22,a photo of a giraffe and not a fire hydrant,giraffe,negative_words,and not,fire hydrant
+phrase_97483629.pt,23,a photo of a elephant and not a toaster,elephant,negative_words,and not,toaster
+phrase_97483629.pt,24,a photo of a bowl and not a dog,bowl,negative_words,and not,dog
+phrase_97483629.pt,25,a photo of a bench and not a motorcycle,bench,negative_words,and not,motorcycle
+phrase_97483629.pt,26,a photo of a frisbee and not a handbag,frisbee,negative_words,and not,handbag
+phrase_97483629.pt,27,a photo of a skis and not a cat,skis,negative_words,and not,cat
+phrase_97483629.pt,28,a photo of a surfboard and not a spoon,surfboard,negative_words,and not,spoon
+phrase_97483629.pt,29,a photo of a bicycle and not a bus,bicycle,negative_words,and not,bus
+phrase_97483629.pt,30,a photo of a car and not a laptop,car,negative_words,and not,laptop
+phrase_97483629.pt,31,a photo of a frisbee and not a cat,frisbee,negative_words,and not,cat
+phrase_97483629.pt,32,a photo of a skis and not a motorcycle,skis,negative_words,and not,motorcycle
+phrase_97483629.pt,33,a photo of a toilet and not a cat,toilet,negative_words,and not,cat
+phrase_97483629.pt,34,a photo of a snowboard and not a boat,snowboard,negative_words,and not,boat
+phrase_97483629.pt,35,a photo of a broccoli and not a bird,broccoli,negative_words,and not,bird
+phrase_97483629.pt,36,a photo of a scissors and not a airplane,scissors,negative_words,and not,airplane
+phrase_97483629.pt,37,a photo of a bowl and not a banana,bowl,negative_words,and not,banana
+phrase_97483629.pt,38,a photo of a baseball glove and not a bicycle,baseball glove,negative_words,and not,bicycle
+phrase_97483629.pt,39,a photo of a microwave and not a skis,microwave,negative_words,and not,skis
+phrase_97483629.pt,40,a photo of a banana and not a stop sign,banana,negative_words,and not,stop sign
+phrase_97483629.pt,41,a photo of a oven and not a snowboard,oven,negative_words,and not,snowboard
+phrase_97483629.pt,42,a photo of a giraffe and not a tie,giraffe,negative_words,and not,tie
+phrase_97483629.pt,43,a photo of a parking meter and not a toilet,parking meter,negative_words,and not,toilet
+phrase_97483629.pt,44,a photo of a banana and not a fork,banana,negative_words,and not,fork
+phrase_97483629.pt,45,a photo of a laptop and not a broccoli,laptop,negative_words,and not,broccoli
+phrase_97483629.pt,46,a photo of a orange and not a toothbrush,orange,negative_words,and not,toothbrush
+phrase_97483629.pt,47,a photo of a baseball bat and not a boat,baseball bat,negative_words,and not,boat
+phrase_97483629.pt,48,a photo of a snowboard and not a skateboard,snowboard,negative_words,and not,skateboard
+phrase_97483629.pt,49,a photo of a book and not a dog,book,negative_words,and not,dog
+phrase_97483629.pt,50,a photo of a chair and not a pizza,chair,negative_words,and not,pizza
+phrase_97483629.pt,51,a photo of a suitcase and not a train,suitcase,negative_words,and not,train
+phrase_97483629.pt,52,a photo of a refrigerator and not a sports ball,refrigerator,negative_words,and not,sports ball
+phrase_97483629.pt,53,a photo of a baseball bat and not a sandwich,baseball bat,negative_words,and not,sandwich
+phrase_97483629.pt,54,a photo of a potted plant and not a fork,potted plant,negative_words,and not,fork
+phrase_97483629.pt,55,a photo of a clock and not a cow,clock,negative_words,and not,cow
+phrase_97483629.pt,56,a photo of a skateboard and not a motorcycle,skateboard,negative_words,and not,motorcycle
+phrase_97483629.pt,57,a photo of a orange and not a bottle,orange,negative_words,and not,bottle
+phrase_97483629.pt,58,a photo of a backpack and not a wine glass,backpack,negative_words,and not,wine glass
+phrase_97483629.pt,59,a photo of a surfboard and not a handbag,surfboard,negative_words,and not,handbag
+phrase_97483629.pt,60,a photo of a frisbee and not a broccoli,frisbee,negative_words,and not,broccoli
+phrase_97483629.pt,61,a photo of a cell phone and not a dog,cell phone,negative_words,and not,dog
+phrase_97483629.pt,62,a photo of a chair and not a tennis racket,chair,negative_words,and not,tennis racket
+phrase_97483629.pt,63,a photo of a couch and not a tv remote,couch,negative_words,and not,tv remote
+phrase_97483629.pt,64,a photo of a donut and not a knife,donut,negative_words,and not,knife
+phrase_97483629.pt,65,a photo of a tv remote and not a laptop,tv remote,negative_words,and not,laptop
+phrase_97483629.pt,66,a photo of a traffic light and not a pizza,traffic light,negative_words,and not,pizza
+phrase_97483629.pt,67,a photo of a motorcycle and not a cat,motorcycle,negative_words,and not,cat
+phrase_97483629.pt,68,a photo of a snowboard and not a bottle,snowboard,negative_words,and not,bottle
+phrase_97483629.pt,69,a photo of a chair and not a umbrella,chair,negative_words,and not,umbrella
+phrase_97483629.pt,70,a photo of a fork and not a hot dog,fork,negative_words,and not,hot dog
+phrase_97483629.pt,71,a photo of a clock and not a skateboard,clock,negative_words,and not,skateboard
+phrase_97483629.pt,72,a photo of a potted plant and not a tv,potted plant,negative_words,and not,tv
+phrase_97483629.pt,73,a photo of a laptop and not a computer keyboard,laptop,negative_words,and not,computer keyboard
+phrase_97483629.pt,74,a photo of a broccoli and not a dog,broccoli,negative_words,and not,dog
+phrase_97483629.pt,75,a photo of a tv and not a traffic light,tv,negative_words,and not,traffic light
+phrase_97483629.pt,76,a photo of a cell phone and not a parking meter,cell phone,negative_words,and not,parking meter
+phrase_97483629.pt,77,a photo of a fork and not a snowboard,fork,negative_words,and not,snowboard
+phrase_97483629.pt,78,a photo of a cow and not a carrot,cow,negative_words,and not,carrot
+phrase_97483629.pt,79,a photo of a truck and not a bus,truck,negative_words,and not,bus
+phrase_97483629.pt,80,a photo of a toaster and not a fire hydrant,toaster,negative_words,and not,fire hydrant
+phrase_97483629.pt,81,a photo of a bear and not a pizza,bear,negative_words,and not,pizza
+phrase_97483629.pt,82,a photo of a pizza and not a frisbee,pizza,negative_words,and not,frisbee
+phrase_97483629.pt,83,a photo of a oven and not a donut,oven,negative_words,and not,donut
+phrase_97483629.pt,84,a photo of a refrigerator and not a motorcycle,refrigerator,negative_words,and not,motorcycle
+phrase_97483629.pt,85,a photo of a book and not a tie,book,negative_words,and not,tie
+phrase_97483629.pt,86,a photo of a hair drier and not a parking meter,hair drier,negative_words,and not,parking meter
+phrase_97483629.pt,87,a photo of a tv and not a truck,tv,negative_words,and not,truck
+phrase_97483629.pt,88,a photo of a teddy bear and not a microwave,teddy bear,negative_words,and not,microwave
+phrase_97483629.pt,89,a photo of a clock and not a giraffe,clock,negative_words,and not,giraffe
+phrase_97483629.pt,90,a photo of a person and not a refrigerator,person,negative_words,and not,refrigerator
+phrase_97483629.pt,91,a photo of a tv and not a cow,tv,negative_words,and not,cow
+phrase_97483629.pt,92,a photo of a microwave and not a cow,microwave,negative_words,and not,cow
+phrase_97483629.pt,93,a photo of a fire hydrant and not a tv remote,fire hydrant,negative_words,and not,tv remote
+phrase_97483629.pt,94,a photo of a donut and not a clock,donut,negative_words,and not,clock
+phrase_97483629.pt,95,a photo of a baseball glove and not a sandwich,baseball glove,negative_words,and not,sandwich
+phrase_97483629.pt,96,a photo of a hair drier and not a computer mouse,hair drier,negative_words,and not,computer mouse
+phrase_97483629.pt,97,a photo of a skateboard and not a bear,skateboard,negative_words,and not,bear
+phrase_97483629.pt,98,a photo of a refrigerator and not a orange,refrigerator,negative_words,and not,orange
+phrase_97483629.pt,99,a photo of a clock and not a dining table,clock,negative_words,and not,dining table
+phrase_47694795.pt,0,a photo of a giraffe without a hair drier,giraffe,negative_words,without,hair drier
+phrase_47694795.pt,1,a photo of a broccoli without a skis,broccoli,negative_words,without,skis
+phrase_47694795.pt,2,a photo of a book without a sports ball,book,negative_words,without,sports ball
+phrase_47694795.pt,3,a photo of a bench without a cow,bench,negative_words,without,cow
+phrase_47694795.pt,4,a photo of a computer keyboard without a skateboard,computer keyboard,negative_words,without,skateboard
+phrase_47694795.pt,5,a photo of a toilet without a potted plant,toilet,negative_words,without,potted plant
+phrase_47694795.pt,6,a photo of a oven without a vase,oven,negative_words,without,vase
+phrase_47694795.pt,7,a photo of a bed without a book,bed,negative_words,without,book
+phrase_47694795.pt,8,a photo of a cell phone without a bear,cell phone,negative_words,without,bear
+phrase_47694795.pt,9,a photo of a sports ball without a refrigerator,sports ball,negative_words,without,refrigerator
+phrase_47694795.pt,10,a photo of a baseball bat without a dog,baseball bat,negative_words,without,dog
+phrase_47694795.pt,11,a photo of a orange without a traffic light,orange,negative_words,without,traffic light
+phrase_47694795.pt,12,a photo of a teddy bear without a orange,teddy bear,negative_words,without,orange
+phrase_47694795.pt,13,a photo of a skis without a tennis racket,skis,negative_words,without,tennis racket
+phrase_47694795.pt,14,a photo of a zebra without a bicycle,zebra,negative_words,without,bicycle
+phrase_47694795.pt,15,a photo of a sheep without a computer mouse,sheep,negative_words,without,computer mouse
+phrase_47694795.pt,16,a photo of a cell phone without a orange,cell phone,negative_words,without,orange
+phrase_47694795.pt,17,a photo of a knife without a umbrella,knife,negative_words,without,umbrella
+phrase_47694795.pt,18,a photo of a motorcycle without a carrot,motorcycle,negative_words,without,carrot
+phrase_47694795.pt,19,a photo of a traffic light without a horse,traffic light,negative_words,without,horse
+phrase_47694795.pt,20,a photo of a surfboard without a tv,surfboard,negative_words,without,tv
+phrase_47694795.pt,21,a photo of a carrot without a truck,carrot,negative_words,without,truck
+phrase_47694795.pt,22,a photo of a giraffe without a fire hydrant,giraffe,negative_words,without,fire hydrant
+phrase_47694795.pt,23,a photo of a elephant without a toaster,elephant,negative_words,without,toaster
+phrase_47694795.pt,24,a photo of a bowl without a dog,bowl,negative_words,without,dog
+phrase_47694795.pt,25,a photo of a bench without a motorcycle,bench,negative_words,without,motorcycle
+phrase_47694795.pt,26,a photo of a frisbee without a handbag,frisbee,negative_words,without,handbag
+phrase_47694795.pt,27,a photo of a skis without a cat,skis,negative_words,without,cat
+phrase_47694795.pt,28,a photo of a surfboard without a spoon,surfboard,negative_words,without,spoon
+phrase_47694795.pt,29,a photo of a bicycle without a bus,bicycle,negative_words,without,bus
+phrase_47694795.pt,30,a photo of a car without a laptop,car,negative_words,without,laptop
+phrase_47694795.pt,31,a photo of a frisbee without a cat,frisbee,negative_words,without,cat
+phrase_47694795.pt,32,a photo of a skis without a motorcycle,skis,negative_words,without,motorcycle
+phrase_47694795.pt,33,a photo of a toilet without a cat,toilet,negative_words,without,cat
+phrase_47694795.pt,34,a photo of a snowboard without a boat,snowboard,negative_words,without,boat
+phrase_47694795.pt,35,a photo of a broccoli without a bird,broccoli,negative_words,without,bird
+phrase_47694795.pt,36,a photo of a scissors without a airplane,scissors,negative_words,without,airplane
+phrase_47694795.pt,37,a photo of a bowl without a banana,bowl,negative_words,without,banana
+phrase_47694795.pt,38,a photo of a baseball glove without a bicycle,baseball glove,negative_words,without,bicycle
+phrase_47694795.pt,39,a photo of a microwave without a skis,microwave,negative_words,without,skis
+phrase_47694795.pt,40,a photo of a banana without a stop sign,banana,negative_words,without,stop sign
+phrase_47694795.pt,41,a photo of a oven without a snowboard,oven,negative_words,without,snowboard
+phrase_47694795.pt,42,a photo of a giraffe without a tie,giraffe,negative_words,without,tie
+phrase_47694795.pt,43,a photo of a parking meter without a toilet,parking meter,negative_words,without,toilet
+phrase_47694795.pt,44,a photo of a banana without a fork,banana,negative_words,without,fork
+phrase_47694795.pt,45,a photo of a laptop without a broccoli,laptop,negative_words,without,broccoli
+phrase_47694795.pt,46,a photo of a orange without a toothbrush,orange,negative_words,without,toothbrush
+phrase_47694795.pt,47,a photo of a baseball bat without a boat,baseball bat,negative_words,without,boat
+phrase_47694795.pt,48,a photo of a snowboard without a skateboard,snowboard,negative_words,without,skateboard
+phrase_47694795.pt,49,a photo of a book without a dog,book,negative_words,without,dog
+phrase_47694795.pt,50,a photo of a chair without a pizza,chair,negative_words,without,pizza
+phrase_47694795.pt,51,a photo of a suitcase without a train,suitcase,negative_words,without,train
+phrase_47694795.pt,52,a photo of a refrigerator without a sports ball,refrigerator,negative_words,without,sports ball
+phrase_47694795.pt,53,a photo of a baseball bat without a sandwich,baseball bat,negative_words,without,sandwich
+phrase_47694795.pt,54,a photo of a potted plant without a fork,potted plant,negative_words,without,fork
+phrase_47694795.pt,55,a photo of a clock without a cow,clock,negative_words,without,cow
+phrase_47694795.pt,56,a photo of a skateboard without a motorcycle,skateboard,negative_words,without,motorcycle
+phrase_47694795.pt,57,a photo of a orange without a bottle,orange,negative_words,without,bottle
+phrase_47694795.pt,58,a photo of a backpack without a wine glass,backpack,negative_words,without,wine glass
+phrase_47694795.pt,59,a photo of a surfboard without a handbag,surfboard,negative_words,without,handbag
+phrase_47694795.pt,60,a photo of a frisbee without a broccoli,frisbee,negative_words,without,broccoli
+phrase_47694795.pt,61,a photo of a cell phone without a dog,cell phone,negative_words,without,dog
+phrase_47694795.pt,62,a photo of a chair without a tennis racket,chair,negative_words,without,tennis racket
+phrase_47694795.pt,63,a photo of a couch without a tv remote,couch,negative_words,without,tv remote
+phrase_47694795.pt,64,a photo of a donut without a knife,donut,negative_words,without,knife
+phrase_47694795.pt,65,a photo of a tv remote without a laptop,tv remote,negative_words,without,laptop
+phrase_47694795.pt,66,a photo of a traffic light without a pizza,traffic light,negative_words,without,pizza
+phrase_47694795.pt,67,a photo of a motorcycle without a cat,motorcycle,negative_words,without,cat
+phrase_47694795.pt,68,a photo of a snowboard without a bottle,snowboard,negative_words,without,bottle
+phrase_47694795.pt,69,a photo of a chair without a umbrella,chair,negative_words,without,umbrella
+phrase_47694795.pt,70,a photo of a fork without a hot dog,fork,negative_words,without,hot dog
+phrase_47694795.pt,71,a photo of a clock without a skateboard,clock,negative_words,without,skateboard
+phrase_47694795.pt,72,a photo of a potted plant without a tv,potted plant,negative_words,without,tv
+phrase_47694795.pt,73,a photo of a laptop without a computer keyboard,laptop,negative_words,without,computer keyboard
+phrase_47694795.pt,74,a photo of a broccoli without a dog,broccoli,negative_words,without,dog
+phrase_47694795.pt,75,a photo of a tv without a traffic light,tv,negative_words,without,traffic light
+phrase_47694795.pt,76,a photo of a cell phone without a parking meter,cell phone,negative_words,without,parking meter
+phrase_47694795.pt,77,a photo of a fork without a snowboard,fork,negative_words,without,snowboard
+phrase_47694795.pt,78,a photo of a cow without a carrot,cow,negative_words,without,carrot
+phrase_47694795.pt,79,a photo of a truck without a bus,truck,negative_words,without,bus
+phrase_47694795.pt,80,a photo of a toaster without a fire hydrant,toaster,negative_words,without,fire hydrant
+phrase_47694795.pt,81,a photo of a bear without a pizza,bear,negative_words,without,pizza
+phrase_47694795.pt,82,a photo of a pizza without a frisbee,pizza,negative_words,without,frisbee
+phrase_47694795.pt,83,a photo of a oven without a donut,oven,negative_words,without,donut
+phrase_47694795.pt,84,a photo of a refrigerator without a motorcycle,refrigerator,negative_words,without,motorcycle
+phrase_47694795.pt,85,a photo of a book without a tie,book,negative_words,without,tie
+phrase_47694795.pt,86,a photo of a hair drier without a parking meter,hair drier,negative_words,without,parking meter
+phrase_47694795.pt,87,a photo of a tv without a truck,tv,negative_words,without,truck
+phrase_47694795.pt,88,a photo of a teddy bear without a microwave,teddy bear,negative_words,without,microwave
+phrase_47694795.pt,89,a photo of a clock without a giraffe,clock,negative_words,without,giraffe
+phrase_47694795.pt,90,a photo of a person without a refrigerator,person,negative_words,without,refrigerator
+phrase_47694795.pt,91,a photo of a tv without a cow,tv,negative_words,without,cow
+phrase_47694795.pt,92,a photo of a microwave without a cow,microwave,negative_words,without,cow
+phrase_47694795.pt,93,a photo of a fire hydrant without a tv remote,fire hydrant,negative_words,without,tv remote
+phrase_47694795.pt,94,a photo of a donut without a clock,donut,negative_words,without,clock
+phrase_47694795.pt,95,a photo of a baseball glove without a sandwich,baseball glove,negative_words,without,sandwich
+phrase_47694795.pt,96,a photo of a hair drier without a computer mouse,hair drier,negative_words,without,computer mouse
+phrase_47694795.pt,97,a photo of a skateboard without a bear,skateboard,negative_words,without,bear
+phrase_47694795.pt,98,a photo of a refrigerator without a orange,refrigerator,negative_words,without,orange
+phrase_47694795.pt,99,a photo of a clock without a dining table,clock,negative_words,without,dining table

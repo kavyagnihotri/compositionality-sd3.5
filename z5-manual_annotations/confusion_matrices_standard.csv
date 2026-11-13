@@ -1,0 +1,91 @@
+phrase,strategy,manual_label,qwen_yes,qwen_no,qwen_ambiguous,row_total,total_compared,correct_predictions,accuracy_pct,tensor_file
+above,direct,Yes,24,32,0,56,100,58,58.0,phrase_83840957.pt
+above,direct,No,0,34,0,34,100,58,58.0,phrase_83840957.pt
+above,direct,Ambiguous,0,10,0,10,100,58,58.0,phrase_83840957.pt
+above,expert,Yes,48,7,1,56,100,72,72.0,phrase_83840957.pt
+above,expert,No,9,23,2,34,100,72,72.0,phrase_83840957.pt
+above,expert,Ambiguous,1,8,1,10,100,72,72.0,phrase_83840957.pt
+above,inverse,Yes,46,3,7,56,100,68,68.0,phrase_83840957.pt
+above,inverse,No,5,17,12,34,100,68,68.0,phrase_83840957.pt
+above,inverse,Ambiguous,0,5,5,10,100,68,68.0,phrase_83840957.pt
+behind,direct,Yes,0,11,0,11,20,9,45.0,phrase_26255437.pt
+behind,direct,No,0,9,0,9,20,9,45.0,phrase_26255437.pt
+behind,direct,Ambiguous,0,0,0,0,20,9,45.0,phrase_26255437.pt
+behind,expert,Yes,6,4,1,11,20,13,65.0,phrase_26255437.pt
+behind,expert,No,2,7,0,9,20,13,65.0,phrase_26255437.pt
+behind,expert,Ambiguous,0,0,0,0,20,13,65.0,phrase_26255437.pt
+behind,inverse,Yes,6,2,3,11,20,9,45.0,phrase_26255437.pt
+behind,inverse,No,4,3,2,9,20,9,45.0,phrase_26255437.pt
+behind,inverse,Ambiguous,0,0,0,0,20,9,45.0,phrase_26255437.pt
+below,direct,Yes,3,40,0,43,100,47,47.0,phrase_97999771.pt
+below,direct,No,0,44,0,44,100,47,47.0,phrase_97999771.pt
+below,direct,Ambiguous,1,12,0,13,100,47,47.0,phrase_97999771.pt
+below,expert,Yes,34,9,0,43,100,67,67.0,phrase_97999771.pt
+below,expert,No,9,33,2,44,100,67,67.0,phrase_97999771.pt
+below,expert,Ambiguous,4,9,0,13,100,67,67.0,phrase_97999771.pt
+below,inverse,Yes,33,7,3,43,100,60,60.0,phrase_97999771.pt
+below,inverse,No,12,21,11,44,100,60,60.0,phrase_97999771.pt
+below,inverse,Ambiguous,3,4,6,13,100,60,60.0,phrase_97999771.pt
+between,direct,Yes,53,20,0,73,100,76,76.0,phrase_88935510.pt
+between,direct,No,1,23,0,24,100,76,76.0,phrase_88935510.pt
+between,direct,Ambiguous,1,2,0,3,100,76,76.0,phrase_88935510.pt
+between,expert,Yes,55,14,4,73,100,76,76.0,phrase_88935510.pt
+between,expert,No,3,20,1,24,100,76,76.0,phrase_88935510.pt
+between,expert,Ambiguous,1,1,1,3,100,76,76.0,phrase_88935510.pt
+in front of,direct,Yes,4,13,0,17,20,7,35.0,phrase_944229.pt
+in front of,direct,No,0,3,0,3,20,7,35.0,phrase_944229.pt
+in front of,direct,Ambiguous,0,0,0,0,20,7,35.0,phrase_944229.pt
+in front of,expert,Yes,10,6,1,17,20,12,60.0,phrase_944229.pt
+in front of,expert,No,0,2,1,3,20,12,60.0,phrase_944229.pt
+in front of,expert,Ambiguous,0,0,0,0,20,12,60.0,phrase_944229.pt
+in front of,inverse,Yes,12,2,3,17,20,12,60.0,phrase_944229.pt
+in front of,inverse,No,2,0,1,3,20,12,60.0,phrase_944229.pt
+in front of,inverse,Ambiguous,0,0,0,0,20,12,60.0,phrase_944229.pt
+on top of,direct,Yes,2,6,0,8,10,4,40.0,phrase_40502497.pt
+on top of,direct,No,0,2,0,2,10,4,40.0,phrase_40502497.pt
+on top of,direct,Ambiguous,0,0,0,0,10,4,40.0,phrase_40502497.pt
+on top of,expert,Yes,4,4,0,8,10,6,60.0,phrase_40502497.pt
+on top of,expert,No,0,2,0,2,10,6,60.0,phrase_40502497.pt
+on top of,expert,Ambiguous,0,0,0,0,10,6,60.0,phrase_40502497.pt
+over,direct,Yes,1,2,0,3,10,8,80.0,phrase_38486703.pt
+over,direct,No,0,7,0,7,10,8,80.0,phrase_38486703.pt
+over,direct,Ambiguous,0,0,0,0,10,8,80.0,phrase_38486703.pt
+over,expert,Yes,0,2,1,3,10,6,60.0,phrase_38486703.pt
+over,expert,No,1,6,0,7,10,6,60.0,phrase_38486703.pt
+over,expert,Ambiguous,0,0,0,0,10,6,60.0,phrase_38486703.pt
+over,inverse,Yes,1,1,1,3,10,5,50.0,phrase_38486703.pt
+over,inverse,No,1,4,2,7,10,5,50.0,phrase_38486703.pt
+over,inverse,Ambiguous,0,0,0,0,10,5,50.0,phrase_38486703.pt
+to the left of,direct,Yes,40,14,0,54,100,76,76.0,phrase_46534700.pt
+to the left of,direct,No,2,36,0,38,100,76,76.0,phrase_46534700.pt
+to the left of,direct,Ambiguous,0,8,0,8,100,76,76.0,phrase_46534700.pt
+to the left of,expert,Yes,52,2,0,54,100,80,80.0,phrase_46534700.pt
+to the left of,expert,No,8,28,2,38,100,80,80.0,phrase_46534700.pt
+to the left of,expert,Ambiguous,3,5,0,8,100,80,80.0,phrase_46534700.pt
+to the left of,inverse,Yes,49,0,5,54,100,63,63.0,phrase_46534700.pt
+to the left of,inverse,No,8,11,19,38,100,63,63.0,phrase_46534700.pt
+to the left of,inverse,Ambiguous,4,1,3,8,100,63,63.0,phrase_46534700.pt
+to the right of,direct,Yes,15,12,0,27,100,86,86.0,phrase_79660671.pt
+to the right of,direct,No,2,71,0,73,100,86,86.0,phrase_79660671.pt
+to the right of,direct,Ambiguous,0,0,0,0,100,86,86.0,phrase_79660671.pt
+to the right of,expert,Yes,23,4,0,27,100,86,86.0,phrase_79660671.pt
+to the right of,expert,No,9,63,1,73,100,86,86.0,phrase_79660671.pt
+to the right of,expert,Ambiguous,0,0,0,0,100,86,86.0,phrase_79660671.pt
+to the right of,inverse,Yes,20,1,6,27,100,36,36.0,phrase_79660671.pt
+to the right of,inverse,No,18,16,39,73,100,36,36.0,phrase_79660671.pt
+to the right of,inverse,Ambiguous,0,0,0,0,100,36,36.0,phrase_79660671.pt
+under,direct,Yes,1,6,0,7,10,4,40.0,phrase_53123201.pt
+under,direct,No,0,3,0,3,10,4,40.0,phrase_53123201.pt
+under,direct,Ambiguous,0,0,0,0,10,4,40.0,phrase_53123201.pt
+under,expert,Yes,2,5,0,7,10,4,40.0,phrase_53123201.pt
+under,expert,No,1,2,0,3,10,4,40.0,phrase_53123201.pt
+under,expert,Ambiguous,0,0,0,0,10,4,40.0,phrase_53123201.pt
+under,inverse,Yes,4,2,1,7,10,6,60.0,phrase_53123201.pt
+under,inverse,No,1,2,0,3,10,6,60.0,phrase_53123201.pt
+under,inverse,Ambiguous,0,0,0,0,10,6,60.0,phrase_53123201.pt
+without,direct,Yes,2,3,0,5,10,7,70.0,
+without,direct,No,0,5,0,5,10,7,70.0,
+without,direct,Ambiguous,0,0,0,0,10,7,70.0,
+without,expert,Yes,3,2,0,5,10,8,80.0,
+without,expert,No,0,5,0,5,10,8,80.0,
+without,expert,Ambiguous,0,0,0,0,10,8,80.0,

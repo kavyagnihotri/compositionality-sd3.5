@@ -1,0 +1,301 @@
+tensor_file,tensor_index,prompt,class1,class2,category,phrase
+phrase_56468159.pt,0,a photo of a sports ball parallel to a tie,sports ball,tie,simple_positional,parallel to
+phrase_56468159.pt,1,a photo of a refrigerator parallel to a dining table,refrigerator,dining table,simple_positional,parallel to
+phrase_56468159.pt,2,a photo of a vase parallel to a bird,vase,bird,simple_positional,parallel to
+phrase_56468159.pt,3,a photo of a vase parallel to a horse,vase,horse,simple_positional,parallel to
+phrase_56468159.pt,4,a photo of a cup parallel to a fork,cup,fork,simple_positional,parallel to
+phrase_56468159.pt,5,a photo of a elephant parallel to a dining table,elephant,dining table,simple_positional,parallel to
+phrase_56468159.pt,6,a photo of a train parallel to a wine glass,train,wine glass,simple_positional,parallel to
+phrase_56468159.pt,7,a photo of a motorcycle parallel to a airplane,motorcycle,airplane,simple_positional,parallel to
+phrase_56468159.pt,8,a photo of a bed parallel to a bear,bed,bear,simple_positional,parallel to
+phrase_56468159.pt,9,a photo of a kite parallel to a carrot,kite,carrot,simple_positional,parallel to
+phrase_56468159.pt,10,a photo of a bowl parallel to a handbag,bowl,handbag,simple_positional,parallel to
+phrase_56468159.pt,11,a photo of a computer mouse parallel to a tennis racket,computer mouse,tennis racket,simple_positional,parallel to
+phrase_56468159.pt,12,a photo of a teddy bear parallel to a sheep,teddy bear,sheep,simple_positional,parallel to
+phrase_56468159.pt,13,a photo of a skateboard parallel to a toilet,skateboard,toilet,simple_positional,parallel to
+phrase_56468159.pt,14,a photo of a computer keyboard parallel to a dining table,computer keyboard,dining table,simple_positional,parallel to
+phrase_56468159.pt,15,a photo of a banana parallel to a snowboard,banana,snowboard,simple_positional,parallel to
+phrase_56468159.pt,16,a photo of a tv remote parallel to a knife,tv remote,knife,simple_positional,parallel to
+phrase_56468159.pt,17,a photo of a suitcase parallel to a tie,suitcase,tie,simple_positional,parallel to
+phrase_56468159.pt,18,a photo of a broccoli parallel to a kite,broccoli,kite,simple_positional,parallel to
+phrase_56468159.pt,19,a photo of a computer mouse parallel to a cat,computer mouse,cat,simple_positional,parallel to
+phrase_56468159.pt,20,a photo of a cell phone parallel to a baseball glove,cell phone,baseball glove,simple_positional,parallel to
+phrase_56468159.pt,21,a photo of a dog parallel to a zebra,dog,zebra,simple_positional,parallel to
+phrase_56468159.pt,22,a photo of a knife parallel to a suitcase,knife,suitcase,simple_positional,parallel to
+phrase_56468159.pt,23,a photo of a backpack parallel to a sheep,backpack,sheep,simple_positional,parallel to
+phrase_56468159.pt,24,a photo of a umbrella parallel to a motorcycle,umbrella,motorcycle,simple_positional,parallel to
+phrase_56468159.pt,25,a photo of a tv parallel to a tv remote,tv,tv remote,simple_positional,parallel to
+phrase_56468159.pt,26,a photo of a horse parallel to a book,horse,book,simple_positional,parallel to
+phrase_56468159.pt,27,a photo of a baseball glove parallel to a cup,baseball glove,cup,simple_positional,parallel to
+phrase_56468159.pt,28,a photo of a car parallel to a snowboard,car,snowboard,simple_positional,parallel to
+phrase_56468159.pt,29,a photo of a sandwich parallel to a book,sandwich,book,simple_positional,parallel to
+phrase_56468159.pt,30,a photo of a bowl parallel to a sink,bowl,sink,simple_positional,parallel to
+phrase_56468159.pt,31,a photo of a book parallel to a bicycle,book,bicycle,simple_positional,parallel to
+phrase_56468159.pt,32,a photo of a carrot parallel to a suitcase,carrot,suitcase,simple_positional,parallel to
+phrase_56468159.pt,33,a photo of a umbrella parallel to a sports ball,umbrella,sports ball,simple_positional,parallel to
+phrase_56468159.pt,34,a photo of a cup parallel to a elephant,cup,elephant,simple_positional,parallel to
+phrase_56468159.pt,35,a photo of a bicycle parallel to a clock,bicycle,clock,simple_positional,parallel to
+phrase_56468159.pt,36,a photo of a apple parallel to a suitcase,apple,suitcase,simple_positional,parallel to
+phrase_56468159.pt,37,a photo of a scissors parallel to a cow,scissors,cow,simple_positional,parallel to
+phrase_56468159.pt,38,a photo of a tv parallel to a fire hydrant,tv,fire hydrant,simple_positional,parallel to
+phrase_56468159.pt,39,a photo of a apple parallel to a tv remote,apple,tv remote,simple_positional,parallel to
+phrase_56468159.pt,40,a photo of a snowboard parallel to a oven,snowboard,oven,simple_positional,parallel to
+phrase_56468159.pt,41,a photo of a spoon parallel to a potted plant,spoon,potted plant,simple_positional,parallel to
+phrase_56468159.pt,42,a photo of a toilet parallel to a sink,toilet,sink,simple_positional,parallel to
+phrase_56468159.pt,43,a photo of a oven parallel to a traffic light,oven,traffic light,simple_positional,parallel to
+phrase_56468159.pt,44,a photo of a snowboard parallel to a parking meter,snowboard,parking meter,simple_positional,parallel to
+phrase_56468159.pt,45,a photo of a train parallel to a bear,train,bear,simple_positional,parallel to
+phrase_56468159.pt,46,a photo of a tennis racket parallel to a potted plant,tennis racket,potted plant,simple_positional,parallel to
+phrase_56468159.pt,47,a photo of a cake parallel to a couch,cake,couch,simple_positional,parallel to
+phrase_56468159.pt,48,a photo of a bed parallel to a toilet,bed,toilet,simple_positional,parallel to
+phrase_56468159.pt,49,a photo of a bear parallel to a fire hydrant,bear,fire hydrant,simple_positional,parallel to
+phrase_56468159.pt,50,a photo of a toilet parallel to a couch,toilet,couch,simple_positional,parallel to
+phrase_56468159.pt,51,a photo of a knife parallel to a scissors,knife,scissors,simple_positional,parallel to
+phrase_56468159.pt,52,a photo of a stop sign parallel to a dog,stop sign,dog,simple_positional,parallel to
+phrase_56468159.pt,53,a photo of a bench parallel to a frisbee,bench,frisbee,simple_positional,parallel to
+phrase_56468159.pt,54,a photo of a bicycle parallel to a cup,bicycle,cup,simple_positional,parallel to
+phrase_56468159.pt,55,a photo of a dining table parallel to a suitcase,dining table,suitcase,simple_positional,parallel to
+phrase_56468159.pt,56,a photo of a bicycle parallel to a motorcycle,bicycle,motorcycle,simple_positional,parallel to
+phrase_56468159.pt,57,a photo of a knife parallel to a tv,knife,tv,simple_positional,parallel to
+phrase_56468159.pt,58,a photo of a truck parallel to a teddy bear,truck,teddy bear,simple_positional,parallel to
+phrase_56468159.pt,59,a photo of a book parallel to a bear,book,bear,simple_positional,parallel to
+phrase_56468159.pt,60,a photo of a cat parallel to a sandwich,cat,sandwich,simple_positional,parallel to
+phrase_56468159.pt,61,a photo of a bowl parallel to a suitcase,bowl,suitcase,simple_positional,parallel to
+phrase_56468159.pt,62,a photo of a book parallel to a potted plant,book,potted plant,simple_positional,parallel to
+phrase_56468159.pt,63,a photo of a bird parallel to a laptop,bird,laptop,simple_positional,parallel to
+phrase_56468159.pt,64,a photo of a scissors parallel to a toaster,scissors,toaster,simple_positional,parallel to
+phrase_56468159.pt,65,a photo of a wine glass parallel to a orange,wine glass,orange,simple_positional,parallel to
+phrase_56468159.pt,66,a photo of a stop sign parallel to a spoon,stop sign,spoon,simple_positional,parallel to
+phrase_56468159.pt,67,a photo of a bus parallel to a sandwich,bus,sandwich,simple_positional,parallel to
+phrase_56468159.pt,68,a photo of a spoon parallel to a toilet,spoon,toilet,simple_positional,parallel to
+phrase_56468159.pt,69,a photo of a sink parallel to a chair,sink,chair,simple_positional,parallel to
+phrase_56468159.pt,70,a photo of a wine glass parallel to a skis,wine glass,skis,simple_positional,parallel to
+phrase_56468159.pt,71,a photo of a cell phone parallel to a traffic light,cell phone,traffic light,simple_positional,parallel to
+phrase_56468159.pt,72,a photo of a vase parallel to a donut,vase,donut,simple_positional,parallel to
+phrase_56468159.pt,73,a photo of a motorcycle parallel to a car,motorcycle,car,simple_positional,parallel to
+phrase_56468159.pt,74,a photo of a sports ball parallel to a bed,sports ball,bed,simple_positional,parallel to
+phrase_56468159.pt,75,a photo of a snowboard parallel to a teddy bear,snowboard,teddy bear,simple_positional,parallel to
+phrase_56468159.pt,76,a photo of a cake parallel to a knife,cake,knife,simple_positional,parallel to
+phrase_56468159.pt,77,a photo of a cow parallel to a handbag,cow,handbag,simple_positional,parallel to
+phrase_56468159.pt,78,a photo of a suitcase parallel to a snowboard,suitcase,snowboard,simple_positional,parallel to
+phrase_56468159.pt,79,a photo of a frisbee parallel to a hot dog,frisbee,hot dog,simple_positional,parallel to
+phrase_56468159.pt,80,a photo of a pizza parallel to a truck,pizza,truck,simple_positional,parallel to
+phrase_56468159.pt,81,a photo of a fork parallel to a toothbrush,fork,toothbrush,simple_positional,parallel to
+phrase_56468159.pt,82,a photo of a dog parallel to a airplane,dog,airplane,simple_positional,parallel to
+phrase_56468159.pt,83,a photo of a orange parallel to a teddy bear,orange,teddy bear,simple_positional,parallel to
+phrase_56468159.pt,84,a photo of a broccoli parallel to a bicycle,broccoli,bicycle,simple_positional,parallel to
+phrase_56468159.pt,85,a photo of a bottle parallel to a orange,bottle,orange,simple_positional,parallel to
+phrase_56468159.pt,86,a photo of a carrot parallel to a cup,carrot,cup,simple_positional,parallel to
+phrase_56468159.pt,87,a photo of a microwave parallel to a book,microwave,book,simple_positional,parallel to
+phrase_56468159.pt,88,a photo of a skateboard parallel to a fork,skateboard,fork,simple_positional,parallel to
+phrase_56468159.pt,89,a photo of a frisbee parallel to a skateboard,frisbee,skateboard,simple_positional,parallel to
+phrase_56468159.pt,90,a photo of a person parallel to a truck,person,truck,simple_positional,parallel to
+phrase_56468159.pt,91,a photo of a knife parallel to a skis,knife,skis,simple_positional,parallel to
+phrase_56468159.pt,92,a photo of a banana parallel to a sink,banana,sink,simple_positional,parallel to
+phrase_56468159.pt,93,a photo of a pizza parallel to a toaster,pizza,toaster,simple_positional,parallel to
+phrase_56468159.pt,94,a photo of a stop sign parallel to a train,stop sign,train,simple_positional,parallel to
+phrase_56468159.pt,95,a photo of a fork parallel to a apple,fork,apple,simple_positional,parallel to
+phrase_56468159.pt,96,a photo of a scissors parallel to a cat,scissors,cat,simple_positional,parallel to
+phrase_56468159.pt,97,a photo of a skis parallel to a car,skis,car,simple_positional,parallel to
+phrase_56468159.pt,98,a photo of a microwave parallel to a hot dog,microwave,hot dog,simple_positional,parallel to
+phrase_56468159.pt,99,a photo of a toaster parallel to a book,toaster,book,simple_positional,parallel to
+phrase_48910460.pt,0,a photo of a giraffe at the head of a bench,giraffe,bench,simple_positional,at the head of
+phrase_48910460.pt,1,a photo of a fire hydrant at the head of a bicycle,fire hydrant,bicycle,simple_positional,at the head of
+phrase_48910460.pt,2,a photo of a hair drier at the head of a car,hair drier,car,simple_positional,at the head of
+phrase_48910460.pt,3,a photo of a train at the head of a backpack,train,backpack,simple_positional,at the head of
+phrase_48910460.pt,4,a photo of a clock at the head of a toaster,clock,toaster,simple_positional,at the head of
+phrase_48910460.pt,5,a photo of a spoon at the head of a giraffe,spoon,giraffe,simple_positional,at the head of
+phrase_48910460.pt,6,a photo of a clock at the head of a hot dog,clock,hot dog,simple_positional,at the head of
+phrase_48910460.pt,7,a photo of a person at the head of a dog,person,dog,simple_positional,at the head of
+phrase_48910460.pt,8,a photo of a toothbrush at the head of a truck,toothbrush,truck,simple_positional,at the head of
+phrase_48910460.pt,9,a photo of a bed at the head of a train,bed,train,simple_positional,at the head of
+phrase_48910460.pt,10,a photo of a horse at the head of a skateboard,horse,skateboard,simple_positional,at the head of
+phrase_48910460.pt,11,a photo of a tie at the head of a hot dog,tie,hot dog,simple_positional,at the head of
+phrase_48910460.pt,12,a photo of a suitcase at the head of a car,suitcase,car,simple_positional,at the head of
+phrase_48910460.pt,13,a photo of a frisbee at the head of a baseball bat,frisbee,baseball bat,simple_positional,at the head of
+phrase_48910460.pt,14,a photo of a carrot at the head of a fire hydrant,carrot,fire hydrant,simple_positional,at the head of
+phrase_48910460.pt,15,a photo of a bowl at the head of a vase,bowl,vase,simple_positional,at the head of
+phrase_48910460.pt,16,a photo of a umbrella at the head of a elephant,umbrella,elephant,simple_positional,at the head of
+phrase_48910460.pt,17,a photo of a frisbee at the head of a traffic light,frisbee,traffic light,simple_positional,at the head of
+phrase_48910460.pt,18,a photo of a couch at the head of a cat,couch,cat,simple_positional,at the head of
+phrase_48910460.pt,19,a photo of a microwave at the head of a suitcase,microwave,suitcase,simple_positional,at the head of
+phrase_48910460.pt,20,a photo of a toothbrush at the head of a sink,toothbrush,sink,simple_positional,at the head of
+phrase_48910460.pt,21,a photo of a cake at the head of a sports ball,cake,sports ball,simple_positional,at the head of
+phrase_48910460.pt,22,a photo of a hot dog at the head of a clock,hot dog,clock,simple_positional,at the head of
+phrase_48910460.pt,23,a photo of a sheep at the head of a toaster,sheep,toaster,simple_positional,at the head of
+phrase_48910460.pt,24,a photo of a toothbrush at the head of a handbag,toothbrush,handbag,simple_positional,at the head of
+phrase_48910460.pt,25,a photo of a dog at the head of a cell phone,dog,cell phone,simple_positional,at the head of
+phrase_48910460.pt,26,a photo of a spoon at the head of a kite,spoon,kite,simple_positional,at the head of
+phrase_48910460.pt,27,a photo of a toilet at the head of a teddy bear,toilet,teddy bear,simple_positional,at the head of
+phrase_48910460.pt,28,a photo of a suitcase at the head of a baseball glove,suitcase,baseball glove,simple_positional,at the head of
+phrase_48910460.pt,29,a photo of a bottle at the head of a frisbee,bottle,frisbee,simple_positional,at the head of
+phrase_48910460.pt,30,a photo of a cow at the head of a bear,cow,bear,simple_positional,at the head of
+phrase_48910460.pt,31,a photo of a banana at the head of a surfboard,banana,surfboard,simple_positional,at the head of
+phrase_48910460.pt,32,a photo of a sink at the head of a book,sink,book,simple_positional,at the head of
+phrase_48910460.pt,33,a photo of a cell phone at the head of a oven,cell phone,oven,simple_positional,at the head of
+phrase_48910460.pt,34,a photo of a vase at the head of a tv remote,vase,tv remote,simple_positional,at the head of
+phrase_48910460.pt,35,a photo of a bench at the head of a cat,bench,cat,simple_positional,at the head of
+phrase_48910460.pt,36,a photo of a bed at the head of a oven,bed,oven,simple_positional,at the head of
+phrase_48910460.pt,37,a photo of a cake at the head of a person,cake,person,simple_positional,at the head of
+phrase_48910460.pt,38,a photo of a tv at the head of a book,tv,book,simple_positional,at the head of
+phrase_48910460.pt,39,a photo of a carrot at the head of a skateboard,carrot,skateboard,simple_positional,at the head of
+phrase_48910460.pt,40,a photo of a sports ball at the head of a refrigerator,sports ball,refrigerator,simple_positional,at the head of
+phrase_48910460.pt,41,a photo of a couch at the head of a frisbee,couch,frisbee,simple_positional,at the head of
+phrase_48910460.pt,42,a photo of a bird at the head of a toothbrush,bird,toothbrush,simple_positional,at the head of
+phrase_48910460.pt,43,a photo of a couch at the head of a zebra,couch,zebra,simple_positional,at the head of
+phrase_48910460.pt,44,a photo of a hair drier at the head of a refrigerator,hair drier,refrigerator,simple_positional,at the head of
+phrase_48910460.pt,45,a photo of a stop sign at the head of a traffic light,stop sign,traffic light,simple_positional,at the head of
+phrase_48910460.pt,46,a photo of a donut at the head of a toaster,donut,toaster,simple_positional,at the head of
+phrase_48910460.pt,47,a photo of a pizza at the head of a tv remote,pizza,tv remote,simple_positional,at the head of
+phrase_48910460.pt,48,a photo of a tie at the head of a traffic light,tie,traffic light,simple_positional,at the head of
+phrase_48910460.pt,49,a photo of a zebra at the head of a bed,zebra,bed,simple_positional,at the head of
+phrase_48910460.pt,50,a photo of a book at the head of a train,book,train,simple_positional,at the head of
+phrase_48910460.pt,51,a photo of a zebra at the head of a chair,zebra,chair,simple_positional,at the head of
+phrase_48910460.pt,52,a photo of a oven at the head of a boat,oven,boat,simple_positional,at the head of
+phrase_48910460.pt,53,a photo of a person at the head of a potted plant,person,potted plant,simple_positional,at the head of
+phrase_48910460.pt,54,a photo of a toaster at the head of a cat,toaster,cat,simple_positional,at the head of
+phrase_48910460.pt,55,a photo of a bottle at the head of a sandwich,bottle,sandwich,simple_positional,at the head of
+phrase_48910460.pt,56,a photo of a laptop at the head of a sandwich,laptop,sandwich,simple_positional,at the head of
+phrase_48910460.pt,57,a photo of a bicycle at the head of a bottle,bicycle,bottle,simple_positional,at the head of
+phrase_48910460.pt,58,a photo of a bird at the head of a car,bird,car,simple_positional,at the head of
+phrase_48910460.pt,59,a photo of a cat at the head of a baseball glove,cat,baseball glove,simple_positional,at the head of
+phrase_48910460.pt,60,a photo of a cell phone at the head of a person,cell phone,person,simple_positional,at the head of
+phrase_48910460.pt,61,a photo of a spoon at the head of a wine glass,spoon,wine glass,simple_positional,at the head of
+phrase_48910460.pt,62,a photo of a donut at the head of a handbag,donut,handbag,simple_positional,at the head of
+phrase_48910460.pt,63,a photo of a kite at the head of a person,kite,person,simple_positional,at the head of
+phrase_48910460.pt,64,a photo of a skateboard at the head of a fire hydrant,skateboard,fire hydrant,simple_positional,at the head of
+phrase_48910460.pt,65,a photo of a knife at the head of a truck,knife,truck,simple_positional,at the head of
+phrase_48910460.pt,66,a photo of a stop sign at the head of a umbrella,stop sign,umbrella,simple_positional,at the head of
+phrase_48910460.pt,67,a photo of a horse at the head of a computer keyboard,horse,computer keyboard,simple_positional,at the head of
+phrase_48910460.pt,68,a photo of a bicycle at the head of a couch,bicycle,couch,simple_positional,at the head of
+phrase_48910460.pt,69,a photo of a toothbrush at the head of a tennis racket,toothbrush,tennis racket,simple_positional,at the head of
+phrase_48910460.pt,70,a photo of a snowboard at the head of a sink,snowboard,sink,simple_positional,at the head of
+phrase_48910460.pt,71,a photo of a spoon at the head of a airplane,spoon,airplane,simple_positional,at the head of
+phrase_48910460.pt,72,a photo of a baseball bat at the head of a book,baseball bat,book,simple_positional,at the head of
+phrase_48910460.pt,73,a photo of a boat at the head of a sink,boat,sink,simple_positional,at the head of
+phrase_48910460.pt,74,a photo of a spoon at the head of a vase,spoon,vase,simple_positional,at the head of
+phrase_48910460.pt,75,a photo of a cell phone at the head of a bus,cell phone,bus,simple_positional,at the head of
+phrase_48910460.pt,76,a photo of a toothbrush at the head of a frisbee,toothbrush,frisbee,simple_positional,at the head of
+phrase_48910460.pt,77,a photo of a cow at the head of a baseball glove,cow,baseball glove,simple_positional,at the head of
+phrase_48910460.pt,78,a photo of a apple at the head of a sandwich,apple,sandwich,simple_positional,at the head of
+phrase_48910460.pt,79,a photo of a fire hydrant at the head of a sink,fire hydrant,sink,simple_positional,at the head of
+phrase_48910460.pt,80,a photo of a cow at the head of a bird,cow,bird,simple_positional,at the head of
+phrase_48910460.pt,81,a photo of a potted plant at the head of a sandwich,potted plant,sandwich,simple_positional,at the head of
+phrase_48910460.pt,82,a photo of a computer mouse at the head of a orange,computer mouse,orange,simple_positional,at the head of
+phrase_48910460.pt,83,a photo of a oven at the head of a tie,oven,tie,simple_positional,at the head of
+phrase_48910460.pt,84,a photo of a couch at the head of a baseball glove,couch,baseball glove,simple_positional,at the head of
+phrase_48910460.pt,85,a photo of a elephant at the head of a bed,elephant,bed,simple_positional,at the head of
+phrase_48910460.pt,86,a photo of a skis at the head of a potted plant,skis,potted plant,simple_positional,at the head of
+phrase_48910460.pt,87,a photo of a baseball glove at the head of a carrot,baseball glove,carrot,simple_positional,at the head of
+phrase_48910460.pt,88,a photo of a kite at the head of a baseball glove,kite,baseball glove,simple_positional,at the head of
+phrase_48910460.pt,89,a photo of a scissors at the head of a snowboard,scissors,snowboard,simple_positional,at the head of
+phrase_48910460.pt,90,a photo of a hair drier at the head of a broccoli,hair drier,broccoli,simple_positional,at the head of
+phrase_48910460.pt,91,a photo of a pizza at the head of a clock,pizza,clock,simple_positional,at the head of
+phrase_48910460.pt,92,a photo of a oven at the head of a toaster,oven,toaster,simple_positional,at the head of
+phrase_48910460.pt,93,a photo of a spoon at the head of a traffic light,spoon,traffic light,simple_positional,at the head of
+phrase_48910460.pt,94,a photo of a boat at the head of a sports ball,boat,sports ball,simple_positional,at the head of
+phrase_48910460.pt,95,a photo of a airplane at the head of a bed,airplane,bed,simple_positional,at the head of
+phrase_48910460.pt,96,a photo of a airplane at the head of a couch,airplane,couch,simple_positional,at the head of
+phrase_48910460.pt,97,a photo of a umbrella at the head of a book,umbrella,book,simple_positional,at the head of
+phrase_48910460.pt,98,a photo of a sandwich at the head of a potted plant,sandwich,potted plant,simple_positional,at the head of
+phrase_48910460.pt,99,a photo of a tv remote at the head of a snowboard,tv remote,snowboard,simple_positional,at the head of
+phrase_21692089.pt,0,a photo of a hot dog at the feet of a tv,hot dog,tv,simple_positional,at the feet of
+phrase_21692089.pt,1,a photo of a toothbrush at the feet of a carrot,toothbrush,carrot,simple_positional,at the feet of
+phrase_21692089.pt,2,a photo of a frisbee at the feet of a bus,frisbee,bus,simple_positional,at the feet of
+phrase_21692089.pt,3,a photo of a refrigerator at the feet of a zebra,refrigerator,zebra,simple_positional,at the feet of
+phrase_21692089.pt,4,a photo of a apple at the feet of a bowl,apple,bowl,simple_positional,at the feet of
+phrase_21692089.pt,5,a photo of a carrot at the feet of a umbrella,carrot,umbrella,simple_positional,at the feet of
+phrase_21692089.pt,6,a photo of a oven at the feet of a donut,oven,donut,simple_positional,at the feet of
+phrase_21692089.pt,7,a photo of a refrigerator at the feet of a laptop,refrigerator,laptop,simple_positional,at the feet of
+phrase_21692089.pt,8,a photo of a frisbee at the feet of a bicycle,frisbee,bicycle,simple_positional,at the feet of
+phrase_21692089.pt,9,a photo of a computer keyboard at the feet of a tennis racket,computer keyboard,tennis racket,simple_positional,at the feet of
+phrase_21692089.pt,10,a photo of a orange at the feet of a bottle,orange,bottle,simple_positional,at the feet of
+phrase_21692089.pt,11,a photo of a cat at the feet of a stop sign,cat,stop sign,simple_positional,at the feet of
+phrase_21692089.pt,12,a photo of a chair at the feet of a oven,chair,oven,simple_positional,at the feet of
+phrase_21692089.pt,13,a photo of a laptop at the feet of a broccoli,laptop,broccoli,simple_positional,at the feet of
+phrase_21692089.pt,14,a photo of a cell phone at the feet of a surfboard,cell phone,surfboard,simple_positional,at the feet of
+phrase_21692089.pt,15,a photo of a bus at the feet of a bowl,bus,bowl,simple_positional,at the feet of
+phrase_21692089.pt,16,a photo of a microwave at the feet of a bus,microwave,bus,simple_positional,at the feet of
+phrase_21692089.pt,17,a photo of a skis at the feet of a wine glass,skis,wine glass,simple_positional,at the feet of
+phrase_21692089.pt,18,a photo of a toothbrush at the feet of a cake,toothbrush,cake,simple_positional,at the feet of
+phrase_21692089.pt,19,a photo of a baseball glove at the feet of a cup,baseball glove,cup,simple_positional,at the feet of
+phrase_21692089.pt,20,a photo of a bus at the feet of a boat,bus,boat,simple_positional,at the feet of
+phrase_21692089.pt,21,a photo of a bed at the feet of a cow,bed,cow,simple_positional,at the feet of
+phrase_21692089.pt,22,a photo of a scissors at the feet of a car,scissors,car,simple_positional,at the feet of
+phrase_21692089.pt,23,a photo of a tie at the feet of a hair drier,tie,hair drier,simple_positional,at the feet of
+phrase_21692089.pt,24,a photo of a carrot at the feet of a apple,carrot,apple,simple_positional,at the feet of
+phrase_21692089.pt,25,a photo of a cake at the feet of a sports ball,cake,sports ball,simple_positional,at the feet of
+phrase_21692089.pt,26,a photo of a cake at the feet of a bus,cake,bus,simple_positional,at the feet of
+phrase_21692089.pt,27,a photo of a bear at the feet of a car,bear,car,simple_positional,at the feet of
+phrase_21692089.pt,28,a photo of a bird at the feet of a teddy bear,bird,teddy bear,simple_positional,at the feet of
+phrase_21692089.pt,29,a photo of a sandwich at the feet of a parking meter,sandwich,parking meter,simple_positional,at the feet of
+phrase_21692089.pt,30,a photo of a backpack at the feet of a donut,backpack,donut,simple_positional,at the feet of
+phrase_21692089.pt,31,a photo of a train at the feet of a tennis racket,train,tennis racket,simple_positional,at the feet of
+phrase_21692089.pt,32,a photo of a umbrella at the feet of a sink,umbrella,sink,simple_positional,at the feet of
+phrase_21692089.pt,33,a photo of a skateboard at the feet of a hair drier,skateboard,hair drier,simple_positional,at the feet of
+phrase_21692089.pt,34,a photo of a frisbee at the feet of a suitcase,frisbee,suitcase,simple_positional,at the feet of
+phrase_21692089.pt,35,a photo of a backpack at the feet of a book,backpack,book,simple_positional,at the feet of
+phrase_21692089.pt,36,a photo of a spoon at the feet of a fork,spoon,fork,simple_positional,at the feet of
+phrase_21692089.pt,37,a photo of a bottle at the feet of a bear,bottle,bear,simple_positional,at the feet of
+phrase_21692089.pt,38,a photo of a donut at the feet of a train,donut,train,simple_positional,at the feet of
+phrase_21692089.pt,39,a photo of a baseball bat at the feet of a train,baseball bat,train,simple_positional,at the feet of
+phrase_21692089.pt,40,a photo of a potted plant at the feet of a knife,potted plant,knife,simple_positional,at the feet of
+phrase_21692089.pt,41,a photo of a airplane at the feet of a kite,airplane,kite,simple_positional,at the feet of
+phrase_21692089.pt,42,a photo of a chair at the feet of a cat,chair,cat,simple_positional,at the feet of
+phrase_21692089.pt,43,a photo of a sink at the feet of a book,sink,book,simple_positional,at the feet of
+phrase_21692089.pt,44,a photo of a baseball bat at the feet of a tv remote,baseball bat,tv remote,simple_positional,at the feet of
+phrase_21692089.pt,45,a photo of a toilet at the feet of a cup,toilet,cup,simple_positional,at the feet of
+phrase_21692089.pt,46,a photo of a computer keyboard at the feet of a baseball glove,computer keyboard,baseball glove,simple_positional,at the feet of
+phrase_21692089.pt,47,a photo of a sandwich at the feet of a cup,sandwich,cup,simple_positional,at the feet of
+phrase_21692089.pt,48,a photo of a umbrella at the feet of a bench,umbrella,bench,simple_positional,at the feet of
+phrase_21692089.pt,49,a photo of a stop sign at the feet of a backpack,stop sign,backpack,simple_positional,at the feet of
+phrase_21692089.pt,50,a photo of a scissors at the feet of a wine glass,scissors,wine glass,simple_positional,at the feet of
+phrase_21692089.pt,51,a photo of a vase at the feet of a cow,vase,cow,simple_positional,at the feet of
+phrase_21692089.pt,52,a photo of a umbrella at the feet of a snowboard,umbrella,snowboard,simple_positional,at the feet of
+phrase_21692089.pt,53,a photo of a hot dog at the feet of a snowboard,hot dog,snowboard,simple_positional,at the feet of
+phrase_21692089.pt,54,a photo of a cup at the feet of a traffic light,cup,traffic light,simple_positional,at the feet of
+phrase_21692089.pt,55,a photo of a laptop at the feet of a cake,laptop,cake,simple_positional,at the feet of
+phrase_21692089.pt,56,a photo of a parking meter at the feet of a toaster,parking meter,toaster,simple_positional,at the feet of
+phrase_21692089.pt,57,a photo of a hot dog at the feet of a cat,hot dog,cat,simple_positional,at the feet of
+phrase_21692089.pt,58,a photo of a apple at the feet of a book,apple,book,simple_positional,at the feet of
+phrase_21692089.pt,59,a photo of a backpack at the feet of a pizza,backpack,pizza,simple_positional,at the feet of
+phrase_21692089.pt,60,a photo of a toaster at the feet of a stop sign,toaster,stop sign,simple_positional,at the feet of
+phrase_21692089.pt,61,a photo of a toaster at the feet of a apple,toaster,apple,simple_positional,at the feet of
+phrase_21692089.pt,62,a photo of a spoon at the feet of a wine glass,spoon,wine glass,simple_positional,at the feet of
+phrase_21692089.pt,63,a photo of a apple at the feet of a oven,apple,oven,simple_positional,at the feet of
+phrase_21692089.pt,64,a photo of a giraffe at the feet of a toilet,giraffe,toilet,simple_positional,at the feet of
+phrase_21692089.pt,65,a photo of a orange at the feet of a bird,orange,bird,simple_positional,at the feet of
+phrase_21692089.pt,66,a photo of a cup at the feet of a spoon,cup,spoon,simple_positional,at the feet of
+phrase_21692089.pt,67,a photo of a toilet at the feet of a baseball bat,toilet,baseball bat,simple_positional,at the feet of
+phrase_21692089.pt,68,a photo of a tv remote at the feet of a spoon,tv remote,spoon,simple_positional,at the feet of
+phrase_21692089.pt,69,a photo of a tv at the feet of a truck,tv,truck,simple_positional,at the feet of
+phrase_21692089.pt,70,a photo of a cup at the feet of a suitcase,cup,suitcase,simple_positional,at the feet of
+phrase_21692089.pt,71,a photo of a bed at the feet of a sports ball,bed,sports ball,simple_positional,at the feet of
+phrase_21692089.pt,72,a photo of a bed at the feet of a bus,bed,bus,simple_positional,at the feet of
+phrase_21692089.pt,73,a photo of a backpack at the feet of a bicycle,backpack,bicycle,simple_positional,at the feet of
+phrase_21692089.pt,74,a photo of a bowl at the feet of a train,bowl,train,simple_positional,at the feet of
+phrase_21692089.pt,75,a photo of a cow at the feet of a wine glass,cow,wine glass,simple_positional,at the feet of
+phrase_21692089.pt,76,a photo of a parking meter at the feet of a backpack,parking meter,backpack,simple_positional,at the feet of
+phrase_21692089.pt,77,a photo of a bench at the feet of a baseball glove,bench,baseball glove,simple_positional,at the feet of
+phrase_21692089.pt,78,a photo of a skateboard at the feet of a scissors,skateboard,scissors,simple_positional,at the feet of
+phrase_21692089.pt,79,a photo of a vase at the feet of a parking meter,vase,parking meter,simple_positional,at the feet of
+phrase_21692089.pt,80,a photo of a bottle at the feet of a clock,bottle,clock,simple_positional,at the feet of
+phrase_21692089.pt,81,a photo of a bear at the feet of a bird,bear,bird,simple_positional,at the feet of
+phrase_21692089.pt,82,a photo of a cell phone at the feet of a apple,cell phone,apple,simple_positional,at the feet of
+phrase_21692089.pt,83,a photo of a bottle at the feet of a cake,bottle,cake,simple_positional,at the feet of
+phrase_21692089.pt,84,a photo of a couch at the feet of a sheep,couch,sheep,simple_positional,at the feet of
+phrase_21692089.pt,85,a photo of a computer mouse at the feet of a teddy bear,computer mouse,teddy bear,simple_positional,at the feet of
+phrase_21692089.pt,86,a photo of a apple at the feet of a banana,apple,banana,simple_positional,at the feet of
+phrase_21692089.pt,87,a photo of a couch at the feet of a toaster,couch,toaster,simple_positional,at the feet of
+phrase_21692089.pt,88,a photo of a couch at the feet of a airplane,couch,airplane,simple_positional,at the feet of
+phrase_21692089.pt,89,a photo of a potted plant at the feet of a bird,potted plant,bird,simple_positional,at the feet of
+phrase_21692089.pt,90,a photo of a microwave at the feet of a cake,microwave,cake,simple_positional,at the feet of
+phrase_21692089.pt,91,a photo of a potted plant at the feet of a horse,potted plant,horse,simple_positional,at the feet of
+phrase_21692089.pt,92,a photo of a traffic light at the feet of a refrigerator,traffic light,refrigerator,simple_positional,at the feet of
+phrase_21692089.pt,93,a photo of a stop sign at the feet of a suitcase,stop sign,suitcase,simple_positional,at the feet of
+phrase_21692089.pt,94,a photo of a suitcase at the feet of a traffic light,suitcase,traffic light,simple_positional,at the feet of
+phrase_21692089.pt,95,a photo of a computer mouse at the feet of a bed,computer mouse,bed,simple_positional,at the feet of
+phrase_21692089.pt,96,a photo of a motorcycle at the feet of a scissors,motorcycle,scissors,simple_positional,at the feet of
+phrase_21692089.pt,97,a photo of a handbag at the feet of a dining table,handbag,dining table,simple_positional,at the feet of
+phrase_21692089.pt,98,a photo of a scissors at the feet of a stop sign,scissors,stop sign,simple_positional,at the feet of
+phrase_21692089.pt,99,a photo of a clock at the feet of a surfboard,clock,surfboard,simple_positional,at the feet of

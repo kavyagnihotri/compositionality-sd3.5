@@ -1,0 +1,15 @@
+tensor_file,tensor_index,prompt,class1,class2,category,phrase
+phrase_46534700.pt,0,a photo of a class1 to the left of a class2,class1,class2,simple_positional,to the left of
+phrase_79660671.pt,0,a photo of a class1 to the right of a class2,class1,class2,simple_positional,to the right of
+phrase_83840957.pt,0,a photo of a class1 above a class2,class1,class2,simple_positional,above
+phrase_40502497.pt,0,a photo of a class1 on top of a class2,class1,class2,simple_positional,on top of
+phrase_26255437.pt,0,a photo of a class1 behind a class2,class1,class2,simple_positional,behind
+phrase_18989278.pt,0,a photo of a class1 on a class2,class1,class2,simple_positional,on
+phrase_944229.pt,0,a photo of a class1 in front of a class2,class1,class2,simple_positional,in front of
+
+a photo of a class1 behind a class2,class1,class2,simple_positional,behind
+a photo of a class1 on a class2,class1,class2,simple_positional,on
+a photo of a class1 in front of a class2,class1,class2,simple_positional,in front of
+a photo of a class1 to the left of a class2,class1,class2,simple_positional,to the left of
+a photo of a class1 to the right of a class2,class1,class2,simple_positional,to the right of
+a photo of a class1 above a class2,class1,class2,simple_positional,above

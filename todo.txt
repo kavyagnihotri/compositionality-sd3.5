@@ -1,0 +1,78 @@
+Do this test on other categories (your point 1 above) try these spatial relation-words: 
+above, -> manual 10 checks: Y,A,Y,Y,Y,N,N,N,Y,Y
+                        Q:  Y,Y,Y,Y,N,N,N,N,Y,Y
+to the right of, -> Y,Y,N,N,Y,Y,Y,N,Y,Y
+                 Q: Y,N,N,N,Y,Y,Y,Y,Y,Y
+to the left of, -> Y,Y,Y,Y,N,N,N,N,Y,Y
+                Q: Y,Y,Y,Y,N,N,N,Y,Y,Y
+behind, -> Y,N,Y,N,A,N,N,Y,N,N
+        Q: N,N,Y,Y,Y,N,N,Y,N,N
+behind (standard) -> Y,N,N,N,A,N,N,Y,N,N
+                    
+
+standing, -> single living -> Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+        Q:                    Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+sitting, -> single living -> N,Y,Y,Y,Y,Y,Y,Y,Y,Y
+        Q:                   N,Y,Y,Y,Y,Y,Y,Y,Y,Y
+closeby, -> Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+        Q:  Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+far from -> N,N,N,N,N,N,N,N,N,Y 
+        Q:  A,Y,Y,N,N,N,N,N,N,Y
+(100 samples each). 
+
+Test these with Qwen for automated testing, 
+but manually check atleast 10 from each for correctness
+
+
+under
+m: N,N,Y,Y,Y,Y,Y,N,A,N
+q: Y,N,Y,Y,Y,N,N,N,N,N
+
+in_front_of
+m: n,y,y,y,y,n,n,n,y,y
+q: n,y,n,y,y,y,n,n,y,y
+
+over
+m: y,y,n,y,y,n,y,n,y,y
+q: y,y,n,y,n,n,n,n,y,n
+
+on
+m: n,y,n,a,y,n,y,n,y,y
+q: y,y,n,n,y,n,y,y,y,n
+
+outside -> not good, also phrase is quite vague
+m: y,y,y,y,n,y,y,y,n,y
+q: y,y,y,y,n,n,n,n,n,y
+
+on_top_of
+m: n,y,n,y,y,n,y,n,y,y
+q: n,y,y,n,y,n,y,n,y,y
+
+below
+m: n,n,n,n,y,y,y,y,y,a
+q: n,n,y,n,n,y,y,n,y,y
+
+between
+m: y,n,y,y,y,y,y,n,y,y
+q: n,n,n,y,n,y,y,n,y,y
+
+running
+m: all 10
+q: all 10
+
+
+not_touching
+m: n,n,n,n,y,n,n,n,n,n
+q: n,n,n,n,y,n,n,n,n,n
+
+touching
+m: y,y,y,y,y,n,y,y,n,y
+q: y,a,y,y,y,n,y,y,n,y
+
+not_holding -> bad images, maybe need to generate with class has hands and other doesn't
+m: n,n,n,n,n,n,n,n,n,n
+q: y,y,y,n,n,n,y,n,y,n
+
+holding
+m: y,y,y,a,
+q: n,n,y,n,

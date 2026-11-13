@@ -1,0 +1,50 @@
+img_idx,
+    prompt_text,
+    problem
+    
+16,
+    A dog hiding "behind" a couch in a living room,
+    unnatural looking
+    -> looking from behind, etc
+
+26,
+    A beach with palm trees in the background,
+    palm trees are at the side
+    -> view point
+    -> generate and test more for unrealistic
+
+55,
+    A truck driving in the slow lane of a highway,
+    can't show slow lane
+
+60,
+    A photo of one apple on a plate and three oranges next to it,
+    counting mismatch
+
+67,
+    A futuristic city at night with neon signs, flying cars in the sky, and people walking on glowing sidewalks.
+    some cars are still on the street
+    -> ships?
+
+70,
+    A baby cow drinking milk from its mother cow’s udder,
+    milk is coming out of the mouth and their's no baby cow
+
+71,
+    A dog chasing a ball while another dog watches,
+    both dogs are chasing
+
+72,
+    A cat grooming a kitten by licking its fur,
+    kitten is grooming the cat
+
+82,
+    A person holding a game controller with another person looking on
+    unnatural
+    -> 
+
+
+
+
+
+

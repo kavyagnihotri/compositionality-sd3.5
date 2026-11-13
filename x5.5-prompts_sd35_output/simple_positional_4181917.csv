@@ -1,0 +1,301 @@
+prompt,class1,class2,category,phrase
+a photo of a giraffe to the left of a hair drier,giraffe,hair drier,simple_positional,to the left of
+a photo of a giraffe to the right of a hair drier,giraffe,hair drier,simple_positional,to the right of
+a photo of a giraffe above a hair drier,giraffe,hair drier,simple_positional,above
+a photo of a broccoli to the left of a skis,broccoli,skis,simple_positional,to the left of
+a photo of a broccoli to the right of a skis,broccoli,skis,simple_positional,to the right of
+a photo of a broccoli above a skis,broccoli,skis,simple_positional,above
+a photo of a book to the left of a sports ball,book,sports ball,simple_positional,to the left of
+a photo of a book to the right of a sports ball,book,sports ball,simple_positional,to the right of
+a photo of a book above a sports ball,book,sports ball,simple_positional,above
+a photo of a bench to the left of a cow,bench,cow,simple_positional,to the left of
+a photo of a bench to the right of a cow,bench,cow,simple_positional,to the right of
+a photo of a bench above a cow,bench,cow,simple_positional,above
+a photo of a computer keyboard to the left of a skateboard,computer keyboard,skateboard,simple_positional,to the left of
+a photo of a computer keyboard to the right of a skateboard,computer keyboard,skateboard,simple_positional,to the right of
+a photo of a computer keyboard above a skateboard,computer keyboard,skateboard,simple_positional,above
+a photo of a toilet to the left of a potted plant,toilet,potted plant,simple_positional,to the left of
+a photo of a toilet to the right of a potted plant,toilet,potted plant,simple_positional,to the right of
+a photo of a toilet above a potted plant,toilet,potted plant,simple_positional,above
+a photo of a oven to the left of a vase,oven,vase,simple_positional,to the left of
+a photo of a oven to the right of a vase,oven,vase,simple_positional,to the right of
+a photo of a oven above a vase,oven,vase,simple_positional,above
+a photo of a bed to the left of a book,bed,book,simple_positional,to the left of
+a photo of a bed to the right of a book,bed,book,simple_positional,to the right of
+a photo of a bed above a book,bed,book,simple_positional,above
+a photo of a cell phone to the left of a bear,cell phone,bear,simple_positional,to the left of
+a photo of a cell phone to the right of a bear,cell phone,bear,simple_positional,to the right of
+a photo of a cell phone above a bear,cell phone,bear,simple_positional,above
+a photo of a sports ball to the left of a refrigerator,sports ball,refrigerator,simple_positional,to the left of
+a photo of a sports ball to the right of a refrigerator,sports ball,refrigerator,simple_positional,to the right of
+a photo of a sports ball above a refrigerator,sports ball,refrigerator,simple_positional,above
+a photo of a baseball bat to the left of a dog,baseball bat,dog,simple_positional,to the left of
+a photo of a baseball bat to the right of a dog,baseball bat,dog,simple_positional,to the right of
+a photo of a baseball bat above a dog,baseball bat,dog,simple_positional,above
+a photo of a orange to the left of a traffic light,orange,traffic light,simple_positional,to the left of
+a photo of a orange to the right of a traffic light,orange,traffic light,simple_positional,to the right of
+a photo of a orange above a traffic light,orange,traffic light,simple_positional,above
+a photo of a teddy bear to the left of a orange,teddy bear,orange,simple_positional,to the left of
+a photo of a teddy bear to the right of a orange,teddy bear,orange,simple_positional,to the right of
+a photo of a teddy bear above a orange,teddy bear,orange,simple_positional,above
+a photo of a skis to the left of a tennis racket,skis,tennis racket,simple_positional,to the left of
+a photo of a skis to the right of a tennis racket,skis,tennis racket,simple_positional,to the right of
+a photo of a skis above a tennis racket,skis,tennis racket,simple_positional,above
+a photo of a zebra to the left of a bicycle,zebra,bicycle,simple_positional,to the left of
+a photo of a zebra to the right of a bicycle,zebra,bicycle,simple_positional,to the right of
+a photo of a zebra above a bicycle,zebra,bicycle,simple_positional,above
+a photo of a sheep to the left of a computer mouse,sheep,computer mouse,simple_positional,to the left of
+a photo of a sheep to the right of a computer mouse,sheep,computer mouse,simple_positional,to the right of
+a photo of a sheep above a computer mouse,sheep,computer mouse,simple_positional,above
+a photo of a cell phone to the left of a orange,cell phone,orange,simple_positional,to the left of
+a photo of a cell phone to the right of a orange,cell phone,orange,simple_positional,to the right of
+a photo of a cell phone above a orange,cell phone,orange,simple_positional,above
+a photo of a knife to the left of a umbrella,knife,umbrella,simple_positional,to the left of
+a photo of a knife to the right of a umbrella,knife,umbrella,simple_positional,to the right of
+a photo of a knife above a umbrella,knife,umbrella,simple_positional,above
+a photo of a motorcycle to the left of a carrot,motorcycle,carrot,simple_positional,to the left of
+a photo of a motorcycle to the right of a carrot,motorcycle,carrot,simple_positional,to the right of
+a photo of a motorcycle above a carrot,motorcycle,carrot,simple_positional,above
+a photo of a traffic light to the left of a horse,traffic light,horse,simple_positional,to the left of
+a photo of a traffic light to the right of a horse,traffic light,horse,simple_positional,to the right of
+a photo of a traffic light above a horse,traffic light,horse,simple_positional,above
+a photo of a surfboard to the left of a tv,surfboard,tv,simple_positional,to the left of
+a photo of a surfboard to the right of a tv,surfboard,tv,simple_positional,to the right of
+a photo of a surfboard above a tv,surfboard,tv,simple_positional,above
+a photo of a carrot to the left of a truck,carrot,truck,simple_positional,to the left of
+a photo of a carrot to the right of a truck,carrot,truck,simple_positional,to the right of
+a photo of a carrot above a truck,carrot,truck,simple_positional,above
+a photo of a giraffe to the left of a fire hydrant,giraffe,fire hydrant,simple_positional,to the left of
+a photo of a giraffe to the right of a fire hydrant,giraffe,fire hydrant,simple_positional,to the right of
+a photo of a giraffe above a fire hydrant,giraffe,fire hydrant,simple_positional,above
+a photo of a elephant to the left of a toaster,elephant,toaster,simple_positional,to the left of
+a photo of a elephant to the right of a toaster,elephant,toaster,simple_positional,to the right of
+a photo of a elephant above a toaster,elephant,toaster,simple_positional,above
+a photo of a bowl to the left of a dog,bowl,dog,simple_positional,to the left of
+a photo of a bowl to the right of a dog,bowl,dog,simple_positional,to the right of
+a photo of a bowl above a dog,bowl,dog,simple_positional,above
+a photo of a bench to the left of a motorcycle,bench,motorcycle,simple_positional,to the left of
+a photo of a bench to the right of a motorcycle,bench,motorcycle,simple_positional,to the right of
+a photo of a bench above a motorcycle,bench,motorcycle,simple_positional,above
+a photo of a frisbee to the left of a handbag,frisbee,handbag,simple_positional,to the left of
+a photo of a frisbee to the right of a handbag,frisbee,handbag,simple_positional,to the right of
+a photo of a frisbee above a handbag,frisbee,handbag,simple_positional,above
+a photo of a skis to the left of a cat,skis,cat,simple_positional,to the left of
+a photo of a skis to the right of a cat,skis,cat,simple_positional,to the right of
+a photo of a skis above a cat,skis,cat,simple_positional,above
+a photo of a surfboard to the left of a spoon,surfboard,spoon,simple_positional,to the left of
+a photo of a surfboard to the right of a spoon,surfboard,spoon,simple_positional,to the right of
+a photo of a surfboard above a spoon,surfboard,spoon,simple_positional,above
+a photo of a bicycle to the left of a bus,bicycle,bus,simple_positional,to the left of
+a photo of a bicycle to the right of a bus,bicycle,bus,simple_positional,to the right of
+a photo of a bicycle above a bus,bicycle,bus,simple_positional,above
+a photo of a car to the left of a laptop,car,laptop,simple_positional,to the left of
+a photo of a car to the right of a laptop,car,laptop,simple_positional,to the right of
+a photo of a car above a laptop,car,laptop,simple_positional,above
+a photo of a frisbee to the left of a cat,frisbee,cat,simple_positional,to the left of
+a photo of a frisbee to the right of a cat,frisbee,cat,simple_positional,to the right of
+a photo of a frisbee above a cat,frisbee,cat,simple_positional,above
+a photo of a skis to the left of a motorcycle,skis,motorcycle,simple_positional,to the left of
+a photo of a skis to the right of a motorcycle,skis,motorcycle,simple_positional,to the right of
+a photo of a skis above a motorcycle,skis,motorcycle,simple_positional,above
+a photo of a toilet to the left of a cat,toilet,cat,simple_positional,to the left of
+a photo of a toilet to the right of a cat,toilet,cat,simple_positional,to the right of
+a photo of a toilet above a cat,toilet,cat,simple_positional,above
+a photo of a snowboard to the left of a boat,snowboard,boat,simple_positional,to the left of
+a photo of a snowboard to the right of a boat,snowboard,boat,simple_positional,to the right of
+a photo of a snowboard above a boat,snowboard,boat,simple_positional,above
+a photo of a broccoli to the left of a bird,broccoli,bird,simple_positional,to the left of
+a photo of a broccoli to the right of a bird,broccoli,bird,simple_positional,to the right of
+a photo of a broccoli above a bird,broccoli,bird,simple_positional,above
+a photo of a scissors to the left of a airplane,scissors,airplane,simple_positional,to the left of
+a photo of a scissors to the right of a airplane,scissors,airplane,simple_positional,to the right of
+a photo of a scissors above a airplane,scissors,airplane,simple_positional,above
+a photo of a bowl to the left of a banana,bowl,banana,simple_positional,to the left of
+a photo of a bowl to the right of a banana,bowl,banana,simple_positional,to the right of
+a photo of a bowl above a banana,bowl,banana,simple_positional,above
+a photo of a baseball glove to the left of a bicycle,baseball glove,bicycle,simple_positional,to the left of
+a photo of a baseball glove to the right of a bicycle,baseball glove,bicycle,simple_positional,to the right of
+a photo of a baseball glove above a bicycle,baseball glove,bicycle,simple_positional,above
+a photo of a microwave to the left of a skis,microwave,skis,simple_positional,to the left of
+a photo of a microwave to the right of a skis,microwave,skis,simple_positional,to the right of
+a photo of a microwave above a skis,microwave,skis,simple_positional,above
+a photo of a banana to the left of a stop sign,banana,stop sign,simple_positional,to the left of
+a photo of a banana to the right of a stop sign,banana,stop sign,simple_positional,to the right of
+a photo of a banana above a stop sign,banana,stop sign,simple_positional,above
+a photo of a oven to the left of a snowboard,oven,snowboard,simple_positional,to the left of
+a photo of a oven to the right of a snowboard,oven,snowboard,simple_positional,to the right of
+a photo of a oven above a snowboard,oven,snowboard,simple_positional,above
+a photo of a giraffe to the left of a tie,giraffe,tie,simple_positional,to the left of
+a photo of a giraffe to the right of a tie,giraffe,tie,simple_positional,to the right of
+a photo of a giraffe above a tie,giraffe,tie,simple_positional,above
+a photo of a parking meter to the left of a toilet,parking meter,toilet,simple_positional,to the left of
+a photo of a parking meter to the right of a toilet,parking meter,toilet,simple_positional,to the right of
+a photo of a parking meter above a toilet,parking meter,toilet,simple_positional,above
+a photo of a banana to the left of a fork,banana,fork,simple_positional,to the left of
+a photo of a banana to the right of a fork,banana,fork,simple_positional,to the right of
+a photo of a banana above a fork,banana,fork,simple_positional,above
+a photo of a laptop to the left of a broccoli,laptop,broccoli,simple_positional,to the left of
+a photo of a laptop to the right of a broccoli,laptop,broccoli,simple_positional,to the right of
+a photo of a laptop above a broccoli,laptop,broccoli,simple_positional,above
+a photo of a orange to the left of a toothbrush,orange,toothbrush,simple_positional,to the left of
+a photo of a orange to the right of a toothbrush,orange,toothbrush,simple_positional,to the right of
+a photo of a orange above a toothbrush,orange,toothbrush,simple_positional,above
+a photo of a baseball bat to the left of a boat,baseball bat,boat,simple_positional,to the left of
+a photo of a baseball bat to the right of a boat,baseball bat,boat,simple_positional,to the right of
+a photo of a baseball bat above a boat,baseball bat,boat,simple_positional,above
+a photo of a snowboard to the left of a skateboard,snowboard,skateboard,simple_positional,to the left of
+a photo of a snowboard to the right of a skateboard,snowboard,skateboard,simple_positional,to the right of
+a photo of a snowboard above a skateboard,snowboard,skateboard,simple_positional,above
+a photo of a book to the left of a dog,book,dog,simple_positional,to the left of
+a photo of a book to the right of a dog,book,dog,simple_positional,to the right of
+a photo of a book above a dog,book,dog,simple_positional,above
+a photo of a chair to the left of a pizza,chair,pizza,simple_positional,to the left of
+a photo of a chair to the right of a pizza,chair,pizza,simple_positional,to the right of
+a photo of a chair above a pizza,chair,pizza,simple_positional,above
+a photo of a suitcase to the left of a train,suitcase,train,simple_positional,to the left of
+a photo of a suitcase to the right of a train,suitcase,train,simple_positional,to the right of
+a photo of a suitcase above a train,suitcase,train,simple_positional,above
+a photo of a refrigerator to the left of a sports ball,refrigerator,sports ball,simple_positional,to the left of
+a photo of a refrigerator to the right of a sports ball,refrigerator,sports ball,simple_positional,to the right of
+a photo of a refrigerator above a sports ball,refrigerator,sports ball,simple_positional,above
+a photo of a baseball bat to the left of a sandwich,baseball bat,sandwich,simple_positional,to the left of
+a photo of a baseball bat to the right of a sandwich,baseball bat,sandwich,simple_positional,to the right of
+a photo of a baseball bat above a sandwich,baseball bat,sandwich,simple_positional,above
+a photo of a potted plant to the left of a fork,potted plant,fork,simple_positional,to the left of
+a photo of a potted plant to the right of a fork,potted plant,fork,simple_positional,to the right of
+a photo of a potted plant above a fork,potted plant,fork,simple_positional,above
+a photo of a clock to the left of a cow,clock,cow,simple_positional,to the left of
+a photo of a clock to the right of a cow,clock,cow,simple_positional,to the right of
+a photo of a clock above a cow,clock,cow,simple_positional,above
+a photo of a skateboard to the left of a motorcycle,skateboard,motorcycle,simple_positional,to the left of
+a photo of a skateboard to the right of a motorcycle,skateboard,motorcycle,simple_positional,to the right of
+a photo of a skateboard above a motorcycle,skateboard,motorcycle,simple_positional,above
+a photo of a orange to the left of a bottle,orange,bottle,simple_positional,to the left of
+a photo of a orange to the right of a bottle,orange,bottle,simple_positional,to the right of
+a photo of a orange above a bottle,orange,bottle,simple_positional,above
+a photo of a backpack to the left of a wine glass,backpack,wine glass,simple_positional,to the left of
+a photo of a backpack to the right of a wine glass,backpack,wine glass,simple_positional,to the right of
+a photo of a backpack above a wine glass,backpack,wine glass,simple_positional,above
+a photo of a surfboard to the left of a handbag,surfboard,handbag,simple_positional,to the left of
+a photo of a surfboard to the right of a handbag,surfboard,handbag,simple_positional,to the right of
+a photo of a surfboard above a handbag,surfboard,handbag,simple_positional,above
+a photo of a frisbee to the left of a broccoli,frisbee,broccoli,simple_positional,to the left of
+a photo of a frisbee to the right of a broccoli,frisbee,broccoli,simple_positional,to the right of
+a photo of a frisbee above a broccoli,frisbee,broccoli,simple_positional,above
+a photo of a cell phone to the left of a dog,cell phone,dog,simple_positional,to the left of
+a photo of a cell phone to the right of a dog,cell phone,dog,simple_positional,to the right of
+a photo of a cell phone above a dog,cell phone,dog,simple_positional,above
+a photo of a chair to the left of a tennis racket,chair,tennis racket,simple_positional,to the left of
+a photo of a chair to the right of a tennis racket,chair,tennis racket,simple_positional,to the right of
+a photo of a chair above a tennis racket,chair,tennis racket,simple_positional,above
+a photo of a couch to the left of a tv remote,couch,tv remote,simple_positional,to the left of
+a photo of a couch to the right of a tv remote,couch,tv remote,simple_positional,to the right of
+a photo of a couch above a tv remote,couch,tv remote,simple_positional,above
+a photo of a donut to the left of a knife,donut,knife,simple_positional,to the left of
+a photo of a donut to the right of a knife,donut,knife,simple_positional,to the right of
+a photo of a donut above a knife,donut,knife,simple_positional,above
+a photo of a tv remote to the left of a laptop,tv remote,laptop,simple_positional,to the left of
+a photo of a tv remote to the right of a laptop,tv remote,laptop,simple_positional,to the right of
+a photo of a tv remote above a laptop,tv remote,laptop,simple_positional,above
+a photo of a traffic light to the left of a pizza,traffic light,pizza,simple_positional,to the left of
+a photo of a traffic light to the right of a pizza,traffic light,pizza,simple_positional,to the right of
+a photo of a traffic light above a pizza,traffic light,pizza,simple_positional,above
+a photo of a motorcycle to the left of a cat,motorcycle,cat,simple_positional,to the left of
+a photo of a motorcycle to the right of a cat,motorcycle,cat,simple_positional,to the right of
+a photo of a motorcycle above a cat,motorcycle,cat,simple_positional,above
+a photo of a snowboard to the left of a bottle,snowboard,bottle,simple_positional,to the left of
+a photo of a snowboard to the right of a bottle,snowboard,bottle,simple_positional,to the right of
+a photo of a snowboard above a bottle,snowboard,bottle,simple_positional,above
+a photo of a chair to the left of a umbrella,chair,umbrella,simple_positional,to the left of
+a photo of a chair to the right of a umbrella,chair,umbrella,simple_positional,to the right of
+a photo of a chair above a umbrella,chair,umbrella,simple_positional,above
+a photo of a fork to the left of a hot dog,fork,hot dog,simple_positional,to the left of
+a photo of a fork to the right of a hot dog,fork,hot dog,simple_positional,to the right of
+a photo of a fork above a hot dog,fork,hot dog,simple_positional,above
+a photo of a clock to the left of a skateboard,clock,skateboard,simple_positional,to the left of
+a photo of a clock to the right of a skateboard,clock,skateboard,simple_positional,to the right of
+a photo of a clock above a skateboard,clock,skateboard,simple_positional,above
+a photo of a potted plant to the left of a tv,potted plant,tv,simple_positional,to the left of
+a photo of a potted plant to the right of a tv,potted plant,tv,simple_positional,to the right of
+a photo of a potted plant above a tv,potted plant,tv,simple_positional,above
+a photo of a laptop to the left of a computer keyboard,laptop,computer keyboard,simple_positional,to the left of
+a photo of a laptop to the right of a computer keyboard,laptop,computer keyboard,simple_positional,to the right of
+a photo of a laptop above a computer keyboard,laptop,computer keyboard,simple_positional,above
+a photo of a broccoli to the left of a dog,broccoli,dog,simple_positional,to the left of
+a photo of a broccoli to the right of a dog,broccoli,dog,simple_positional,to the right of
+a photo of a broccoli above a dog,broccoli,dog,simple_positional,above
+a photo of a tv to the left of a traffic light,tv,traffic light,simple_positional,to the left of
+a photo of a tv to the right of a traffic light,tv,traffic light,simple_positional,to the right of
+a photo of a tv above a traffic light,tv,traffic light,simple_positional,above
+a photo of a cell phone to the left of a parking meter,cell phone,parking meter,simple_positional,to the left of
+a photo of a cell phone to the right of a parking meter,cell phone,parking meter,simple_positional,to the right of
+a photo of a cell phone above a parking meter,cell phone,parking meter,simple_positional,above
+a photo of a fork to the left of a snowboard,fork,snowboard,simple_positional,to the left of
+a photo of a fork to the right of a snowboard,fork,snowboard,simple_positional,to the right of
+a photo of a fork above a snowboard,fork,snowboard,simple_positional,above
+a photo of a cow to the left of a carrot,cow,carrot,simple_positional,to the left of
+a photo of a cow to the right of a carrot,cow,carrot,simple_positional,to the right of
+a photo of a cow above a carrot,cow,carrot,simple_positional,above
+a photo of a truck to the left of a bus,truck,bus,simple_positional,to the left of
+a photo of a truck to the right of a bus,truck,bus,simple_positional,to the right of
+a photo of a truck above a bus,truck,bus,simple_positional,above
+a photo of a toaster to the left of a fire hydrant,toaster,fire hydrant,simple_positional,to the left of
+a photo of a toaster to the right of a fire hydrant,toaster,fire hydrant,simple_positional,to the right of
+a photo of a toaster above a fire hydrant,toaster,fire hydrant,simple_positional,above
+a photo of a bear to the left of a pizza,bear,pizza,simple_positional,to the left of
+a photo of a bear to the right of a pizza,bear,pizza,simple_positional,to the right of
+a photo of a bear above a pizza,bear,pizza,simple_positional,above
+a photo of a pizza to the left of a frisbee,pizza,frisbee,simple_positional,to the left of
+a photo of a pizza to the right of a frisbee,pizza,frisbee,simple_positional,to the right of
+a photo of a pizza above a frisbee,pizza,frisbee,simple_positional,above
+a photo of a oven to the left of a donut,oven,donut,simple_positional,to the left of
+a photo of a oven to the right of a donut,oven,donut,simple_positional,to the right of
+a photo of a oven above a donut,oven,donut,simple_positional,above
+a photo of a refrigerator to the left of a motorcycle,refrigerator,motorcycle,simple_positional,to the left of
+a photo of a refrigerator to the right of a motorcycle,refrigerator,motorcycle,simple_positional,to the right of
+a photo of a refrigerator above a motorcycle,refrigerator,motorcycle,simple_positional,above
+a photo of a book to the left of a tie,book,tie,simple_positional,to the left of
+a photo of a book to the right of a tie,book,tie,simple_positional,to the right of
+a photo of a book above a tie,book,tie,simple_positional,above
+a photo of a hair drier to the left of a parking meter,hair drier,parking meter,simple_positional,to the left of
+a photo of a hair drier to the right of a parking meter,hair drier,parking meter,simple_positional,to the right of
+a photo of a hair drier above a parking meter,hair drier,parking meter,simple_positional,above
+a photo of a tv to the left of a truck,tv,truck,simple_positional,to the left of
+a photo of a tv to the right of a truck,tv,truck,simple_positional,to the right of
+a photo of a tv above a truck,tv,truck,simple_positional,above
+a photo of a teddy bear to the left of a microwave,teddy bear,microwave,simple_positional,to the left of
+a photo of a teddy bear to the right of a microwave,teddy bear,microwave,simple_positional,to the right of
+a photo of a teddy bear above a microwave,teddy bear,microwave,simple_positional,above
+a photo of a clock to the left of a giraffe,clock,giraffe,simple_positional,to the left of
+a photo of a clock to the right of a giraffe,clock,giraffe,simple_positional,to the right of
+a photo of a clock above a giraffe,clock,giraffe,simple_positional,above
+a photo of a person to the left of a refrigerator,person,refrigerator,simple_positional,to the left of
+a photo of a person to the right of a refrigerator,person,refrigerator,simple_positional,to the right of
+a photo of a person above a refrigerator,person,refrigerator,simple_positional,above
+a photo of a tv to the left of a cow,tv,cow,simple_positional,to the left of
+a photo of a tv to the right of a cow,tv,cow,simple_positional,to the right of
+a photo of a tv above a cow,tv,cow,simple_positional,above
+a photo of a microwave to the left of a cow,microwave,cow,simple_positional,to the left of
+a photo of a microwave to the right of a cow,microwave,cow,simple_positional,to the right of
+a photo of a microwave above a cow,microwave,cow,simple_positional,above
+a photo of a fire hydrant to the left of a tv remote,fire hydrant,tv remote,simple_positional,to the left of
+a photo of a fire hydrant to the right of a tv remote,fire hydrant,tv remote,simple_positional,to the right of
+a photo of a fire hydrant above a tv remote,fire hydrant,tv remote,simple_positional,above
+a photo of a donut to the left of a clock,donut,clock,simple_positional,to the left of
+a photo of a donut to the right of a clock,donut,clock,simple_positional,to the right of
+a photo of a donut above a clock,donut,clock,simple_positional,above
+a photo of a baseball glove to the left of a sandwich,baseball glove,sandwich,simple_positional,to the left of
+a photo of a baseball glove to the right of a sandwich,baseball glove,sandwich,simple_positional,to the right of
+a photo of a baseball glove above a sandwich,baseball glove,sandwich,simple_positional,above
+a photo of a hair drier to the left of a computer mouse,hair drier,computer mouse,simple_positional,to the left of
+a photo of a hair drier to the right of a computer mouse,hair drier,computer mouse,simple_positional,to the right of
+a photo of a hair drier above a computer mouse,hair drier,computer mouse,simple_positional,above
+a photo of a skateboard to the left of a bear,skateboard,bear,simple_positional,to the left of
+a photo of a skateboard to the right of a bear,skateboard,bear,simple_positional,to the right of
+a photo of a skateboard above a bear,skateboard,bear,simple_positional,above
+a photo of a refrigerator to the left of a orange,refrigerator,orange,simple_positional,to the left of
+a photo of a refrigerator to the right of a orange,refrigerator,orange,simple_positional,to the right of
+a photo of a refrigerator above a orange,refrigerator,orange,simple_positional,above
+a photo of a clock to the left of a dining table,clock,dining table,simple_positional,to the left of
+a photo of a clock to the right of a dining table,clock,dining table,simple_positional,to the right of
+a photo of a clock above a dining table,clock,dining table,simple_positional,above

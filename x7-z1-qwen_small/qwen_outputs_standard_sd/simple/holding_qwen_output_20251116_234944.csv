@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_40680768.pt,0,giraffe,hair drier,holding,Does this figure show 'a giraffe holding a hair drier'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,1,broccoli,skis,holding,Does this figure show 'a broccoli holding a skis'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,2,book,sports ball,holding,Does this figure show 'a book holding a sports ball'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,3,bench,cow,holding,Does this figure show 'a bench holding a cow'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,4,computer keyboard,skateboard,holding,Does this figure show 'a computer keyboard holding a skateboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,5,toilet,potted plant,holding,Does this figure show 'a toilet holding a potted plant'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,6,oven,vase,holding,Does this figure show 'a oven holding a vase'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,7,bed,book,holding,Does this figure show 'a bed holding a book'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,8,cell phone,bear,holding,Does this figure show 'a cell phone holding a bear'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,9,sports ball,refrigerator,holding,Does this figure show 'a sports ball holding a refrigerator'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,10,baseball bat,dog,holding,Does this figure show 'a baseball bat holding a dog'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,11,orange,traffic light,holding,Does this figure show 'a orange holding a traffic light'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,12,teddy bear,orange,holding,Does this figure show 'a teddy bear holding a orange'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,13,skis,tennis racket,holding,Does this figure show 'a skis holding a tennis racket'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,14,zebra,bicycle,holding,Does this figure show 'a zebra holding a bicycle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,15,sheep,computer mouse,holding,Does this figure show 'a sheep holding a computer mouse'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,16,cell phone,orange,holding,Does this figure show 'a cell phone holding a orange'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,17,knife,umbrella,holding,Does this figure show 'a knife holding a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,18,motorcycle,carrot,holding,Does this figure show 'a motorcycle holding a carrot'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,19,traffic light,horse,holding,Does this figure show 'a traffic light holding a horse'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,20,surfboard,tv,holding,Does this figure show 'a surfboard holding a tv'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,21,carrot,truck,holding,Does this figure show 'a carrot holding a truck'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,22,giraffe,fire hydrant,holding,Does this figure show 'a giraffe holding a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,23,elephant,toaster,holding,Does this figure show 'a elephant holding a toaster'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,24,bowl,dog,holding,Does this figure show 'a bowl holding a dog'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,25,bench,motorcycle,holding,Does this figure show 'a bench holding a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,26,frisbee,handbag,holding,Does this figure show 'a frisbee holding a handbag'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,27,skis,cat,holding,Does this figure show 'a skis holding a cat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,28,surfboard,spoon,holding,Does this figure show 'a surfboard holding a spoon'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,29,bicycle,bus,holding,Does this figure show 'a bicycle holding a bus'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,30,car,laptop,holding,Does this figure show 'a car holding a laptop'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,31,frisbee,cat,holding,Does this figure show 'a frisbee holding a cat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,32,skis,motorcycle,holding,Does this figure show 'a skis holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,33,toilet,cat,holding,Does this figure show 'a toilet holding a cat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,34,snowboard,boat,holding,Does this figure show 'a snowboard holding a boat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,35,broccoli,bird,holding,Does this figure show 'a broccoli holding a bird'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,36,scissors,airplane,holding,Does this figure show 'a scissors holding a airplane'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,37,bowl,banana,holding,Does this figure show 'a bowl holding a banana'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,38,baseball glove,bicycle,holding,Does this figure show 'a baseball glove holding a bicycle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,39,microwave,skis,holding,Does this figure show 'a microwave holding a skis'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,40,banana,stop sign,holding,Does this figure show 'a banana holding a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,41,oven,snowboard,holding,Does this figure show 'a oven holding a snowboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,42,giraffe,tie,holding,Does this figure show 'a giraffe holding a tie'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,43,parking meter,toilet,holding,Does this figure show 'a parking meter holding a toilet'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,44,banana,fork,holding,Does this figure show 'a banana holding a fork'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,45,laptop,broccoli,holding,Does this figure show 'a laptop holding a broccoli'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,46,orange,toothbrush,holding,Does this figure show 'a orange holding a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,47,baseball bat,boat,holding,Does this figure show 'a baseball bat holding a boat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,48,snowboard,skateboard,holding,Does this figure show 'a snowboard holding a skateboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,49,book,dog,holding,Does this figure show 'a book holding a dog'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,50,chair,pizza,holding,Does this figure show 'a chair holding a pizza'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,51,suitcase,train,holding,Does this figure show 'a suitcase holding a train'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,52,refrigerator,sports ball,holding,Does this figure show 'a refrigerator holding a sports ball'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,53,baseball bat,sandwich,holding,Does this figure show 'a baseball bat holding a sandwich'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,54,potted plant,fork,holding,Does this figure show 'a potted plant holding a fork'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,55,clock,cow,holding,Does this figure show 'a clock holding a cow'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,56,skateboard,motorcycle,holding,Does this figure show 'a skateboard holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,57,orange,bottle,holding,Does this figure show 'a orange holding a bottle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,58,backpack,wine glass,holding,Does this figure show 'a backpack holding a wine glass'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,59,surfboard,handbag,holding,Does this figure show 'a surfboard holding a handbag'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,60,frisbee,broccoli,holding,Does this figure show 'a frisbee holding a broccoli'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,61,cell phone,dog,holding,Does this figure show 'a cell phone holding a dog'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,62,chair,tennis racket,holding,Does this figure show 'a chair holding a tennis racket'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,63,couch,tv remote,holding,Does this figure show 'a couch holding a tv remote'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,64,donut,knife,holding,Does this figure show 'a donut holding a knife'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,65,tv remote,laptop,holding,Does this figure show 'a tv remote holding a laptop'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,66,traffic light,pizza,holding,Does this figure show 'a traffic light holding a pizza'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,67,motorcycle,cat,holding,Does this figure show 'a motorcycle holding a cat'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,68,snowboard,bottle,holding,Does this figure show 'a snowboard holding a bottle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,69,chair,umbrella,holding,Does this figure show 'a chair holding a umbrella'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,70,fork,hot dog,holding,Does this figure show 'a fork holding a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,71,clock,skateboard,holding,Does this figure show 'a clock holding a skateboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,72,potted plant,tv,holding,Does this figure show 'a potted plant holding a tv'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,73,laptop,computer keyboard,holding,Does this figure show 'a laptop holding a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,74,broccoli,dog,holding,Does this figure show 'a broccoli holding a dog'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,75,tv,traffic light,holding,Does this figure show 'a tv holding a traffic light'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,76,cell phone,parking meter,holding,Does this figure show 'a cell phone holding a parking meter'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,77,fork,snowboard,holding,Does this figure show 'a fork holding a snowboard'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,78,cow,carrot,holding,Does this figure show 'a cow holding a carrot'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,79,truck,bus,holding,Does this figure show 'a truck holding a bus'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,80,toaster,fire hydrant,holding,Does this figure show 'a toaster holding a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,81,bear,pizza,holding,Does this figure show 'a bear holding a pizza'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,82,pizza,frisbee,holding,Does this figure show 'a pizza holding a frisbee'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,83,oven,donut,holding,Does this figure show 'a oven holding a donut'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,84,refrigerator,motorcycle,holding,Does this figure show 'a refrigerator holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,85,book,tie,holding,Does this figure show 'a book holding a tie'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,86,hair drier,parking meter,holding,Does this figure show 'a hair drier holding a parking meter'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,87,tv,truck,holding,Does this figure show 'a tv holding a truck'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,88,teddy bear,microwave,holding,Does this figure show 'a teddy bear holding a microwave'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,89,clock,giraffe,holding,Does this figure show 'a clock holding a giraffe'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,90,person,refrigerator,holding,Does this figure show 'a person holding a refrigerator'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,91,tv,cow,holding,Does this figure show 'a tv holding a cow'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,92,microwave,cow,holding,Does this figure show 'a microwave holding a cow'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,93,fire hydrant,tv remote,holding,Does this figure show 'a fire hydrant holding a tv remote'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,94,donut,clock,holding,Does this figure show 'a donut holding a clock'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,95,baseball glove,sandwich,holding,Does this figure show 'a baseball glove holding a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,96,hair drier,computer mouse,holding,Does this figure show 'a hair drier holding a computer mouse'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,97,skateboard,bear,holding,Does this figure show 'a skateboard holding a bear'? Please answer yes or no.,No.,NO
+phrase_40680768.pt,98,refrigerator,orange,holding,Does this figure show 'a refrigerator holding a orange'? Please answer yes or no.,Yes.,YES
+phrase_40680768.pt,99,clock,dining table,holding,Does this figure show 'a clock holding a dining table'? Please answer yes or no.,No.,NO

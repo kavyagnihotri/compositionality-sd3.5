@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_88935510.pt,0,between,direct,Yes.,,giraffe,hair drier
+standard,phrase_88935510.pt,1,between,direct,No,,broccoli,skis
+standard,phrase_88935510.pt,2,between,direct,No,,book,sports ball
+standard,phrase_88935510.pt,3,between,direct,Yes.,,bench,cow
+standard,phrase_88935510.pt,4,between,direct,Yes.,,computer keyboard,skateboard
+standard,phrase_88935510.pt,5,between,direct,No,,toilet,potted plant
+standard,phrase_88935510.pt,6,between,direct,No.,,oven,vase
+standard,phrase_88935510.pt,7,between,direct,No,,bed,book
+standard,phrase_88935510.pt,8,between,direct,No.,,cell phone,bear
+standard,phrase_88935510.pt,9,between,direct,No,,sports ball,refrigerator
+standard,phrase_88935510.pt,10,between,direct,No.,,baseball bat,dog
+standard,phrase_88935510.pt,11,between,direct,Yes.,,orange,traffic light
+standard,phrase_88935510.pt,12,between,direct,Yes,,teddy bear,orange
+standard,phrase_88935510.pt,13,between,direct,No,,skis,tennis racket
+standard,phrase_88935510.pt,14,between,direct,Yes,,zebra,bicycle
+standard,phrase_88935510.pt,15,between,direct,No.,,sheep,computer mouse
+standard,phrase_88935510.pt,16,between,direct,Yes,,cell phone,orange
+standard,phrase_88935510.pt,17,between,direct,Yes.,,knife,umbrella
+standard,phrase_88935510.pt,18,between,direct,No.,,motorcycle,carrot
+standard,phrase_88935510.pt,19,between,direct,Yes.,,traffic light,horse
+standard,phrase_88935510.pt,20,between,direct,Yes,,surfboard,tv
+standard,phrase_88935510.pt,21,between,direct,Yes.,,carrot,truck
+standard,phrase_88935510.pt,22,between,direct,Yes,,giraffe,fire hydrant
+standard,phrase_88935510.pt,23,between,direct,Yes.,,elephant,toaster
+standard,phrase_88935510.pt,24,between,direct,Yes,,bowl,dog
+standard,phrase_88935510.pt,25,between,direct,Yes,,bench,motorcycle
+standard,phrase_88935510.pt,26,between,direct,No.,,frisbee,handbag
+standard,phrase_88935510.pt,27,between,direct,No,,skis,cat
+standard,phrase_88935510.pt,28,between,direct,Yes,,surfboard,spoon
+standard,phrase_88935510.pt,29,between,direct,No.,,bicycle,bus
+standard,phrase_88935510.pt,30,between,direct,Yes,,car,laptop
+standard,phrase_88935510.pt,31,between,direct,Yes.,,frisbee,cat
+standard,phrase_88935510.pt,32,between,direct,No.,,skis,motorcycle
+standard,phrase_88935510.pt,33,between,direct,Yes.,,toilet,cat
+standard,phrase_88935510.pt,34,between,direct,Yes,,snowboard,boat
+standard,phrase_88935510.pt,35,between,direct,Yes.,,broccoli,bird
+standard,phrase_88935510.pt,36,between,direct,No,,scissors,airplane
+standard,phrase_88935510.pt,37,between,direct,No.,,bowl,banana
+standard,phrase_88935510.pt,38,between,direct,No.,,baseball glove,bicycle
+standard,phrase_88935510.pt,39,between,direct,No,,microwave,skis
+standard,phrase_88935510.pt,40,between,direct,Yes.,,banana,stop sign
+standard,phrase_88935510.pt,41,between,direct,Yes.,,oven,snowboard
+standard,phrase_88935510.pt,42,between,direct,Yes,,giraffe,tie
+standard,phrase_88935510.pt,43,between,direct,No,,parking meter,toilet
+standard,phrase_88935510.pt,44,between,direct,Yes,,banana,fork
+standard,phrase_88935510.pt,45,between,direct,Yes.,,laptop,broccoli
+standard,phrase_88935510.pt,46,between,direct,No.,,orange,toothbrush
+standard,phrase_88935510.pt,47,between,direct,No,,baseball bat,boat
+standard,phrase_88935510.pt,48,between,direct,No,,snowboard,skateboard
+standard,phrase_88935510.pt,49,between,direct,Yes.,,book,dog
+standard,phrase_88935510.pt,50,between,direct,No.,,chair,pizza
+standard,phrase_88935510.pt,51,between,direct,Yes,,suitcase,train
+standard,phrase_88935510.pt,52,between,direct,No,,refrigerator,sports ball
+standard,phrase_88935510.pt,53,between,direct,No,,baseball bat,sandwich
+standard,phrase_88935510.pt,54,between,direct,Yes,,potted plant,fork
+standard,phrase_88935510.pt,55,between,direct,Yes,,clock,cow
+standard,phrase_88935510.pt,56,between,direct,Yes.,,skateboard,motorcycle
+standard,phrase_88935510.pt,57,between,direct,No,,orange,bottle
+standard,phrase_88935510.pt,58,between,direct,Yes,,backpack,wine glass
+standard,phrase_88935510.pt,59,between,direct,Yes,,surfboard,handbag
+standard,phrase_88935510.pt,60,between,direct,Yes.,,frisbee,broccoli
+standard,phrase_88935510.pt,61,between,direct,Yes.,,cell phone,dog
+standard,phrase_88935510.pt,62,between,direct,No,,chair,tennis racket
+standard,phrase_88935510.pt,63,between,direct,No,,couch,tv remote
+standard,phrase_88935510.pt,64,between,direct,Yes,,donut,knife
+standard,phrase_88935510.pt,65,between,direct,No,,tv remote,laptop
+standard,phrase_88935510.pt,66,between,direct,No.,,traffic light,pizza
+standard,phrase_88935510.pt,67,between,direct,No,,motorcycle,cat
+standard,phrase_88935510.pt,68,between,direct,Yes,,snowboard,bottle
+standard,phrase_88935510.pt,69,between,direct,Yes.,,chair,umbrella
+standard,phrase_88935510.pt,70,between,direct,Yes.,,fork,hot dog
+standard,phrase_88935510.pt,71,between,direct,Yes.,,clock,skateboard
+standard,phrase_88935510.pt,72,between,direct,Yes,,potted plant,tv
+standard,phrase_88935510.pt,73,between,direct,No.,,laptop,computer keyboard
+standard,phrase_88935510.pt,74,between,direct,Yes.,,broccoli,dog
+standard,phrase_88935510.pt,75,between,direct,Yes,,tv,traffic light
+standard,phrase_88935510.pt,76,between,direct,Yes,,cell phone,parking meter
+standard,phrase_88935510.pt,77,between,direct,Yes,,fork,snowboard
+standard,phrase_88935510.pt,78,between,direct,No.,,cow,carrot
+standard,phrase_88935510.pt,79,between,direct,No,,truck,bus
+standard,phrase_88935510.pt,80,between,direct,Yes.,,toaster,fire hydrant
+standard,phrase_88935510.pt,81,between,direct,Yes.,,bear,pizza
+standard,phrase_88935510.pt,82,between,direct,Yes.,,pizza,frisbee
+standard,phrase_88935510.pt,83,between,direct,No,,oven,donut
+standard,phrase_88935510.pt,84,between,direct,Yes.,,refrigerator,motorcycle
+standard,phrase_88935510.pt,85,between,direct,Yes.,,book,tie
+standard,phrase_88935510.pt,86,between,direct,No,,hair drier,parking meter
+standard,phrase_88935510.pt,87,between,direct,No,,tv,truck
+standard,phrase_88935510.pt,88,between,direct,No,,teddy bear,microwave
+standard,phrase_88935510.pt,89,between,direct,Yes.,,clock,giraffe
+standard,phrase_88935510.pt,90,between,direct,No,,person,refrigerator
+standard,phrase_88935510.pt,91,between,direct,No,,tv,cow
+standard,phrase_88935510.pt,92,between,direct,No,,microwave,cow
+standard,phrase_88935510.pt,93,between,direct,Yes.,,fire hydrant,tv remote
+standard,phrase_88935510.pt,94,between,direct,Yes,,donut,clock
+standard,phrase_88935510.pt,95,between,direct,No,,baseball glove,sandwich
+standard,phrase_88935510.pt,96,between,direct,Yes.,,hair drier,computer mouse
+standard,phrase_88935510.pt,97,between,direct,Yes.,,skateboard,bear
+standard,phrase_88935510.pt,98,between,direct,No.,,refrigerator,orange
+standard,phrase_88935510.pt,99,between,direct,No,,clock,dining table

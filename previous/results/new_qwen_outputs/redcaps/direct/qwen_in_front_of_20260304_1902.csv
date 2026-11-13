@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_75078104.pt,0,in front of,direct,No.,,giraffe,hair drier
+redcaps,phrase_75078104.pt,1,in front of,direct,Yes,,broccoli,skis
+redcaps,phrase_75078104.pt,2,in front of,direct,No,,book,sports ball
+redcaps,phrase_75078104.pt,3,in front of,direct,No,,bench,cow
+redcaps,phrase_75078104.pt,4,in front of,direct,No,,computer keyboard,skateboard
+redcaps,phrase_75078104.pt,5,in front of,direct,No,,toilet,potted plant
+redcaps,phrase_75078104.pt,6,in front of,direct,No.,,oven,vase
+redcaps,phrase_75078104.pt,7,in front of,direct,No.,,bed,book
+redcaps,phrase_75078104.pt,8,in front of,direct,No,,cell phone,bear
+redcaps,phrase_75078104.pt,9,in front of,direct,Yes,,sports ball,refrigerator
+redcaps,phrase_75078104.pt,10,in front of,direct,No.,,baseball bat,dog
+redcaps,phrase_75078104.pt,11,in front of,direct,No.,,orange,traffic light
+redcaps,phrase_75078104.pt,12,in front of,direct,No.,,teddy bear,orange
+redcaps,phrase_75078104.pt,13,in front of,direct,No,,skis,tennis racket
+redcaps,phrase_75078104.pt,14,in front of,direct,Yes.,,zebra,bicycle
+redcaps,phrase_75078104.pt,15,in front of,direct,No.,,sheep,computer mouse
+redcaps,phrase_75078104.pt,16,in front of,direct,No.,,cell phone,orange
+redcaps,phrase_75078104.pt,17,in front of,direct,Yes.,,knife,umbrella
+redcaps,phrase_75078104.pt,18,in front of,direct,No.,,motorcycle,carrot
+redcaps,phrase_75078104.pt,19,in front of,direct,No,,traffic light,horse
+redcaps,phrase_75078104.pt,20,in front of,direct,Yes,,surfboard,tv
+redcaps,phrase_75078104.pt,21,in front of,direct,Yes,,carrot,truck
+redcaps,phrase_75078104.pt,22,in front of,direct,No,,giraffe,fire hydrant
+redcaps,phrase_75078104.pt,23,in front of,direct,Yes.,,elephant,toaster
+redcaps,phrase_75078104.pt,24,in front of,direct,Yes,,bowl,dog
+redcaps,phrase_75078104.pt,25,in front of,direct,No.,,bench,motorcycle
+redcaps,phrase_75078104.pt,26,in front of,direct,Yes,,frisbee,handbag
+redcaps,phrase_75078104.pt,27,in front of,direct,No,,skis,cat
+redcaps,phrase_75078104.pt,28,in front of,direct,No.,,surfboard,spoon
+redcaps,phrase_75078104.pt,29,in front of,direct,Yes,,bicycle,bus
+redcaps,phrase_75078104.pt,30,in front of,direct,No,,car,laptop
+redcaps,phrase_75078104.pt,31,in front of,direct,Yes,,frisbee,cat
+redcaps,phrase_75078104.pt,32,in front of,direct,Yes,,skis,motorcycle
+redcaps,phrase_75078104.pt,33,in front of,direct,No.,,toilet,cat
+redcaps,phrase_75078104.pt,34,in front of,direct,Yes,,snowboard,boat
+redcaps,phrase_75078104.pt,35,in front of,direct,No,,broccoli,bird
+redcaps,phrase_75078104.pt,36,in front of,direct,Yes,,scissors,airplane
+redcaps,phrase_75078104.pt,37,in front of,direct,Yes.,,bowl,banana
+redcaps,phrase_75078104.pt,38,in front of,direct,Yes,,baseball glove,bicycle
+redcaps,phrase_75078104.pt,39,in front of,direct,Yes,,microwave,skis
+redcaps,phrase_75078104.pt,40,in front of,direct,Yes,,banana,stop sign
+redcaps,phrase_75078104.pt,41,in front of,direct,Yes.,,oven,snowboard
+redcaps,phrase_75078104.pt,42,in front of,direct,No.,,giraffe,tie
+redcaps,phrase_75078104.pt,43,in front of,direct,No,,parking meter,toilet
+redcaps,phrase_75078104.pt,44,in front of,direct,No,,banana,fork
+redcaps,phrase_75078104.pt,45,in front of,direct,No,,laptop,broccoli
+redcaps,phrase_75078104.pt,46,in front of,direct,No,,orange,toothbrush
+redcaps,phrase_75078104.pt,47,in front of,direct,Yes,,baseball bat,boat
+redcaps,phrase_75078104.pt,48,in front of,direct,No,,snowboard,skateboard
+redcaps,phrase_75078104.pt,49,in front of,direct,No.,,book,dog
+redcaps,phrase_75078104.pt,50,in front of,direct,No,,chair,pizza
+redcaps,phrase_75078104.pt,51,in front of,direct,Yes.,,suitcase,train
+redcaps,phrase_75078104.pt,52,in front of,direct,No,,refrigerator,sports ball
+redcaps,phrase_75078104.pt,53,in front of,direct,Yes,,baseball bat,sandwich
+redcaps,phrase_75078104.pt,54,in front of,direct,No,,potted plant,fork
+redcaps,phrase_75078104.pt,55,in front of,direct,Yes,,clock,cow
+redcaps,phrase_75078104.pt,56,in front of,direct,Yes,,skateboard,motorcycle
+redcaps,phrase_75078104.pt,57,in front of,direct,Yes,,orange,bottle
+redcaps,phrase_75078104.pt,58,in front of,direct,No,,backpack,wine glass
+redcaps,phrase_75078104.pt,59,in front of,direct,Yes,,surfboard,handbag
+redcaps,phrase_75078104.pt,60,in front of,direct,No.,,frisbee,broccoli
+redcaps,phrase_75078104.pt,61,in front of,direct,Yes.,,cell phone,dog
+redcaps,phrase_75078104.pt,62,in front of,direct,No.,,chair,tennis racket
+redcaps,phrase_75078104.pt,63,in front of,direct,Yes.,,couch,tv remote
+redcaps,phrase_75078104.pt,64,in front of,direct,No,,donut,knife
+redcaps,phrase_75078104.pt,65,in front of,direct,Yes,,tv remote,laptop
+redcaps,phrase_75078104.pt,66,in front of,direct,No,,traffic light,pizza
+redcaps,phrase_75078104.pt,67,in front of,direct,No.,,motorcycle,cat
+redcaps,phrase_75078104.pt,68,in front of,direct,No.,,snowboard,bottle
+redcaps,phrase_75078104.pt,69,in front of,direct,No,,chair,umbrella
+redcaps,phrase_75078104.pt,70,in front of,direct,No,,fork,hot dog
+redcaps,phrase_75078104.pt,71,in front of,direct,No,,clock,skateboard
+redcaps,phrase_75078104.pt,72,in front of,direct,Yes.,,potted plant,tv
+redcaps,phrase_75078104.pt,73,in front of,direct,No,,laptop,computer keyboard
+redcaps,phrase_75078104.pt,74,in front of,direct,Yes,,broccoli,dog
+redcaps,phrase_75078104.pt,75,in front of,direct,No.,,tv,traffic light
+redcaps,phrase_75078104.pt,76,in front of,direct,No.,,cell phone,parking meter
+redcaps,phrase_75078104.pt,77,in front of,direct,Yes,,fork,snowboard
+redcaps,phrase_75078104.pt,78,in front of,direct,No,,cow,carrot
+redcaps,phrase_75078104.pt,79,in front of,direct,No.,,truck,bus
+redcaps,phrase_75078104.pt,80,in front of,direct,No.,,toaster,fire hydrant
+redcaps,phrase_75078104.pt,81,in front of,direct,Yes.,,bear,pizza
+redcaps,phrase_75078104.pt,82,in front of,direct,No,,pizza,frisbee
+redcaps,phrase_75078104.pt,83,in front of,direct,No.,,oven,donut
+redcaps,phrase_75078104.pt,84,in front of,direct,Yes.,,refrigerator,motorcycle
+redcaps,phrase_75078104.pt,85,in front of,direct,No.,,book,tie
+redcaps,phrase_75078104.pt,86,in front of,direct,No,,hair drier,parking meter
+redcaps,phrase_75078104.pt,87,in front of,direct,Yes,,tv,truck
+redcaps,phrase_75078104.pt,88,in front of,direct,Yes,,teddy bear,microwave
+redcaps,phrase_75078104.pt,89,in front of,direct,No.,,clock,giraffe
+redcaps,phrase_75078104.pt,90,in front of,direct,Yes,,person,refrigerator
+redcaps,phrase_75078104.pt,91,in front of,direct,No,,tv,cow
+redcaps,phrase_75078104.pt,92,in front of,direct,Yes,,microwave,cow
+redcaps,phrase_75078104.pt,93,in front of,direct,No,,fire hydrant,tv remote
+redcaps,phrase_75078104.pt,94,in front of,direct,Yes.,,donut,clock
+redcaps,phrase_75078104.pt,95,in front of,direct,No,,baseball glove,sandwich
+redcaps,phrase_75078104.pt,96,in front of,direct,No,,hair drier,computer mouse
+redcaps,phrase_75078104.pt,97,in front of,direct,Yes,,skateboard,bear
+redcaps,phrase_75078104.pt,98,in front of,direct,No.,,refrigerator,orange
+redcaps,phrase_75078104.pt,99,in front of,direct,Yes.,,clock,dining table

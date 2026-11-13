@@ -1,0 +1,201 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_99671981.pt,0,a photo of a giraffe closeby a hair drier,giraffe,misc,closeby,hair drier
+phrase_99671981.pt,1,a photo of a broccoli closeby a skis,broccoli,misc,closeby,skis
+phrase_99671981.pt,2,a photo of a book closeby a sports ball,book,misc,closeby,sports ball
+phrase_99671981.pt,3,a photo of a bench closeby a cow,bench,misc,closeby,cow
+phrase_99671981.pt,4,a photo of a computer keyboard closeby a skateboard,computer keyboard,misc,closeby,skateboard
+phrase_99671981.pt,5,a photo of a toilet closeby a potted plant,toilet,misc,closeby,potted plant
+phrase_99671981.pt,6,a photo of a oven closeby a vase,oven,misc,closeby,vase
+phrase_99671981.pt,7,a photo of a bed closeby a book,bed,misc,closeby,book
+phrase_99671981.pt,8,a photo of a cell phone closeby a bear,cell phone,misc,closeby,bear
+phrase_99671981.pt,9,a photo of a sports ball closeby a refrigerator,sports ball,misc,closeby,refrigerator
+phrase_99671981.pt,10,a photo of a baseball bat closeby a dog,baseball bat,misc,closeby,dog
+phrase_99671981.pt,11,a photo of a orange closeby a traffic light,orange,misc,closeby,traffic light
+phrase_99671981.pt,12,a photo of a teddy bear closeby a orange,teddy bear,misc,closeby,orange
+phrase_99671981.pt,13,a photo of a skis closeby a tennis racket,skis,misc,closeby,tennis racket
+phrase_99671981.pt,14,a photo of a zebra closeby a bicycle,zebra,misc,closeby,bicycle
+phrase_99671981.pt,15,a photo of a sheep closeby a computer mouse,sheep,misc,closeby,computer mouse
+phrase_99671981.pt,16,a photo of a cell phone closeby a orange,cell phone,misc,closeby,orange
+phrase_99671981.pt,17,a photo of a knife closeby a umbrella,knife,misc,closeby,umbrella
+phrase_99671981.pt,18,a photo of a motorcycle closeby a carrot,motorcycle,misc,closeby,carrot
+phrase_99671981.pt,19,a photo of a traffic light closeby a horse,traffic light,misc,closeby,horse
+phrase_99671981.pt,20,a photo of a surfboard closeby a tv,surfboard,misc,closeby,tv
+phrase_99671981.pt,21,a photo of a carrot closeby a truck,carrot,misc,closeby,truck
+phrase_99671981.pt,22,a photo of a giraffe closeby a fire hydrant,giraffe,misc,closeby,fire hydrant
+phrase_99671981.pt,23,a photo of a elephant closeby a toaster,elephant,misc,closeby,toaster
+phrase_99671981.pt,24,a photo of a bowl closeby a dog,bowl,misc,closeby,dog
+phrase_99671981.pt,25,a photo of a bench closeby a motorcycle,bench,misc,closeby,motorcycle
+phrase_99671981.pt,26,a photo of a frisbee closeby a handbag,frisbee,misc,closeby,handbag
+phrase_99671981.pt,27,a photo of a skis closeby a cat,skis,misc,closeby,cat
+phrase_99671981.pt,28,a photo of a surfboard closeby a spoon,surfboard,misc,closeby,spoon
+phrase_99671981.pt,29,a photo of a bicycle closeby a bus,bicycle,misc,closeby,bus
+phrase_99671981.pt,30,a photo of a car closeby a laptop,car,misc,closeby,laptop
+phrase_99671981.pt,31,a photo of a frisbee closeby a cat,frisbee,misc,closeby,cat
+phrase_99671981.pt,32,a photo of a skis closeby a motorcycle,skis,misc,closeby,motorcycle
+phrase_99671981.pt,33,a photo of a toilet closeby a cat,toilet,misc,closeby,cat
+phrase_99671981.pt,34,a photo of a snowboard closeby a boat,snowboard,misc,closeby,boat
+phrase_99671981.pt,35,a photo of a broccoli closeby a bird,broccoli,misc,closeby,bird
+phrase_99671981.pt,36,a photo of a scissors closeby a airplane,scissors,misc,closeby,airplane
+phrase_99671981.pt,37,a photo of a bowl closeby a banana,bowl,misc,closeby,banana
+phrase_99671981.pt,38,a photo of a baseball glove closeby a bicycle,baseball glove,misc,closeby,bicycle
+phrase_99671981.pt,39,a photo of a microwave closeby a skis,microwave,misc,closeby,skis
+phrase_99671981.pt,40,a photo of a banana closeby a stop sign,banana,misc,closeby,stop sign
+phrase_99671981.pt,41,a photo of a oven closeby a snowboard,oven,misc,closeby,snowboard
+phrase_99671981.pt,42,a photo of a giraffe closeby a tie,giraffe,misc,closeby,tie
+phrase_99671981.pt,43,a photo of a parking meter closeby a toilet,parking meter,misc,closeby,toilet
+phrase_99671981.pt,44,a photo of a banana closeby a fork,banana,misc,closeby,fork
+phrase_99671981.pt,45,a photo of a laptop closeby a broccoli,laptop,misc,closeby,broccoli
+phrase_99671981.pt,46,a photo of a orange closeby a toothbrush,orange,misc,closeby,toothbrush
+phrase_99671981.pt,47,a photo of a baseball bat closeby a boat,baseball bat,misc,closeby,boat
+phrase_99671981.pt,48,a photo of a snowboard closeby a skateboard,snowboard,misc,closeby,skateboard
+phrase_99671981.pt,49,a photo of a book closeby a dog,book,misc,closeby,dog
+phrase_99671981.pt,50,a photo of a chair closeby a pizza,chair,misc,closeby,pizza
+phrase_99671981.pt,51,a photo of a suitcase closeby a train,suitcase,misc,closeby,train
+phrase_99671981.pt,52,a photo of a refrigerator closeby a sports ball,refrigerator,misc,closeby,sports ball
+phrase_99671981.pt,53,a photo of a baseball bat closeby a sandwich,baseball bat,misc,closeby,sandwich
+phrase_99671981.pt,54,a photo of a potted plant closeby a fork,potted plant,misc,closeby,fork
+phrase_99671981.pt,55,a photo of a clock closeby a cow,clock,misc,closeby,cow
+phrase_99671981.pt,56,a photo of a skateboard closeby a motorcycle,skateboard,misc,closeby,motorcycle
+phrase_99671981.pt,57,a photo of a orange closeby a bottle,orange,misc,closeby,bottle
+phrase_99671981.pt,58,a photo of a backpack closeby a wine glass,backpack,misc,closeby,wine glass
+phrase_99671981.pt,59,a photo of a surfboard closeby a handbag,surfboard,misc,closeby,handbag
+phrase_99671981.pt,60,a photo of a frisbee closeby a broccoli,frisbee,misc,closeby,broccoli
+phrase_99671981.pt,61,a photo of a cell phone closeby a dog,cell phone,misc,closeby,dog
+phrase_99671981.pt,62,a photo of a chair closeby a tennis racket,chair,misc,closeby,tennis racket
+phrase_99671981.pt,63,a photo of a couch closeby a tv remote,couch,misc,closeby,tv remote
+phrase_99671981.pt,64,a photo of a donut closeby a knife,donut,misc,closeby,knife
+phrase_99671981.pt,65,a photo of a tv remote closeby a laptop,tv remote,misc,closeby,laptop
+phrase_99671981.pt,66,a photo of a traffic light closeby a pizza,traffic light,misc,closeby,pizza
+phrase_99671981.pt,67,a photo of a motorcycle closeby a cat,motorcycle,misc,closeby,cat
+phrase_99671981.pt,68,a photo of a snowboard closeby a bottle,snowboard,misc,closeby,bottle
+phrase_99671981.pt,69,a photo of a chair closeby a umbrella,chair,misc,closeby,umbrella
+phrase_99671981.pt,70,a photo of a fork closeby a hot dog,fork,misc,closeby,hot dog
+phrase_99671981.pt,71,a photo of a clock closeby a skateboard,clock,misc,closeby,skateboard
+phrase_99671981.pt,72,a photo of a potted plant closeby a tv,potted plant,misc,closeby,tv
+phrase_99671981.pt,73,a photo of a laptop closeby a computer keyboard,laptop,misc,closeby,computer keyboard
+phrase_99671981.pt,74,a photo of a broccoli closeby a dog,broccoli,misc,closeby,dog
+phrase_99671981.pt,75,a photo of a tv closeby a traffic light,tv,misc,closeby,traffic light
+phrase_99671981.pt,76,a photo of a cell phone closeby a parking meter,cell phone,misc,closeby,parking meter
+phrase_99671981.pt,77,a photo of a fork closeby a snowboard,fork,misc,closeby,snowboard
+phrase_99671981.pt,78,a photo of a cow closeby a carrot,cow,misc,closeby,carrot
+phrase_99671981.pt,79,a photo of a truck closeby a bus,truck,misc,closeby,bus
+phrase_99671981.pt,80,a photo of a toaster closeby a fire hydrant,toaster,misc,closeby,fire hydrant
+phrase_99671981.pt,81,a photo of a bear closeby a pizza,bear,misc,closeby,pizza
+phrase_99671981.pt,82,a photo of a pizza closeby a frisbee,pizza,misc,closeby,frisbee
+phrase_99671981.pt,83,a photo of a oven closeby a donut,oven,misc,closeby,donut
+phrase_99671981.pt,84,a photo of a refrigerator closeby a motorcycle,refrigerator,misc,closeby,motorcycle
+phrase_99671981.pt,85,a photo of a book closeby a tie,book,misc,closeby,tie
+phrase_99671981.pt,86,a photo of a hair drier closeby a parking meter,hair drier,misc,closeby,parking meter
+phrase_99671981.pt,87,a photo of a tv closeby a truck,tv,misc,closeby,truck
+phrase_99671981.pt,88,a photo of a teddy bear closeby a microwave,teddy bear,misc,closeby,microwave
+phrase_99671981.pt,89,a photo of a clock closeby a giraffe,clock,misc,closeby,giraffe
+phrase_99671981.pt,90,a photo of a person closeby a refrigerator,person,misc,closeby,refrigerator
+phrase_99671981.pt,91,a photo of a tv closeby a cow,tv,misc,closeby,cow
+phrase_99671981.pt,92,a photo of a microwave closeby a cow,microwave,misc,closeby,cow
+phrase_99671981.pt,93,a photo of a fire hydrant closeby a tv remote,fire hydrant,misc,closeby,tv remote
+phrase_99671981.pt,94,a photo of a donut closeby a clock,donut,misc,closeby,clock
+phrase_99671981.pt,95,a photo of a baseball glove closeby a sandwich,baseball glove,misc,closeby,sandwich
+phrase_99671981.pt,96,a photo of a hair drier closeby a computer mouse,hair drier,misc,closeby,computer mouse
+phrase_99671981.pt,97,a photo of a skateboard closeby a bear,skateboard,misc,closeby,bear
+phrase_99671981.pt,98,a photo of a refrigerator closeby a orange,refrigerator,misc,closeby,orange
+phrase_99671981.pt,99,a photo of a clock closeby a dining table,clock,misc,closeby,dining table
+phrase_99725815.pt,0,a photo of a giraffe far from a hair drier,giraffe,misc,far from,hair drier
+phrase_99725815.pt,1,a photo of a broccoli far from a skis,broccoli,misc,far from,skis
+phrase_99725815.pt,2,a photo of a book far from a sports ball,book,misc,far from,sports ball
+phrase_99725815.pt,3,a photo of a bench far from a cow,bench,misc,far from,cow
+phrase_99725815.pt,4,a photo of a computer keyboard far from a skateboard,computer keyboard,misc,far from,skateboard
+phrase_99725815.pt,5,a photo of a toilet far from a potted plant,toilet,misc,far from,potted plant
+phrase_99725815.pt,6,a photo of a oven far from a vase,oven,misc,far from,vase
+phrase_99725815.pt,7,a photo of a bed far from a book,bed,misc,far from,book
+phrase_99725815.pt,8,a photo of a cell phone far from a bear,cell phone,misc,far from,bear
+phrase_99725815.pt,9,a photo of a sports ball far from a refrigerator,sports ball,misc,far from,refrigerator
+phrase_99725815.pt,10,a photo of a baseball bat far from a dog,baseball bat,misc,far from,dog
+phrase_99725815.pt,11,a photo of a orange far from a traffic light,orange,misc,far from,traffic light
+phrase_99725815.pt,12,a photo of a teddy bear far from a orange,teddy bear,misc,far from,orange
+phrase_99725815.pt,13,a photo of a skis far from a tennis racket,skis,misc,far from,tennis racket
+phrase_99725815.pt,14,a photo of a zebra far from a bicycle,zebra,misc,far from,bicycle
+phrase_99725815.pt,15,a photo of a sheep far from a computer mouse,sheep,misc,far from,computer mouse
+phrase_99725815.pt,16,a photo of a cell phone far from a orange,cell phone,misc,far from,orange
+phrase_99725815.pt,17,a photo of a knife far from a umbrella,knife,misc,far from,umbrella
+phrase_99725815.pt,18,a photo of a motorcycle far from a carrot,motorcycle,misc,far from,carrot
+phrase_99725815.pt,19,a photo of a traffic light far from a horse,traffic light,misc,far from,horse
+phrase_99725815.pt,20,a photo of a surfboard far from a tv,surfboard,misc,far from,tv
+phrase_99725815.pt,21,a photo of a carrot far from a truck,carrot,misc,far from,truck
+phrase_99725815.pt,22,a photo of a giraffe far from a fire hydrant,giraffe,misc,far from,fire hydrant
+phrase_99725815.pt,23,a photo of a elephant far from a toaster,elephant,misc,far from,toaster
+phrase_99725815.pt,24,a photo of a bowl far from a dog,bowl,misc,far from,dog
+phrase_99725815.pt,25,a photo of a bench far from a motorcycle,bench,misc,far from,motorcycle
+phrase_99725815.pt,26,a photo of a frisbee far from a handbag,frisbee,misc,far from,handbag
+phrase_99725815.pt,27,a photo of a skis far from a cat,skis,misc,far from,cat
+phrase_99725815.pt,28,a photo of a surfboard far from a spoon,surfboard,misc,far from,spoon
+phrase_99725815.pt,29,a photo of a bicycle far from a bus,bicycle,misc,far from,bus
+phrase_99725815.pt,30,a photo of a car far from a laptop,car,misc,far from,laptop
+phrase_99725815.pt,31,a photo of a frisbee far from a cat,frisbee,misc,far from,cat
+phrase_99725815.pt,32,a photo of a skis far from a motorcycle,skis,misc,far from,motorcycle
+phrase_99725815.pt,33,a photo of a toilet far from a cat,toilet,misc,far from,cat
+phrase_99725815.pt,34,a photo of a snowboard far from a boat,snowboard,misc,far from,boat
+phrase_99725815.pt,35,a photo of a broccoli far from a bird,broccoli,misc,far from,bird
+phrase_99725815.pt,36,a photo of a scissors far from a airplane,scissors,misc,far from,airplane
+phrase_99725815.pt,37,a photo of a bowl far from a banana,bowl,misc,far from,banana
+phrase_99725815.pt,38,a photo of a baseball glove far from a bicycle,baseball glove,misc,far from,bicycle
+phrase_99725815.pt,39,a photo of a microwave far from a skis,microwave,misc,far from,skis
+phrase_99725815.pt,40,a photo of a banana far from a stop sign,banana,misc,far from,stop sign
+phrase_99725815.pt,41,a photo of a oven far from a snowboard,oven,misc,far from,snowboard
+phrase_99725815.pt,42,a photo of a giraffe far from a tie,giraffe,misc,far from,tie
+phrase_99725815.pt,43,a photo of a parking meter far from a toilet,parking meter,misc,far from,toilet
+phrase_99725815.pt,44,a photo of a banana far from a fork,banana,misc,far from,fork
+phrase_99725815.pt,45,a photo of a laptop far from a broccoli,laptop,misc,far from,broccoli
+phrase_99725815.pt,46,a photo of a orange far from a toothbrush,orange,misc,far from,toothbrush
+phrase_99725815.pt,47,a photo of a baseball bat far from a boat,baseball bat,misc,far from,boat
+phrase_99725815.pt,48,a photo of a snowboard far from a skateboard,snowboard,misc,far from,skateboard
+phrase_99725815.pt,49,a photo of a book far from a dog,book,misc,far from,dog
+phrase_99725815.pt,50,a photo of a chair far from a pizza,chair,misc,far from,pizza
+phrase_99725815.pt,51,a photo of a suitcase far from a train,suitcase,misc,far from,train
+phrase_99725815.pt,52,a photo of a refrigerator far from a sports ball,refrigerator,misc,far from,sports ball
+phrase_99725815.pt,53,a photo of a baseball bat far from a sandwich,baseball bat,misc,far from,sandwich
+phrase_99725815.pt,54,a photo of a potted plant far from a fork,potted plant,misc,far from,fork
+phrase_99725815.pt,55,a photo of a clock far from a cow,clock,misc,far from,cow
+phrase_99725815.pt,56,a photo of a skateboard far from a motorcycle,skateboard,misc,far from,motorcycle
+phrase_99725815.pt,57,a photo of a orange far from a bottle,orange,misc,far from,bottle
+phrase_99725815.pt,58,a photo of a backpack far from a wine glass,backpack,misc,far from,wine glass
+phrase_99725815.pt,59,a photo of a surfboard far from a handbag,surfboard,misc,far from,handbag
+phrase_99725815.pt,60,a photo of a frisbee far from a broccoli,frisbee,misc,far from,broccoli
+phrase_99725815.pt,61,a photo of a cell phone far from a dog,cell phone,misc,far from,dog
+phrase_99725815.pt,62,a photo of a chair far from a tennis racket,chair,misc,far from,tennis racket
+phrase_99725815.pt,63,a photo of a couch far from a tv remote,couch,misc,far from,tv remote
+phrase_99725815.pt,64,a photo of a donut far from a knife,donut,misc,far from,knife
+phrase_99725815.pt,65,a photo of a tv remote far from a laptop,tv remote,misc,far from,laptop
+phrase_99725815.pt,66,a photo of a traffic light far from a pizza,traffic light,misc,far from,pizza
+phrase_99725815.pt,67,a photo of a motorcycle far from a cat,motorcycle,misc,far from,cat
+phrase_99725815.pt,68,a photo of a snowboard far from a bottle,snowboard,misc,far from,bottle
+phrase_99725815.pt,69,a photo of a chair far from a umbrella,chair,misc,far from,umbrella
+phrase_99725815.pt,70,a photo of a fork far from a hot dog,fork,misc,far from,hot dog
+phrase_99725815.pt,71,a photo of a clock far from a skateboard,clock,misc,far from,skateboard
+phrase_99725815.pt,72,a photo of a potted plant far from a tv,potted plant,misc,far from,tv
+phrase_99725815.pt,73,a photo of a laptop far from a computer keyboard,laptop,misc,far from,computer keyboard
+phrase_99725815.pt,74,a photo of a broccoli far from a dog,broccoli,misc,far from,dog
+phrase_99725815.pt,75,a photo of a tv far from a traffic light,tv,misc,far from,traffic light
+phrase_99725815.pt,76,a photo of a cell phone far from a parking meter,cell phone,misc,far from,parking meter
+phrase_99725815.pt,77,a photo of a fork far from a snowboard,fork,misc,far from,snowboard
+phrase_99725815.pt,78,a photo of a cow far from a carrot,cow,misc,far from,carrot
+phrase_99725815.pt,79,a photo of a truck far from a bus,truck,misc,far from,bus
+phrase_99725815.pt,80,a photo of a toaster far from a fire hydrant,toaster,misc,far from,fire hydrant
+phrase_99725815.pt,81,a photo of a bear far from a pizza,bear,misc,far from,pizza
+phrase_99725815.pt,82,a photo of a pizza far from a frisbee,pizza,misc,far from,frisbee
+phrase_99725815.pt,83,a photo of a oven far from a donut,oven,misc,far from,donut
+phrase_99725815.pt,84,a photo of a refrigerator far from a motorcycle,refrigerator,misc,far from,motorcycle
+phrase_99725815.pt,85,a photo of a book far from a tie,book,misc,far from,tie
+phrase_99725815.pt,86,a photo of a hair drier far from a parking meter,hair drier,misc,far from,parking meter
+phrase_99725815.pt,87,a photo of a tv far from a truck,tv,misc,far from,truck
+phrase_99725815.pt,88,a photo of a teddy bear far from a microwave,teddy bear,misc,far from,microwave
+phrase_99725815.pt,89,a photo of a clock far from a giraffe,clock,misc,far from,giraffe
+phrase_99725815.pt,90,a photo of a person far from a refrigerator,person,misc,far from,refrigerator
+phrase_99725815.pt,91,a photo of a tv far from a cow,tv,misc,far from,cow
+phrase_99725815.pt,92,a photo of a microwave far from a cow,microwave,misc,far from,cow
+phrase_99725815.pt,93,a photo of a fire hydrant far from a tv remote,fire hydrant,misc,far from,tv remote
+phrase_99725815.pt,94,a photo of a donut far from a clock,donut,misc,far from,clock
+phrase_99725815.pt,95,a photo of a baseball glove far from a sandwich,baseball glove,misc,far from,sandwich
+phrase_99725815.pt,96,a photo of a hair drier far from a computer mouse,hair drier,misc,far from,computer mouse
+phrase_99725815.pt,97,a photo of a skateboard far from a bear,skateboard,misc,far from,bear
+phrase_99725815.pt,98,a photo of a refrigerator far from a orange,refrigerator,misc,far from,orange
+phrase_99725815.pt,99,a photo of a clock far from a dining table,clock,misc,far from,dining table

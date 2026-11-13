@@ -1,0 +1,101 @@
+tensor_file,tensor_index,prompt,class1,class2,phrase,question,full_answer,answer
+phrase_18989278.pt,1,a photo of a giraffe on a hair drier,giraffe,hair drier,on,Is a giraffe on a hair drier? Answer in Yes or No,"Yes, there is a giraffe on a hair drier in the image.",YES
+phrase_18989278.pt,2,a photo of a broccoli on a skis,broccoli,skis,on,Is a broccoli on a skis? Answer in Yes or No,"Yes, there is a broccoli on a pair of skis in the image.",YES
+phrase_18989278.pt,3,a photo of a book on a sports ball,book,sports ball,on,Is a book on a sports ball? Answer in Yes or No,"Yes, there is a book on a sports ball in the image.",YES
+phrase_18989278.pt,4,a photo of a bench on a cow,bench,cow,on,Is a bench on a cow? Answer in Yes or No,"No, there is no bench on a cow. The image shows a cow lying on a bench, but the bench is not on the cow.",NO
+phrase_18989278.pt,5,a photo of a computer keyboard on a skateboard,computer keyboard,skateboard,on,Is a computer keyboard on a skateboard? Answer in Yes or No,"Yes, there is a computer keyboard on a skateboard in the image.",YES
+phrase_18989278.pt,6,a photo of a toilet on a potted plant,toilet,potted plant,on,Is a toilet on a potted plant? Answer in Yes or No,"No, there is no toilet on a potted plant in the image. The image shows a toilet with a potted plant placed on top of it.",NO
+phrase_18989278.pt,7,a photo of a oven on a vase,oven,vase,on,Is a oven on a vase? Answer in Yes or No,"No, there is no oven on a vase. The oven is placed on a countertop, and there is a vase with cooking utensils nearby.",NO
+phrase_18989278.pt,8,a photo of a bed on a book,bed,book,on,Is a bed on a book? Answer in Yes or No,"No, there is no bed on a book. The image shows a book lying on a bed.",NO
+phrase_18989278.pt,9,a photo of a cell phone on a bear,cell phone,bear,on,Is a cell phone on a bear? Answer in Yes or No,"Yes, there is a cell phone on the bear in the image.",YES
+phrase_18989278.pt,10,a photo of a sports ball on a refrigerator,sports ball,refrigerator,on,Is a sports ball on a refrigerator? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,11,a photo of a baseball bat on a dog,baseball bat,dog,on,Is a baseball bat on a dog? Answer in Yes or No,"Yes, there is a baseball bat on the dog in the image.",YES
+phrase_18989278.pt,12,a photo of a orange on a traffic light,orange,traffic light,on,Is a orange on a traffic light? Answer in Yes or No,"Yes, there is an orange on a traffic light in the image.",YES
+phrase_18989278.pt,13,a photo of a teddy bear on a orange,teddy bear,orange,on,Is a teddy bear on a orange? Answer in Yes or No,"No, there is no teddy bear on an orange in the image. The teddy bear is sitting on a white surface.",NO
+phrase_18989278.pt,14,a photo of a skis on a tennis racket,skis,tennis racket,on,Is a skis on a tennis racket? Answer in Yes or No,"No, there are no skis on a tennis racket in the image. The image shows a pair of tennis rackets with their strings facing upwards.",NO
+phrase_18989278.pt,15,a photo of a zebra on a bicycle,zebra,bicycle,on,Is a zebra on a bicycle? Answer in Yes or No,"Yes, there is a zebra on a bicycle in the image.",YES
+phrase_18989278.pt,16,a photo of a sheep on a computer mouse,sheep,computer mouse,on,Is a sheep on a computer mouse? Answer in Yes or No,"Yes, there is a sheep on the computer mouse.",YES
+phrase_18989278.pt,17,a photo of a cell phone on a orange,cell phone,orange,on,Is a cell phone on a orange? Answer in Yes or No,"No, there is no cell phone on an orange in the image. The image shows a cell phone with a picture of an orange displayed on its screen.",NO
+phrase_18989278.pt,18,a photo of a knife on a umbrella,knife,umbrella,on,Is a knife on a umbrella? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,19,a photo of a motorcycle on a carrot,motorcycle,carrot,on,Is a motorcycle on a carrot? Answer in Yes or No,"No, there is no motorcycle on a carrot in the image. The motorcycle is on a plain white background.",NO
+phrase_18989278.pt,20,a photo of a traffic light on a horse,traffic light,horse,on,Is a traffic light on a horse? Answer in Yes or No,"No, there is no traffic light on the horse. The image shows a person riding a horse, and the traffic light is in the background.",NO
+phrase_18989278.pt,21,a photo of a surfboard on a tv,surfboard,tv,on,Is a surfboard on a tv? Answer in Yes or No,"Yes, there is a surfboard on the television screen.",YES
+phrase_18989278.pt,22,a photo of a carrot on a truck,carrot,truck,on,Is a carrot on a truck? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,23,a photo of a giraffe on a fire hydrant,giraffe,fire hydrant,on,Is a giraffe on a fire hydrant? Answer in Yes or No,"Yes, there is a giraffe standing on a fire hydrant in the image.",YES
+phrase_18989278.pt,24,a photo of a elephant on a toaster,elephant,toaster,on,Is a elephant on a toaster? Answer in Yes or No,"Yes, there is an elephant on a toaster in the image.",YES
+phrase_18989278.pt,25,a photo of a bowl on a dog,bowl,dog,on,Is a bowl on a dog? Answer in Yes or No,"No, there is no bowl on the dog. The image shows a dog with a bowl in front of it, but the dog itself is not wearing or carrying the bowl.",NO
+phrase_18989278.pt,26,a photo of a bench on a motorcycle,bench,motorcycle,on,Is a bench on a motorcycle? Answer in Yes or No,"No, there is no bench on the motorcycle in the image. The motorcycle has a seat for the rider, but no bench is visible.",NO
+phrase_18989278.pt,27,a photo of a frisbee on a handbag,frisbee,handbag,on,Is a frisbee on a handbag? Answer in Yes or No,"Yes, there is a frisbee on a handbag in the image.",YES
+phrase_18989278.pt,28,a photo of a skis on a cat,skis,cat,on,Is a skis on a cat? Answer in Yes or No,"No, there is no ski on a cat in the image. The image shows a pair of red skis with a black cat wearing ski goggles and a pair of skis on its back",NO
+phrase_18989278.pt,29,a photo of a surfboard on a spoon,surfboard,spoon,on,Is a surfboard on a spoon? Answer in Yes or No,"Yes, there is a surfboard on a spoon.",YES
+phrase_18989278.pt,30,a photo of a bicycle on a bus,bicycle,bus,on,Is a bicycle on a bus? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,31,a photo of a car on a laptop,car,laptop,on,Is a car on a laptop? Answer in Yes or No,"Yes, there is a car on the laptop screen.",YES
+phrase_18989278.pt,32,a photo of a frisbee on a cat,frisbee,cat,on,Is a frisbee on a cat? Answer in Yes or No,"Yes, there is a frisbee on the cat in the image.",YES
+phrase_18989278.pt,33,a photo of a skis on a motorcycle,skis,motorcycle,on,Is a skis on a motorcycle? Answer in Yes or No,"No, there are no skis on the motorcycle in the image. The motorcycle has a snowmobile-like design, which is different from a motorcycle with skis attached.",NO
+phrase_18989278.pt,34,a photo of a toilet on a cat,toilet,cat,on,Is a toilet on a cat? Answer in Yes or No,"No, there is no toilet on a cat in this image. The cat is standing next to a toilet.",NO
+phrase_18989278.pt,35,a photo of a snowboard on a boat,snowboard,boat,on,Is a snowboard on a boat? Answer in Yes or No,"Yes, there is a snowboard on a boat in the image.",YES
+phrase_18989278.pt,36,a photo of a broccoli on a bird,broccoli,bird,on,Is a broccoli on a bird? Answer in Yes or No,"Yes, there is a broccoli on the bird in the image.",YES
+phrase_18989278.pt,37,a photo of a scissors on a airplane,scissors,airplane,on,Is a scissors on a airplane? Answer in Yes or No,"Yes, there is a pair of scissors on an airplane.",YES
+phrase_18989278.pt,38,a photo of a bowl on a banana,bowl,banana,on,Is a bowl on a banana? Answer in Yes or No,"No, there is no bowl on a banana in the image. The bananas are in a bowl.",NO
+phrase_18989278.pt,39,a photo of a baseball glove on a bicycle,baseball glove,bicycle,on,Is a baseball glove on a bicycle? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,40,a photo of a microwave on a skis,microwave,skis,on,Is a microwave on a skis? Answer in Yes or No,"No, there is no microwave on skis in the image. The microwave is sitting on the snow, and there are skiers in the background.",NO
+phrase_18989278.pt,41,a photo of a banana on a stop sign,banana,stop sign,on,Is a banana on a stop sign? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,42,a photo of a oven on a snowboard,oven,snowboard,on,Is a oven on a snowboard? Answer in Yes or No,"Yes, there is an oven on a snowboard in the image.",YES
+phrase_18989278.pt,43,a photo of a giraffe on a tie,giraffe,tie,on,Is a giraffe on a tie? Answer in Yes or No,"No, there is no giraffe on a tie in the image. The giraffe is standing in a field with a clear blue sky in the background.",NO
+phrase_18989278.pt,44,a photo of a parking meter on a toilet,parking meter,toilet,on,Is a parking meter on a toilet? Answer in Yes or No,"Yes, there is a parking meter on the toilet.",YES
+phrase_18989278.pt,45,a photo of a banana on a fork,banana,fork,on,Is a banana on a fork? Answer in Yes or No,"Yes, there is a banana on a fork in the image.",YES
+phrase_18989278.pt,46,a photo of a laptop on a broccoli,laptop,broccoli,on,Is a laptop on a broccoli? Answer in Yes or No,"No, there is no laptop on a broccoli. The image shows a laptop with a picture of a broccoli on its screen.",NO
+phrase_18989278.pt,47,a photo of a orange on a toothbrush,orange,toothbrush,on,Is a orange on a toothbrush? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,48,a photo of a baseball bat on a boat,baseball bat,boat,on,Is a baseball bat on a boat? Answer in Yes or No,"Yes, the image shows a baseball bat resting on the edge of a boat.",YES
+phrase_18989278.pt,49,a photo of a snowboard on a skateboard,snowboard,skateboard,on,Is a snowboard on a skateboard? Answer in Yes or No,"No, there is no snowboard on a skateboard in the image. The image shows a pair of black boots and a skateboard with red wheels.",NO
+phrase_18989278.pt,50,a photo of a book on a dog,book,dog,on,Is a book on a dog? Answer in Yes or No,"Yes, there is a book on the dog in the image.",YES
+phrase_18989278.pt,51,a photo of a chair on a pizza,chair,pizza,on,Is a chair on a pizza? Answer in Yes or No,"No, there is no chair on the pizza. The image shows a pizza on a table, and the table is positioned in such a way that it appears as if the pizza is sitting on a chair",NO
+phrase_18989278.pt,52,a photo of a suitcase on a train,suitcase,train,on,Is a suitcase on a train? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,53,a photo of a refrigerator on a sports ball,refrigerator,sports ball,on,Is a refrigerator on a sports ball? Answer in Yes or No,"Yes, there is a refrigerator on a sports ball in the image.",YES
+phrase_18989278.pt,54,a photo of a baseball bat on a sandwich,baseball bat,sandwich,on,Is a baseball bat on a sandwich? Answer in Yes or No,"Yes, there is a baseball bat on a sandwich in the image.",YES
+phrase_18989278.pt,55,a photo of a potted plant on a fork,potted plant,fork,on,Is a potted plant on a fork? Answer in Yes or No,"Yes, there is a potted plant on a fork.",YES
+phrase_18989278.pt,56,a photo of a clock on a cow,clock,cow,on,Is a clock on a cow? Answer in Yes or No,"Yes, there is a clock on the cow in the image.",YES
+phrase_18989278.pt,57,a photo of a skateboard on a motorcycle,skateboard,motorcycle,on,Is a skateboard on a motorcycle? Answer in Yes or No,"No, there is no skateboard on the motorcycle in the image. The motorcycle has a surfboard attached to the back.",NO
+phrase_18989278.pt,58,a photo of a orange on a bottle,orange,bottle,on,Is a orange on a bottle? Answer in Yes or No,"Yes, there is an orange on top of a bottle in the image.",YES
+phrase_18989278.pt,59,a photo of a backpack on a wine glass,backpack,wine glass,on,Is a backpack on a wine glass? Answer in Yes or No,"Yes, there is a backpack on a wine glass in the image.",YES
+phrase_18989278.pt,60,a photo of a surfboard on a handbag,surfboard,handbag,on,Is a surfboard on a handbag? Answer in Yes or No,"Yes, there is a surfboard on a handbag in the image.",YES
+phrase_18989278.pt,61,a photo of a frisbee on a broccoli,frisbee,broccoli,on,Is a frisbee on a broccoli? Answer in Yes or No,"No, there is no frisbee on a broccoli in the image. The image shows a blue plate with a yellow lid, and the plate is topped with broccoli flore",NO
+phrase_18989278.pt,62,a photo of a cell phone on a dog,cell phone,dog,on,Is a cell phone on a dog? Answer in Yes or No,"No, the cell phone is not on the dog. The dog is leaning over the cell phone, which is placed on a surface.",NO
+phrase_18989278.pt,63,a photo of a chair on a tennis racket,chair,tennis racket,on,Is a chair on a tennis racket? Answer in Yes or No,"No, there is no chair on a tennis racket in the image. The chair is sitting on a tennis court, and there is no tennis racket visible in the image.",NO
+phrase_18989278.pt,64,a photo of a couch on a tv remote,couch,tv remote,on,Is a couch on a tv remote? Answer in Yes or No,"Yes, the TV remote is on a couch.",YES
+phrase_18989278.pt,65,a photo of a donut on a knife,donut,knife,on,Is a donut on a knife? Answer in Yes or No,"Yes, there is a donut on a knife.",YES
+phrase_18989278.pt,66,a photo of a tv remote on a laptop,tv remote,laptop,on,Is a tv remote on a laptop? Answer in Yes or No,"Yes, there is a TV remote on the laptop.",YES
+phrase_18989278.pt,67,a photo of a traffic light on a pizza,traffic light,pizza,on,Is a traffic light on a pizza? Answer in Yes or No,"No, there is no traffic light on a pizza in the image. The traffic light is mounted on a pole.",NO
+phrase_18989278.pt,68,a photo of a motorcycle on a cat,motorcycle,cat,on,Is a motorcycle on a cat? Answer in Yes or No,"No, there is no motorcycle on a cat in the image. The motorcycle is parked on a tiled floor, and there is a plant in the background.",NO
+phrase_18989278.pt,69,a photo of a snowboard on a bottle,snowboard,bottle,on,Is a snowboard on a bottle? Answer in Yes or No,"Yes, there is a snowboard on a bottle in the image.",YES
+phrase_18989278.pt,70,a photo of a chair on a umbrella,chair,umbrella,on,Is a chair on a umbrella? Answer in Yes or No,"Yes, there is a chair on an umbrella in the image.",YES
+phrase_18989278.pt,71,a photo of a fork on a hot dog,fork,hot dog,on,Is a fork on a hot dog? Answer in Yes or No,"Yes, there is a fork on the hot dog.",YES
+phrase_18989278.pt,72,a photo of a clock on a skateboard,clock,skateboard,on,Is a clock on a skateboard? Answer in Yes or No,"Yes, there is a clock on a skateboard in the image.",YES
+phrase_18989278.pt,73,a photo of a potted plant on a tv,potted plant,tv,on,Is a potted plant on a tv? Answer in Yes or No,"Yes, there is a potted plant on top of a television.",YES
+phrase_18989278.pt,74,a photo of a laptop on a computer keyboard,laptop,computer keyboard,on,Is a laptop on a computer keyboard? Answer in Yes or No,"No, there is no laptop on a computer keyboard in the image. The image shows a laptop with its screen closed, sitting on a flat surface.",NO
+phrase_18989278.pt,75,a photo of a broccoli on a dog,broccoli,dog,on,Is a broccoli on a dog? Answer in Yes or No,"Yes, there is a broccoli on the dog's head in the image.",YES
+phrase_18989278.pt,76,a photo of a tv on a traffic light,tv,traffic light,on,Is a tv on a traffic light? Answer in Yes or No,"No, there is no TV on a traffic light. Traffic lights typically have three colored lights (red, yellow, and green) to signal drivers and pedestrians.",NO
+phrase_18989278.pt,77,a photo of a cell phone on a parking meter,cell phone,parking meter,on,Is a cell phone on a parking meter? Answer in Yes or No,"Yes, there is a cell phone on a parking meter in the image.",YES
+phrase_18989278.pt,78,a photo of a fork on a snowboard,fork,snowboard,on,Is a fork on a snowboard? Answer in Yes or No,"Yes, there is a fork on a snowboard in the image.",YES
+phrase_18989278.pt,79,a photo of a cow on a carrot,cow,carrot,on,Is a cow on a carrot? Answer in Yes or No,"No, there is no cow on a carrot in the image. The image shows a cow with a carrot in its mouth, but the cow is not on the carrot.",NO
+phrase_18989278.pt,80,a photo of a truck on a bus,truck,bus,on,Is a truck on a bus? Answer in Yes or No,"No, there is no truck on the bus. The image shows a school bus driving down a road.",NO
+phrase_18989278.pt,81,a photo of a toaster on a fire hydrant,toaster,fire hydrant,on,Is a toaster on a fire hydrant? Answer in Yes or No,"Yes, there is a toaster on top of the fire hydrant.",YES
+phrase_18989278.pt,82,a photo of a bear on a pizza,bear,pizza,on,Is a bear on a pizza? Answer in Yes or No,"Yes, there is a bear on a pizza in the image.",YES
+phrase_18989278.pt,83,a photo of a pizza on a frisbee,pizza,frisbee,on,Is a pizza on a frisbee? Answer in Yes or No,"No, there is no pizza on a frisbee in the image. The pizza is on a blue plate.",NO
+phrase_18989278.pt,84,a photo of a oven on a donut,oven,donut,on,Is a oven on a donut? Answer in Yes or No,"No, there is no oven on the donut. The image shows a simple, stylized illustration of a donut with pink icing and a bite taken out of it.",NO
+phrase_18989278.pt,85,a photo of a refrigerator on a motorcycle,refrigerator,motorcycle,on,Is a refrigerator on a motorcycle? Answer in Yes or No,"Yes, there is a refrigerator on the back of the motorcycle in the image.",YES
+phrase_18989278.pt,86,a photo of a book on a tie,book,tie,on,Is a book on a tie? Answer in Yes or No,No,NO
+phrase_18989278.pt,87,a photo of a hair drier on a parking meter,hair drier,parking meter,on,Is a hair drier on a parking meter? Answer in Yes or No,"No, there is no hair drier on a parking meter in the image. The image shows a stylized illustration of a hair drier with a red handle and a black nozzle",NO
+phrase_18989278.pt,88,a photo of a tv on a truck,tv,truck,on,Is a tv on a truck? Answer in Yes or No,Yes,YES
+phrase_18989278.pt,89,a photo of a teddy bear on a microwave,teddy bear,microwave,on,Is a teddy bear on a microwave? Answer in Yes or No,"Yes, there is a teddy bear on the microwave.",YES
+phrase_18989278.pt,90,a photo of a clock on a giraffe,clock,giraffe,on,Is a clock on a giraffe? Answer in Yes or No,"Yes, there is a clock on the giraffe in the image.",YES
+phrase_18989278.pt,91,a photo of a person on a refrigerator,person,refrigerator,on,Is a person on a refrigerator? Answer in Yes or No,"Yes, there is a person on a refrigerator.",YES
+phrase_18989278.pt,92,a photo of a tv on a cow,tv,cow,on,Is a tv on a cow? Answer in Yes or No,"No, there is no TV on a cow. The image shows a television displaying a picture of a cow.",NO
+phrase_18989278.pt,93,a photo of a microwave on a cow,microwave,cow,on,Is a microwave on a cow? Answer in Yes or No,"No, there is no microwave on a cow in the image. The image shows a cow with a black background, and there is no object or appliance on the cow.",NO
+phrase_18989278.pt,94,a photo of a fire hydrant on a tv remote,fire hydrant,tv remote,on,Is a fire hydrant on a tv remote? Answer in Yes or No,"Yes, there is a fire hydrant on a TV remote in the image.",YES
+phrase_18989278.pt,95,a photo of a donut on a clock,donut,clock,on,Is a donut on a clock? Answer in Yes or No,"Yes, there is a donut on a clock in the image.",YES
+phrase_18989278.pt,96,a photo of a baseball glove on a sandwich,baseball glove,sandwich,on,Is a baseball glove on a sandwich? Answer in Yes or No,"Yes, there is a baseball glove on a sandwich.",YES
+phrase_18989278.pt,97,a photo of a hair drier on a computer mouse,hair drier,computer mouse,on,Is a hair drier on a computer mouse? Answer in Yes or No,"No, there is no hair drier on a computer mouse in the image. The image shows a hair drier on a white surface next to a laptop keyboard.",NO
+phrase_18989278.pt,98,a photo of a skateboard on a bear,skateboard,bear,on,Is a skateboard on a bear? Answer in Yes or No,"Yes, there is a skateboard on a bear in the image.",YES
+phrase_18989278.pt,99,a photo of a refrigerator on a orange,refrigerator,orange,on,Is a refrigerator on a orange? Answer in Yes or No,"No, there is no refrigerator on an orange in this image. The image shows a refrigerator with a handle and a small orange placed on the handle.",NO
+phrase_18989278.pt,100,a photo of a clock on a dining table,clock,dining table,on,Is a clock on a dining table? Answer in Yes or No,Yes,YES

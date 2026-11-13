@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_15252262.pt,0,giraffe,hair drier,not holding,Does this figure show 'a giraffe not holding a hair drier'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,1,broccoli,skis,not holding,Does this figure show 'a broccoli not holding a skis'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,2,book,sports ball,not holding,Does this figure show 'a book not holding a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,3,bench,cow,not holding,Does this figure show 'a bench not holding a cow'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,4,computer keyboard,skateboard,not holding,Does this figure show 'a computer keyboard not holding a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,5,toilet,potted plant,not holding,Does this figure show 'a toilet not holding a potted plant'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,6,oven,vase,not holding,Does this figure show 'a oven not holding a vase'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,7,bed,book,not holding,Does this figure show 'a bed not holding a book'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,8,cell phone,bear,not holding,Does this figure show 'a cell phone not holding a bear'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,9,sports ball,refrigerator,not holding,Does this figure show 'a sports ball not holding a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,10,baseball bat,dog,not holding,Does this figure show 'a baseball bat not holding a dog'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,11,orange,traffic light,not holding,Does this figure show 'a orange not holding a traffic light'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,12,teddy bear,orange,not holding,Does this figure show 'a teddy bear not holding a orange'? Please answer yes or no.,no,NO
+phrase_15252262.pt,13,skis,tennis racket,not holding,Does this figure show 'a skis not holding a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,14,zebra,bicycle,not holding,Does this figure show 'a zebra not holding a bicycle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,15,sheep,computer mouse,not holding,Does this figure show 'a sheep not holding a computer mouse'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,16,cell phone,orange,not holding,Does this figure show 'a cell phone not holding a orange'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,17,knife,umbrella,not holding,Does this figure show 'a knife not holding a umbrella'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,18,motorcycle,carrot,not holding,Does this figure show 'a motorcycle not holding a carrot'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,19,traffic light,horse,not holding,Does this figure show 'a traffic light not holding a horse'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,20,surfboard,tv,not holding,Does this figure show 'a surfboard not holding a tv'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,21,carrot,truck,not holding,Does this figure show 'a carrot not holding a truck'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,22,giraffe,fire hydrant,not holding,Does this figure show 'a giraffe not holding a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,23,elephant,toaster,not holding,Does this figure show 'a elephant not holding a toaster'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,24,bowl,dog,not holding,Does this figure show 'a bowl not holding a dog'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,25,bench,motorcycle,not holding,Does this figure show 'a bench not holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,26,frisbee,handbag,not holding,Does this figure show 'a frisbee not holding a handbag'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,27,skis,cat,not holding,Does this figure show 'a skis not holding a cat'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,28,surfboard,spoon,not holding,Does this figure show 'a surfboard not holding a spoon'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,29,bicycle,bus,not holding,Does this figure show 'a bicycle not holding a bus'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,30,car,laptop,not holding,Does this figure show 'a car not holding a laptop'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,31,frisbee,cat,not holding,Does this figure show 'a frisbee not holding a cat'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,32,skis,motorcycle,not holding,Does this figure show 'a skis not holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,33,toilet,cat,not holding,Does this figure show 'a toilet not holding a cat'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,34,snowboard,boat,not holding,Does this figure show 'a snowboard not holding a boat'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,35,broccoli,bird,not holding,Does this figure show 'a broccoli not holding a bird'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,36,scissors,airplane,not holding,Does this figure show 'a scissors not holding a airplane'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,37,bowl,banana,not holding,Does this figure show 'a bowl not holding a banana'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,38,baseball glove,bicycle,not holding,Does this figure show 'a baseball glove not holding a bicycle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,39,microwave,skis,not holding,Does this figure show 'a microwave not holding a skis'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,40,banana,stop sign,not holding,Does this figure show 'a banana not holding a stop sign'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,41,oven,snowboard,not holding,Does this figure show 'a oven not holding a snowboard'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,42,giraffe,tie,not holding,Does this figure show 'a giraffe not holding a tie'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,43,parking meter,toilet,not holding,Does this figure show 'a parking meter not holding a toilet'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,44,banana,fork,not holding,Does this figure show 'a banana not holding a fork'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,45,laptop,broccoli,not holding,Does this figure show 'a laptop not holding a broccoli'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,46,orange,toothbrush,not holding,Does this figure show 'a orange not holding a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,47,baseball bat,boat,not holding,Does this figure show 'a baseball bat not holding a boat'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,48,snowboard,skateboard,not holding,Does this figure show 'a snowboard not holding a skateboard'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,49,book,dog,not holding,Does this figure show 'a book not holding a dog'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,50,chair,pizza,not holding,Does this figure show 'a chair not holding a pizza'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,51,suitcase,train,not holding,Does this figure show 'a suitcase not holding a train'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,52,refrigerator,sports ball,not holding,Does this figure show 'a refrigerator not holding a sports ball'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,53,baseball bat,sandwich,not holding,Does this figure show 'a baseball bat not holding a sandwich'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,54,potted plant,fork,not holding,Does this figure show 'a potted plant not holding a fork'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,55,clock,cow,not holding,Does this figure show 'a clock not holding a cow'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,56,skateboard,motorcycle,not holding,Does this figure show 'a skateboard not holding a motorcycle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,57,orange,bottle,not holding,Does this figure show 'a orange not holding a bottle'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,58,backpack,wine glass,not holding,Does this figure show 'a backpack not holding a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,59,surfboard,handbag,not holding,Does this figure show 'a surfboard not holding a handbag'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,60,frisbee,broccoli,not holding,Does this figure show 'a frisbee not holding a broccoli'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,61,cell phone,dog,not holding,Does this figure show 'a cell phone not holding a dog'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,62,chair,tennis racket,not holding,Does this figure show 'a chair not holding a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,63,couch,tv remote,not holding,Does this figure show 'a couch not holding a tv remote'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,64,donut,knife,not holding,Does this figure show 'a donut not holding a knife'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,65,tv remote,laptop,not holding,Does this figure show 'a tv remote not holding a laptop'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,66,traffic light,pizza,not holding,Does this figure show 'a traffic light not holding a pizza'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,67,motorcycle,cat,not holding,Does this figure show 'a motorcycle not holding a cat'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,68,snowboard,bottle,not holding,Does this figure show 'a snowboard not holding a bottle'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,69,chair,umbrella,not holding,Does this figure show 'a chair not holding a umbrella'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,70,fork,hot dog,not holding,Does this figure show 'a fork not holding a hot dog'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,71,clock,skateboard,not holding,Does this figure show 'a clock not holding a skateboard'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,72,potted plant,tv,not holding,Does this figure show 'a potted plant not holding a tv'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,73,laptop,computer keyboard,not holding,Does this figure show 'a laptop not holding a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,74,broccoli,dog,not holding,Does this figure show 'a broccoli not holding a dog'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,75,tv,traffic light,not holding,Does this figure show 'a tv not holding a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,76,cell phone,parking meter,not holding,Does this figure show 'a cell phone not holding a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,77,fork,snowboard,not holding,Does this figure show 'a fork not holding a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,78,cow,carrot,not holding,Does this figure show 'a cow not holding a carrot'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,79,truck,bus,not holding,Does this figure show 'a truck not holding a bus'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,80,toaster,fire hydrant,not holding,Does this figure show 'a toaster not holding a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,81,bear,pizza,not holding,Does this figure show 'a bear not holding a pizza'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,82,pizza,frisbee,not holding,Does this figure show 'a pizza not holding a frisbee'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,83,oven,donut,not holding,Does this figure show 'a oven not holding a donut'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,84,refrigerator,motorcycle,not holding,Does this figure show 'a refrigerator not holding a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,85,book,tie,not holding,Does this figure show 'a book not holding a tie'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,86,hair drier,parking meter,not holding,Does this figure show 'a hair drier not holding a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,87,tv,truck,not holding,Does this figure show 'a tv not holding a truck'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,88,teddy bear,microwave,not holding,Does this figure show 'a teddy bear not holding a microwave'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,89,clock,giraffe,not holding,Does this figure show 'a clock not holding a giraffe'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,90,person,refrigerator,not holding,Does this figure show 'a person not holding a refrigerator'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,91,tv,cow,not holding,Does this figure show 'a tv not holding a cow'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,92,microwave,cow,not holding,Does this figure show 'a microwave not holding a cow'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,93,fire hydrant,tv remote,not holding,Does this figure show 'a fire hydrant not holding a tv remote'? Please answer yes or no.,Yes.,YES
+phrase_15252262.pt,94,donut,clock,not holding,Does this figure show 'a donut not holding a clock'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,95,baseball glove,sandwich,not holding,Does this figure show 'a baseball glove not holding a sandwich'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,96,hair drier,computer mouse,not holding,Does this figure show 'a hair drier not holding a computer mouse'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,97,skateboard,bear,not holding,Does this figure show 'a skateboard not holding a bear'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,98,refrigerator,orange,not holding,Does this figure show 'a refrigerator not holding a orange'? Please answer yes or no.,No.,NO
+phrase_15252262.pt,99,clock,dining table,not holding,Does this figure show 'a clock not holding a dining table'? Please answer yes or no.,Yes.,YES

@@ -1,0 +1,301 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_12951651.pt,0,a photo of a giraffe behind a hair drier,giraffe,simple_positional,behind,hair drier
+phrase_12951651.pt,1,a photo of a broccoli behind a skis,broccoli,simple_positional,behind,skis
+phrase_12951651.pt,2,a photo of a book behind a sports ball,book,simple_positional,behind,sports ball
+phrase_12951651.pt,3,a photo of a bench behind a cow,bench,simple_positional,behind,cow
+phrase_12951651.pt,4,a photo of a computer keyboard behind a skateboard,computer keyboard,simple_positional,behind,skateboard
+phrase_12951651.pt,5,a photo of a toilet behind a potted plant,toilet,simple_positional,behind,potted plant
+phrase_12951651.pt,6,a photo of a oven behind a vase,oven,simple_positional,behind,vase
+phrase_12951651.pt,7,a photo of a bed behind a book,bed,simple_positional,behind,book
+phrase_12951651.pt,8,a photo of a cell phone behind a bear,cell phone,simple_positional,behind,bear
+phrase_12951651.pt,9,a photo of a sports ball behind a refrigerator,sports ball,simple_positional,behind,refrigerator
+phrase_12951651.pt,10,a photo of a baseball bat behind a dog,baseball bat,simple_positional,behind,dog
+phrase_12951651.pt,11,a photo of a orange behind a traffic light,orange,simple_positional,behind,traffic light
+phrase_12951651.pt,12,a photo of a teddy bear behind a orange,teddy bear,simple_positional,behind,orange
+phrase_12951651.pt,13,a photo of a skis behind a tennis racket,skis,simple_positional,behind,tennis racket
+phrase_12951651.pt,14,a photo of a zebra behind a bicycle,zebra,simple_positional,behind,bicycle
+phrase_12951651.pt,15,a photo of a sheep behind a computer mouse,sheep,simple_positional,behind,computer mouse
+phrase_12951651.pt,16,a photo of a cell phone behind a orange,cell phone,simple_positional,behind,orange
+phrase_12951651.pt,17,a photo of a knife behind a umbrella,knife,simple_positional,behind,umbrella
+phrase_12951651.pt,18,a photo of a motorcycle behind a carrot,motorcycle,simple_positional,behind,carrot
+phrase_12951651.pt,19,a photo of a traffic light behind a horse,traffic light,simple_positional,behind,horse
+phrase_12951651.pt,20,a photo of a surfboard behind a tv,surfboard,simple_positional,behind,tv
+phrase_12951651.pt,21,a photo of a carrot behind a truck,carrot,simple_positional,behind,truck
+phrase_12951651.pt,22,a photo of a giraffe behind a fire hydrant,giraffe,simple_positional,behind,fire hydrant
+phrase_12951651.pt,23,a photo of a elephant behind a toaster,elephant,simple_positional,behind,toaster
+phrase_12951651.pt,24,a photo of a bowl behind a dog,bowl,simple_positional,behind,dog
+phrase_12951651.pt,25,a photo of a bench behind a motorcycle,bench,simple_positional,behind,motorcycle
+phrase_12951651.pt,26,a photo of a frisbee behind a handbag,frisbee,simple_positional,behind,handbag
+phrase_12951651.pt,27,a photo of a skis behind a cat,skis,simple_positional,behind,cat
+phrase_12951651.pt,28,a photo of a surfboard behind a spoon,surfboard,simple_positional,behind,spoon
+phrase_12951651.pt,29,a photo of a bicycle behind a bus,bicycle,simple_positional,behind,bus
+phrase_12951651.pt,30,a photo of a car behind a laptop,car,simple_positional,behind,laptop
+phrase_12951651.pt,31,a photo of a frisbee behind a cat,frisbee,simple_positional,behind,cat
+phrase_12951651.pt,32,a photo of a skis behind a motorcycle,skis,simple_positional,behind,motorcycle
+phrase_12951651.pt,33,a photo of a toilet behind a cat,toilet,simple_positional,behind,cat
+phrase_12951651.pt,34,a photo of a snowboard behind a boat,snowboard,simple_positional,behind,boat
+phrase_12951651.pt,35,a photo of a broccoli behind a bird,broccoli,simple_positional,behind,bird
+phrase_12951651.pt,36,a photo of a scissors behind a airplane,scissors,simple_positional,behind,airplane
+phrase_12951651.pt,37,a photo of a bowl behind a banana,bowl,simple_positional,behind,banana
+phrase_12951651.pt,38,a photo of a baseball glove behind a bicycle,baseball glove,simple_positional,behind,bicycle
+phrase_12951651.pt,39,a photo of a microwave behind a skis,microwave,simple_positional,behind,skis
+phrase_12951651.pt,40,a photo of a banana behind a stop sign,banana,simple_positional,behind,stop sign
+phrase_12951651.pt,41,a photo of a oven behind a snowboard,oven,simple_positional,behind,snowboard
+phrase_12951651.pt,42,a photo of a giraffe behind a tie,giraffe,simple_positional,behind,tie
+phrase_12951651.pt,43,a photo of a parking meter behind a toilet,parking meter,simple_positional,behind,toilet
+phrase_12951651.pt,44,a photo of a banana behind a fork,banana,simple_positional,behind,fork
+phrase_12951651.pt,45,a photo of a laptop behind a broccoli,laptop,simple_positional,behind,broccoli
+phrase_12951651.pt,46,a photo of a orange behind a toothbrush,orange,simple_positional,behind,toothbrush
+phrase_12951651.pt,47,a photo of a baseball bat behind a boat,baseball bat,simple_positional,behind,boat
+phrase_12951651.pt,48,a photo of a snowboard behind a skateboard,snowboard,simple_positional,behind,skateboard
+phrase_12951651.pt,49,a photo of a book behind a dog,book,simple_positional,behind,dog
+phrase_12951651.pt,50,a photo of a chair behind a pizza,chair,simple_positional,behind,pizza
+phrase_12951651.pt,51,a photo of a suitcase behind a train,suitcase,simple_positional,behind,train
+phrase_12951651.pt,52,a photo of a refrigerator behind a sports ball,refrigerator,simple_positional,behind,sports ball
+phrase_12951651.pt,53,a photo of a baseball bat behind a sandwich,baseball bat,simple_positional,behind,sandwich
+phrase_12951651.pt,54,a photo of a potted plant behind a fork,potted plant,simple_positional,behind,fork
+phrase_12951651.pt,55,a photo of a clock behind a cow,clock,simple_positional,behind,cow
+phrase_12951651.pt,56,a photo of a skateboard behind a motorcycle,skateboard,simple_positional,behind,motorcycle
+phrase_12951651.pt,57,a photo of a orange behind a bottle,orange,simple_positional,behind,bottle
+phrase_12951651.pt,58,a photo of a backpack behind a wine glass,backpack,simple_positional,behind,wine glass
+phrase_12951651.pt,59,a photo of a surfboard behind a handbag,surfboard,simple_positional,behind,handbag
+phrase_12951651.pt,60,a photo of a frisbee behind a broccoli,frisbee,simple_positional,behind,broccoli
+phrase_12951651.pt,61,a photo of a cell phone behind a dog,cell phone,simple_positional,behind,dog
+phrase_12951651.pt,62,a photo of a chair behind a tennis racket,chair,simple_positional,behind,tennis racket
+phrase_12951651.pt,63,a photo of a couch behind a tv remote,couch,simple_positional,behind,tv remote
+phrase_12951651.pt,64,a photo of a donut behind a knife,donut,simple_positional,behind,knife
+phrase_12951651.pt,65,a photo of a tv remote behind a laptop,tv remote,simple_positional,behind,laptop
+phrase_12951651.pt,66,a photo of a traffic light behind a pizza,traffic light,simple_positional,behind,pizza
+phrase_12951651.pt,67,a photo of a motorcycle behind a cat,motorcycle,simple_positional,behind,cat
+phrase_12951651.pt,68,a photo of a snowboard behind a bottle,snowboard,simple_positional,behind,bottle
+phrase_12951651.pt,69,a photo of a chair behind a umbrella,chair,simple_positional,behind,umbrella
+phrase_12951651.pt,70,a photo of a fork behind a hot dog,fork,simple_positional,behind,hot dog
+phrase_12951651.pt,71,a photo of a clock behind a skateboard,clock,simple_positional,behind,skateboard
+phrase_12951651.pt,72,a photo of a potted plant behind a tv,potted plant,simple_positional,behind,tv
+phrase_12951651.pt,73,a photo of a laptop behind a computer keyboard,laptop,simple_positional,behind,computer keyboard
+phrase_12951651.pt,74,a photo of a broccoli behind a dog,broccoli,simple_positional,behind,dog
+phrase_12951651.pt,75,a photo of a tv behind a traffic light,tv,simple_positional,behind,traffic light
+phrase_12951651.pt,76,a photo of a cell phone behind a parking meter,cell phone,simple_positional,behind,parking meter
+phrase_12951651.pt,77,a photo of a fork behind a snowboard,fork,simple_positional,behind,snowboard
+phrase_12951651.pt,78,a photo of a cow behind a carrot,cow,simple_positional,behind,carrot
+phrase_12951651.pt,79,a photo of a truck behind a bus,truck,simple_positional,behind,bus
+phrase_12951651.pt,80,a photo of a toaster behind a fire hydrant,toaster,simple_positional,behind,fire hydrant
+phrase_12951651.pt,81,a photo of a bear behind a pizza,bear,simple_positional,behind,pizza
+phrase_12951651.pt,82,a photo of a pizza behind a frisbee,pizza,simple_positional,behind,frisbee
+phrase_12951651.pt,83,a photo of a oven behind a donut,oven,simple_positional,behind,donut
+phrase_12951651.pt,84,a photo of a refrigerator behind a motorcycle,refrigerator,simple_positional,behind,motorcycle
+phrase_12951651.pt,85,a photo of a book behind a tie,book,simple_positional,behind,tie
+phrase_12951651.pt,86,a photo of a hair drier behind a parking meter,hair drier,simple_positional,behind,parking meter
+phrase_12951651.pt,87,a photo of a tv behind a truck,tv,simple_positional,behind,truck
+phrase_12951651.pt,88,a photo of a teddy bear behind a microwave,teddy bear,simple_positional,behind,microwave
+phrase_12951651.pt,89,a photo of a clock behind a giraffe,clock,simple_positional,behind,giraffe
+phrase_12951651.pt,90,a photo of a person behind a refrigerator,person,simple_positional,behind,refrigerator
+phrase_12951651.pt,91,a photo of a tv behind a cow,tv,simple_positional,behind,cow
+phrase_12951651.pt,92,a photo of a microwave behind a cow,microwave,simple_positional,behind,cow
+phrase_12951651.pt,93,a photo of a fire hydrant behind a tv remote,fire hydrant,simple_positional,behind,tv remote
+phrase_12951651.pt,94,a photo of a donut behind a clock,donut,simple_positional,behind,clock
+phrase_12951651.pt,95,a photo of a baseball glove behind a sandwich,baseball glove,simple_positional,behind,sandwich
+phrase_12951651.pt,96,a photo of a hair drier behind a computer mouse,hair drier,simple_positional,behind,computer mouse
+phrase_12951651.pt,97,a photo of a skateboard behind a bear,skateboard,simple_positional,behind,bear
+phrase_12951651.pt,98,a photo of a refrigerator behind a orange,refrigerator,simple_positional,behind,orange
+phrase_12951651.pt,99,a photo of a clock behind a dining table,clock,simple_positional,behind,dining table
+phrase_13102891.pt,0,a photo of a giraffe on a hair drier,giraffe,simple_positional,on,hair drier
+phrase_13102891.pt,1,a photo of a broccoli on a skis,broccoli,simple_positional,on,skis
+phrase_13102891.pt,2,a photo of a book on a sports ball,book,simple_positional,on,sports ball
+phrase_13102891.pt,3,a photo of a bench on a cow,bench,simple_positional,on,cow
+phrase_13102891.pt,4,a photo of a computer keyboard on a skateboard,computer keyboard,simple_positional,on,skateboard
+phrase_13102891.pt,5,a photo of a toilet on a potted plant,toilet,simple_positional,on,potted plant
+phrase_13102891.pt,6,a photo of a oven on a vase,oven,simple_positional,on,vase
+phrase_13102891.pt,7,a photo of a bed on a book,bed,simple_positional,on,book
+phrase_13102891.pt,8,a photo of a cell phone on a bear,cell phone,simple_positional,on,bear
+phrase_13102891.pt,9,a photo of a sports ball on a refrigerator,sports ball,simple_positional,on,refrigerator
+phrase_13102891.pt,10,a photo of a baseball bat on a dog,baseball bat,simple_positional,on,dog
+phrase_13102891.pt,11,a photo of a orange on a traffic light,orange,simple_positional,on,traffic light
+phrase_13102891.pt,12,a photo of a teddy bear on a orange,teddy bear,simple_positional,on,orange
+phrase_13102891.pt,13,a photo of a skis on a tennis racket,skis,simple_positional,on,tennis racket
+phrase_13102891.pt,14,a photo of a zebra on a bicycle,zebra,simple_positional,on,bicycle
+phrase_13102891.pt,15,a photo of a sheep on a computer mouse,sheep,simple_positional,on,computer mouse
+phrase_13102891.pt,16,a photo of a cell phone on a orange,cell phone,simple_positional,on,orange
+phrase_13102891.pt,17,a photo of a knife on a umbrella,knife,simple_positional,on,umbrella
+phrase_13102891.pt,18,a photo of a motorcycle on a carrot,motorcycle,simple_positional,on,carrot
+phrase_13102891.pt,19,a photo of a traffic light on a horse,traffic light,simple_positional,on,horse
+phrase_13102891.pt,20,a photo of a surfboard on a tv,surfboard,simple_positional,on,tv
+phrase_13102891.pt,21,a photo of a carrot on a truck,carrot,simple_positional,on,truck
+phrase_13102891.pt,22,a photo of a giraffe on a fire hydrant,giraffe,simple_positional,on,fire hydrant
+phrase_13102891.pt,23,a photo of a elephant on a toaster,elephant,simple_positional,on,toaster
+phrase_13102891.pt,24,a photo of a bowl on a dog,bowl,simple_positional,on,dog
+phrase_13102891.pt,25,a photo of a bench on a motorcycle,bench,simple_positional,on,motorcycle
+phrase_13102891.pt,26,a photo of a frisbee on a handbag,frisbee,simple_positional,on,handbag
+phrase_13102891.pt,27,a photo of a skis on a cat,skis,simple_positional,on,cat
+phrase_13102891.pt,28,a photo of a surfboard on a spoon,surfboard,simple_positional,on,spoon
+phrase_13102891.pt,29,a photo of a bicycle on a bus,bicycle,simple_positional,on,bus
+phrase_13102891.pt,30,a photo of a car on a laptop,car,simple_positional,on,laptop
+phrase_13102891.pt,31,a photo of a frisbee on a cat,frisbee,simple_positional,on,cat
+phrase_13102891.pt,32,a photo of a skis on a motorcycle,skis,simple_positional,on,motorcycle
+phrase_13102891.pt,33,a photo of a toilet on a cat,toilet,simple_positional,on,cat
+phrase_13102891.pt,34,a photo of a snowboard on a boat,snowboard,simple_positional,on,boat
+phrase_13102891.pt,35,a photo of a broccoli on a bird,broccoli,simple_positional,on,bird
+phrase_13102891.pt,36,a photo of a scissors on a airplane,scissors,simple_positional,on,airplane
+phrase_13102891.pt,37,a photo of a bowl on a banana,bowl,simple_positional,on,banana
+phrase_13102891.pt,38,a photo of a baseball glove on a bicycle,baseball glove,simple_positional,on,bicycle
+phrase_13102891.pt,39,a photo of a microwave on a skis,microwave,simple_positional,on,skis
+phrase_13102891.pt,40,a photo of a banana on a stop sign,banana,simple_positional,on,stop sign
+phrase_13102891.pt,41,a photo of a oven on a snowboard,oven,simple_positional,on,snowboard
+phrase_13102891.pt,42,a photo of a giraffe on a tie,giraffe,simple_positional,on,tie
+phrase_13102891.pt,43,a photo of a parking meter on a toilet,parking meter,simple_positional,on,toilet
+phrase_13102891.pt,44,a photo of a banana on a fork,banana,simple_positional,on,fork
+phrase_13102891.pt,45,a photo of a laptop on a broccoli,laptop,simple_positional,on,broccoli
+phrase_13102891.pt,46,a photo of a orange on a toothbrush,orange,simple_positional,on,toothbrush
+phrase_13102891.pt,47,a photo of a baseball bat on a boat,baseball bat,simple_positional,on,boat
+phrase_13102891.pt,48,a photo of a snowboard on a skateboard,snowboard,simple_positional,on,skateboard
+phrase_13102891.pt,49,a photo of a book on a dog,book,simple_positional,on,dog
+phrase_13102891.pt,50,a photo of a chair on a pizza,chair,simple_positional,on,pizza
+phrase_13102891.pt,51,a photo of a suitcase on a train,suitcase,simple_positional,on,train
+phrase_13102891.pt,52,a photo of a refrigerator on a sports ball,refrigerator,simple_positional,on,sports ball
+phrase_13102891.pt,53,a photo of a baseball bat on a sandwich,baseball bat,simple_positional,on,sandwich
+phrase_13102891.pt,54,a photo of a potted plant on a fork,potted plant,simple_positional,on,fork
+phrase_13102891.pt,55,a photo of a clock on a cow,clock,simple_positional,on,cow
+phrase_13102891.pt,56,a photo of a skateboard on a motorcycle,skateboard,simple_positional,on,motorcycle
+phrase_13102891.pt,57,a photo of a orange on a bottle,orange,simple_positional,on,bottle
+phrase_13102891.pt,58,a photo of a backpack on a wine glass,backpack,simple_positional,on,wine glass
+phrase_13102891.pt,59,a photo of a surfboard on a handbag,surfboard,simple_positional,on,handbag
+phrase_13102891.pt,60,a photo of a frisbee on a broccoli,frisbee,simple_positional,on,broccoli
+phrase_13102891.pt,61,a photo of a cell phone on a dog,cell phone,simple_positional,on,dog
+phrase_13102891.pt,62,a photo of a chair on a tennis racket,chair,simple_positional,on,tennis racket
+phrase_13102891.pt,63,a photo of a couch on a tv remote,couch,simple_positional,on,tv remote
+phrase_13102891.pt,64,a photo of a donut on a knife,donut,simple_positional,on,knife
+phrase_13102891.pt,65,a photo of a tv remote on a laptop,tv remote,simple_positional,on,laptop
+phrase_13102891.pt,66,a photo of a traffic light on a pizza,traffic light,simple_positional,on,pizza
+phrase_13102891.pt,67,a photo of a motorcycle on a cat,motorcycle,simple_positional,on,cat
+phrase_13102891.pt,68,a photo of a snowboard on a bottle,snowboard,simple_positional,on,bottle
+phrase_13102891.pt,69,a photo of a chair on a umbrella,chair,simple_positional,on,umbrella
+phrase_13102891.pt,70,a photo of a fork on a hot dog,fork,simple_positional,on,hot dog
+phrase_13102891.pt,71,a photo of a clock on a skateboard,clock,simple_positional,on,skateboard
+phrase_13102891.pt,72,a photo of a potted plant on a tv,potted plant,simple_positional,on,tv
+phrase_13102891.pt,73,a photo of a laptop on a computer keyboard,laptop,simple_positional,on,computer keyboard
+phrase_13102891.pt,74,a photo of a broccoli on a dog,broccoli,simple_positional,on,dog
+phrase_13102891.pt,75,a photo of a tv on a traffic light,tv,simple_positional,on,traffic light
+phrase_13102891.pt,76,a photo of a cell phone on a parking meter,cell phone,simple_positional,on,parking meter
+phrase_13102891.pt,77,a photo of a fork on a snowboard,fork,simple_positional,on,snowboard
+phrase_13102891.pt,78,a photo of a cow on a carrot,cow,simple_positional,on,carrot
+phrase_13102891.pt,79,a photo of a truck on a bus,truck,simple_positional,on,bus
+phrase_13102891.pt,80,a photo of a toaster on a fire hydrant,toaster,simple_positional,on,fire hydrant
+phrase_13102891.pt,81,a photo of a bear on a pizza,bear,simple_positional,on,pizza
+phrase_13102891.pt,82,a photo of a pizza on a frisbee,pizza,simple_positional,on,frisbee
+phrase_13102891.pt,83,a photo of a oven on a donut,oven,simple_positional,on,donut
+phrase_13102891.pt,84,a photo of a refrigerator on a motorcycle,refrigerator,simple_positional,on,motorcycle
+phrase_13102891.pt,85,a photo of a book on a tie,book,simple_positional,on,tie
+phrase_13102891.pt,86,a photo of a hair drier on a parking meter,hair drier,simple_positional,on,parking meter
+phrase_13102891.pt,87,a photo of a tv on a truck,tv,simple_positional,on,truck
+phrase_13102891.pt,88,a photo of a teddy bear on a microwave,teddy bear,simple_positional,on,microwave
+phrase_13102891.pt,89,a photo of a clock on a giraffe,clock,simple_positional,on,giraffe
+phrase_13102891.pt,90,a photo of a person on a refrigerator,person,simple_positional,on,refrigerator
+phrase_13102891.pt,91,a photo of a tv on a cow,tv,simple_positional,on,cow
+phrase_13102891.pt,92,a photo of a microwave on a cow,microwave,simple_positional,on,cow
+phrase_13102891.pt,93,a photo of a fire hydrant on a tv remote,fire hydrant,simple_positional,on,tv remote
+phrase_13102891.pt,94,a photo of a donut on a clock,donut,simple_positional,on,clock
+phrase_13102891.pt,95,a photo of a baseball glove on a sandwich,baseball glove,simple_positional,on,sandwich
+phrase_13102891.pt,96,a photo of a hair drier on a computer mouse,hair drier,simple_positional,on,computer mouse
+phrase_13102891.pt,97,a photo of a skateboard on a bear,skateboard,simple_positional,on,bear
+phrase_13102891.pt,98,a photo of a refrigerator on a orange,refrigerator,simple_positional,on,orange
+phrase_13102891.pt,99,a photo of a clock on a dining table,clock,simple_positional,on,dining table
+phrase_99679077.pt,0,a photo of a giraffe in front of a hair drier,giraffe,simple_positional,in front of,hair drier
+phrase_99679077.pt,1,a photo of a broccoli in front of a skis,broccoli,simple_positional,in front of,skis
+phrase_99679077.pt,2,a photo of a book in front of a sports ball,book,simple_positional,in front of,sports ball
+phrase_99679077.pt,3,a photo of a bench in front of a cow,bench,simple_positional,in front of,cow
+phrase_99679077.pt,4,a photo of a computer keyboard in front of a skateboard,computer keyboard,simple_positional,in front of,skateboard
+phrase_99679077.pt,5,a photo of a toilet in front of a potted plant,toilet,simple_positional,in front of,potted plant
+phrase_99679077.pt,6,a photo of a oven in front of a vase,oven,simple_positional,in front of,vase
+phrase_99679077.pt,7,a photo of a bed in front of a book,bed,simple_positional,in front of,book
+phrase_99679077.pt,8,a photo of a cell phone in front of a bear,cell phone,simple_positional,in front of,bear
+phrase_99679077.pt,9,a photo of a sports ball in front of a refrigerator,sports ball,simple_positional,in front of,refrigerator
+phrase_99679077.pt,10,a photo of a baseball bat in front of a dog,baseball bat,simple_positional,in front of,dog
+phrase_99679077.pt,11,a photo of a orange in front of a traffic light,orange,simple_positional,in front of,traffic light
+phrase_99679077.pt,12,a photo of a teddy bear in front of a orange,teddy bear,simple_positional,in front of,orange
+phrase_99679077.pt,13,a photo of a skis in front of a tennis racket,skis,simple_positional,in front of,tennis racket
+phrase_99679077.pt,14,a photo of a zebra in front of a bicycle,zebra,simple_positional,in front of,bicycle
+phrase_99679077.pt,15,a photo of a sheep in front of a computer mouse,sheep,simple_positional,in front of,computer mouse
+phrase_99679077.pt,16,a photo of a cell phone in front of a orange,cell phone,simple_positional,in front of,orange
+phrase_99679077.pt,17,a photo of a knife in front of a umbrella,knife,simple_positional,in front of,umbrella
+phrase_99679077.pt,18,a photo of a motorcycle in front of a carrot,motorcycle,simple_positional,in front of,carrot
+phrase_99679077.pt,19,a photo of a traffic light in front of a horse,traffic light,simple_positional,in front of,horse
+phrase_99679077.pt,20,a photo of a surfboard in front of a tv,surfboard,simple_positional,in front of,tv
+phrase_99679077.pt,21,a photo of a carrot in front of a truck,carrot,simple_positional,in front of,truck
+phrase_99679077.pt,22,a photo of a giraffe in front of a fire hydrant,giraffe,simple_positional,in front of,fire hydrant
+phrase_99679077.pt,23,a photo of a elephant in front of a toaster,elephant,simple_positional,in front of,toaster
+phrase_99679077.pt,24,a photo of a bowl in front of a dog,bowl,simple_positional,in front of,dog
+phrase_99679077.pt,25,a photo of a bench in front of a motorcycle,bench,simple_positional,in front of,motorcycle
+phrase_99679077.pt,26,a photo of a frisbee in front of a handbag,frisbee,simple_positional,in front of,handbag
+phrase_99679077.pt,27,a photo of a skis in front of a cat,skis,simple_positional,in front of,cat
+phrase_99679077.pt,28,a photo of a surfboard in front of a spoon,surfboard,simple_positional,in front of,spoon
+phrase_99679077.pt,29,a photo of a bicycle in front of a bus,bicycle,simple_positional,in front of,bus
+phrase_99679077.pt,30,a photo of a car in front of a laptop,car,simple_positional,in front of,laptop
+phrase_99679077.pt,31,a photo of a frisbee in front of a cat,frisbee,simple_positional,in front of,cat
+phrase_99679077.pt,32,a photo of a skis in front of a motorcycle,skis,simple_positional,in front of,motorcycle
+phrase_99679077.pt,33,a photo of a toilet in front of a cat,toilet,simple_positional,in front of,cat
+phrase_99679077.pt,34,a photo of a snowboard in front of a boat,snowboard,simple_positional,in front of,boat
+phrase_99679077.pt,35,a photo of a broccoli in front of a bird,broccoli,simple_positional,in front of,bird
+phrase_99679077.pt,36,a photo of a scissors in front of a airplane,scissors,simple_positional,in front of,airplane
+phrase_99679077.pt,37,a photo of a bowl in front of a banana,bowl,simple_positional,in front of,banana
+phrase_99679077.pt,38,a photo of a baseball glove in front of a bicycle,baseball glove,simple_positional,in front of,bicycle
+phrase_99679077.pt,39,a photo of a microwave in front of a skis,microwave,simple_positional,in front of,skis
+phrase_99679077.pt,40,a photo of a banana in front of a stop sign,banana,simple_positional,in front of,stop sign
+phrase_99679077.pt,41,a photo of a oven in front of a snowboard,oven,simple_positional,in front of,snowboard
+phrase_99679077.pt,42,a photo of a giraffe in front of a tie,giraffe,simple_positional,in front of,tie
+phrase_99679077.pt,43,a photo of a parking meter in front of a toilet,parking meter,simple_positional,in front of,toilet
+phrase_99679077.pt,44,a photo of a banana in front of a fork,banana,simple_positional,in front of,fork
+phrase_99679077.pt,45,a photo of a laptop in front of a broccoli,laptop,simple_positional,in front of,broccoli
+phrase_99679077.pt,46,a photo of a orange in front of a toothbrush,orange,simple_positional,in front of,toothbrush
+phrase_99679077.pt,47,a photo of a baseball bat in front of a boat,baseball bat,simple_positional,in front of,boat
+phrase_99679077.pt,48,a photo of a snowboard in front of a skateboard,snowboard,simple_positional,in front of,skateboard
+phrase_99679077.pt,49,a photo of a book in front of a dog,book,simple_positional,in front of,dog
+phrase_99679077.pt,50,a photo of a chair in front of a pizza,chair,simple_positional,in front of,pizza
+phrase_99679077.pt,51,a photo of a suitcase in front of a train,suitcase,simple_positional,in front of,train
+phrase_99679077.pt,52,a photo of a refrigerator in front of a sports ball,refrigerator,simple_positional,in front of,sports ball
+phrase_99679077.pt,53,a photo of a baseball bat in front of a sandwich,baseball bat,simple_positional,in front of,sandwich
+phrase_99679077.pt,54,a photo of a potted plant in front of a fork,potted plant,simple_positional,in front of,fork
+phrase_99679077.pt,55,a photo of a clock in front of a cow,clock,simple_positional,in front of,cow
+phrase_99679077.pt,56,a photo of a skateboard in front of a motorcycle,skateboard,simple_positional,in front of,motorcycle
+phrase_99679077.pt,57,a photo of a orange in front of a bottle,orange,simple_positional,in front of,bottle
+phrase_99679077.pt,58,a photo of a backpack in front of a wine glass,backpack,simple_positional,in front of,wine glass
+phrase_99679077.pt,59,a photo of a surfboard in front of a handbag,surfboard,simple_positional,in front of,handbag
+phrase_99679077.pt,60,a photo of a frisbee in front of a broccoli,frisbee,simple_positional,in front of,broccoli
+phrase_99679077.pt,61,a photo of a cell phone in front of a dog,cell phone,simple_positional,in front of,dog
+phrase_99679077.pt,62,a photo of a chair in front of a tennis racket,chair,simple_positional,in front of,tennis racket
+phrase_99679077.pt,63,a photo of a couch in front of a tv remote,couch,simple_positional,in front of,tv remote
+phrase_99679077.pt,64,a photo of a donut in front of a knife,donut,simple_positional,in front of,knife
+phrase_99679077.pt,65,a photo of a tv remote in front of a laptop,tv remote,simple_positional,in front of,laptop
+phrase_99679077.pt,66,a photo of a traffic light in front of a pizza,traffic light,simple_positional,in front of,pizza
+phrase_99679077.pt,67,a photo of a motorcycle in front of a cat,motorcycle,simple_positional,in front of,cat
+phrase_99679077.pt,68,a photo of a snowboard in front of a bottle,snowboard,simple_positional,in front of,bottle
+phrase_99679077.pt,69,a photo of a chair in front of a umbrella,chair,simple_positional,in front of,umbrella
+phrase_99679077.pt,70,a photo of a fork in front of a hot dog,fork,simple_positional,in front of,hot dog
+phrase_99679077.pt,71,a photo of a clock in front of a skateboard,clock,simple_positional,in front of,skateboard
+phrase_99679077.pt,72,a photo of a potted plant in front of a tv,potted plant,simple_positional,in front of,tv
+phrase_99679077.pt,73,a photo of a laptop in front of a computer keyboard,laptop,simple_positional,in front of,computer keyboard
+phrase_99679077.pt,74,a photo of a broccoli in front of a dog,broccoli,simple_positional,in front of,dog
+phrase_99679077.pt,75,a photo of a tv in front of a traffic light,tv,simple_positional,in front of,traffic light
+phrase_99679077.pt,76,a photo of a cell phone in front of a parking meter,cell phone,simple_positional,in front of,parking meter
+phrase_99679077.pt,77,a photo of a fork in front of a snowboard,fork,simple_positional,in front of,snowboard
+phrase_99679077.pt,78,a photo of a cow in front of a carrot,cow,simple_positional,in front of,carrot
+phrase_99679077.pt,79,a photo of a truck in front of a bus,truck,simple_positional,in front of,bus
+phrase_99679077.pt,80,a photo of a toaster in front of a fire hydrant,toaster,simple_positional,in front of,fire hydrant
+phrase_99679077.pt,81,a photo of a bear in front of a pizza,bear,simple_positional,in front of,pizza
+phrase_99679077.pt,82,a photo of a pizza in front of a frisbee,pizza,simple_positional,in front of,frisbee
+phrase_99679077.pt,83,a photo of a oven in front of a donut,oven,simple_positional,in front of,donut
+phrase_99679077.pt,84,a photo of a refrigerator in front of a motorcycle,refrigerator,simple_positional,in front of,motorcycle
+phrase_99679077.pt,85,a photo of a book in front of a tie,book,simple_positional,in front of,tie
+phrase_99679077.pt,86,a photo of a hair drier in front of a parking meter,hair drier,simple_positional,in front of,parking meter
+phrase_99679077.pt,87,a photo of a tv in front of a truck,tv,simple_positional,in front of,truck
+phrase_99679077.pt,88,a photo of a teddy bear in front of a microwave,teddy bear,simple_positional,in front of,microwave
+phrase_99679077.pt,89,a photo of a clock in front of a giraffe,clock,simple_positional,in front of,giraffe
+phrase_99679077.pt,90,a photo of a person in front of a refrigerator,person,simple_positional,in front of,refrigerator
+phrase_99679077.pt,91,a photo of a tv in front of a cow,tv,simple_positional,in front of,cow
+phrase_99679077.pt,92,a photo of a microwave in front of a cow,microwave,simple_positional,in front of,cow
+phrase_99679077.pt,93,a photo of a fire hydrant in front of a tv remote,fire hydrant,simple_positional,in front of,tv remote
+phrase_99679077.pt,94,a photo of a donut in front of a clock,donut,simple_positional,in front of,clock
+phrase_99679077.pt,95,a photo of a baseball glove in front of a sandwich,baseball glove,simple_positional,in front of,sandwich
+phrase_99679077.pt,96,a photo of a hair drier in front of a computer mouse,hair drier,simple_positional,in front of,computer mouse
+phrase_99679077.pt,97,a photo of a skateboard in front of a bear,skateboard,simple_positional,in front of,bear
+phrase_99679077.pt,98,a photo of a refrigerator in front of a orange,refrigerator,simple_positional,in front of,orange
+phrase_99679077.pt,99,a photo of a clock in front of a dining table,clock,simple_positional,in front of,dining table

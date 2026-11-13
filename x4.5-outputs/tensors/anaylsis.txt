@@ -1,0 +1,67 @@
+tensor_file,phrase,incorrect,
+    problems
+
+phrase_12358303.pt,under,58
+    sink/backpack img 54,53; train; microwave
+
+phrase_26338807.pt,on the side of,21
+    vague because on the side can be interpreted different ways
+
+phrase_45080000.pt,adjacent to
+    -> not worth checking as adjacent to can be just also in the same picture?
+
+phrase_71150694.pt,across 
+    -> not worth checking as across can be just also in the same picture?
+
+phrase_17171759.pt,at the top of,23
+
+phrase_3017424.pt,behind,48
+    - most times "orange" is mentioned it becomes the color orange
+
+phrase_47183230.pt,overhead
+
+phrase_81755278.pt,in front of
+
+phrase_1903914.pt,far from
+
+phrase_30947082.pt,at the bottom of 
+
+phrase_48910460.pt,at the head of 
+
+phrase_84747522.pt,to the left of
+
+phrase_20362895.pt,over
+
+phrase_31495831.pt,near 
+
+phrase_56468159.pt,parallel to
+
+phrase_96333376.pt,on the back
+
+phrase_20746081.pt,beside
+
+phrase_37348689.pt,on top of
+
+phrase_57817802.pt,on
+
+phrase_9769863.pt,above
+
+phrase_20922580.pt,next to
+
+phrase_37860271.pt,on the side of <-----
+
+phrase_65398053.pt,with
+
+phrase_9892833.pt,overhead <----
+
+phrase_21425631.pt,across <----
+
+phrase_37975882.pt,close to
+
+phrase_65601474.pt,underneath
+
+phrase_21692089.pt,at the feet
+
+phrase_4263845.pt,to the right of
+
+phrase_6874292.pt,below

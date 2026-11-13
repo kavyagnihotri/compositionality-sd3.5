@@ -1,0 +1,301 @@
+tensor_file,tensor_index,prompt,class1,class2,category,phrase
+phrase_28524339.pt,0,a photo of a giraffe between hair driers,giraffe,hair drier,misc_positional,between
+phrase_28524339.pt,1,a photo of a broccoli between skiss,broccoli,skis,misc_positional,between
+phrase_28524339.pt,2,a photo of a book between sports balls,book,sports ball,misc_positional,between
+phrase_28524339.pt,3,a photo of a bench between cows,bench,cow,misc_positional,between
+phrase_28524339.pt,4,a photo of a computer keyboard between skateboards,computer keyboard,skateboard,misc_positional,between
+phrase_28524339.pt,5,a photo of a toilet between potted plants,toilet,potted plant,misc_positional,between
+phrase_28524339.pt,6,a photo of a oven between vases,oven,vase,misc_positional,between
+phrase_28524339.pt,7,a photo of a bed between books,bed,book,misc_positional,between
+phrase_28524339.pt,8,a photo of a cell phone between bears,cell phone,bear,misc_positional,between
+phrase_28524339.pt,9,a photo of a sports ball between refrigerators,sports ball,refrigerator,misc_positional,between
+phrase_28524339.pt,10,a photo of a baseball bat between dogs,baseball bat,dog,misc_positional,between
+phrase_28524339.pt,11,a photo of a orange between traffic lights,orange,traffic light,misc_positional,between
+phrase_28524339.pt,12,a photo of a teddy bear between oranges,teddy bear,orange,misc_positional,between
+phrase_28524339.pt,13,a photo of a skis between tennis rackets,skis,tennis racket,misc_positional,between
+phrase_28524339.pt,14,a photo of a zebra between bicycles,zebra,bicycle,misc_positional,between
+phrase_28524339.pt,15,a photo of a sheep between computer mouses,sheep,computer mouse,misc_positional,between
+phrase_28524339.pt,16,a photo of a cell phone between oranges,cell phone,orange,misc_positional,between
+phrase_28524339.pt,17,a photo of a knife between umbrellas,knife,umbrella,misc_positional,between
+phrase_28524339.pt,18,a photo of a motorcycle between carrots,motorcycle,carrot,misc_positional,between
+phrase_28524339.pt,19,a photo of a traffic light between horses,traffic light,horse,misc_positional,between
+phrase_28524339.pt,20,a photo of a surfboard between tvs,surfboard,tv,misc_positional,between
+phrase_28524339.pt,21,a photo of a carrot between trucks,carrot,truck,misc_positional,between
+phrase_28524339.pt,22,a photo of a giraffe between fire hydrants,giraffe,fire hydrant,misc_positional,between
+phrase_28524339.pt,23,a photo of a elephant between toasters,elephant,toaster,misc_positional,between
+phrase_28524339.pt,24,a photo of a bowl between dogs,bowl,dog,misc_positional,between
+phrase_28524339.pt,25,a photo of a bench between motorcycles,bench,motorcycle,misc_positional,between
+phrase_28524339.pt,26,a photo of a frisbee between handbags,frisbee,handbag,misc_positional,between
+phrase_28524339.pt,27,a photo of a skis between cats,skis,cat,misc_positional,between
+phrase_28524339.pt,28,a photo of a surfboard between spoons,surfboard,spoon,misc_positional,between
+phrase_28524339.pt,29,a photo of a bicycle between buss,bicycle,bus,misc_positional,between
+phrase_28524339.pt,30,a photo of a car between laptops,car,laptop,misc_positional,between
+phrase_28524339.pt,31,a photo of a frisbee between cats,frisbee,cat,misc_positional,between
+phrase_28524339.pt,32,a photo of a skis between motorcycles,skis,motorcycle,misc_positional,between
+phrase_28524339.pt,33,a photo of a toilet between cats,toilet,cat,misc_positional,between
+phrase_28524339.pt,34,a photo of a snowboard between boats,snowboard,boat,misc_positional,between
+phrase_28524339.pt,35,a photo of a broccoli between birds,broccoli,bird,misc_positional,between
+phrase_28524339.pt,36,a photo of a scissors between airplanes,scissors,airplane,misc_positional,between
+phrase_28524339.pt,37,a photo of a bowl between bananas,bowl,banana,misc_positional,between
+phrase_28524339.pt,38,a photo of a baseball glove between bicycles,baseball glove,bicycle,misc_positional,between
+phrase_28524339.pt,39,a photo of a microwave between skiss,microwave,skis,misc_positional,between
+phrase_28524339.pt,40,a photo of a banana between stop signs,banana,stop sign,misc_positional,between
+phrase_28524339.pt,41,a photo of a oven between snowboards,oven,snowboard,misc_positional,between
+phrase_28524339.pt,42,a photo of a giraffe between ties,giraffe,tie,misc_positional,between
+phrase_28524339.pt,43,a photo of a parking meter between toilets,parking meter,toilet,misc_positional,between
+phrase_28524339.pt,44,a photo of a banana between forks,banana,fork,misc_positional,between
+phrase_28524339.pt,45,a photo of a laptop between broccolis,laptop,broccoli,misc_positional,between
+phrase_28524339.pt,46,a photo of a orange between toothbrushs,orange,toothbrush,misc_positional,between
+phrase_28524339.pt,47,a photo of a baseball bat between boats,baseball bat,boat,misc_positional,between
+phrase_28524339.pt,48,a photo of a snowboard between skateboards,snowboard,skateboard,misc_positional,between
+phrase_28524339.pt,49,a photo of a book between dogs,book,dog,misc_positional,between
+phrase_28524339.pt,50,a photo of a chair between pizzas,chair,pizza,misc_positional,between
+phrase_28524339.pt,51,a photo of a suitcase between trains,suitcase,train,misc_positional,between
+phrase_28524339.pt,52,a photo of a refrigerator between sports balls,refrigerator,sports ball,misc_positional,between
+phrase_28524339.pt,53,a photo of a baseball bat between sandwichs,baseball bat,sandwich,misc_positional,between
+phrase_28524339.pt,54,a photo of a potted plant between forks,potted plant,fork,misc_positional,between
+phrase_28524339.pt,55,a photo of a clock between cows,clock,cow,misc_positional,between
+phrase_28524339.pt,56,a photo of a skateboard between motorcycles,skateboard,motorcycle,misc_positional,between
+phrase_28524339.pt,57,a photo of a orange between bottles,orange,bottle,misc_positional,between
+phrase_28524339.pt,58,a photo of a backpack between wine glasss,backpack,wine glass,misc_positional,between
+phrase_28524339.pt,59,a photo of a surfboard between handbags,surfboard,handbag,misc_positional,between
+phrase_28524339.pt,60,a photo of a frisbee between broccolis,frisbee,broccoli,misc_positional,between
+phrase_28524339.pt,61,a photo of a cell phone between dogs,cell phone,dog,misc_positional,between
+phrase_28524339.pt,62,a photo of a chair between tennis rackets,chair,tennis racket,misc_positional,between
+phrase_28524339.pt,63,a photo of a couch between tv remotes,couch,tv remote,misc_positional,between
+phrase_28524339.pt,64,a photo of a donut between knifes,donut,knife,misc_positional,between
+phrase_28524339.pt,65,a photo of a tv remote between laptops,tv remote,laptop,misc_positional,between
+phrase_28524339.pt,66,a photo of a traffic light between pizzas,traffic light,pizza,misc_positional,between
+phrase_28524339.pt,67,a photo of a motorcycle between cats,motorcycle,cat,misc_positional,between
+phrase_28524339.pt,68,a photo of a snowboard between bottles,snowboard,bottle,misc_positional,between
+phrase_28524339.pt,69,a photo of a chair between umbrellas,chair,umbrella,misc_positional,between
+phrase_28524339.pt,70,a photo of a fork between hot dogs,fork,hot dog,misc_positional,between
+phrase_28524339.pt,71,a photo of a clock between skateboards,clock,skateboard,misc_positional,between
+phrase_28524339.pt,72,a photo of a potted plant between tvs,potted plant,tv,misc_positional,between
+phrase_28524339.pt,73,a photo of a laptop between computer keyboards,laptop,computer keyboard,misc_positional,between
+phrase_28524339.pt,74,a photo of a broccoli between dogs,broccoli,dog,misc_positional,between
+phrase_28524339.pt,75,a photo of a tv between traffic lights,tv,traffic light,misc_positional,between
+phrase_28524339.pt,76,a photo of a cell phone between parking meters,cell phone,parking meter,misc_positional,between
+phrase_28524339.pt,77,a photo of a fork between snowboards,fork,snowboard,misc_positional,between
+phrase_28524339.pt,78,a photo of a cow between carrots,cow,carrot,misc_positional,between
+phrase_28524339.pt,79,a photo of a truck between buss,truck,bus,misc_positional,between
+phrase_28524339.pt,80,a photo of a toaster between fire hydrants,toaster,fire hydrant,misc_positional,between
+phrase_28524339.pt,81,a photo of a bear between pizzas,bear,pizza,misc_positional,between
+phrase_28524339.pt,82,a photo of a pizza between frisbees,pizza,frisbee,misc_positional,between
+phrase_28524339.pt,83,a photo of a oven between donuts,oven,donut,misc_positional,between
+phrase_28524339.pt,84,a photo of a refrigerator between motorcycles,refrigerator,motorcycle,misc_positional,between
+phrase_28524339.pt,85,a photo of a book between ties,book,tie,misc_positional,between
+phrase_28524339.pt,86,a photo of a hair drier between parking meters,hair drier,parking meter,misc_positional,between
+phrase_28524339.pt,87,a photo of a tv between trucks,tv,truck,misc_positional,between
+phrase_28524339.pt,88,a photo of a teddy bear between microwaves,teddy bear,microwave,misc_positional,between
+phrase_28524339.pt,89,a photo of a clock between giraffes,clock,giraffe,misc_positional,between
+phrase_28524339.pt,90,a photo of a person between refrigerators,person,refrigerator,misc_positional,between
+phrase_28524339.pt,91,a photo of a tv between cows,tv,cow,misc_positional,between
+phrase_28524339.pt,92,a photo of a microwave between cows,microwave,cow,misc_positional,between
+phrase_28524339.pt,93,a photo of a fire hydrant between tv remotes,fire hydrant,tv remote,misc_positional,between
+phrase_28524339.pt,94,a photo of a donut between clocks,donut,clock,misc_positional,between
+phrase_28524339.pt,95,a photo of a baseball glove between sandwichs,baseball glove,sandwich,misc_positional,between
+phrase_28524339.pt,96,a photo of a hair drier between computer mouses,hair drier,computer mouse,misc_positional,between
+phrase_28524339.pt,97,a photo of a skateboard between bears,skateboard,bear,misc_positional,between
+phrase_28524339.pt,98,a photo of a refrigerator between oranges,refrigerator,orange,misc_positional,between
+phrase_28524339.pt,99,a photo of a clock between dining tables,clock,dining table,misc_positional,between
+phrase_15231401.pt,0,a photo of a giraffe inside a hair drier,giraffe,hair drier,misc_positional,inside
+phrase_15231401.pt,1,a photo of a broccoli inside a skis,broccoli,skis,misc_positional,inside
+phrase_15231401.pt,2,a photo of a book inside a sports ball,book,sports ball,misc_positional,inside
+phrase_15231401.pt,3,a photo of a bench inside a cow,bench,cow,misc_positional,inside
+phrase_15231401.pt,4,a photo of a computer keyboard inside a skateboard,computer keyboard,skateboard,misc_positional,inside
+phrase_15231401.pt,5,a photo of a toilet inside a potted plant,toilet,potted plant,misc_positional,inside
+phrase_15231401.pt,6,a photo of a oven inside a vase,oven,vase,misc_positional,inside
+phrase_15231401.pt,7,a photo of a bed inside a book,bed,book,misc_positional,inside
+phrase_15231401.pt,8,a photo of a cell phone inside a bear,cell phone,bear,misc_positional,inside
+phrase_15231401.pt,9,a photo of a sports ball inside a refrigerator,sports ball,refrigerator,misc_positional,inside
+phrase_15231401.pt,10,a photo of a baseball bat inside a dog,baseball bat,dog,misc_positional,inside
+phrase_15231401.pt,11,a photo of a orange inside a traffic light,orange,traffic light,misc_positional,inside
+phrase_15231401.pt,12,a photo of a teddy bear inside a orange,teddy bear,orange,misc_positional,inside
+phrase_15231401.pt,13,a photo of a skis inside a tennis racket,skis,tennis racket,misc_positional,inside
+phrase_15231401.pt,14,a photo of a zebra inside a bicycle,zebra,bicycle,misc_positional,inside
+phrase_15231401.pt,15,a photo of a sheep inside a computer mouse,sheep,computer mouse,misc_positional,inside
+phrase_15231401.pt,16,a photo of a cell phone inside a orange,cell phone,orange,misc_positional,inside
+phrase_15231401.pt,17,a photo of a knife inside a umbrella,knife,umbrella,misc_positional,inside
+phrase_15231401.pt,18,a photo of a motorcycle inside a carrot,motorcycle,carrot,misc_positional,inside
+phrase_15231401.pt,19,a photo of a traffic light inside a horse,traffic light,horse,misc_positional,inside
+phrase_15231401.pt,20,a photo of a surfboard inside a tv,surfboard,tv,misc_positional,inside
+phrase_15231401.pt,21,a photo of a carrot inside a truck,carrot,truck,misc_positional,inside
+phrase_15231401.pt,22,a photo of a giraffe inside a fire hydrant,giraffe,fire hydrant,misc_positional,inside
+phrase_15231401.pt,23,a photo of a elephant inside a toaster,elephant,toaster,misc_positional,inside
+phrase_15231401.pt,24,a photo of a bowl inside a dog,bowl,dog,misc_positional,inside
+phrase_15231401.pt,25,a photo of a bench inside a motorcycle,bench,motorcycle,misc_positional,inside
+phrase_15231401.pt,26,a photo of a frisbee inside a handbag,frisbee,handbag,misc_positional,inside
+phrase_15231401.pt,27,a photo of a skis inside a cat,skis,cat,misc_positional,inside
+phrase_15231401.pt,28,a photo of a surfboard inside a spoon,surfboard,spoon,misc_positional,inside
+phrase_15231401.pt,29,a photo of a bicycle inside a bus,bicycle,bus,misc_positional,inside
+phrase_15231401.pt,30,a photo of a car inside a laptop,car,laptop,misc_positional,inside
+phrase_15231401.pt,31,a photo of a frisbee inside a cat,frisbee,cat,misc_positional,inside
+phrase_15231401.pt,32,a photo of a skis inside a motorcycle,skis,motorcycle,misc_positional,inside
+phrase_15231401.pt,33,a photo of a toilet inside a cat,toilet,cat,misc_positional,inside
+phrase_15231401.pt,34,a photo of a snowboard inside a boat,snowboard,boat,misc_positional,inside
+phrase_15231401.pt,35,a photo of a broccoli inside a bird,broccoli,bird,misc_positional,inside
+phrase_15231401.pt,36,a photo of a scissors inside a airplane,scissors,airplane,misc_positional,inside
+phrase_15231401.pt,37,a photo of a bowl inside a banana,bowl,banana,misc_positional,inside
+phrase_15231401.pt,38,a photo of a baseball glove inside a bicycle,baseball glove,bicycle,misc_positional,inside
+phrase_15231401.pt,39,a photo of a microwave inside a skis,microwave,skis,misc_positional,inside
+phrase_15231401.pt,40,a photo of a banana inside a stop sign,banana,stop sign,misc_positional,inside
+phrase_15231401.pt,41,a photo of a oven inside a snowboard,oven,snowboard,misc_positional,inside
+phrase_15231401.pt,42,a photo of a giraffe inside a tie,giraffe,tie,misc_positional,inside
+phrase_15231401.pt,43,a photo of a parking meter inside a toilet,parking meter,toilet,misc_positional,inside
+phrase_15231401.pt,44,a photo of a banana inside a fork,banana,fork,misc_positional,inside
+phrase_15231401.pt,45,a photo of a laptop inside a broccoli,laptop,broccoli,misc_positional,inside
+phrase_15231401.pt,46,a photo of a orange inside a toothbrush,orange,toothbrush,misc_positional,inside
+phrase_15231401.pt,47,a photo of a baseball bat inside a boat,baseball bat,boat,misc_positional,inside
+phrase_15231401.pt,48,a photo of a snowboard inside a skateboard,snowboard,skateboard,misc_positional,inside
+phrase_15231401.pt,49,a photo of a book inside a dog,book,dog,misc_positional,inside
+phrase_15231401.pt,50,a photo of a chair inside a pizza,chair,pizza,misc_positional,inside
+phrase_15231401.pt,51,a photo of a suitcase inside a train,suitcase,train,misc_positional,inside
+phrase_15231401.pt,52,a photo of a refrigerator inside a sports ball,refrigerator,sports ball,misc_positional,inside
+phrase_15231401.pt,53,a photo of a baseball bat inside a sandwich,baseball bat,sandwich,misc_positional,inside
+phrase_15231401.pt,54,a photo of a potted plant inside a fork,potted plant,fork,misc_positional,inside
+phrase_15231401.pt,55,a photo of a clock inside a cow,clock,cow,misc_positional,inside
+phrase_15231401.pt,56,a photo of a skateboard inside a motorcycle,skateboard,motorcycle,misc_positional,inside
+phrase_15231401.pt,57,a photo of a orange inside a bottle,orange,bottle,misc_positional,inside
+phrase_15231401.pt,58,a photo of a backpack inside a wine glass,backpack,wine glass,misc_positional,inside
+phrase_15231401.pt,59,a photo of a surfboard inside a handbag,surfboard,handbag,misc_positional,inside
+phrase_15231401.pt,60,a photo of a frisbee inside a broccoli,frisbee,broccoli,misc_positional,inside
+phrase_15231401.pt,61,a photo of a cell phone inside a dog,cell phone,dog,misc_positional,inside
+phrase_15231401.pt,62,a photo of a chair inside a tennis racket,chair,tennis racket,misc_positional,inside
+phrase_15231401.pt,63,a photo of a couch inside a tv remote,couch,tv remote,misc_positional,inside
+phrase_15231401.pt,64,a photo of a donut inside a knife,donut,knife,misc_positional,inside
+phrase_15231401.pt,65,a photo of a tv remote inside a laptop,tv remote,laptop,misc_positional,inside
+phrase_15231401.pt,66,a photo of a traffic light inside a pizza,traffic light,pizza,misc_positional,inside
+phrase_15231401.pt,67,a photo of a motorcycle inside a cat,motorcycle,cat,misc_positional,inside
+phrase_15231401.pt,68,a photo of a snowboard inside a bottle,snowboard,bottle,misc_positional,inside
+phrase_15231401.pt,69,a photo of a chair inside a umbrella,chair,umbrella,misc_positional,inside
+phrase_15231401.pt,70,a photo of a fork inside a hot dog,fork,hot dog,misc_positional,inside
+phrase_15231401.pt,71,a photo of a clock inside a skateboard,clock,skateboard,misc_positional,inside
+phrase_15231401.pt,72,a photo of a potted plant inside a tv,potted plant,tv,misc_positional,inside
+phrase_15231401.pt,73,a photo of a laptop inside a computer keyboard,laptop,computer keyboard,misc_positional,inside
+phrase_15231401.pt,74,a photo of a broccoli inside a dog,broccoli,dog,misc_positional,inside
+phrase_15231401.pt,75,a photo of a tv inside a traffic light,tv,traffic light,misc_positional,inside
+phrase_15231401.pt,76,a photo of a cell phone inside a parking meter,cell phone,parking meter,misc_positional,inside
+phrase_15231401.pt,77,a photo of a fork inside a snowboard,fork,snowboard,misc_positional,inside
+phrase_15231401.pt,78,a photo of a cow inside a carrot,cow,carrot,misc_positional,inside
+phrase_15231401.pt,79,a photo of a truck inside a bus,truck,bus,misc_positional,inside
+phrase_15231401.pt,80,a photo of a toaster inside a fire hydrant,toaster,fire hydrant,misc_positional,inside
+phrase_15231401.pt,81,a photo of a bear inside a pizza,bear,pizza,misc_positional,inside
+phrase_15231401.pt,82,a photo of a pizza inside a frisbee,pizza,frisbee,misc_positional,inside
+phrase_15231401.pt,83,a photo of a oven inside a donut,oven,donut,misc_positional,inside
+phrase_15231401.pt,84,a photo of a refrigerator inside a motorcycle,refrigerator,motorcycle,misc_positional,inside
+phrase_15231401.pt,85,a photo of a book inside a tie,book,tie,misc_positional,inside
+phrase_15231401.pt,86,a photo of a hair drier inside a parking meter,hair drier,parking meter,misc_positional,inside
+phrase_15231401.pt,87,a photo of a tv inside a truck,tv,truck,misc_positional,inside
+phrase_15231401.pt,88,a photo of a teddy bear inside a microwave,teddy bear,microwave,misc_positional,inside
+phrase_15231401.pt,89,a photo of a clock inside a giraffe,clock,giraffe,misc_positional,inside
+phrase_15231401.pt,90,a photo of a person inside a refrigerator,person,refrigerator,misc_positional,inside
+phrase_15231401.pt,91,a photo of a tv inside a cow,tv,cow,misc_positional,inside
+phrase_15231401.pt,92,a photo of a microwave inside a cow,microwave,cow,misc_positional,inside
+phrase_15231401.pt,93,a photo of a fire hydrant inside a tv remote,fire hydrant,tv remote,misc_positional,inside
+phrase_15231401.pt,94,a photo of a donut inside a clock,donut,clock,misc_positional,inside
+phrase_15231401.pt,95,a photo of a baseball glove inside a sandwich,baseball glove,sandwich,misc_positional,inside
+phrase_15231401.pt,96,a photo of a hair drier inside a computer mouse,hair drier,computer mouse,misc_positional,inside
+phrase_15231401.pt,97,a photo of a skateboard inside a bear,skateboard,bear,misc_positional,inside
+phrase_15231401.pt,98,a photo of a refrigerator inside a orange,refrigerator,orange,misc_positional,inside
+phrase_15231401.pt,99,a photo of a clock inside a dining table,clock,dining table,misc_positional,inside
+phrase_53140572.pt,0,a photo of a giraffe outside a hair drier,giraffe,hair drier,misc_positional,outside
+phrase_53140572.pt,1,a photo of a broccoli outside a skis,broccoli,skis,misc_positional,outside
+phrase_53140572.pt,2,a photo of a book outside a sports ball,book,sports ball,misc_positional,outside
+phrase_53140572.pt,3,a photo of a bench outside a cow,bench,cow,misc_positional,outside
+phrase_53140572.pt,4,a photo of a computer keyboard outside a skateboard,computer keyboard,skateboard,misc_positional,outside
+phrase_53140572.pt,5,a photo of a toilet outside a potted plant,toilet,potted plant,misc_positional,outside
+phrase_53140572.pt,6,a photo of a oven outside a vase,oven,vase,misc_positional,outside
+phrase_53140572.pt,7,a photo of a bed outside a book,bed,book,misc_positional,outside
+phrase_53140572.pt,8,a photo of a cell phone outside a bear,cell phone,bear,misc_positional,outside
+phrase_53140572.pt,9,a photo of a sports ball outside a refrigerator,sports ball,refrigerator,misc_positional,outside
+phrase_53140572.pt,10,a photo of a baseball bat outside a dog,baseball bat,dog,misc_positional,outside
+phrase_53140572.pt,11,a photo of a orange outside a traffic light,orange,traffic light,misc_positional,outside
+phrase_53140572.pt,12,a photo of a teddy bear outside a orange,teddy bear,orange,misc_positional,outside
+phrase_53140572.pt,13,a photo of a skis outside a tennis racket,skis,tennis racket,misc_positional,outside
+phrase_53140572.pt,14,a photo of a zebra outside a bicycle,zebra,bicycle,misc_positional,outside
+phrase_53140572.pt,15,a photo of a sheep outside a computer mouse,sheep,computer mouse,misc_positional,outside
+phrase_53140572.pt,16,a photo of a cell phone outside a orange,cell phone,orange,misc_positional,outside
+phrase_53140572.pt,17,a photo of a knife outside a umbrella,knife,umbrella,misc_positional,outside
+phrase_53140572.pt,18,a photo of a motorcycle outside a carrot,motorcycle,carrot,misc_positional,outside
+phrase_53140572.pt,19,a photo of a traffic light outside a horse,traffic light,horse,misc_positional,outside
+phrase_53140572.pt,20,a photo of a surfboard outside a tv,surfboard,tv,misc_positional,outside
+phrase_53140572.pt,21,a photo of a carrot outside a truck,carrot,truck,misc_positional,outside
+phrase_53140572.pt,22,a photo of a giraffe outside a fire hydrant,giraffe,fire hydrant,misc_positional,outside
+phrase_53140572.pt,23,a photo of a elephant outside a toaster,elephant,toaster,misc_positional,outside
+phrase_53140572.pt,24,a photo of a bowl outside a dog,bowl,dog,misc_positional,outside
+phrase_53140572.pt,25,a photo of a bench outside a motorcycle,bench,motorcycle,misc_positional,outside
+phrase_53140572.pt,26,a photo of a frisbee outside a handbag,frisbee,handbag,misc_positional,outside
+phrase_53140572.pt,27,a photo of a skis outside a cat,skis,cat,misc_positional,outside
+phrase_53140572.pt,28,a photo of a surfboard outside a spoon,surfboard,spoon,misc_positional,outside
+phrase_53140572.pt,29,a photo of a bicycle outside a bus,bicycle,bus,misc_positional,outside
+phrase_53140572.pt,30,a photo of a car outside a laptop,car,laptop,misc_positional,outside
+phrase_53140572.pt,31,a photo of a frisbee outside a cat,frisbee,cat,misc_positional,outside
+phrase_53140572.pt,32,a photo of a skis outside a motorcycle,skis,motorcycle,misc_positional,outside
+phrase_53140572.pt,33,a photo of a toilet outside a cat,toilet,cat,misc_positional,outside
+phrase_53140572.pt,34,a photo of a snowboard outside a boat,snowboard,boat,misc_positional,outside
+phrase_53140572.pt,35,a photo of a broccoli outside a bird,broccoli,bird,misc_positional,outside
+phrase_53140572.pt,36,a photo of a scissors outside a airplane,scissors,airplane,misc_positional,outside
+phrase_53140572.pt,37,a photo of a bowl outside a banana,bowl,banana,misc_positional,outside
+phrase_53140572.pt,38,a photo of a baseball glove outside a bicycle,baseball glove,bicycle,misc_positional,outside
+phrase_53140572.pt,39,a photo of a microwave outside a skis,microwave,skis,misc_positional,outside
+phrase_53140572.pt,40,a photo of a banana outside a stop sign,banana,stop sign,misc_positional,outside
+phrase_53140572.pt,41,a photo of a oven outside a snowboard,oven,snowboard,misc_positional,outside
+phrase_53140572.pt,42,a photo of a giraffe outside a tie,giraffe,tie,misc_positional,outside
+phrase_53140572.pt,43,a photo of a parking meter outside a toilet,parking meter,toilet,misc_positional,outside
+phrase_53140572.pt,44,a photo of a banana outside a fork,banana,fork,misc_positional,outside
+phrase_53140572.pt,45,a photo of a laptop outside a broccoli,laptop,broccoli,misc_positional,outside
+phrase_53140572.pt,46,a photo of a orange outside a toothbrush,orange,toothbrush,misc_positional,outside
+phrase_53140572.pt,47,a photo of a baseball bat outside a boat,baseball bat,boat,misc_positional,outside
+phrase_53140572.pt,48,a photo of a snowboard outside a skateboard,snowboard,skateboard,misc_positional,outside
+phrase_53140572.pt,49,a photo of a book outside a dog,book,dog,misc_positional,outside
+phrase_53140572.pt,50,a photo of a chair outside a pizza,chair,pizza,misc_positional,outside
+phrase_53140572.pt,51,a photo of a suitcase outside a train,suitcase,train,misc_positional,outside
+phrase_53140572.pt,52,a photo of a refrigerator outside a sports ball,refrigerator,sports ball,misc_positional,outside
+phrase_53140572.pt,53,a photo of a baseball bat outside a sandwich,baseball bat,sandwich,misc_positional,outside
+phrase_53140572.pt,54,a photo of a potted plant outside a fork,potted plant,fork,misc_positional,outside
+phrase_53140572.pt,55,a photo of a clock outside a cow,clock,cow,misc_positional,outside
+phrase_53140572.pt,56,a photo of a skateboard outside a motorcycle,skateboard,motorcycle,misc_positional,outside
+phrase_53140572.pt,57,a photo of a orange outside a bottle,orange,bottle,misc_positional,outside
+phrase_53140572.pt,58,a photo of a backpack outside a wine glass,backpack,wine glass,misc_positional,outside
+phrase_53140572.pt,59,a photo of a surfboard outside a handbag,surfboard,handbag,misc_positional,outside
+phrase_53140572.pt,60,a photo of a frisbee outside a broccoli,frisbee,broccoli,misc_positional,outside
+phrase_53140572.pt,61,a photo of a cell phone outside a dog,cell phone,dog,misc_positional,outside
+phrase_53140572.pt,62,a photo of a chair outside a tennis racket,chair,tennis racket,misc_positional,outside
+phrase_53140572.pt,63,a photo of a couch outside a tv remote,couch,tv remote,misc_positional,outside
+phrase_53140572.pt,64,a photo of a donut outside a knife,donut,knife,misc_positional,outside
+phrase_53140572.pt,65,a photo of a tv remote outside a laptop,tv remote,laptop,misc_positional,outside
+phrase_53140572.pt,66,a photo of a traffic light outside a pizza,traffic light,pizza,misc_positional,outside
+phrase_53140572.pt,67,a photo of a motorcycle outside a cat,motorcycle,cat,misc_positional,outside
+phrase_53140572.pt,68,a photo of a snowboard outside a bottle,snowboard,bottle,misc_positional,outside
+phrase_53140572.pt,69,a photo of a chair outside a umbrella,chair,umbrella,misc_positional,outside
+phrase_53140572.pt,70,a photo of a fork outside a hot dog,fork,hot dog,misc_positional,outside
+phrase_53140572.pt,71,a photo of a clock outside a skateboard,clock,skateboard,misc_positional,outside
+phrase_53140572.pt,72,a photo of a potted plant outside a tv,potted plant,tv,misc_positional,outside
+phrase_53140572.pt,73,a photo of a laptop outside a computer keyboard,laptop,computer keyboard,misc_positional,outside
+phrase_53140572.pt,74,a photo of a broccoli outside a dog,broccoli,dog,misc_positional,outside
+phrase_53140572.pt,75,a photo of a tv outside a traffic light,tv,traffic light,misc_positional,outside
+phrase_53140572.pt,76,a photo of a cell phone outside a parking meter,cell phone,parking meter,misc_positional,outside
+phrase_53140572.pt,77,a photo of a fork outside a snowboard,fork,snowboard,misc_positional,outside
+phrase_53140572.pt,78,a photo of a cow outside a carrot,cow,carrot,misc_positional,outside
+phrase_53140572.pt,79,a photo of a truck outside a bus,truck,bus,misc_positional,outside
+phrase_53140572.pt,80,a photo of a toaster outside a fire hydrant,toaster,fire hydrant,misc_positional,outside
+phrase_53140572.pt,81,a photo of a bear outside a pizza,bear,pizza,misc_positional,outside
+phrase_53140572.pt,82,a photo of a pizza outside a frisbee,pizza,frisbee,misc_positional,outside
+phrase_53140572.pt,83,a photo of a oven outside a donut,oven,donut,misc_positional,outside
+phrase_53140572.pt,84,a photo of a refrigerator outside a motorcycle,refrigerator,motorcycle,misc_positional,outside
+phrase_53140572.pt,85,a photo of a book outside a tie,book,tie,misc_positional,outside
+phrase_53140572.pt,86,a photo of a hair drier outside a parking meter,hair drier,parking meter,misc_positional,outside
+phrase_53140572.pt,87,a photo of a tv outside a truck,tv,truck,misc_positional,outside
+phrase_53140572.pt,88,a photo of a teddy bear outside a microwave,teddy bear,microwave,misc_positional,outside
+phrase_53140572.pt,89,a photo of a clock outside a giraffe,clock,giraffe,misc_positional,outside
+phrase_53140572.pt,90,a photo of a person outside a refrigerator,person,refrigerator,misc_positional,outside
+phrase_53140572.pt,91,a photo of a tv outside a cow,tv,cow,misc_positional,outside
+phrase_53140572.pt,92,a photo of a microwave outside a cow,microwave,cow,misc_positional,outside
+phrase_53140572.pt,93,a photo of a fire hydrant outside a tv remote,fire hydrant,tv remote,misc_positional,outside
+phrase_53140572.pt,94,a photo of a donut outside a clock,donut,clock,misc_positional,outside
+phrase_53140572.pt,95,a photo of a baseball glove outside a sandwich,baseball glove,sandwich,misc_positional,outside
+phrase_53140572.pt,96,a photo of a hair drier outside a computer mouse,hair drier,computer mouse,misc_positional,outside
+phrase_53140572.pt,97,a photo of a skateboard outside a bear,skateboard,bear,misc_positional,outside
+phrase_53140572.pt,98,a photo of a refrigerator outside a orange,refrigerator,orange,misc_positional,outside
+phrase_53140572.pt,99,a photo of a clock outside a dining table,clock,dining table,misc_positional,outside

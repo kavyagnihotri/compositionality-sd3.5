@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_88935510.pt,0,giraffe,hair drier,between,Does this figure show 'a giraffe between a hair drier'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,1,broccoli,skis,between,Does this figure show 'a broccoli between a skis'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,2,book,sports ball,between,Does this figure show 'a book between a sports ball'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,3,bench,cow,between,Does this figure show 'a bench between a cow'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,4,computer keyboard,skateboard,between,Does this figure show 'a computer keyboard between a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,5,toilet,potted plant,between,Does this figure show 'a toilet between a potted plant'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,6,oven,vase,between,Does this figure show 'a oven between a vase'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,7,bed,book,between,Does this figure show 'a bed between a book'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,8,cell phone,bear,between,Does this figure show 'a cell phone between a bear'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,9,sports ball,refrigerator,between,Does this figure show 'a sports ball between a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,10,baseball bat,dog,between,Does this figure show 'a baseball bat between a dog'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,11,orange,traffic light,between,Does this figure show 'a orange between a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,12,teddy bear,orange,between,Does this figure show 'a teddy bear between a orange'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,13,skis,tennis racket,between,Does this figure show 'a skis between a tennis racket'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,14,zebra,bicycle,between,Does this figure show 'a zebra between a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,15,sheep,computer mouse,between,Does this figure show 'a sheep between a computer mouse'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,16,cell phone,orange,between,Does this figure show 'a cell phone between a orange'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,17,knife,umbrella,between,Does this figure show 'a knife between a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,18,motorcycle,carrot,between,Does this figure show 'a motorcycle between a carrot'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,19,traffic light,horse,between,Does this figure show 'a traffic light between a horse'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,20,surfboard,tv,between,Does this figure show 'a surfboard between a tv'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,21,carrot,truck,between,Does this figure show 'a carrot between a truck'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,22,giraffe,fire hydrant,between,Does this figure show 'a giraffe between a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,23,elephant,toaster,between,Does this figure show 'a elephant between a toaster'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,24,bowl,dog,between,Does this figure show 'a bowl between a dog'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,25,bench,motorcycle,between,Does this figure show 'a bench between a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,26,frisbee,handbag,between,Does this figure show 'a frisbee between a handbag'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,27,skis,cat,between,Does this figure show 'a skis between a cat'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,28,surfboard,spoon,between,Does this figure show 'a surfboard between a spoon'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,29,bicycle,bus,between,Does this figure show 'a bicycle between a bus'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,30,car,laptop,between,Does this figure show 'a car between a laptop'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,31,frisbee,cat,between,Does this figure show 'a frisbee between a cat'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,32,skis,motorcycle,between,Does this figure show 'a skis between a motorcycle'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,33,toilet,cat,between,Does this figure show 'a toilet between a cat'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,34,snowboard,boat,between,Does this figure show 'a snowboard between a boat'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,35,broccoli,bird,between,Does this figure show 'a broccoli between a bird'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,36,scissors,airplane,between,Does this figure show 'a scissors between a airplane'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,37,bowl,banana,between,Does this figure show 'a bowl between a banana'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,38,baseball glove,bicycle,between,Does this figure show 'a baseball glove between a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,39,microwave,skis,between,Does this figure show 'a microwave between a skis'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,40,banana,stop sign,between,Does this figure show 'a banana between a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,41,oven,snowboard,between,Does this figure show 'a oven between a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,42,giraffe,tie,between,Does this figure show 'a giraffe between a tie'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,43,parking meter,toilet,between,Does this figure show 'a parking meter between a toilet'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,44,banana,fork,between,Does this figure show 'a banana between a fork'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,45,laptop,broccoli,between,Does this figure show 'a laptop between a broccoli'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,46,orange,toothbrush,between,Does this figure show 'a orange between a toothbrush'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,47,baseball bat,boat,between,Does this figure show 'a baseball bat between a boat'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,48,snowboard,skateboard,between,Does this figure show 'a snowboard between a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,49,book,dog,between,Does this figure show 'a book between a dog'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,50,chair,pizza,between,Does this figure show 'a chair between a pizza'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,51,suitcase,train,between,Does this figure show 'a suitcase between a train'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,52,refrigerator,sports ball,between,Does this figure show 'a refrigerator between a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,53,baseball bat,sandwich,between,Does this figure show 'a baseball bat between a sandwich'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,54,potted plant,fork,between,Does this figure show 'a potted plant between a fork'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,55,clock,cow,between,Does this figure show 'a clock between a cow'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,56,skateboard,motorcycle,between,Does this figure show 'a skateboard between a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,57,orange,bottle,between,Does this figure show 'a orange between a bottle'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,58,backpack,wine glass,between,Does this figure show 'a backpack between a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,59,surfboard,handbag,between,Does this figure show 'a surfboard between a handbag'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,60,frisbee,broccoli,between,Does this figure show 'a frisbee between a broccoli'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,61,cell phone,dog,between,Does this figure show 'a cell phone between a dog'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,62,chair,tennis racket,between,Does this figure show 'a chair between a tennis racket'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,63,couch,tv remote,between,Does this figure show 'a couch between a tv remote'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,64,donut,knife,between,Does this figure show 'a donut between a knife'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,65,tv remote,laptop,between,Does this figure show 'a tv remote between a laptop'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,66,traffic light,pizza,between,Does this figure show 'a traffic light between a pizza'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,67,motorcycle,cat,between,Does this figure show 'a motorcycle between a cat'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,68,snowboard,bottle,between,Does this figure show 'a snowboard between a bottle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,69,chair,umbrella,between,Does this figure show 'a chair between a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,70,fork,hot dog,between,Does this figure show 'a fork between a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,71,clock,skateboard,between,Does this figure show 'a clock between a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,72,potted plant,tv,between,Does this figure show 'a potted plant between a tv'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,73,laptop,computer keyboard,between,Does this figure show 'a laptop between a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,74,broccoli,dog,between,Does this figure show 'a broccoli between a dog'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,75,tv,traffic light,between,Does this figure show 'a tv between a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,76,cell phone,parking meter,between,Does this figure show 'a cell phone between a parking meter'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,77,fork,snowboard,between,Does this figure show 'a fork between a snowboard'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,78,cow,carrot,between,Does this figure show 'a cow between a carrot'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,79,truck,bus,between,Does this figure show 'a truck between a bus'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,80,toaster,fire hydrant,between,Does this figure show 'a toaster between a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,81,bear,pizza,between,Does this figure show 'a bear between a pizza'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,82,pizza,frisbee,between,Does this figure show 'a pizza between a frisbee'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,83,oven,donut,between,Does this figure show 'a oven between a donut'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,84,refrigerator,motorcycle,between,Does this figure show 'a refrigerator between a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,85,book,tie,between,Does this figure show 'a book between a tie'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,86,hair drier,parking meter,between,Does this figure show 'a hair drier between a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,87,tv,truck,between,Does this figure show 'a tv between a truck'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,88,teddy bear,microwave,between,Does this figure show 'a teddy bear between a microwave'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,89,clock,giraffe,between,Does this figure show 'a clock between a giraffe'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,90,person,refrigerator,between,Does this figure show 'a person between a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,91,tv,cow,between,Does this figure show 'a tv between a cow'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,92,microwave,cow,between,Does this figure show 'a microwave between a cow'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,93,fire hydrant,tv remote,between,Does this figure show 'a fire hydrant between a tv remote'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,94,donut,clock,between,Does this figure show 'a donut between a clock'? Please answer yes or no.,Yes.,YES
+phrase_88935510.pt,95,baseball glove,sandwich,between,Does this figure show 'a baseball glove between a sandwich'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,96,hair drier,computer mouse,between,Does this figure show 'a hair drier between a computer mouse'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,97,skateboard,bear,between,Does this figure show 'a skateboard between a bear'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,98,refrigerator,orange,between,Does this figure show 'a refrigerator between a orange'? Please answer yes or no.,No.,NO
+phrase_88935510.pt,99,clock,dining table,between,Does this figure show 'a clock between a dining table'? Please answer yes or no.,No.,NO

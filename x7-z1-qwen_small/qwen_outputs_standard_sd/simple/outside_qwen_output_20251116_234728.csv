@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_48784865.pt,0,giraffe,hair drier,outside,Does this figure show 'a giraffe outside a hair drier'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,1,broccoli,skis,outside,Does this figure show 'a broccoli outside a skis'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,2,book,sports ball,outside,Does this figure show 'a book outside a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,3,bench,cow,outside,Does this figure show 'a bench outside a cow'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,4,computer keyboard,skateboard,outside,Does this figure show 'a computer keyboard outside a skateboard'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,5,toilet,potted plant,outside,Does this figure show 'a toilet outside a potted plant'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,6,oven,vase,outside,Does this figure show 'a oven outside a vase'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,7,bed,book,outside,Does this figure show 'a bed outside a book'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,8,cell phone,bear,outside,Does this figure show 'a cell phone outside a bear'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,9,sports ball,refrigerator,outside,Does this figure show 'a sports ball outside a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,10,baseball bat,dog,outside,Does this figure show 'a baseball bat outside a dog'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,11,orange,traffic light,outside,Does this figure show 'a orange outside a traffic light'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,12,teddy bear,orange,outside,Does this figure show 'a teddy bear outside a orange'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,13,skis,tennis racket,outside,Does this figure show 'a skis outside a tennis racket'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,14,zebra,bicycle,outside,Does this figure show 'a zebra outside a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,15,sheep,computer mouse,outside,Does this figure show 'a sheep outside a computer mouse'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,16,cell phone,orange,outside,Does this figure show 'a cell phone outside a orange'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,17,knife,umbrella,outside,Does this figure show 'a knife outside a umbrella'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,18,motorcycle,carrot,outside,Does this figure show 'a motorcycle outside a carrot'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,19,traffic light,horse,outside,Does this figure show 'a traffic light outside a horse'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,20,surfboard,tv,outside,Does this figure show 'a surfboard outside a tv'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,21,carrot,truck,outside,Does this figure show 'a carrot outside a truck'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,22,giraffe,fire hydrant,outside,Does this figure show 'a giraffe outside a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,23,elephant,toaster,outside,Does this figure show 'a elephant outside a toaster'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,24,bowl,dog,outside,Does this figure show 'a bowl outside a dog'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,25,bench,motorcycle,outside,Does this figure show 'a bench outside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,26,frisbee,handbag,outside,Does this figure show 'a frisbee outside a handbag'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,27,skis,cat,outside,Does this figure show 'a skis outside a cat'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,28,surfboard,spoon,outside,Does this figure show 'a surfboard outside a spoon'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,29,bicycle,bus,outside,Does this figure show 'a bicycle outside a bus'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,30,car,laptop,outside,Does this figure show 'a car outside a laptop'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,31,frisbee,cat,outside,Does this figure show 'a frisbee outside a cat'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,32,skis,motorcycle,outside,Does this figure show 'a skis outside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,33,toilet,cat,outside,Does this figure show 'a toilet outside a cat'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,34,snowboard,boat,outside,Does this figure show 'a snowboard outside a boat'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,35,broccoli,bird,outside,Does this figure show 'a broccoli outside a bird'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,36,scissors,airplane,outside,Does this figure show 'a scissors outside a airplane'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,37,bowl,banana,outside,Does this figure show 'a bowl outside a banana'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,38,baseball glove,bicycle,outside,Does this figure show 'a baseball glove outside a bicycle'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,39,microwave,skis,outside,Does this figure show 'a microwave outside a skis'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,40,banana,stop sign,outside,Does this figure show 'a banana outside a stop sign'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,41,oven,snowboard,outside,Does this figure show 'a oven outside a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,42,giraffe,tie,outside,Does this figure show 'a giraffe outside a tie'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,43,parking meter,toilet,outside,Does this figure show 'a parking meter outside a toilet'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,44,banana,fork,outside,Does this figure show 'a banana outside a fork'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,45,laptop,broccoli,outside,Does this figure show 'a laptop outside a broccoli'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,46,orange,toothbrush,outside,Does this figure show 'a orange outside a toothbrush'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,47,baseball bat,boat,outside,Does this figure show 'a baseball bat outside a boat'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,48,snowboard,skateboard,outside,Does this figure show 'a snowboard outside a skateboard'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,49,book,dog,outside,Does this figure show 'a book outside a dog'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,50,chair,pizza,outside,Does this figure show 'a chair outside a pizza'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,51,suitcase,train,outside,Does this figure show 'a suitcase outside a train'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,52,refrigerator,sports ball,outside,Does this figure show 'a refrigerator outside a sports ball'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,53,baseball bat,sandwich,outside,Does this figure show 'a baseball bat outside a sandwich'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,54,potted plant,fork,outside,Does this figure show 'a potted plant outside a fork'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,55,clock,cow,outside,Does this figure show 'a clock outside a cow'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,56,skateboard,motorcycle,outside,Does this figure show 'a skateboard outside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,57,orange,bottle,outside,Does this figure show 'a orange outside a bottle'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,58,backpack,wine glass,outside,Does this figure show 'a backpack outside a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,59,surfboard,handbag,outside,Does this figure show 'a surfboard outside a handbag'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,60,frisbee,broccoli,outside,Does this figure show 'a frisbee outside a broccoli'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,61,cell phone,dog,outside,Does this figure show 'a cell phone outside a dog'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,62,chair,tennis racket,outside,Does this figure show 'a chair outside a tennis racket'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,63,couch,tv remote,outside,Does this figure show 'a couch outside a tv remote'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,64,donut,knife,outside,Does this figure show 'a donut outside a knife'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,65,tv remote,laptop,outside,Does this figure show 'a tv remote outside a laptop'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,66,traffic light,pizza,outside,Does this figure show 'a traffic light outside a pizza'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,67,motorcycle,cat,outside,Does this figure show 'a motorcycle outside a cat'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,68,snowboard,bottle,outside,Does this figure show 'a snowboard outside a bottle'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,69,chair,umbrella,outside,Does this figure show 'a chair outside a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,70,fork,hot dog,outside,Does this figure show 'a fork outside a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,71,clock,skateboard,outside,Does this figure show 'a clock outside a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,72,potted plant,tv,outside,Does this figure show 'a potted plant outside a tv'? Please answer yes or no.,no,NO
+phrase_48784865.pt,73,laptop,computer keyboard,outside,Does this figure show 'a laptop outside a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,74,broccoli,dog,outside,Does this figure show 'a broccoli outside a dog'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,75,tv,traffic light,outside,Does this figure show 'a tv outside a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,76,cell phone,parking meter,outside,Does this figure show 'a cell phone outside a parking meter'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,77,fork,snowboard,outside,Does this figure show 'a fork outside a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,78,cow,carrot,outside,Does this figure show 'a cow outside a carrot'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,79,truck,bus,outside,Does this figure show 'a truck outside a bus'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,80,toaster,fire hydrant,outside,Does this figure show 'a toaster outside a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,81,bear,pizza,outside,Does this figure show 'a bear outside a pizza'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,82,pizza,frisbee,outside,Does this figure show 'a pizza outside a frisbee'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,83,oven,donut,outside,Does this figure show 'a oven outside a donut'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,84,refrigerator,motorcycle,outside,Does this figure show 'a refrigerator outside a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,85,book,tie,outside,Does this figure show 'a book outside a tie'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,86,hair drier,parking meter,outside,Does this figure show 'a hair drier outside a parking meter'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,87,tv,truck,outside,Does this figure show 'a tv outside a truck'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,88,teddy bear,microwave,outside,Does this figure show 'a teddy bear outside a microwave'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,89,clock,giraffe,outside,Does this figure show 'a clock outside a giraffe'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,90,person,refrigerator,outside,Does this figure show 'a person outside a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,91,tv,cow,outside,Does this figure show 'a tv outside a cow'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,92,microwave,cow,outside,Does this figure show 'a microwave outside a cow'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,93,fire hydrant,tv remote,outside,Does this figure show 'a fire hydrant outside a tv remote'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,94,donut,clock,outside,Does this figure show 'a donut outside a clock'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,95,baseball glove,sandwich,outside,Does this figure show 'a baseball glove outside a sandwich'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,96,hair drier,computer mouse,outside,Does this figure show 'a hair drier outside a computer mouse'? Please answer yes or no.,Yes.,YES
+phrase_48784865.pt,97,skateboard,bear,outside,Does this figure show 'a skateboard outside a bear'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,98,refrigerator,orange,outside,Does this figure show 'a refrigerator outside a orange'? Please answer yes or no.,No.,NO
+phrase_48784865.pt,99,clock,dining table,outside,Does this figure show 'a clock outside a dining table'? Please answer yes or no.,No.,NO

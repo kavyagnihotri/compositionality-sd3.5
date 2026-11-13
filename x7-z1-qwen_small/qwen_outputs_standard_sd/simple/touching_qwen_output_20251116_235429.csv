@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_445283.pt,0,giraffe,hair drier,touching,Does this figure show 'a giraffe touching a hair drier'? Please answer yes or no.,No.,NO
+phrase_445283.pt,1,broccoli,skis,touching,Does this figure show 'a broccoli touching a skis'? Please answer yes or no.,No.,NO
+phrase_445283.pt,2,book,sports ball,touching,Does this figure show 'a book touching a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,3,bench,cow,touching,Does this figure show 'a bench touching a cow'? Please answer yes or no.,No.,NO
+phrase_445283.pt,4,computer keyboard,skateboard,touching,Does this figure show 'a computer keyboard touching a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,5,toilet,potted plant,touching,Does this figure show 'a toilet touching a potted plant'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,6,oven,vase,touching,Does this figure show 'a oven touching a vase'? Please answer yes or no.,No.,NO
+phrase_445283.pt,7,bed,book,touching,Does this figure show 'a bed touching a book'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,8,cell phone,bear,touching,Does this figure show 'a cell phone touching a bear'? Please answer yes or no.,No.,NO
+phrase_445283.pt,9,sports ball,refrigerator,touching,Does this figure show 'a sports ball touching a refrigerator'? Please answer yes or no.,No.,NO
+phrase_445283.pt,10,baseball bat,dog,touching,Does this figure show 'a baseball bat touching a dog'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,11,orange,traffic light,touching,Does this figure show 'a orange touching a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,12,teddy bear,orange,touching,Does this figure show 'a teddy bear touching a orange'? Please answer yes or no.,No.,NO
+phrase_445283.pt,13,skis,tennis racket,touching,Does this figure show 'a skis touching a tennis racket'? Please answer yes or no.,No.,NO
+phrase_445283.pt,14,zebra,bicycle,touching,Does this figure show 'a zebra touching a bicycle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,15,sheep,computer mouse,touching,Does this figure show 'a sheep touching a computer mouse'? Please answer yes or no.,No.,NO
+phrase_445283.pt,16,cell phone,orange,touching,Does this figure show 'a cell phone touching a orange'? Please answer yes or no.,No.,NO
+phrase_445283.pt,17,knife,umbrella,touching,Does this figure show 'a knife touching a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,18,motorcycle,carrot,touching,Does this figure show 'a motorcycle touching a carrot'? Please answer yes or no.,No.,NO
+phrase_445283.pt,19,traffic light,horse,touching,Does this figure show 'a traffic light touching a horse'? Please answer yes or no.,No.,NO
+phrase_445283.pt,20,surfboard,tv,touching,Does this figure show 'a surfboard touching a tv'? Please answer yes or no.,No.,NO
+phrase_445283.pt,21,carrot,truck,touching,Does this figure show 'a carrot touching a truck'? Please answer yes or no.,No.,NO
+phrase_445283.pt,22,giraffe,fire hydrant,touching,Does this figure show 'a giraffe touching a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,23,elephant,toaster,touching,Does this figure show 'a elephant touching a toaster'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,24,bowl,dog,touching,Does this figure show 'a bowl touching a dog'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,25,bench,motorcycle,touching,Does this figure show 'a bench touching a motorcycle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,26,frisbee,handbag,touching,Does this figure show 'a frisbee touching a handbag'? Please answer yes or no.,No.,NO
+phrase_445283.pt,27,skis,cat,touching,Does this figure show 'a skis touching a cat'? Please answer yes or no.,No.,NO
+phrase_445283.pt,28,surfboard,spoon,touching,Does this figure show 'a surfboard touching a spoon'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,29,bicycle,bus,touching,Does this figure show 'a bicycle touching a bus'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,30,car,laptop,touching,Does this figure show 'a car touching a laptop'? Please answer yes or no.,No.,NO
+phrase_445283.pt,31,frisbee,cat,touching,Does this figure show 'a frisbee touching a cat'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,32,skis,motorcycle,touching,Does this figure show 'a skis touching a motorcycle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,33,toilet,cat,touching,Does this figure show 'a toilet touching a cat'? Please answer yes or no.,No.,NO
+phrase_445283.pt,34,snowboard,boat,touching,Does this figure show 'a snowboard touching a boat'? Please answer yes or no.,No.,NO
+phrase_445283.pt,35,broccoli,bird,touching,Does this figure show 'a broccoli touching a bird'? Please answer yes or no.,No.,NO
+phrase_445283.pt,36,scissors,airplane,touching,Does this figure show 'a scissors touching a airplane'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,37,bowl,banana,touching,Does this figure show 'a bowl touching a banana'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,38,baseball glove,bicycle,touching,Does this figure show 'a baseball glove touching a bicycle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,39,microwave,skis,touching,Does this figure show 'a microwave touching a skis'? Please answer yes or no.,No.,NO
+phrase_445283.pt,40,banana,stop sign,touching,Does this figure show 'a banana touching a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,41,oven,snowboard,touching,Does this figure show 'a oven touching a snowboard'? Please answer yes or no.,Yes,YES
+phrase_445283.pt,42,giraffe,tie,touching,Does this figure show 'a giraffe touching a tie'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,43,parking meter,toilet,touching,Does this figure show 'a parking meter touching a toilet'? Please answer yes or no.,No.,NO
+phrase_445283.pt,44,banana,fork,touching,Does this figure show 'a banana touching a fork'? Please answer yes or no.,No.,NO
+phrase_445283.pt,45,laptop,broccoli,touching,Does this figure show 'a laptop touching a broccoli'? Please answer yes or no.,No.,NO
+phrase_445283.pt,46,orange,toothbrush,touching,Does this figure show 'a orange touching a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,47,baseball bat,boat,touching,Does this figure show 'a baseball bat touching a boat'? Please answer yes or no.,No.,NO
+phrase_445283.pt,48,snowboard,skateboard,touching,Does this figure show 'a snowboard touching a skateboard'? Please answer yes or no.,No.,NO
+phrase_445283.pt,49,book,dog,touching,Does this figure show 'a book touching a dog'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,50,chair,pizza,touching,Does this figure show 'a chair touching a pizza'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,51,suitcase,train,touching,Does this figure show 'a suitcase touching a train'? Please answer yes or no.,No.,NO
+phrase_445283.pt,52,refrigerator,sports ball,touching,Does this figure show 'a refrigerator touching a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,53,baseball bat,sandwich,touching,Does this figure show 'a baseball bat touching a sandwich'? Please answer yes or no.,No.,NO
+phrase_445283.pt,54,potted plant,fork,touching,Does this figure show 'a potted plant touching a fork'? Please answer yes or no.,No.,NO
+phrase_445283.pt,55,clock,cow,touching,Does this figure show 'a clock touching a cow'? Please answer yes or no.,No.,NO
+phrase_445283.pt,56,skateboard,motorcycle,touching,Does this figure show 'a skateboard touching a motorcycle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,57,orange,bottle,touching,Does this figure show 'a orange touching a bottle'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,58,backpack,wine glass,touching,Does this figure show 'a backpack touching a wine glass'? Please answer yes or no.,No.,NO
+phrase_445283.pt,59,surfboard,handbag,touching,Does this figure show 'a surfboard touching a handbag'? Please answer yes or no.,No.,NO
+phrase_445283.pt,60,frisbee,broccoli,touching,Does this figure show 'a frisbee touching a broccoli'? Please answer yes or no.,No.,NO
+phrase_445283.pt,61,cell phone,dog,touching,Does this figure show 'a cell phone touching a dog'? Please answer yes or no.,No.,NO
+phrase_445283.pt,62,chair,tennis racket,touching,Does this figure show 'a chair touching a tennis racket'? Please answer yes or no.,No.,NO
+phrase_445283.pt,63,couch,tv remote,touching,Does this figure show 'a couch touching a tv remote'? Please answer yes or no.,No.,NO
+phrase_445283.pt,64,donut,knife,touching,Does this figure show 'a donut touching a knife'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,65,tv remote,laptop,touching,Does this figure show 'a tv remote touching a laptop'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,66,traffic light,pizza,touching,Does this figure show 'a traffic light touching a pizza'? Please answer yes or no.,No.,NO
+phrase_445283.pt,67,motorcycle,cat,touching,Does this figure show 'a motorcycle touching a cat'? Please answer yes or no.,No.,NO
+phrase_445283.pt,68,snowboard,bottle,touching,Does this figure show 'a snowboard touching a bottle'? Please answer yes or no.,No.,NO
+phrase_445283.pt,69,chair,umbrella,touching,Does this figure show 'a chair touching a umbrella'? Please answer yes or no.,No.,NO
+phrase_445283.pt,70,fork,hot dog,touching,Does this figure show 'a fork touching a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,71,clock,skateboard,touching,Does this figure show 'a clock touching a skateboard'? Please answer yes or no.,No.,NO
+phrase_445283.pt,72,potted plant,tv,touching,Does this figure show 'a potted plant touching a tv'? Please answer yes or no.,No.,NO
+phrase_445283.pt,73,laptop,computer keyboard,touching,Does this figure show 'a laptop touching a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_445283.pt,74,broccoli,dog,touching,Does this figure show 'a broccoli touching a dog'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,75,tv,traffic light,touching,Does this figure show 'a tv touching a traffic light'? Please answer yes or no.,No.,NO
+phrase_445283.pt,76,cell phone,parking meter,touching,Does this figure show 'a cell phone touching a parking meter'? Please answer yes or no.,No.,NO
+phrase_445283.pt,77,fork,snowboard,touching,Does this figure show 'a fork touching a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,78,cow,carrot,touching,Does this figure show 'a cow touching a carrot'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,79,truck,bus,touching,Does this figure show 'a truck touching a bus'? Please answer yes or no.,No.,NO
+phrase_445283.pt,80,toaster,fire hydrant,touching,Does this figure show 'a toaster touching a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_445283.pt,81,bear,pizza,touching,Does this figure show 'a bear touching a pizza'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,82,pizza,frisbee,touching,Does this figure show 'a pizza touching a frisbee'? Please answer yes or no.,No.,NO
+phrase_445283.pt,83,oven,donut,touching,Does this figure show 'a oven touching a donut'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,84,refrigerator,motorcycle,touching,Does this figure show 'a refrigerator touching a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,85,book,tie,touching,Does this figure show 'a book touching a tie'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,86,hair drier,parking meter,touching,Does this figure show 'a hair drier touching a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,87,tv,truck,touching,Does this figure show 'a tv touching a truck'? Please answer yes or no.,No.,NO
+phrase_445283.pt,88,teddy bear,microwave,touching,Does this figure show 'a teddy bear touching a microwave'? Please answer yes or no.,No.,NO
+phrase_445283.pt,89,clock,giraffe,touching,Does this figure show 'a clock touching a giraffe'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,90,person,refrigerator,touching,Does this figure show 'a person touching a refrigerator'? Please answer yes or no.,No.,NO
+phrase_445283.pt,91,tv,cow,touching,Does this figure show 'a tv touching a cow'? Please answer yes or no.,No.,NO
+phrase_445283.pt,92,microwave,cow,touching,Does this figure show 'a microwave touching a cow'? Please answer yes or no.,No.,NO
+phrase_445283.pt,93,fire hydrant,tv remote,touching,Does this figure show 'a fire hydrant touching a tv remote'? Please answer yes or no.,No.,NO
+phrase_445283.pt,94,donut,clock,touching,Does this figure show 'a donut touching a clock'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,95,baseball glove,sandwich,touching,Does this figure show 'a baseball glove touching a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,96,hair drier,computer mouse,touching,Does this figure show 'a hair drier touching a computer mouse'? Please answer yes or no.,No.,NO
+phrase_445283.pt,97,skateboard,bear,touching,Does this figure show 'a skateboard touching a bear'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,98,refrigerator,orange,touching,Does this figure show 'a refrigerator touching a orange'? Please answer yes or no.,Yes.,YES
+phrase_445283.pt,99,clock,dining table,touching,Does this figure show 'a clock touching a dining table'? Please answer yes or no.,No.,NO

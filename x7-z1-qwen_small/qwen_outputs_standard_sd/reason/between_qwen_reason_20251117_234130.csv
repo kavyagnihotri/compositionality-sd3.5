@@ -1,0 +1,704 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_88935510.pt,0,giraffe,hair drier,between,"Analyze the image to determine if it shows 'a giraffe between a hair drier'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The giraffe is clearly visible in the center of the image, with high detail and sharp focus. Its head and neck are fully visible, and the lighting is bright and even, highlighting its features.
+- The hair dryers are also clearly visible, appearing as distinct objects with sharp edges and bright colors (black and pink). They are arranged around the giraffe and are not occluded or blurred.
+
+Step 2: Describe the spatial relationship between them.
+- The giraffe is positioned in the center of the image, and the hair dry",NO
+phrase_88935510.pt,1,broccoli,skis,between,"Analyze the image to determine if it shows 'a broccoli between a skis'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image clearly shows a single object, which is a head of broccoli. It is well-lit against a plain white background, with no blur or occlusion. The broccoli is in sharp focus and occupies the center of the frame. There is no object that resembles a ski visible anywhere in the image.
+
+Step 2: Describe the spatial relationship between them.
+Since only the broccoli is present in the image, there is no other object to establish a spatial relationship with. Therefore, the concept of ""a broccoli between a skis"" cannot be",NO
+phrase_88935510.pt,2,book,sports ball,between,"Analyze the image to determine if it shows 'a book between a sports ball'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The objects in the image are clearly visible with bright, even lighting and no blur.
+- A red book is centrally located, and five footballs (American footballs) and one soccer ball are arranged around it.
+- All objects are fully visible, with no occlusion of the book by the balls or vice versa.
+
+Step 2: Describe the spatial relationship between them.
+- The book is positioned in the center of the frame.
+- The footballs and the soccer ball are arranged around the book, with no object physically touching or sandwich",NO
+phrase_88935510.pt,3,bench,cow,between,"Analyze the image to determine if it shows 'a bench between a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is bright and well-lit, with clear visibility of the main subjects.
+- A bench is clearly visible in the foreground, positioned horizontally across the middle of the frame. It is in focus and not occluded.
+- Two cows are also clearly visible, one on the left (black and white) and one on the right (brown). They are in focus and not blurred.
+- There are other cows in the background, but they are less distinct but still identifiable.
+
+Step 2: Describe the spatial relationship between them.
+-",NO
+phrase_88935510.pt,4,computer keyboard,skateboard,between,"Analyze the image to determine if it shows 'a computer keyboard between a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a clean, white background, making all objects clearly visible.
+- The computer keyboard is centrally located and fully visible, with no occlusion or blur.
+- The skateboard on the left is black with yellow wheels and is fully visible.
+- The skateboard on the right is pink with yellow wheels and is also fully visible.
+- There is no blur or obstruction affecting the visibility of any object.
+
+Step 2: Describe the spatial relationship between them.
+- The computer keyboard is positioned horizontally between the two skateboards.",NO
+phrase_88935510.pt,5,toilet,potted plant,between,"Analyze the image to determine if it shows 'a toilet between a potted plant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with good visibility of all objects.
+- The toilet is fully visible, centered in the frame, and in sharp focus.
+- Multiple potted plants are visible: one large plant in a woven pot on the left, a smaller one in a green pot beside it, and two more on the right side of the toilet (one tall in a grey pot, one smaller in a black pot).
+- There is no significant occlusion or blur affecting the visibility of the toilet or the plants.
+
+Step 2: Description of spatial relationship
+- The toilet is",NO
+phrase_88935510.pt,6,oven,vase,between,"Analyze the image to determine if it shows 'a oven between a vase'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or significant occlusion.
+- The oven is fully visible in the center, with its control panel, door, and interior racks clearly seen.
+- Two vases are visible: one on the left and one on the right. Both are fully visible and in focus, with the vase on the right containing dried red flowers.
+
+Step 2: Describe the spatial relationship between them.
+- The oven is positioned in the center of the frame.
+- A vase is located to the left of",NO
+phrase_88935510.pt,7,bed,book,between,"Analyze the image to determine if it shows 'a bed between a book'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no significant blur. Both a bed and a book are clearly visible. The bed is identifiable by its blue bedding, white pillows, and dark headboard. Two open books are placed on the bed, resting on the blue duvet. There is no occlusion of the books by the bed; rather, the books are on top of the bed.
+
+Step 2: Describe the spatial relationship between them.  
+The books are positioned on top of the bed, specifically on the blue duvet",NO
+phrase_88935510.pt,8,cell phone,bear,between,"Analyze the image to determine if it shows 'a cell phone between a bear'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- The cell phone is fully visible, centrally located, and appears to be a black smartphone.
+- The bears are also clearly visible. There are two bears, one on each side of the phone, holding it with their paws. Their fur texture and facial features are detailed.
+
+Step 2: Describe the spatial relationship between them.
+- The cell phone is positioned between the two bears.
+- The bears are on the left and right sides of the phone, facing each other",NO
+phrase_88935510.pt,9,sports ball,refrigerator,between,"Analyze the image to determine if it shows 'a sports ball between a refrigerator'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+- The sports ball (a soccer ball) is clearly visible, well-lit, and in sharp focus. It occupies the central part of the image and is easily identifiable.  
+- The refrigerator is partially visible on the left side of the image. It appears as a dark, vertical structure with a smooth, reflective surface. The lighting is sufficient to identify its shape and texture, though it is partially occluded by the soccer ball and the frame of the image.  
+- There is no significant blur in the image; both objects are depicted with clarity.
+
+Step 2: Description of spatial relationship",NO
+phrase_88935510.pt,10,baseball bat,dog,between,"Analyze the image to determine if it shows 'a baseball bat between a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The two dogs are clearly visible, with good lighting and sharp detail. There is no occlusion of the dogs.
+- The baseball is also clearly visible, positioned in the lower center of the image.
+- There is no baseball bat visible anywhere in the image.
+
+Step 2: Describe the spatial relationship between them.
+- The two dogs are facing each other, positioned on the left and right sides of the frame.
+- The baseball is on the ground between the two dogs.
+- There is no object resembling a baseball bat in the image.",NO
+phrase_88935510.pt,11,orange,traffic light,between,"Analyze the image to determine if it shows 'a orange between a traffic light'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of both objects  
+The image is clear and well-lit, with no blur or occlusion. Both the traffic lights and the orange are fully visible. The orange is centrally located and sharply focused, and the traffic lights on either side are also clearly depicted.  
+
+Step 2: Spatial relationship  
+The orange is positioned horizontally between the two traffic lights, which are mounted on a horizontal pole. The orange is physically located in the space between the left and right traffic lights, attached to the same pole.  
+
+Step 3: Clarity assessment  
+The image is clear and unambiguous. The spatial arrangement is distinct",AMBIGUOUS
+phrase_88935510.pt,12,teddy bear,orange,between,"Analyze the image to determine if it shows 'a teddy bear between a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a clean, white background, providing high visibility of all objects.
+- The teddy bear is fully visible and in sharp focus, with clear details such as its white fur, black eyes, brown nose, and red bow.
+- The two oranges are also clearly visible, with textured peels and bright orange color, and they are in focus.
+- There is no significant blur or occlusion affecting the visibility of the teddy bear or the oranges.
+
+Step 2: Describe the spatial relationship between them.",YES
+phrase_88935510.pt,13,skis,tennis racket,between,"Analyze the image to determine if it shows 'a skis between a tennis racket'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- Two tennis rackets are visible, each mounted on a stand.
+- There are no skis visible in the image.
+
+Step 2: Describe the spatial relationship between them.
+- The two tennis rackets are positioned side-by-side, separated by a white line.
+- There is no object resembling a ski present between them or anywhere else in the image.
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.
+- The image",AMBIGUOUS
+phrase_88935510.pt,14,zebra,bicycle,between,"Analyze the image to determine if it shows 'a zebra between a bicycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of both objects  
+- The zebra is clearly visible in the center of the image, with high contrast between its black and white stripes and the bright white background. It is in sharp focus and well-lit.  
+- The bicycles are also clearly visible, with distinct parts such as handlebars, wheels, and pedals. The riders' legs and hands are visible, holding the handlebars. The lighting is even, and there is no significant blur or occlusion affecting the visibility of either object.
+
+Step 2: Spatial relationship between them  
+- The zebra is positioned in the middle of the frame, directly",NO
+phrase_88935510.pt,15,sheep,computer mouse,between,"Analyze the image to determine if it shows 'a sheep between a computer mouse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The sheep is clearly visible, centrally located, and well-lit with no occlusion or blur.
+- The computer mouse is also clearly visible in the foreground, to the left of the sheep, and is well-lit with no blur.
+- Both objects are in sharp focus and easily identifiable.
+
+Step 2: Description of spatial relationship
+- The sheep is positioned between two computer monitors, which are on either side of it.
+- The computer mouse is located on the desk to the left of the sheep, in the foreground.
+- The sheep is not spatially between the computer mouse and any",NO
+phrase_88935510.pt,16,cell phone,orange,between,"Analyze the image to determine if it shows 'a cell phone between a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. The cell phone and the oranges are fully visible and in sharp focus.
+
+Step 2: The cell phone is positioned in the center of the frame, with one orange to its left and one to its right. The oranges are not physically between the phone and anything else, nor is the phone between two oranges. The phone is surrounded by oranges, but not located between any two of them.
+
+Step 3: The image is clear enough to determine the spatial relationships. The phone is not between two oranges.
+
+Conclusion: No",NO
+phrase_88935510.pt,17,knife,umbrella,between,"Analyze the image to determine if it shows 'a knife between a umbrella'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The knife is clearly visible, centrally located, and in sharp focus. It is well-lit, with a metallic blade and a black handle.
+- The umbrellas are also clearly visible, though they are partially cropped by the edges of the image. They are open and appear to be made of fabric, with one dark blue, one maroon, and two shades of purple. The lighting is bright and even, with no significant blur or occlusion of the objects.
+
+Step 2: Describe the spatial relationship between them.
+- The knife",NO
+phrase_88935510.pt,18,motorcycle,carrot,between,"Analyze the image to determine if it shows 'a motorcycle between a carrot'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is a clear, well-lit illustration of a motorcycle. The motorcycle is fully visible, with no occlusion or blur. However, there is no visible carrot in the image. The background is plain white, and no other objects are present.
+
+Step 2: Describe the spatial relationship between them.  
+Since a carrot is not visible in the image, there is no spatial relationship between the motorcycle and a carrot.
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.  
+The image",AMBIGUOUS
+phrase_88935510.pt,19,traffic light,horse,between,"Analyze the image to determine if it shows 'a traffic light between a horse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The traffic light is clearly visible in the center of the image. It is illuminated, with the red light on top and the green light on the bottom, and is in sharp focus.
+- The horses are also clearly visible on both sides of the traffic light. They are shown in silhouette, with details like their ears, manes, and bridles discernible. The lighting is high-contrast, but the subjects are not occluded or blurred.
+
+Step 2: Describe the spatial relationship between them.
+- The traffic light is positioned vertically",NO
+phrase_88935510.pt,20,surfboard,tv,between,"Analyze the image to determine if it shows 'a surfboard between a tv'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The surfboard is clearly visible, standing vertically in the center of the image. It is well-lit, with no occlusion, and its features, including the fins and logo, are sharp and in focus.
+- The two televisions are also clearly visible. They are placed on stands on either side of the surfboard. The screens are off, but the casing and surrounding electronics are distinct and in focus. There is no blur or significant occlusion affecting either TV.
+
+Step 2: Describe the spatial relationship between them.
+- The",NO
+phrase_88935510.pt,21,carrot,truck,between,"Analyze the image to determine if it shows 'a carrot between a truck'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The carrot is clearly visible in the center of the image, well-lit, and in sharp focus. It is the primary subject and is not occluded.
+- The trucks are visible on both sides of the road, but they are slightly out of focus and appear blurred, especially towards the edges. The lighting on the trucks is bright, but the overall image has a high-contrast, stylized look. The trucks are partially occluded by the carrot's position in the foreground, but their forms are still discernible.
+
+Step 2",NO
+phrase_88935510.pt,22,giraffe,fire hydrant,between,"Analyze the image to determine if it shows 'a giraffe between a fire hydrant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The giraffe is clearly visible, with good lighting and sharp detail, including its head, neck, and patterned coat.
+- The two fire hydrants are also clearly visible, with bright orange color and distinct features.
+- There is no significant occlusion; both the giraffe and the fire hydrants are fully in view.
+- The image is sharp and not blurred.
+
+Step 2: Describe the spatial relationship between them.
+- The giraffe is positioned in the center of the image.
+- There is one fire hydrant to the",NO
+phrase_88935510.pt,23,elephant,toaster,between,"Analyze the image to determine if it shows 'a elephant between a toaster'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur or distortion. Both the elephant and the toasters are fully visible and in sharp focus. There is no occlusion of either object; the elephant is centered, and the toasters are positioned on either side. The lighting is even, highlighting the details of the elephant’s skin and the metallic surfaces of the toasters.
+
+Step 2: Describe the spatial relationship between them.  
+The elephant is positioned in the center of the image, with one toaster to its left and another toaster",NO
+phrase_88935510.pt,24,bowl,dog,between,"Analyze the image to determine if it shows 'a bowl between a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of objects
+- The image is clear and well-lit, with no blur or occlusion affecting the main subjects.
+- A blue and orange bowl is fully visible in the center foreground.
+- Two dogs, one black and one black-and-white, are clearly visible on either side of the bowl.
+
+Step 2: Spatial relationship
+- The bowl is positioned in the center of the frame, directly between the two dogs.
+- The dog on the left is facing the bowl, and the dog on the right is also facing the bowl, with the bowl situated spatially between them.
+
+Step 3: Ambigu",NO
+phrase_88935510.pt,25,bench,motorcycle,between,"Analyze the image to determine if it shows 'a bench between a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no significant blur.
+- The motorcycle on the left is fully visible, with its front, side, and wheels clearly shown.
+- The motorcycle on the right is also fully visible, showing its front and side.
+- The bench is centrally located and fully visible, with its wooden slats and metal frame clearly defined.
+- There is no occlusion of either motorcycle or the bench; all objects are fully in view.
+
+Step 2: Describe the spatial relationship between them.
+- The bench is",NO
+phrase_88935510.pt,26,frisbee,handbag,between,"Analyze the image to determine if it shows 'a frisbee between a handbag'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a plain white background, providing high visibility of the objects.
+- The red circular object (frisbee) is clearly visible, with a smooth, glossy surface and no blur.
+- The red handbag is also clearly visible, showing details like stitching, a gold clasp, and a leather texture.
+- There is no occlusion between the objects; they are distinct and separate.
+
+Step 2: Describe the spatial relationship between them.
+- The red frisbee is positioned in the center of the",NO
+phrase_88935510.pt,27,skis,cat,between,"Analyze the image to determine if it shows 'a skis between a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is a clear, stylized illustration with high contrast and no blur. The lighting is even and flat, typical of a graphic design. The objects—black cats and skis—are fully visible and sharply defined. There is no occlusion of the cats by the skis, nor is there any significant blurring or distortion.
+
+Step 2: Describe the spatial relationship between them.  
+The image displays three pairs of skis and three black cats. In each pair, a cat is positioned next to a ski, not between them",NO
+phrase_88935510.pt,28,surfboard,spoon,between,"Analyze the image to determine if it shows 'a surfboard between a spoon'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of both objects  
+- The surfboard is clearly visible in the center of the image. It is well-lit, in focus, and shows details such as its shape, a red line down the middle, and black fins near the tail.  
+- The two spoons are also clearly visible, one on each side of the surfboard. They are metallic, reflective, and in sharp focus. The lighting is bright and even, with no significant occlusion or blur affecting either object.  
+
+Step 2: Spatial relationship between them  
+- The surfboard is positioned vertically in the center of the frame.",NO
+phrase_88935510.pt,29,bicycle,bus,between,"Analyze the image to determine if it shows 'a bicycle between a bus'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of objects
+- The bicycle is clearly visible in the foreground, positioned on the left side of the image. It is a dark silhouette against a bright background, but its shape, wheels, frame, and basket are distinct and recognizable.
+- The bus is visible in the background on the right side of the image. It is also a dark silhouette, but its features such as the rear lights, destination sign (""Bussoue 1""), and general shape are identifiable despite the high contrast and backlighting.
+- There is some overexposure in the background due to bright lighting, but both objects are clearly present",UNCLEAR
+phrase_88935510.pt,30,car,laptop,between,"Analyze the image to determine if it shows 'a car between a laptop'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of object visibility  
+- The car is clearly visible in the center of the image, viewed from a top-down perspective. It is brightly lit with a red and blue color scheme, and there is no occlusion or blur affecting its visibility.  
+- The two laptops are also clearly visible on either side of the car. They are depicted as dark-colored devices with visible keyboards and trackpads, and they are well-lit and in focus.  
+
+Step 2: Description of spatial relationship  
+- The car is positioned vertically in the center of the frame.  
+- On the left and right sides of the car",NO
+phrase_88935510.pt,31,frisbee,cat,between,"Analyze the image to determine if it shows 'a frisbee between a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is brightly lit with a plain white background, resulting in high visibility of the subjects.
+- The cat on the left is mostly in shadow, appearing as a dark silhouette, but its form, including its head, ears, and body, is clearly discernible.
+- The cat on the right is well-lit, with detailed fur patterns visible.
+- The orange frisbee is clearly visible in the center, with no blur or occlusion.
+- All objects are in focus and well-defined.
+
+Step 2: Description of spatial relationship
+- The frisbee is positioned horizontally in",NO
+phrase_88935510.pt,32,skis,motorcycle,between,"Analyze the image to determine if it shows 'a skis between a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is clear and well-lit, with no significant blur. The objects in the scene are four motorcycles, which are fully visible and not occluded. There are no skis present in the image.
+
+Step 2: Describe the spatial relationship between them.
+Since there are no skis in the image, there is no spatial relationship between skis and motorcycles.
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.
+The image is clear, and it is certain that there are no skis",AMBIGUOUS
+phrase_88935510.pt,33,toilet,cat,between,"Analyze the image to determine if it shows 'a toilet between a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The toilet is clearly visible, fully illuminated, and in sharp focus. It occupies the central portion of the image.
+- The cat is also visible, but its visibility varies. There is one cat (with yellow eyes and a visible face) inside the toilet bowl, which is well-lit and clear. On either side of the toilet, there are two silhouetted cats, which are dark and lack detail due to backlighting. These side cats are partially occluded by the toilet and their own shadows.
+
+Step 2: Describe",YES
+phrase_88935510.pt,34,snowboard,boat,between,"Analyze the image to determine if it shows 'a snowboard between a boat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The snowboard is clearly visible in the center of the image. It is upright, with a bright orange and black design, and its features (such as the bindings and base) are distinct. The lighting is bright and even, highlighting the object.
+- The two boats are also clearly visible on either side of the snowboard. They are positioned at an angle, with their hulls facing toward the center, and their wooden trim and light-colored sides are well-defined. The water reflects both the boats and the snowboard, but the reflections are clear enough to confirm the objects' identities.
+-",NO
+phrase_88935510.pt,35,broccoli,bird,between,"Analyze the image to determine if it shows 'a broccoli between a bird'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or occlusion.
+- A broccoli is centrally located and fully visible.
+- Two birds are present, one on the left and one on the right, both fully visible and detailed.
+
+Step 2: Describe the spatial relationship between them.
+- The broccoli is positioned in the center of the image.
+- One bird is to the left of the broccoli, and the other bird is to the right.
+- The broccoli is spatially located between the two birds.
+
+Step 3: If",NO
+phrase_88935510.pt,36,scissors,airplane,between,"Analyze the image to determine if it shows 'a scissors between a airplane'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image clearly shows two objects: a pair of scissors and an airplane. The scissors are centrally located, depicted as a dark silhouette with a white pivot point, and are fully visible. The airplane is shown as a simplified red and white outline, with its body and wings clearly defined. The lighting is bright and even, with no significant blur or occlusion affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.  
+The scissors are positioned in the foreground, overlapping the airplane. The blades of the scissors cross",NO
+phrase_88935510.pt,37,bowl,banana,between,"Analyze the image to determine if it shows 'a bowl between a banana'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear, well-lit, and in focus.
+- Both the bowl and the bananas are fully visible with no blur.
+- The bananas are resting inside the bowl, and there is no significant occlusion of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The bananas are placed inside the bowl.
+- The bowl is positioned underneath and around the bananas, containing them.
+- The bananas are not between the bowl but rather inside it.
+- The bowl is not between the bananas; it surrounds them.
+
+Step",NO
+phrase_88935510.pt,38,baseball glove,bicycle,between,"Analyze the image to determine if it shows 'a baseball glove between a bicycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The baseball glove is clearly visible, well-lit, and in sharp focus. It is a tan leather glove with black lacing, and a baseball is resting inside it.
+- The bicycle is also clearly visible, with a bright blue frame and black components. It is well-lit and in focus.
+- There is no significant occlusion or blur affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The baseball glove is positioned in front of the bicycle's frame, specifically attached to or resting against",NO
+phrase_88935510.pt,39,microwave,skis,between,"Analyze the image to determine if it shows 'a microwave between a skis'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is a simple, stylized line drawing with high contrast. The main object is a rectangular shape with a grey top and a black body, which is clearly identifiable as a microwave. To the right of the microwave, there is a vertical object with a thin, elongated shape, which could be interpreted as a pair of skis. However, the image is abstract and lacks fine details, making definitive identification difficult. The lighting is uniform, and there is no blur, but the objects are not depicted with realistic detail.
+
+Step",NO
+phrase_88935510.pt,40,banana,stop sign,between,"Analyze the image to determine if it shows 'a banana between a stop sign'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with no blur or occlusion.
+- Both the banana and the two stop signs are fully visible and sharply defined.
+- The banana is centrally located and appears to be a realistic depiction.
+- The stop signs are standard red octagons with white lettering, positioned on either side of the banana.
+
+Step 2: Description of spatial relationship
+- There are two stop signs, one on the left and one on the right.
+- The banana is positioned vertically in the center, between the two stop signs.
+- The banana is not physically touching the",NO
+phrase_88935510.pt,41,oven,snowboard,between,"Analyze the image to determine if it shows 'a oven between a snowboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is a clear, high-contrast illustration with no blur or lighting issues. Both the oven and the snowboards are fully visible. The oven is depicted in black with white details, and the two snowboards—one black and one red—are also clearly rendered. There is no occlusion between the objects; each is fully visible and distinct.
+
+Step 2: Describe the spatial relationship between them.  
+The oven is positioned in the center of the image. A black snowboard is on the left side of the oven, and a red",NO
+phrase_88935510.pt,42,giraffe,tie,between,"Analyze the image to determine if it shows 'a giraffe between a tie'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The giraffe's head is clearly visible in the center of the image, with good lighting and sharp detail. Its features, including the patterned skin, ossicones, ears, and eyes, are distinct and not occluded.
+- The two ties are also clearly visible on either side of the giraffe. They are vertically oriented, with a striped pattern of purple/white on the left and pink/white on the right. The ties are fully visible and not blurred or obscured.
+
+Step 2: Description of spatial relationship
+- The giraffe's head is positioned in the center of",YES
+phrase_88935510.pt,43,parking meter,toilet,between,"Analyze the image to determine if it shows 'a parking meter between a toilet'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of object visibility  
+- The parking meter is clearly visible, centrally located in the image. It is well-lit, in focus, and fully discernible, including its display screen and buttons.  
+- The toilet is also clearly visible on both the left and right sides of the image. The white ceramic fixtures, flush handles, and tank lids are all distinct and well-illuminated. There is no occlusion or blur affecting the visibility of either object.  
+
+Step 2: Description of spatial relationship  
+- The parking meter is positioned between two toilets. On the left, a portion of a toilet tank",NO
+phrase_88935510.pt,44,banana,fork,between,"Analyze the image to determine if it shows 'a banana between a fork'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a clean, white background, providing high visibility of all objects.
+- Both forks and the banana are clearly visible, with no significant blur or occlusion.
+- The banana is centrally located and fully in view.
+- The two forks are on either side of the banana, also fully visible and in focus.
+
+Step 2: Describe the spatial relationship between them.
+- The banana is positioned vertically in the center of the frame.
+- One fork is on the left side of the banana, and another fork is",NO
+phrase_88935510.pt,45,laptop,broccoli,between,"Analyze the image to determine if it shows 'a laptop between a broccoli'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is well-lit with even lighting, and both the laptop and the broccoli are clearly visible. There is no occlusion of the objects; each is fully in view and in focus. The objects are sharp and detailed, with no blur.
+
+Step 2: Describe the spatial relationship between them.
+The laptop is positioned in the center of the image. The broccoli florets are arranged around the laptop, forming a circular pattern. The broccoli is not physically between the laptop and any other object, nor is the laptop between two pieces of broccoli",NO
+phrase_88935510.pt,46,orange,toothbrush,between,"Analyze the image to determine if it shows 'a orange between a toothbrush'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image clearly shows a cross-section of an orange, cut in half, with bright, even lighting that highlights its juicy segments and textured peel. The orange is in sharp focus and occupies the central area of the frame. There is no visible toothbrush in the image. The background is plain white, and there are no other objects present.
+
+Step 2: Describe the spatial relationship between them.  
+Since a toothbrush is not present in the image, there is no spatial relationship between the orange and a toothbrush.
+
+Step 3:",NO
+phrase_88935510.pt,47,baseball bat,boat,between,"Analyze the image to determine if it shows 'a baseball bat between a boat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+- The image is a stylized, high-contrast graphic with clear lighting and no blur.  
+- A baseball bat is visible as a black vertical object with a handle and barrel, partially submerged in blue water.  
+- A boat is not clearly depicted as a distinct object; however, the black shapes on either side of the water resemble the bow or sides of a boat, possibly suggesting a boat's hull or structure.  
+- The bat is clearly visible and distinct, while the boat-like shapes are more abstract and lack detailed features.  
+
+Step 2: Description of spatial relationship  
+- The",NO
+phrase_88935510.pt,48,snowboard,skateboard,between,"Analyze the image to determine if it shows 'a snowboard between a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image clearly shows four objects against a white background.
+- All objects are well-lit and in sharp focus, with no blur or occlusion.
+- The two objects on the left are snowboards: one is black with a yellow trim and white dot patterns, the other is white with a red and black geometric design.
+- The two objects on the right are skateboards: both are black with yellow wheels and silver trucks.
+- The visibility of both snowboards and skateboards is high and unobstructed.
+
+Step 2: Description of spatial relationship
+- The objects are arranged in",NO
+phrase_88935510.pt,49,book,dog,between,"Analyze the image to determine if it shows 'a book between a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is brightly lit with a clean, white background, making all elements clearly visible.
+- The dog on the left is fully visible in profile, with clear fur texture and facial features.
+- The dog on the right is also fully visible in profile, with no occlusion.
+- The book is open and positioned in the foreground, with sharp focus on its pages and spine. There is no blur affecting the visibility of any object.
+
+Step 2: Describe the spatial relationship between them.
+- The two dogs are positioned on opposite sides of",NO
+phrase_88935510.pt,50,chair,pizza,between,"Analyze the image to determine if it shows 'a chair between a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or motion artifacts.
+- A black chair is fully visible, with its backrest, legs, and seat clearly defined.
+- Three pizzas are also clearly visible, placed on a black tabletop that is supported by the chair.
+- There is no occlusion of either the chair or the pizzas; all objects are fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The chair is positioned behind the tabletop, with its backrest visible.
+- The tabletop is situated in",NO
+phrase_88935510.pt,51,suitcase,train,between,"Analyze the image to determine if it shows 'a suitcase between a train'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is clear and well-lit, with good focus on the central objects. The red suitcase in the foreground is sharply visible, showing details like its texture, handle, and corner protectors. The trains on both sides are also clearly visible, though they are slightly out of focus compared to the suitcase, creating a depth-of-field effect. There is no significant occlusion of either object; both are fully visible within the frame.
+
+Step 2: Describe the spatial relationship between them.
+The red suitcase is positioned in the center of the image",NO
+phrase_88935510.pt,52,refrigerator,sports ball,between,"Analyze the image to determine if it shows 'a refrigerator between a sports ball'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is a clear, stylized illustration with bright lighting and no blur. Both the refrigerator and the sports balls are fully visible and sharply defined. The refrigerator is depicted as a blue appliance with a transparent door, through which the contents are visible. The sports balls (soccer balls and basketballs) are clearly shown on shelves inside the refrigerator.
+
+Step 2: Describe the spatial relationship between them.  
+The sports balls are located inside the refrigerator, on shelves within its interior. The refrigerator is not between the sports balls; rather,",NO
+phrase_88935510.pt,53,baseball bat,sandwich,between,"Analyze the image to determine if it shows 'a baseball bat between a sandwich'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur. The baseball bat is fully visible, lying horizontally across the frame. The baseball is also clearly visible, positioned in the center of the image, resting on the bat. There is no occlusion of the bat or the ball. However, there is no sandwich visible in the image.
+
+Step 2: Describe the spatial relationship between them.  
+The baseball is positioned on top of the baseball bat, but there is no sandwich present. Therefore, the spatial relationship 'a baseball bat",NO
+phrase_88935510.pt,54,potted plant,fork,between,"Analyze the image to determine if it shows 'a potted plant between a fork'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The potted plant is clearly visible in the center of the image. It is well-lit, in focus, and shows distinct details such as the green leaves and the terracotta pot.
+- The two forks, one on the left and one on the right, are also clearly visible. They are metallic, reflective, and in sharp focus. There is no occlusion or blur affecting either object.
+
+Step 2: Description of spatial relationship
+- The potted plant is positioned in the center of the frame.
+- A fork is located to the immediate left of the plant, and another",NO
+phrase_88935510.pt,55,clock,cow,between,"Analyze the image to determine if it shows 'a clock between a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or significant occlusion.
+- A pocket watch-style clock is centrally located and fully visible.
+- Two cows, one on the left and one on the right, are also clearly visible, though they appear to be stylized or artistically rendered.
+- Both objects are fully visible and distinct.
+
+Step 2: Describe the spatial relationship between them.
+- The clock is positioned in the center of the image.
+- The cow on the left is to the left of the clock.
+-",NO
+phrase_88935510.pt,56,skateboard,motorcycle,between,"Analyze the image to determine if it shows 'a skateboard between a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is a high-contrast, stylized illustration with a white background and black silhouettes.
+- Both the motorcycle and the skateboard are clearly visible, with no blur or occlusion.
+- The lighting is uniform and graphic, emphasizing the shapes of the objects without realistic shadows or textures.
+- All parts of the skateboard and both motorcycles are fully visible and distinct.
+
+Step 2: Describe the spatial relationship between them.
+- There are two motorcycles, one on the left and one on the right, facing each other.
+- A skateboard",NO
+phrase_88935510.pt,57,orange,bottle,between,"Analyze the image to determine if it shows 'a orange between a bottle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a clean white background, providing high visibility of all objects.
+- The orange is in sharp focus in the foreground and is clearly visible, showing detailed texture.
+- The four green bottles are also clearly visible in the background, though slightly less in focus than the orange due to depth of field.
+- There is no significant occlusion of the objects; the orange is in front of the bottles, and the bottles are behind it, with no parts of them obscured by the orange.
+
+Step 2: Describe the",NO
+phrase_88935510.pt,58,backpack,wine glass,between,"Analyze the image to determine if it shows 'a backpack between a wine glass'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is well-lit with high clarity and no blur.
+- A black backpack is clearly visible in the center of the frame.
+- Two wine glasses, each containing red wine, are visible on either side of the backpack.
+- All objects are in sharp focus and fully visible, with no occlusion of the backpack or the wine glasses.
+
+Step 2: Description of spatial relationship
+- The backpack is positioned between the two wine glasses.
+- One wine glass is to the left of the backpack, and the other is to the right.
+- The backpack is physically located in the space separating",NO
+phrase_88935510.pt,59,surfboard,handbag,between,"Analyze the image to determine if it shows 'a surfboard between a handbag'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or occlusion.
+- A surfboard is centrally located, with a black handbag to its left and a red handbag to its right.
+- Both handbags and the surfboard are fully visible and in focus.
+
+Step 2: Describe the spatial relationship between them.
+- The surfboard is positioned vertically between the black handbag on the left and the red handbag on the right.
+- The handbags are on either side of the surfboard, not touching it,",NO
+phrase_88935510.pt,60,frisbee,broccoli,between,"Analyze the image to determine if it shows 'a frisbee between a broccoli'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with high clarity and no blur.
+- A yellow, circular object resembling a frisbee is clearly visible in the center.
+- Four florets of broccoli are also clearly visible, arranged around the frisbee.
+- There is no significant occlusion of either object; all are fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The yellow frisbee is positioned underneath the broccoli florets.
+- The broccoli florets are resting on top of the frisbee.
+- Therefore,",NO
+phrase_88935510.pt,61,cell phone,dog,between,"Analyze the image to determine if it shows 'a cell phone between a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is a clear, high-contrast digital illustration with bright, even lighting. Both the dog's heads and the cell phone are sharply in focus, with no blur or occlusion. The details of the dogs' fur, eyes, and noses, as well as the edges and screen of the phone, are clearly visible.
+
+Step 2: Description of spatial relationship  
+The cell phone is positioned vertically in the center of the image. On the left side, there is a dog's head facing toward the phone. On the right side, another dog's head is also facing toward the phone.",YES
+phrase_88935510.pt,62,chair,tennis racket,between,"Analyze the image to determine if it shows 'a chair between a tennis racket'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+Both the chair and the tennis rackets are clearly visible. The lighting is bright and even, with no blurring or significant occlusion. The objects are in sharp focus and well-defined against the solid blue background.
+
+Step 2: Describe the spatial relationship between them.  
+The chair is positioned in the center of the image. There are two tennis rackets, one on each side of the chair. The rackets are standing upright, with their handles near the floor and their heads pointing upward. The chair is located between the two r",NO
+phrase_88935510.pt,63,couch,tv remote,between,"Analyze the image to determine if it shows 'a couch between a tv remote'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image shows a dark-colored couch in the foreground, with two TV remotes resting on its cushions. The remotes are clearly visible, with their buttons illuminated, indicating they are in focus and well-lit.
+- The couch is also clearly visible, occupying the lower half of the image.
+- The background, including a television and a media console, is out of focus and blurred, but the main objects of interest (couch and remotes) are sharp and distinct.
+
+Step 2: Describe the spatial relationship between them.
+-",UNCLEAR
+phrase_88935510.pt,64,donut,knife,between,"Analyze the image to determine if it shows 'a donut between a knife'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or motion artifacts.
+- The donut is fully visible in the center, with bright pink frosting and a golden-brown ring.
+- The two knives are also clearly visible, one on the left and one on the right, with metallic blades and dark wooden handles.
+- There is no occlusion of either object; all parts are fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The donut is positioned in the center of the image.
+- A knife",NO
+phrase_88935510.pt,65,tv remote,laptop,between,"Analyze the image to determine if it shows 'a tv remote between a laptop'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of both objects
+- The TV remote is clearly visible in the center of the image, with good lighting and no significant blur. Its buttons and shape are distinct.
+- The laptop is visible on the right side of the image. It is partially shown, with the keyboard and part of the screen visible. The lighting is adequate, and there is no significant blur.
+- The TV (monitor) is visible on the left, with its screen off and the brand logo visible. It is in focus and clearly identifiable.
+
+Step 2: Spatial relationship between them
+- The TV remote is positioned on the white surface between",NO
+phrase_88935510.pt,66,traffic light,pizza,between,"Analyze the image to determine if it shows 'a traffic light between a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image clearly shows three traffic lights against a plain white background. The traffic lights are well-lit, sharp, and fully visible with no blur or occlusion. However, there is no object resembling a pizza visible anywhere in the image.
+
+Step 2: Describe the spatial relationship between them.  
+Since a pizza is not present in the image, there is no spatial relationship between a traffic light and a pizza.
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.  
+The image is clear",AMBIGUOUS
+phrase_88935510.pt,67,motorcycle,cat,between,"Analyze the image to determine if it shows 'a motorcycle between a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The motorcycle is clearly visible, well-lit from the front and side, with distinct details on the body, wheels, and engine.
+- The cats are also visible, though they are mostly in silhouette due to the backlighting. Their outlines and facial features (eyes, ears) are discernible, but finer details are obscured by shadow.
+- There is no significant blur; the image is sharp.
+- Neither object is occluded by the other.
+
+Step 2: Describe the spatial relationship between them.
+- There are two cats in the",YES
+phrase_88935510.pt,68,snowboard,bottle,between,"Analyze the image to determine if it shows 'a snowboard between a bottle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+Both the snowboard and the bottle are clearly visible. The lighting is bright and even, with no significant shadows or blurring. The objects are in sharp focus and fully occluded from each other, meaning there is no overlap or partial obstruction.
+
+Step 2: Describe the spatial relationship between them.  
+There are two bottles and two snowboards arranged in a row. From left to right: a bottle, a snowboard (top view), a snowboard (bottom view), and another bottle. The snowboard is not between the two",NO
+phrase_88935510.pt,69,chair,umbrella,between,"Analyze the image to determine if it shows 'a chair between a umbrella'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is a high-contrast silhouette with a white background and black objects, making the shapes clearly visible.
+- The chair and two umbrellas are fully visible without blur or significant occlusion.
+- The lighting is uniform, creating a stark outline of the objects, with no internal details visible due to the silhouette style.
+
+Step 2: Describe the spatial relationship between them.
+- There is one chair positioned in the center of the frame.
+- Two umbrellas are present, one on the left and one on the right.
+- The chair",NO
+phrase_88935510.pt,70,fork,hot dog,between,"Analyze the image to determine if it shows 'a fork between a hot dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the fork and the hot dogs are fully visible and in sharp focus.
+
+Step 2: The fork is positioned vertically in the center of the frame. There are two hot dogs, one on the left and one on the right, both horizontally aligned and appearing to be held or suspended on either side of the fork's tines. The fork is not piercing or touching either hot dog; rather, it is spatially separated from them.
+
+Step 3: While the fork is between the two hot dogs, the phrase ""a fork between",NO
+phrase_88935510.pt,71,clock,skateboard,between,"Analyze the image to determine if it shows 'a clock between a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear, well-lit, and in focus. Both the clock and the skateboards are fully visible with no occlusion or blur. The clock is centrally located, and the two skateboards are on either side.
+
+Step 2: Describe the spatial relationship between them.
+- The clock is positioned between the two skateboards. The black skateboard is on the left, the pink skateboard is on the right, and the clock is in the middle, creating a horizontal arrangement.
+
+Step 3: If the image is too unclear to",NO
+phrase_88935510.pt,72,potted plant,tv,between,"Analyze the image to determine if it shows 'a potted plant between a tv'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The potted plant is clearly visible in the center of the image. It is well-lit, with green leaves that are distinct and not obscured. The pot is black and appears to be a standard container.
+- The television on the left is partially visible, showing the screen and part of the frame. The screen is dark, and the TV appears to be an older model. The TV on the right is also partially visible, showing its screen and frame, but it is less clear due to the angle and lighting.
+- There is some occlusion: the plant partially blocks the view of the",NO
+phrase_88935510.pt,73,laptop,computer keyboard,between,"Analyze the image to determine if it shows 'a laptop between a computer keyboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is in black and white and appears to be slightly blurred, reducing the clarity of fine details. The laptop is visible with its screen open, and the keyboard is clearly part of the laptop itself. There is no separate, external computer keyboard visible in the image. The lighting is high-contrast, with bright white background and dark objects, but the blur affects the sharpness of edges.
+
+Step 2: The spatial relationship is that the keyboard is integrated into the laptop. The laptop is positioned centrally, and the keyboard is a component of it, not a separate object. There is no other keyboard present in the",NO
+phrase_88935510.pt,74,broccoli,dog,between,"Analyze the image to determine if it shows 'a broccoli between a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The broccoli is clearly visible in the center of the image. It is well-lit, in focus, and shows detailed texture, with no occlusion.
+- The dog on the left is clearly visible, showing a close-up of its face with good lighting and sharp detail. The dog on the right is also clearly visible, with a detailed, well-lit face, and no significant blur or occlusion.
+- Both objects are distinct and easily identifiable.
+
+Step 2: Description of spatial relationship
+- The broccoli is positioned in the center of the frame.
+- A dog's head is on",NO
+phrase_88935510.pt,75,tv,traffic light,between,"Analyze the image to determine if it shows 'a tv between a traffic light'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The traffic lights are clearly visible on both the left and right sides of the image. They are mounted on a horizontal bar, and their lights are illuminated (red and green are lit). The image is well-lit, and there is no significant blur or occlusion affecting the visibility of the traffic lights.
+- The object in the center is a rectangular screen, resembling a television or a digital display. It is also clearly visible, though its screen is dark, showing a silhouette of mountains against a dark sky. The screen is not displaying bright",NO
+phrase_88935510.pt,76,cell phone,parking meter,between,"Analyze the image to determine if it shows 'a cell phone between a parking meter'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The cell phone is clearly visible in the center of the image. It has a black screen, a gold-colored frame, and is mounted on a green pole. The lighting is bright and even, making the phone's features distinct.
+- The parking meters are also clearly visible on either side of the phone. They are dark gray with white digital displays and yellow labels. The lighting is sufficient to read the text on the meters.
+- There is no significant occlusion or blur affecting the visibility of either object. The focus is sharp on the phone",NO
+phrase_88935510.pt,77,fork,snowboard,between,"Analyze the image to determine if it shows 'a fork between a snowboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of both objects  
+- The fork is clearly visible in the center of the image. It is a standard metal fork with a black handle, and it is in sharp focus. The lighting is bright and even, highlighting the reflective surface of the tines and the handle.  
+- The snowboards are also clearly visible on either side of the fork. The left snowboard is black with white and yellow accents, and the right one is solid red. Both are in focus and well-lit, with no occlusion or blur.  
+
+Step 2: Spatial relationship between them  
+- The fork is positioned vertically between",NO
+phrase_88935510.pt,78,cow,carrot,between,"Analyze the image to determine if it shows 'a cow between a carrot'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The cow is clearly visible, well-lit, and in sharp focus. It occupies the central portion of the image.
+- The two carrots are also clearly visible, well-lit, and in sharp focus. They are positioned on either side of the cow.
+- There is no occlusion of the cow by the carrots or vice versa. The background is a plain white, which enhances the visibility of all objects.
+
+Step 2: Describe the spatial relationship between them.
+- The cow is positioned in the center of the image, facing forward",NO
+phrase_88935510.pt,79,truck,bus,between,"Analyze the image to determine if it shows 'a truck between a bus'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The yellow truck is prominently visible in the foreground, occupying the left lane. It is well-lit, in focus, and clearly detailed.
+- The red truck is visible in the background, in the right lane. It is smaller due to distance but still clearly identifiable as a truck.
+- There is no significant occlusion between the two vehicles; they are in separate lanes.
+- The image is sharp and clear, with no blur affecting the identification of the vehicles.
+
+Step 2: Describe the spatial relationship between them.
+- The yellow truck",NO
+phrase_88935510.pt,80,toaster,fire hydrant,between,"Analyze the image to determine if it shows 'a toaster between a fire hydrant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- Both the fire hydrants and the toaster are fully visible.
+- There is no occlusion; all parts of the objects are visible.
+
+Step 2: Describe the spatial relationship between them.
+- There are two red fire hydrants, one on the left and one on the right.
+- A red toaster is positioned in the center, directly between the two fire hydrants.
+- The toaster is flanked by the fire hydrants, with one on each side.
+
+Step",NO
+phrase_88935510.pt,81,bear,pizza,between,"Analyze the image to determine if it shows 'a bear between a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The bear is clearly visible, centrally located, and well-lit against a plain white background. It is in sharp focus with detailed fur texture.
+- The pizzas are also clearly visible, with good lighting and no blur. There are four pizza slices shown: two are held by the bear's paws, and two are floating in the air. All are in sharp focus.
+
+Step 2: Describe the spatial relationship between them.
+- The bear is positioned in the center of the image.
+- Two pizza slices are held in the bear's",NO
+phrase_88935510.pt,82,pizza,frisbee,between,"Analyze the image to determine if it shows 'a pizza between a frisbee'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is brightly lit with a clear, high-resolution view of all objects.
+- The pizza is centrally located and fully visible, with no occlusion.
+- The frisbees (red, yellow, and white) are also clearly visible in the corners of the image, with no significant blur or obstruction.
+- All objects are in sharp focus.
+
+Step 2: Describe the spatial relationship between them.
+- The pizza is in the center of the image.
+- The frisbees are positioned around the pizza, one in each",NO
+phrase_88935510.pt,83,oven,donut,between,"Analyze the image to determine if it shows 'a oven between a donut'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is clear and well-lit. The oven is fully visible, with its front panel, control knobs, digital display, and interior clearly shown. The donuts are also clearly visible inside the oven on a rack. There is no occlusion of the objects; they are both in sharp focus and easily identifiable.
+
+Step 2: Describe the spatial relationship between them.
+The donuts are located inside the oven, specifically on a rack within the oven chamber. The oven is the container that holds the donuts. Therefore, the donuts",NO
+phrase_88935510.pt,84,refrigerator,motorcycle,between,"Analyze the image to determine if it shows 'a refrigerator between a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The refrigerator is clearly visible, centrally located, and illuminated from within, showing its contents. It is in sharp focus and well-lit.
+- The motorcycles are also visible, though they are partially in shadow and appear as silhouettes on the left and right sides of the frame. They are not fully illuminated, but their shapes are distinct and recognizable.
+- There is no significant blur affecting the main subjects, and the lighting contrast helps define the objects.
+
+Step 2: Describe the spatial relationship between them.
+- The refrigerator is positioned in",NO
+phrase_88935510.pt,85,book,tie,between,"Analyze the image to determine if it shows 'a book between a tie'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with clear visibility of all objects. There is no blur or significant occlusion.
+- A book is centrally located, with a black textured cover and gold detailing on the edges.
+- To the left and right of the book, there are two ties, one purple and one pink, both standing vertically.
+- The ties are fully visible and do not obscure the book.
+
+Step 2: Describe the spatial relationship between them.
+- The book is positioned in the center of the frame.
+- The purple tie is to",NO
+phrase_88935510.pt,86,hair drier,parking meter,between,"Analyze the image to determine if it shows 'a hair drier between a parking meter'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no significant blur.
+- A yellow and black hair dryer is prominently visible in the center of the frame.
+- On either side of the hair dryer, there are two black devices that resemble parking meters, each with a screen and buttons. These devices are partially visible, but their features are clear enough to identify them as such.
+- The hair dryer is not occluded and is the main subject of the image.
+
+Step 2: Describe the spatial relationship between them.
+- The hair dryer is",NO
+phrase_88935510.pt,87,tv,truck,between,"Analyze the image to determine if it shows 'a tv between a truck'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The television is clearly visible in the center of the image. It is an old-style CRT TV with two antennas, mounted on a vehicle's front. The lighting highlights the TV, making it the focal point.
+- The trucks are also clearly visible on both sides of the image. They are large, with long trailers, and are positioned on either side of the central vehicle. The lighting is bright, and there is no significant blur or occlusion affecting the visibility of either the TV or the trucks.
+
+Step 2: Describe the spatial relationship",NO
+phrase_88935510.pt,88,teddy bear,microwave,between,"Analyze the image to determine if it shows 'a teddy bear between a microwave'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The teddy bear is clearly visible, well-lit, and in focus. It is positioned inside the microwave, which is open, and is the central subject of the image.
+- The microwave is also clearly visible, with its control panel, digital display, and door frame in sharp focus. The lighting is bright and even, with no significant blur or occlusion affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The teddy bear is located inside the microwave oven, specifically within the cooking chamber",NO
+phrase_88935510.pt,89,clock,giraffe,between,"Analyze the image to determine if it shows 'a clock between a giraffe'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- A large, round clock with Roman numerals is fully visible in the center.
+- Two giraffes, one on the left and one on the right, are also clearly visible.
+- The giraffes' heads are positioned on either side of the clock, and their heads are not occluded by the clock; instead, they appear to be flanking it.
+- The clock is not occluded by the giraffes.
+
+Step 2: Describe the spatial",NO
+phrase_88935510.pt,90,person,refrigerator,between,"Analyze the image to determine if it shows 'a person between a refrigerator'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The person is clearly visible, shown from the side and back, with long dark hair, a white shirt, and a dark skirt. The lighting is bright and cool-toned, illuminating the scene well, with no significant blur or occlusion of the person.
+- The refrigerator is also clearly visible. It is a modern, tall, stainless steel appliance with vertical lines and a handle. It occupies the left and right sides of the frame, and its surface reflects the ambient light. The object is fully in view and not occluded.",NO
+phrase_88935510.pt,91,tv,cow,between,"Analyze the image to determine if it shows 'a tv between a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The television is clearly visible, well-lit, and in sharp focus. It is a black CRT-style TV with a brand name ""STUETIOA"" on the front.
+- The image displayed on the TV screen shows cows. The cows are also clear and in focus, though they are part of a digital image on the screen, not physical objects in the room. There is no occlusion or blur affecting the visibility of the cows on the screen.
+
+Step 2: Describe the spatial relationship between them.
+- The cows are",NO
+phrase_88935510.pt,92,microwave,cow,between,"Analyze the image to determine if it shows 'a microwave between a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image shows a white microwave oven. On the microwave's digital display screen, there is a clear, colorful illustration of two cows. The cows are fully visible, well-lit, and not occluded or blurred. The illustration is sharp and detailed, showing the cows' faces, ears, and tags.
+
+Step 2: Describe the spatial relationship between them.
+The cows are not physically present in the scene. They are depicted as an image on the screen of the microwave. The microwave is the physical object that contains the screen, and the",NO
+phrase_88935510.pt,93,fire hydrant,tv remote,between,"Analyze the image to determine if it shows 'a fire hydrant between a tv remote'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The fire hydrant is clearly visible, centrally located, and well-lit. It is in sharp focus with no occlusion.
+- The TV remote controls are also clearly visible, positioned on either side of the fire hydrant. They are well-lit, in focus, and not blurred.
+- Both objects are fully visible and distinct against the white background.
+
+Step 2: Describe the spatial relationship between them.
+- The fire hydrant is positioned in the center of the image.
+- A TV remote is on the left side of the",NO
+phrase_88935510.pt,94,donut,clock,between,"Analyze the image to determine if it shows 'a donut between a clock'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with no blur or occlusion affecting the visibility of the objects.
+- A pink-frosted donut is centrally located and fully visible.
+- Two black alarm clocks are visible on the left and right sides of the image, also fully visible and in focus.
+
+Step 2: Description of spatial relationship
+- The donut is positioned in the center of the frame.
+- One alarm clock is on the left side of the donut, and the other is on the right side.
+- The donut is spatially located between the two clocks.",NO
+phrase_88935510.pt,95,baseball glove,sandwich,between,"Analyze the image to determine if it shows 'a baseball glove between a sandwich'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur. The baseball glove is fully visible and in sharp focus. A baseball is also clearly visible, resting inside the glove. There is no sandwich present in the image.  
+
+Step 2: Describe the spatial relationship between them.  
+Since there is no sandwich in the image, there is no spatial relationship between a baseball glove and a sandwich.  
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.  
+The image is clear, but",AMBIGUOUS
+phrase_88935510.pt,96,hair drier,computer mouse,between,"Analyze the image to determine if it shows 'a hair drier between a computer mouse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is a clear, stylized illustration with bright, high-contrast colors and no blur. Both the computer mouse and the object in the center are fully visible. The lighting is even and uniform, with no occlusions. The object in the center, which resembles a hair dryer, is distinctly colored pink and black, while the two computer mice on either side are black and silver.
+
+Step 2: Description of spatial relationship  
+The object resembling a hair dryer is positioned vertically in the center of the image. On either side of it, there are two computer mice, one on the left and",NO
+phrase_88935510.pt,97,skateboard,bear,between,"Analyze the image to determine if it shows 'a skateboard between a bear'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear, well-lit, and in focus, with no blur.
+- A skateboard is visible in the center of the image, with distinct details such as the black deck, trucks, and bright green wheels.
+- Three bears are present: two larger bears on the left and right, and a smaller bear in the center. All are clearly visible and not occluded.
+
+Step 2: Describe the spatial relationship between them.
+- The skateboard is positioned horizontally in the center of the image, on the ground.
+- The central",NO
+phrase_88935510.pt,98,refrigerator,orange,between,"Analyze the image to determine if it shows 'a refrigerator between a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is clear and well-lit. The refrigerator is fully visible, with its door open, revealing the interior. The oranges are also clearly visible, placed on the shelves inside the refrigerator. There is no significant occlusion or blur affecting the visibility of either the refrigerator or the oranges.
+
+Step 2: Describe the spatial relationship between them.
+The oranges are located inside the refrigerator, on the shelves. The refrigerator is the container that holds the oranges. Therefore, the refrigerator is not physically between the oranges; rather, the oranges are inside the",NO
+phrase_88935510.pt,99,clock,dining table,between,"Analyze the image to determine if it shows 'a clock between a dining table'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of objects  
+- The clock is clearly visible, mounted on the wall. It has a black frame and a white face with Roman numerals. The image is well-lit, and the clock is in sharp focus.  
+- A dining table is visible in the foreground and middle ground. It is a white table with black chairs around it. The table is also in focus and clearly visible.  
+
+Step 2: Spatial relationship  
+- The clock is mounted on the wall above the dining area.  
+- The dining table is positioned below the clock, in the foreground of the scene.  
+- The clock is",UNCLEAR

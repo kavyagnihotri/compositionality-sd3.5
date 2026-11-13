@@ -1,0 +1,149 @@
+{
+  "under": {
+    "yes_rate": 32.0,
+    "n": 200,
+    "yes_count": 64,
+    "no_count": 130,
+    "other_count": 6
+  },
+  "in_front_of": {
+    "yes_rate": 72.0,
+    "n": 100,
+    "yes_count": 72,
+    "no_count": 28,
+    "other_count": 0
+  },
+  "over": {
+    "yes_rate": 50.0,
+    "n": 100,
+    "yes_count": 50,
+    "no_count": 50,
+    "other_count": 0
+  },
+  "behind": {
+    "yes_rate": 40.0,
+    "n": 100,
+    "yes_count": 40,
+    "no_count": 60,
+    "other_count": 0
+  },
+  "on": {
+    "yes_rate": 63.0,
+    "n": 100,
+    "yes_count": 63,
+    "no_count": 35,
+    "other_count": 2
+  },
+  "not_holding": {
+    "yes_rate": 64.0,
+    "n": 100,
+    "yes_count": 64,
+    "no_count": 36,
+    "other_count": 0
+  },
+  "closeby": {
+    "yes_rate": 85.0,
+    "n": 100,
+    "yes_count": 85,
+    "no_count": 15,
+    "other_count": 0
+  },
+  "above": {
+    "yes_rate": 80.0,
+    "n": 100,
+    "yes_count": 80,
+    "no_count": 19,
+    "other_count": 1
+  },
+  "sitting": {
+    "yes_rate": 74.0,
+    "n": 100,
+    "yes_count": 74,
+    "no_count": 23,
+    "other_count": 3
+  },
+  "standing": {
+    "yes_rate": 91.0,
+    "n": 100,
+    "yes_count": 91,
+    "no_count": 7,
+    "other_count": 2
+  },
+  "to_the_right_of": {
+    "yes_rate": 47.0,
+    "n": 100,
+    "yes_count": 47,
+    "no_count": 50,
+    "other_count": 3
+  },
+  "outside": {
+    "yes_rate": 32.0,
+    "n": 100,
+    "yes_count": 32,
+    "no_count": 65,
+    "other_count": 3
+  },
+  "far_from": {
+    "yes_rate": 16.0,
+    "n": 100,
+    "yes_count": 16,
+    "no_count": 77,
+    "other_count": 7
+  },
+  "below": {
+    "yes_rate": 39.0,
+    "n": 100,
+    "yes_count": 39,
+    "no_count": 60,
+    "other_count": 1
+  },
+  "between": {
+    "yes_rate": 47.0,
+    "n": 100,
+    "yes_count": 47,
+    "no_count": 48,
+    "other_count": 5
+  },
+  "running": {
+    "yes_rate": 85.0,
+    "n": 100,
+    "yes_count": 85,
+    "no_count": 14,
+    "other_count": 1
+  },
+  "holding": {
+    "yes_rate": 35.0,
+    "n": 100,
+    "yes_count": 35,
+    "no_count": 65,
+    "other_count": 0
+  },
+  "not_touching": {
+    "yes_rate": 35.0,
+    "n": 100,
+    "yes_count": 35,
+    "no_count": 65,
+    "other_count": 0
+  },
+  "touching": {
+    "yes_rate": 64.0,
+    "n": 100,
+    "yes_count": 64,
+    "no_count": 35,
+    "other_count": 1
+  },
+  "to_the_left_of": {
+    "yes_rate": 75.0,
+    "n": 100,
+    "yes_count": 75,
+    "no_count": 25,
+    "other_count": 0
+  },
+  "on_top_of": {
+    "yes_rate": 67.0,
+    "n": 100,
+    "yes_count": 67,
+    "no_count": 32,
+    "other_count": 1
+  }
+}

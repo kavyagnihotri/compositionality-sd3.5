@@ -1,0 +1,22 @@
+try prompts wich fit into the text encoder
+
+Two cats and a skateboard leaning against a brick wall.
+Two pigeons and a skateboard leaning against a brick wall.
+
+A street performer juggling while a police officer observes nearby.
+A street vendor looks at the poster of a play performer.
+
+First-person view: hands holding a violin bow, violin resting under chin.
+Hands playing a piano in the first person view of the player.
+
+A violinist wearing a ring shaped like a chess knight.
+A moon shaped like a dolphin.
+
+A dog hiding behind a couch in a living room.
+A dog looking from behind a couch.
+
+A beach with palm trees in the background.
+A beach with city in the background. 
+
+A futuristic city at night with neon signs, flying cars in the sky, and people walking on glowing sidewalks.
+A futuristic city at night with neon signs, flying ships in the sky, and nothing on the ground.

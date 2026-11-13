@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_40502497.pt,1,giraffe,hair drier,on top of,Does this figure show 'a giraffe on top of a hair drier'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,2,broccoli,skis,on top of,Does this figure show 'a broccoli on top of a skis'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,3,book,sports ball,on top of,Does this figure show 'a book on top of a sports ball'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,4,bench,cow,on top of,Does this figure show 'a bench on top of a cow'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,5,computer keyboard,skateboard,on top of,Does this figure show 'a computer keyboard on top of a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,6,toilet,potted plant,on top of,Does this figure show 'a toilet on top of a potted plant'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,7,oven,vase,on top of,Does this figure show 'a oven on top of a vase'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,8,bed,book,on top of,Does this figure show 'a bed on top of a book'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,9,cell phone,bear,on top of,Does this figure show 'a cell phone on top of a bear'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,10,sports ball,refrigerator,on top of,Does this figure show 'a sports ball on top of a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,11,baseball bat,dog,on top of,Does this figure show 'a baseball bat on top of a dog'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,12,orange,traffic light,on top of,Does this figure show 'a orange on top of a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,13,teddy bear,orange,on top of,Does this figure show 'a teddy bear on top of a orange'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,14,skis,tennis racket,on top of,Does this figure show 'a skis on top of a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,15,zebra,bicycle,on top of,Does this figure show 'a zebra on top of a bicycle'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,16,sheep,computer mouse,on top of,Does this figure show 'a sheep on top of a computer mouse'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,17,cell phone,orange,on top of,Does this figure show 'a cell phone on top of a orange'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,18,knife,umbrella,on top of,Does this figure show 'a knife on top of a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,19,motorcycle,carrot,on top of,Does this figure show 'a motorcycle on top of a carrot'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,20,traffic light,horse,on top of,Does this figure show 'a traffic light on top of a horse'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,21,surfboard,tv,on top of,Does this figure show 'a surfboard on top of a tv'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,22,carrot,truck,on top of,Does this figure show 'a carrot on top of a truck'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,23,giraffe,fire hydrant,on top of,Does this figure show 'a giraffe on top of a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,24,elephant,toaster,on top of,Does this figure show 'a elephant on top of a toaster'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,25,bowl,dog,on top of,Does this figure show 'a bowl on top of a dog'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,26,bench,motorcycle,on top of,Does this figure show 'a bench on top of a motorcycle'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,27,frisbee,handbag,on top of,Does this figure show 'a frisbee on top of a handbag'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,28,skis,cat,on top of,Does this figure show 'a skis on top of a cat'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,29,surfboard,spoon,on top of,Does this figure show 'a surfboard on top of a spoon'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,30,bicycle,bus,on top of,Does this figure show 'a bicycle on top of a bus'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,31,car,laptop,on top of,Does this figure show 'a car on top of a laptop'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,32,frisbee,cat,on top of,Does this figure show 'a frisbee on top of a cat'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,33,skis,motorcycle,on top of,Does this figure show 'a skis on top of a motorcycle'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,34,toilet,cat,on top of,Does this figure show 'a toilet on top of a cat'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,35,snowboard,boat,on top of,Does this figure show 'a snowboard on top of a boat'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,36,broccoli,bird,on top of,Does this figure show 'a broccoli on top of a bird'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,37,scissors,airplane,on top of,Does this figure show 'a scissors on top of a airplane'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,38,bowl,banana,on top of,Does this figure show 'a bowl on top of a banana'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,39,baseball glove,bicycle,on top of,Does this figure show 'a baseball glove on top of a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,40,microwave,skis,on top of,Does this figure show 'a microwave on top of a skis'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,41,banana,stop sign,on top of,Does this figure show 'a banana on top of a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,42,oven,snowboard,on top of,Does this figure show 'a oven on top of a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,43,giraffe,tie,on top of,Does this figure show 'a giraffe on top of a tie'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,44,parking meter,toilet,on top of,Does this figure show 'a parking meter on top of a toilet'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,45,banana,fork,on top of,Does this figure show 'a banana on top of a fork'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,46,laptop,broccoli,on top of,Does this figure show 'a laptop on top of a broccoli'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,47,orange,toothbrush,on top of,Does this figure show 'a orange on top of a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,48,baseball bat,boat,on top of,Does this figure show 'a baseball bat on top of a boat'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,49,snowboard,skateboard,on top of,Does this figure show 'a snowboard on top of a skateboard'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,50,book,dog,on top of,Does this figure show 'a book on top of a dog'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,51,chair,pizza,on top of,Does this figure show 'a chair on top of a pizza'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,52,suitcase,train,on top of,Does this figure show 'a suitcase on top of a train'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,53,refrigerator,sports ball,on top of,Does this figure show 'a refrigerator on top of a sports ball'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,54,baseball bat,sandwich,on top of,Does this figure show 'a baseball bat on top of a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,55,potted plant,fork,on top of,Does this figure show 'a potted plant on top of a fork'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,56,clock,cow,on top of,Does this figure show 'a clock on top of a cow'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,57,skateboard,motorcycle,on top of,Does this figure show 'a skateboard on top of a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,58,orange,bottle,on top of,Does this figure show 'a orange on top of a bottle'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,59,backpack,wine glass,on top of,Does this figure show 'a backpack on top of a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,60,surfboard,handbag,on top of,Does this figure show 'a surfboard on top of a handbag'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,61,frisbee,broccoli,on top of,Does this figure show 'a frisbee on top of a broccoli'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,62,cell phone,dog,on top of,Does this figure show 'a cell phone on top of a dog'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,63,chair,tennis racket,on top of,Does this figure show 'a chair on top of a tennis racket'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,64,couch,tv remote,on top of,Does this figure show 'a couch on top of a tv remote'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,65,donut,knife,on top of,Does this figure show 'a donut on top of a knife'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,66,tv remote,laptop,on top of,Does this figure show 'a tv remote on top of a laptop'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,67,traffic light,pizza,on top of,Does this figure show 'a traffic light on top of a pizza'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,68,motorcycle,cat,on top of,Does this figure show 'a motorcycle on top of a cat'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,69,snowboard,bottle,on top of,Does this figure show 'a snowboard on top of a bottle'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,70,chair,umbrella,on top of,Does this figure show 'a chair on top of a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,71,fork,hot dog,on top of,Does this figure show 'a fork on top of a hot dog'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,72,clock,skateboard,on top of,Does this figure show 'a clock on top of a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,73,potted plant,tv,on top of,Does this figure show 'a potted plant on top of a tv'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,74,laptop,computer keyboard,on top of,Does this figure show 'a laptop on top of a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,75,broccoli,dog,on top of,Does this figure show 'a broccoli on top of a dog'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,76,tv,traffic light,on top of,Does this figure show 'a tv on top of a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,77,cell phone,parking meter,on top of,Does this figure show 'a cell phone on top of a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,78,fork,snowboard,on top of,Does this figure show 'a fork on top of a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,79,cow,carrot,on top of,Does this figure show 'a cow on top of a carrot'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,80,truck,bus,on top of,Does this figure show 'a truck on top of a bus'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,81,toaster,fire hydrant,on top of,Does this figure show 'a toaster on top of a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,82,bear,pizza,on top of,Does this figure show 'a bear on top of a pizza'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,83,pizza,frisbee,on top of,Does this figure show 'a pizza on top of a frisbee'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,84,oven,donut,on top of,Does this figure show 'a oven on top of a donut'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,85,refrigerator,motorcycle,on top of,Does this figure show 'a refrigerator on top of a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,86,book,tie,on top of,Does this figure show 'a book on top of a tie'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,87,hair drier,parking meter,on top of,Does this figure show 'a hair drier on top of a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,88,tv,truck,on top of,Does this figure show 'a tv on top of a truck'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,89,teddy bear,microwave,on top of,Does this figure show 'a teddy bear on top of a microwave'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,90,clock,giraffe,on top of,Does this figure show 'a clock on top of a giraffe'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,91,person,refrigerator,on top of,Does this figure show 'a person on top of a refrigerator'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,92,tv,cow,on top of,Does this figure show 'a tv on top of a cow'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,93,microwave,cow,on top of,Does this figure show 'a microwave on top of a cow'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,94,fire hydrant,tv remote,on top of,Does this figure show 'a fire hydrant on top of a tv remote'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,95,donut,clock,on top of,Does this figure show 'a donut on top of a clock'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,96,baseball glove,sandwich,on top of,Does this figure show 'a baseball glove on top of a sandwich'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,97,hair drier,computer mouse,on top of,Does this figure show 'a hair drier on top of a computer mouse'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,98,skateboard,bear,on top of,Does this figure show 'a skateboard on top of a bear'? Please answer yes or no.,Yes.,YES
+phrase_40502497.pt,99,refrigerator,orange,on top of,Does this figure show 'a refrigerator on top of a orange'? Please answer yes or no.,No.,NO
+phrase_40502497.pt,100,clock,dining table,on top of,Does this figure show 'a clock on top of a dining table'? Please answer yes or no.,Yes.,YES

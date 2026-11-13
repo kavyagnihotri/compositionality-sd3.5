@@ -1,0 +1,122 @@
+CLIC OPENCLIP -> HUGGINGFACE CONVERSION VERIFICATION
+Loading models...
+  Loading original CLIC OpenCLIP model...
+  Loading converted HuggingFace model...
+
+CHECKING FOR UNMAPPED WEIGHTS
+
+All HF model weights were successfully mapped from CLIC
+EMBEDDINGS VERIFICATION
+
+Token Embeddings:
+  Shape: torch.Size([49408, 768])
+  Frobenius norm diff: 0.00e+00
+  Max absolute diff: 0.00e+00
+  Status:  PASS
+
+Positional Embeddings:
+  Shape: torch.Size([77, 768])
+  Frobenius norm diff: 0.00e+00
+  Max absolute diff: 0.00e+00
+  Status:  PASS
+TRANSFORMER LAYERS VERIFICATION
+
+Layer 0:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 1:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 2:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 3:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 4:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 5:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 6:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 7:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 8:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 9:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 10:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+
+Layer 11:
+  QKV split:  (max diff: 0.00e+00)
+  Attention out:  (max diff: 0.00e+00)
+  MLP (fc1/fc2):  (max diff: 0.00e+00)
+  Layer norms:  (max diff: 0.00e+00)
+FINAL LAYERS VERIFICATION
+
+Final Layer Norm:
+  Weight diff: 0.00e+00, Max abs: 0.00e+00
+  Bias diff: 0.00e+00, Max abs: 0.00e+00
+  Status:  PASS
+
+Text Projection (Transposed):
+  OpenCLIP shape: torch.Size([768, 768]) -> torch.Size([768, 768]) (after transpose)
+  HuggingFace shape: torch.Size([768, 768])
+  Frobenius norm diff: 0.00e+00
+  Max absolute diff: 0.00e+00
+  Status:  PASS
+
+Saving results to CSV...
+  Saved to: ./conversion_verification.csv
+CONVERSION VERIFICATION COMPLETE
+
+Mapped Weight Verification:
+  Total checks: 197
+  Passed: 197
+  Failed: 0
+  Success rate: 100.00%
+
+Unmapped Weights: 0
+
+ALL CHECKS PASSED - Conversion was performed correctly!
+All weights successfully mapped from CLIC

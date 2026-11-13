@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_46534700.pt,1,giraffe,hair drier,to the left of,"Does this figure show 'a giraffe to the left of a hair drier'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,2,broccoli,skis,to the left of,"Does this figure show 'a broccoli to the left of a skis'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,3,book,sports ball,to the left of,"Does this figure show 'a book to the left of a sports ball'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,4,bench,cow,to the left of,"Does this figure show 'a bench to the left of a cow'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,5,computer keyboard,skateboard,to the left of,"Does this figure show 'a computer keyboard to the left of a skateboard'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,6,toilet,potted plant,to the left of,"Does this figure show 'a toilet to the left of a potted plant'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,7,oven,vase,to the left of,"Does this figure show 'a oven to the left of a vase'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,8,bed,book,to the left of,"Does this figure show 'a bed to the left of a book'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,9,cell phone,bear,to the left of,"Does this figure show 'a cell phone to the left of a bear'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,10,sports ball,refrigerator,to the left of,"Does this figure show 'a sports ball to the left of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,11,baseball bat,dog,to the left of,"Does this figure show 'a baseball bat to the left of a dog'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,12,orange,traffic light,to the left of,"Does this figure show 'a orange to the left of a traffic light'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,13,teddy bear,orange,to the left of,"Does this figure show 'a teddy bear to the left of a orange'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,14,skis,tennis racket,to the left of,"Does this figure show 'a skis to the left of a tennis racket'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,15,zebra,bicycle,to the left of,"Does this figure show 'a zebra to the left of a bicycle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,16,sheep,computer mouse,to the left of,"Does this figure show 'a sheep to the left of a computer mouse'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,17,cell phone,orange,to the left of,"Does this figure show 'a cell phone to the left of a orange'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,18,knife,umbrella,to the left of,"Does this figure show 'a knife to the left of a umbrella'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,19,motorcycle,carrot,to the left of,"Does this figure show 'a motorcycle to the left of a carrot'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,20,traffic light,horse,to the left of,"Does this figure show 'a traffic light to the left of a horse'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,21,surfboard,tv,to the left of,"Does this figure show 'a surfboard to the left of a tv'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,22,carrot,truck,to the left of,"Does this figure show 'a carrot to the left of a truck'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,23,giraffe,fire hydrant,to the left of,"Does this figure show 'a giraffe to the left of a fire hydrant'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,24,elephant,toaster,to the left of,"Does this figure show 'a elephant to the left of a toaster'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,25,bowl,dog,to the left of,"Does this figure show 'a bowl to the left of a dog'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,26,bench,motorcycle,to the left of,"Does this figure show 'a bench to the left of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,27,frisbee,handbag,to the left of,"Does this figure show 'a frisbee to the left of a handbag'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,28,skis,cat,to the left of,"Does this figure show 'a skis to the left of a cat'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,29,surfboard,spoon,to the left of,"Does this figure show 'a surfboard to the left of a spoon'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,30,bicycle,bus,to the left of,"Does this figure show 'a bicycle to the left of a bus'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,31,car,laptop,to the left of,"Does this figure show 'a car to the left of a laptop'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,32,frisbee,cat,to the left of,"Does this figure show 'a frisbee to the left of a cat'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,33,skis,motorcycle,to the left of,"Does this figure show 'a skis to the left of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,34,toilet,cat,to the left of,"Does this figure show 'a toilet to the left of a cat'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,35,snowboard,boat,to the left of,"Does this figure show 'a snowboard to the left of a boat'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,36,broccoli,bird,to the left of,"Does this figure show 'a broccoli to the left of a bird'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,37,scissors,airplane,to the left of,"Does this figure show 'a scissors to the left of a airplane'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,38,bowl,banana,to the left of,"Does this figure show 'a bowl to the left of a banana'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,39,baseball glove,bicycle,to the left of,"Does this figure show 'a baseball glove to the left of a bicycle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,40,microwave,skis,to the left of,"Does this figure show 'a microwave to the left of a skis'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,41,banana,stop sign,to the left of,"Does this figure show 'a banana to the left of a stop sign'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,42,oven,snowboard,to the left of,"Does this figure show 'a oven to the left of a snowboard'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,43,giraffe,tie,to the left of,"Does this figure show 'a giraffe to the left of a tie'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,44,parking meter,toilet,to the left of,"Does this figure show 'a parking meter to the left of a toilet'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,45,banana,fork,to the left of,"Does this figure show 'a banana to the left of a fork'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,46,laptop,broccoli,to the left of,"Does this figure show 'a laptop to the left of a broccoli'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,47,orange,toothbrush,to the left of,"Does this figure show 'a orange to the left of a toothbrush'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,48,baseball bat,boat,to the left of,"Does this figure show 'a baseball bat to the left of a boat'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,49,snowboard,skateboard,to the left of,"Does this figure show 'a snowboard to the left of a skateboard'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,50,book,dog,to the left of,"Does this figure show 'a book to the left of a dog'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,51,chair,pizza,to the left of,"Does this figure show 'a chair to the left of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,52,suitcase,train,to the left of,"Does this figure show 'a suitcase to the left of a train'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,53,refrigerator,sports ball,to the left of,"Does this figure show 'a refrigerator to the left of a sports ball'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,54,baseball bat,sandwich,to the left of,"Does this figure show 'a baseball bat to the left of a sandwich'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,55,potted plant,fork,to the left of,"Does this figure show 'a potted plant to the left of a fork'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,56,clock,cow,to the left of,"Does this figure show 'a clock to the left of a cow'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,57,skateboard,motorcycle,to the left of,"Does this figure show 'a skateboard to the left of a motorcycle'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,58,orange,bottle,to the left of,"Does this figure show 'a orange to the left of a bottle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,59,backpack,wine glass,to the left of,"Does this figure show 'a backpack to the left of a wine glass'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,60,surfboard,handbag,to the left of,"Does this figure show 'a surfboard to the left of a handbag'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,61,frisbee,broccoli,to the left of,"Does this figure show 'a frisbee to the left of a broccoli'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,62,cell phone,dog,to the left of,"Does this figure show 'a cell phone to the left of a dog'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,63,chair,tennis racket,to the left of,"Does this figure show 'a chair to the left of a tennis racket'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,64,couch,tv remote,to the left of,"Does this figure show 'a couch to the left of a tv remote'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,65,donut,knife,to the left of,"Does this figure show 'a donut to the left of a knife'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,66,tv remote,laptop,to the left of,"Does this figure show 'a tv remote to the left of a laptop'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,67,traffic light,pizza,to the left of,"Does this figure show 'a traffic light to the left of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,68,motorcycle,cat,to the left of,"Does this figure show 'a motorcycle to the left of a cat'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,69,snowboard,bottle,to the left of,"Does this figure show 'a snowboard to the left of a bottle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,70,chair,umbrella,to the left of,"Does this figure show 'a chair to the left of a umbrella'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,71,fork,hot dog,to the left of,"Does this figure show 'a fork to the left of a hot dog'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,72,clock,skateboard,to the left of,"Does this figure show 'a clock to the left of a skateboard'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,73,potted plant,tv,to the left of,"Does this figure show 'a potted plant to the left of a tv'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,74,laptop,computer keyboard,to the left of,"Does this figure show 'a laptop to the left of a computer keyboard'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,75,broccoli,dog,to the left of,"Does this figure show 'a broccoli to the left of a dog'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,76,tv,traffic light,to the left of,"Does this figure show 'a tv to the left of a traffic light'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,77,cell phone,parking meter,to the left of,"Does this figure show 'a cell phone to the left of a parking meter'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,78,fork,snowboard,to the left of,"Does this figure show 'a fork to the left of a snowboard'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,79,cow,carrot,to the left of,"Does this figure show 'a cow to the left of a carrot'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,80,truck,bus,to the left of,"Does this figure show 'a truck to the left of a bus'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,81,toaster,fire hydrant,to the left of,"Does this figure show 'a toaster to the left of a fire hydrant'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,82,bear,pizza,to the left of,"Does this figure show 'a bear to the left of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,83,pizza,frisbee,to the left of,"Does this figure show 'a pizza to the left of a frisbee'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,84,oven,donut,to the left of,"Does this figure show 'a oven to the left of a donut'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,85,refrigerator,motorcycle,to the left of,"Does this figure show 'a refrigerator to the left of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,86,book,tie,to the left of,"Does this figure show 'a book to the left of a tie'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,87,hair drier,parking meter,to the left of,"Does this figure show 'a hair drier to the left of a parking meter'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,88,tv,truck,to the left of,"Does this figure show 'a tv to the left of a truck'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,89,teddy bear,microwave,to the left of,"Does this figure show 'a teddy bear to the left of a microwave'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,90,clock,giraffe,to the left of,"Does this figure show 'a clock to the left of a giraffe'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,91,person,refrigerator,to the left of,"Does this figure show 'a person to the left of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,92,tv,cow,to the left of,"Does this figure show 'a tv to the left of a cow'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,93,microwave,cow,to the left of,"Does this figure show 'a microwave to the left of a cow'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,94,fire hydrant,tv remote,to the left of,"Does this figure show 'a fire hydrant to the left of a tv remote'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,95,donut,clock,to the left of,"Does this figure show 'a donut to the left of a clock'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,96,baseball glove,sandwich,to the left of,"Does this figure show 'a baseball glove to the left of a sandwich'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,97,hair drier,computer mouse,to the left of,"Does this figure show 'a hair drier to the left of a computer mouse'? Please answer yes, no.",No.,NO
+phrase_46534700.pt,98,skateboard,bear,to the left of,"Does this figure show 'a skateboard to the left of a bear'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,99,refrigerator,orange,to the left of,"Does this figure show 'a refrigerator to the left of a orange'? Please answer yes, no.",Yes.,YES
+phrase_46534700.pt,100,clock,dining table,to the left of,"Does this figure show 'a clock to the left of a dining table'? Please answer yes, no.",Yes.,YES

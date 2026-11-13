@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_97999771.pt,0,giraffe,hair drier,below,Does this figure show 'a giraffe below a hair drier'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,1,broccoli,skis,below,Does this figure show 'a broccoli below a skis'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,2,book,sports ball,below,Does this figure show 'a book below a sports ball'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,3,bench,cow,below,Does this figure show 'a bench below a cow'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,4,computer keyboard,skateboard,below,Does this figure show 'a computer keyboard below a skateboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,5,toilet,potted plant,below,Does this figure show 'a toilet below a potted plant'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,6,oven,vase,below,Does this figure show 'a oven below a vase'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,7,bed,book,below,Does this figure show 'a bed below a book'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,8,cell phone,bear,below,Does this figure show 'a cell phone below a bear'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,9,sports ball,refrigerator,below,Does this figure show 'a sports ball below a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_97999771.pt,10,baseball bat,dog,below,Does this figure show 'a baseball bat below a dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,11,orange,traffic light,below,Does this figure show 'a orange below a traffic light'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,12,teddy bear,orange,below,Does this figure show 'a teddy bear below a orange'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,13,skis,tennis racket,below,Does this figure show 'a skis below a tennis racket'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,14,zebra,bicycle,below,Does this figure show 'a zebra below a bicycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,15,sheep,computer mouse,below,Does this figure show 'a sheep below a computer mouse'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,16,cell phone,orange,below,Does this figure show 'a cell phone below a orange'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,17,knife,umbrella,below,Does this figure show 'a knife below a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_97999771.pt,18,motorcycle,carrot,below,Does this figure show 'a motorcycle below a carrot'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,19,traffic light,horse,below,Does this figure show 'a traffic light below a horse'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,20,surfboard,tv,below,Does this figure show 'a surfboard below a tv'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,21,carrot,truck,below,Does this figure show 'a carrot below a truck'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,22,giraffe,fire hydrant,below,Does this figure show 'a giraffe below a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,23,elephant,toaster,below,Does this figure show 'a elephant below a toaster'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,24,bowl,dog,below,Does this figure show 'a bowl below a dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,25,bench,motorcycle,below,Does this figure show 'a bench below a motorcycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,26,frisbee,handbag,below,Does this figure show 'a frisbee below a handbag'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,27,skis,cat,below,Does this figure show 'a skis below a cat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,28,surfboard,spoon,below,Does this figure show 'a surfboard below a spoon'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,29,bicycle,bus,below,Does this figure show 'a bicycle below a bus'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,30,car,laptop,below,Does this figure show 'a car below a laptop'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,31,frisbee,cat,below,Does this figure show 'a frisbee below a cat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,32,skis,motorcycle,below,Does this figure show 'a skis below a motorcycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,33,toilet,cat,below,Does this figure show 'a toilet below a cat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,34,snowboard,boat,below,Does this figure show 'a snowboard below a boat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,35,broccoli,bird,below,Does this figure show 'a broccoli below a bird'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,36,scissors,airplane,below,Does this figure show 'a scissors below a airplane'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,37,bowl,banana,below,Does this figure show 'a bowl below a banana'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,38,baseball glove,bicycle,below,Does this figure show 'a baseball glove below a bicycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,39,microwave,skis,below,Does this figure show 'a microwave below a skis'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,40,banana,stop sign,below,Does this figure show 'a banana below a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_97999771.pt,41,oven,snowboard,below,Does this figure show 'a oven below a snowboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,42,giraffe,tie,below,Does this figure show 'a giraffe below a tie'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,43,parking meter,toilet,below,Does this figure show 'a parking meter below a toilet'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,44,banana,fork,below,Does this figure show 'a banana below a fork'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,45,laptop,broccoli,below,Does this figure show 'a laptop below a broccoli'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,46,orange,toothbrush,below,Does this figure show 'a orange below a toothbrush'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,47,baseball bat,boat,below,Does this figure show 'a baseball bat below a boat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,48,snowboard,skateboard,below,Does this figure show 'a snowboard below a skateboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,49,book,dog,below,Does this figure show 'a book below a dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,50,chair,pizza,below,Does this figure show 'a chair below a pizza'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,51,suitcase,train,below,Does this figure show 'a suitcase below a train'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,52,refrigerator,sports ball,below,Does this figure show 'a refrigerator below a sports ball'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,53,baseball bat,sandwich,below,Does this figure show 'a baseball bat below a sandwich'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,54,potted plant,fork,below,Does this figure show 'a potted plant below a fork'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,55,clock,cow,below,Does this figure show 'a clock below a cow'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,56,skateboard,motorcycle,below,Does this figure show 'a skateboard below a motorcycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,57,orange,bottle,below,Does this figure show 'a orange below a bottle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,58,backpack,wine glass,below,Does this figure show 'a backpack below a wine glass'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,59,surfboard,handbag,below,Does this figure show 'a surfboard below a handbag'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,60,frisbee,broccoli,below,Does this figure show 'a frisbee below a broccoli'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,61,cell phone,dog,below,Does this figure show 'a cell phone below a dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,62,chair,tennis racket,below,Does this figure show 'a chair below a tennis racket'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,63,couch,tv remote,below,Does this figure show 'a couch below a tv remote'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,64,donut,knife,below,Does this figure show 'a donut below a knife'? Please answer yes or no.,Yes.,YES
+phrase_97999771.pt,65,tv remote,laptop,below,Does this figure show 'a tv remote below a laptop'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,66,traffic light,pizza,below,Does this figure show 'a traffic light below a pizza'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,67,motorcycle,cat,below,Does this figure show 'a motorcycle below a cat'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,68,snowboard,bottle,below,Does this figure show 'a snowboard below a bottle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,69,chair,umbrella,below,Does this figure show 'a chair below a umbrella'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,70,fork,hot dog,below,Does this figure show 'a fork below a hot dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,71,clock,skateboard,below,Does this figure show 'a clock below a skateboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,72,potted plant,tv,below,Does this figure show 'a potted plant below a tv'? Please answer yes or no.,Yes.,YES
+phrase_97999771.pt,73,laptop,computer keyboard,below,Does this figure show 'a laptop below a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,74,broccoli,dog,below,Does this figure show 'a broccoli below a dog'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,75,tv,traffic light,below,Does this figure show 'a tv below a traffic light'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,76,cell phone,parking meter,below,Does this figure show 'a cell phone below a parking meter'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,77,fork,snowboard,below,Does this figure show 'a fork below a snowboard'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,78,cow,carrot,below,Does this figure show 'a cow below a carrot'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,79,truck,bus,below,Does this figure show 'a truck below a bus'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,80,toaster,fire hydrant,below,Does this figure show 'a toaster below a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,81,bear,pizza,below,Does this figure show 'a bear below a pizza'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,82,pizza,frisbee,below,Does this figure show 'a pizza below a frisbee'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,83,oven,donut,below,Does this figure show 'a oven below a donut'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,84,refrigerator,motorcycle,below,Does this figure show 'a refrigerator below a motorcycle'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,85,book,tie,below,Does this figure show 'a book below a tie'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,86,hair drier,parking meter,below,Does this figure show 'a hair drier below a parking meter'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,87,tv,truck,below,Does this figure show 'a tv below a truck'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,88,teddy bear,microwave,below,Does this figure show 'a teddy bear below a microwave'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,89,clock,giraffe,below,Does this figure show 'a clock below a giraffe'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,90,person,refrigerator,below,Does this figure show 'a person below a refrigerator'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,91,tv,cow,below,Does this figure show 'a tv below a cow'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,92,microwave,cow,below,Does this figure show 'a microwave below a cow'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,93,fire hydrant,tv remote,below,Does this figure show 'a fire hydrant below a tv remote'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,94,donut,clock,below,Does this figure show 'a donut below a clock'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,95,baseball glove,sandwich,below,Does this figure show 'a baseball glove below a sandwich'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,96,hair drier,computer mouse,below,Does this figure show 'a hair drier below a computer mouse'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,97,skateboard,bear,below,Does this figure show 'a skateboard below a bear'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,98,refrigerator,orange,below,Does this figure show 'a refrigerator below a orange'? Please answer yes or no.,No.,NO
+phrase_97999771.pt,99,clock,dining table,below,Does this figure show 'a clock below a dining table'? Please answer yes or no.,No.,NO

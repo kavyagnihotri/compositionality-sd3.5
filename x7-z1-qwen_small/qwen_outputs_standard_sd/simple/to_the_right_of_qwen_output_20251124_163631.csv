@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_79660671.pt,1,giraffe,hair drier,to the right of,"Does this figure show 'a giraffe to the right of a hair drier'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,2,broccoli,skis,to the right of,"Does this figure show 'a broccoli to the right of a skis'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,3,book,sports ball,to the right of,"Does this figure show 'a book to the right of a sports ball'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,4,bench,cow,to the right of,"Does this figure show 'a bench to the right of a cow'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,5,computer keyboard,skateboard,to the right of,"Does this figure show 'a computer keyboard to the right of a skateboard'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,6,toilet,potted plant,to the right of,"Does this figure show 'a toilet to the right of a potted plant'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,7,oven,vase,to the right of,"Does this figure show 'a oven to the right of a vase'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,8,bed,book,to the right of,"Does this figure show 'a bed to the right of a book'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,9,cell phone,bear,to the right of,"Does this figure show 'a cell phone to the right of a bear'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,10,sports ball,refrigerator,to the right of,"Does this figure show 'a sports ball to the right of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,11,baseball bat,dog,to the right of,"Does this figure show 'a baseball bat to the right of a dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,12,orange,traffic light,to the right of,"Does this figure show 'a orange to the right of a traffic light'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,13,teddy bear,orange,to the right of,"Does this figure show 'a teddy bear to the right of a orange'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,14,skis,tennis racket,to the right of,"Does this figure show 'a skis to the right of a tennis racket'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,15,zebra,bicycle,to the right of,"Does this figure show 'a zebra to the right of a bicycle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,16,sheep,computer mouse,to the right of,"Does this figure show 'a sheep to the right of a computer mouse'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,17,cell phone,orange,to the right of,"Does this figure show 'a cell phone to the right of a orange'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,18,knife,umbrella,to the right of,"Does this figure show 'a knife to the right of a umbrella'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,19,motorcycle,carrot,to the right of,"Does this figure show 'a motorcycle to the right of a carrot'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,20,traffic light,horse,to the right of,"Does this figure show 'a traffic light to the right of a horse'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,21,surfboard,tv,to the right of,"Does this figure show 'a surfboard to the right of a tv'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,22,carrot,truck,to the right of,"Does this figure show 'a carrot to the right of a truck'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,23,giraffe,fire hydrant,to the right of,"Does this figure show 'a giraffe to the right of a fire hydrant'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,24,elephant,toaster,to the right of,"Does this figure show 'a elephant to the right of a toaster'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,25,bowl,dog,to the right of,"Does this figure show 'a bowl to the right of a dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,26,bench,motorcycle,to the right of,"Does this figure show 'a bench to the right of a motorcycle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,27,frisbee,handbag,to the right of,"Does this figure show 'a frisbee to the right of a handbag'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,28,skis,cat,to the right of,"Does this figure show 'a skis to the right of a cat'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,29,surfboard,spoon,to the right of,"Does this figure show 'a surfboard to the right of a spoon'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,30,bicycle,bus,to the right of,"Does this figure show 'a bicycle to the right of a bus'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,31,car,laptop,to the right of,"Does this figure show 'a car to the right of a laptop'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,32,frisbee,cat,to the right of,"Does this figure show 'a frisbee to the right of a cat'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,33,skis,motorcycle,to the right of,"Does this figure show 'a skis to the right of a motorcycle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,34,toilet,cat,to the right of,"Does this figure show 'a toilet to the right of a cat'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,35,snowboard,boat,to the right of,"Does this figure show 'a snowboard to the right of a boat'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,36,broccoli,bird,to the right of,"Does this figure show 'a broccoli to the right of a bird'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,37,scissors,airplane,to the right of,"Does this figure show 'a scissors to the right of a airplane'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,38,bowl,banana,to the right of,"Does this figure show 'a bowl to the right of a banana'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,39,baseball glove,bicycle,to the right of,"Does this figure show 'a baseball glove to the right of a bicycle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,40,microwave,skis,to the right of,"Does this figure show 'a microwave to the right of a skis'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,41,banana,stop sign,to the right of,"Does this figure show 'a banana to the right of a stop sign'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,42,oven,snowboard,to the right of,"Does this figure show 'a oven to the right of a snowboard'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,43,giraffe,tie,to the right of,"Does this figure show 'a giraffe to the right of a tie'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,44,parking meter,toilet,to the right of,"Does this figure show 'a parking meter to the right of a toilet'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,45,banana,fork,to the right of,"Does this figure show 'a banana to the right of a fork'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,46,laptop,broccoli,to the right of,"Does this figure show 'a laptop to the right of a broccoli'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,47,orange,toothbrush,to the right of,"Does this figure show 'a orange to the right of a toothbrush'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,48,baseball bat,boat,to the right of,"Does this figure show 'a baseball bat to the right of a boat'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,49,snowboard,skateboard,to the right of,"Does this figure show 'a snowboard to the right of a skateboard'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,50,book,dog,to the right of,"Does this figure show 'a book to the right of a dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,51,chair,pizza,to the right of,"Does this figure show 'a chair to the right of a pizza'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,52,suitcase,train,to the right of,"Does this figure show 'a suitcase to the right of a train'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,53,refrigerator,sports ball,to the right of,"Does this figure show 'a refrigerator to the right of a sports ball'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,54,baseball bat,sandwich,to the right of,"Does this figure show 'a baseball bat to the right of a sandwich'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,55,potted plant,fork,to the right of,"Does this figure show 'a potted plant to the right of a fork'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,56,clock,cow,to the right of,"Does this figure show 'a clock to the right of a cow'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,57,skateboard,motorcycle,to the right of,"Does this figure show 'a skateboard to the right of a motorcycle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,58,orange,bottle,to the right of,"Does this figure show 'a orange to the right of a bottle'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,59,backpack,wine glass,to the right of,"Does this figure show 'a backpack to the right of a wine glass'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,60,surfboard,handbag,to the right of,"Does this figure show 'a surfboard to the right of a handbag'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,61,frisbee,broccoli,to the right of,"Does this figure show 'a frisbee to the right of a broccoli'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,62,cell phone,dog,to the right of,"Does this figure show 'a cell phone to the right of a dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,63,chair,tennis racket,to the right of,"Does this figure show 'a chair to the right of a tennis racket'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,64,couch,tv remote,to the right of,"Does this figure show 'a couch to the right of a tv remote'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,65,donut,knife,to the right of,"Does this figure show 'a donut to the right of a knife'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,66,tv remote,laptop,to the right of,"Does this figure show 'a tv remote to the right of a laptop'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,67,traffic light,pizza,to the right of,"Does this figure show 'a traffic light to the right of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,68,motorcycle,cat,to the right of,"Does this figure show 'a motorcycle to the right of a cat'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,69,snowboard,bottle,to the right of,"Does this figure show 'a snowboard to the right of a bottle'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,70,chair,umbrella,to the right of,"Does this figure show 'a chair to the right of a umbrella'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,71,fork,hot dog,to the right of,"Does this figure show 'a fork to the right of a hot dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,72,clock,skateboard,to the right of,"Does this figure show 'a clock to the right of a skateboard'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,73,potted plant,tv,to the right of,"Does this figure show 'a potted plant to the right of a tv'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,74,laptop,computer keyboard,to the right of,"Does this figure show 'a laptop to the right of a computer keyboard'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,75,broccoli,dog,to the right of,"Does this figure show 'a broccoli to the right of a dog'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,76,tv,traffic light,to the right of,"Does this figure show 'a tv to the right of a traffic light'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,77,cell phone,parking meter,to the right of,"Does this figure show 'a cell phone to the right of a parking meter'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,78,fork,snowboard,to the right of,"Does this figure show 'a fork to the right of a snowboard'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,79,cow,carrot,to the right of,"Does this figure show 'a cow to the right of a carrot'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,80,truck,bus,to the right of,"Does this figure show 'a truck to the right of a bus'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,81,toaster,fire hydrant,to the right of,"Does this figure show 'a toaster to the right of a fire hydrant'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,82,bear,pizza,to the right of,"Does this figure show 'a bear to the right of a pizza'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,83,pizza,frisbee,to the right of,"Does this figure show 'a pizza to the right of a frisbee'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,84,oven,donut,to the right of,"Does this figure show 'a oven to the right of a donut'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,85,refrigerator,motorcycle,to the right of,"Does this figure show 'a refrigerator to the right of a motorcycle'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,86,book,tie,to the right of,"Does this figure show 'a book to the right of a tie'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,87,hair drier,parking meter,to the right of,"Does this figure show 'a hair drier to the right of a parking meter'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,88,tv,truck,to the right of,"Does this figure show 'a tv to the right of a truck'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,89,teddy bear,microwave,to the right of,"Does this figure show 'a teddy bear to the right of a microwave'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,90,clock,giraffe,to the right of,"Does this figure show 'a clock to the right of a giraffe'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,91,person,refrigerator,to the right of,"Does this figure show 'a person to the right of a refrigerator'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,92,tv,cow,to the right of,"Does this figure show 'a tv to the right of a cow'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,93,microwave,cow,to the right of,"Does this figure show 'a microwave to the right of a cow'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,94,fire hydrant,tv remote,to the right of,"Does this figure show 'a fire hydrant to the right of a tv remote'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,95,donut,clock,to the right of,"Does this figure show 'a donut to the right of a clock'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,96,baseball glove,sandwich,to the right of,"Does this figure show 'a baseball glove to the right of a sandwich'? Please answer yes, no.",Yes.,YES
+phrase_79660671.pt,97,hair drier,computer mouse,to the right of,"Does this figure show 'a hair drier to the right of a computer mouse'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,98,skateboard,bear,to the right of,"Does this figure show 'a skateboard to the right of a bear'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,99,refrigerator,orange,to the right of,"Does this figure show 'a refrigerator to the right of a orange'? Please answer yes, no.",No.,NO
+phrase_79660671.pt,100,clock,dining table,to the right of,"Does this figure show 'a clock to the right of a dining table'? Please answer yes, no.",Yes.,YES

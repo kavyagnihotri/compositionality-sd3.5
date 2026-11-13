@@ -1,0 +1,301 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_76551336.pt,0,a photo of a giraffe to the left of a hair drier,giraffe,simple_positional,to the left of,hair drier
+phrase_76551336.pt,1,a photo of a broccoli to the left of a skis,broccoli,simple_positional,to the left of,skis
+phrase_76551336.pt,2,a photo of a book to the left of a sports ball,book,simple_positional,to the left of,sports ball
+phrase_76551336.pt,3,a photo of a bench to the left of a cow,bench,simple_positional,to the left of,cow
+phrase_76551336.pt,4,a photo of a computer keyboard to the left of a skateboard,computer keyboard,simple_positional,to the left of,skateboard
+phrase_76551336.pt,5,a photo of a toilet to the left of a potted plant,toilet,simple_positional,to the left of,potted plant
+phrase_76551336.pt,6,a photo of a oven to the left of a vase,oven,simple_positional,to the left of,vase
+phrase_76551336.pt,7,a photo of a bed to the left of a book,bed,simple_positional,to the left of,book
+phrase_76551336.pt,8,a photo of a cell phone to the left of a bear,cell phone,simple_positional,to the left of,bear
+phrase_76551336.pt,9,a photo of a sports ball to the left of a refrigerator,sports ball,simple_positional,to the left of,refrigerator
+phrase_76551336.pt,10,a photo of a baseball bat to the left of a dog,baseball bat,simple_positional,to the left of,dog
+phrase_76551336.pt,11,a photo of a orange to the left of a traffic light,orange,simple_positional,to the left of,traffic light
+phrase_76551336.pt,12,a photo of a teddy bear to the left of a orange,teddy bear,simple_positional,to the left of,orange
+phrase_76551336.pt,13,a photo of a skis to the left of a tennis racket,skis,simple_positional,to the left of,tennis racket
+phrase_76551336.pt,14,a photo of a zebra to the left of a bicycle,zebra,simple_positional,to the left of,bicycle
+phrase_76551336.pt,15,a photo of a sheep to the left of a computer mouse,sheep,simple_positional,to the left of,computer mouse
+phrase_76551336.pt,16,a photo of a cell phone to the left of a orange,cell phone,simple_positional,to the left of,orange
+phrase_76551336.pt,17,a photo of a knife to the left of a umbrella,knife,simple_positional,to the left of,umbrella
+phrase_76551336.pt,18,a photo of a motorcycle to the left of a carrot,motorcycle,simple_positional,to the left of,carrot
+phrase_76551336.pt,19,a photo of a traffic light to the left of a horse,traffic light,simple_positional,to the left of,horse
+phrase_76551336.pt,20,a photo of a surfboard to the left of a tv,surfboard,simple_positional,to the left of,tv
+phrase_76551336.pt,21,a photo of a carrot to the left of a truck,carrot,simple_positional,to the left of,truck
+phrase_76551336.pt,22,a photo of a giraffe to the left of a fire hydrant,giraffe,simple_positional,to the left of,fire hydrant
+phrase_76551336.pt,23,a photo of a elephant to the left of a toaster,elephant,simple_positional,to the left of,toaster
+phrase_76551336.pt,24,a photo of a bowl to the left of a dog,bowl,simple_positional,to the left of,dog
+phrase_76551336.pt,25,a photo of a bench to the left of a motorcycle,bench,simple_positional,to the left of,motorcycle
+phrase_76551336.pt,26,a photo of a frisbee to the left of a handbag,frisbee,simple_positional,to the left of,handbag
+phrase_76551336.pt,27,a photo of a skis to the left of a cat,skis,simple_positional,to the left of,cat
+phrase_76551336.pt,28,a photo of a surfboard to the left of a spoon,surfboard,simple_positional,to the left of,spoon
+phrase_76551336.pt,29,a photo of a bicycle to the left of a bus,bicycle,simple_positional,to the left of,bus
+phrase_76551336.pt,30,a photo of a car to the left of a laptop,car,simple_positional,to the left of,laptop
+phrase_76551336.pt,31,a photo of a frisbee to the left of a cat,frisbee,simple_positional,to the left of,cat
+phrase_76551336.pt,32,a photo of a skis to the left of a motorcycle,skis,simple_positional,to the left of,motorcycle
+phrase_76551336.pt,33,a photo of a toilet to the left of a cat,toilet,simple_positional,to the left of,cat
+phrase_76551336.pt,34,a photo of a snowboard to the left of a boat,snowboard,simple_positional,to the left of,boat
+phrase_76551336.pt,35,a photo of a broccoli to the left of a bird,broccoli,simple_positional,to the left of,bird
+phrase_76551336.pt,36,a photo of a scissors to the left of a airplane,scissors,simple_positional,to the left of,airplane
+phrase_76551336.pt,37,a photo of a bowl to the left of a banana,bowl,simple_positional,to the left of,banana
+phrase_76551336.pt,38,a photo of a baseball glove to the left of a bicycle,baseball glove,simple_positional,to the left of,bicycle
+phrase_76551336.pt,39,a photo of a microwave to the left of a skis,microwave,simple_positional,to the left of,skis
+phrase_76551336.pt,40,a photo of a banana to the left of a stop sign,banana,simple_positional,to the left of,stop sign
+phrase_76551336.pt,41,a photo of a oven to the left of a snowboard,oven,simple_positional,to the left of,snowboard
+phrase_76551336.pt,42,a photo of a giraffe to the left of a tie,giraffe,simple_positional,to the left of,tie
+phrase_76551336.pt,43,a photo of a parking meter to the left of a toilet,parking meter,simple_positional,to the left of,toilet
+phrase_76551336.pt,44,a photo of a banana to the left of a fork,banana,simple_positional,to the left of,fork
+phrase_76551336.pt,45,a photo of a laptop to the left of a broccoli,laptop,simple_positional,to the left of,broccoli
+phrase_76551336.pt,46,a photo of a orange to the left of a toothbrush,orange,simple_positional,to the left of,toothbrush
+phrase_76551336.pt,47,a photo of a baseball bat to the left of a boat,baseball bat,simple_positional,to the left of,boat
+phrase_76551336.pt,48,a photo of a snowboard to the left of a skateboard,snowboard,simple_positional,to the left of,skateboard
+phrase_76551336.pt,49,a photo of a book to the left of a dog,book,simple_positional,to the left of,dog
+phrase_76551336.pt,50,a photo of a chair to the left of a pizza,chair,simple_positional,to the left of,pizza
+phrase_76551336.pt,51,a photo of a suitcase to the left of a train,suitcase,simple_positional,to the left of,train
+phrase_76551336.pt,52,a photo of a refrigerator to the left of a sports ball,refrigerator,simple_positional,to the left of,sports ball
+phrase_76551336.pt,53,a photo of a baseball bat to the left of a sandwich,baseball bat,simple_positional,to the left of,sandwich
+phrase_76551336.pt,54,a photo of a potted plant to the left of a fork,potted plant,simple_positional,to the left of,fork
+phrase_76551336.pt,55,a photo of a clock to the left of a cow,clock,simple_positional,to the left of,cow
+phrase_76551336.pt,56,a photo of a skateboard to the left of a motorcycle,skateboard,simple_positional,to the left of,motorcycle
+phrase_76551336.pt,57,a photo of a orange to the left of a bottle,orange,simple_positional,to the left of,bottle
+phrase_76551336.pt,58,a photo of a backpack to the left of a wine glass,backpack,simple_positional,to the left of,wine glass
+phrase_76551336.pt,59,a photo of a surfboard to the left of a handbag,surfboard,simple_positional,to the left of,handbag
+phrase_76551336.pt,60,a photo of a frisbee to the left of a broccoli,frisbee,simple_positional,to the left of,broccoli
+phrase_76551336.pt,61,a photo of a cell phone to the left of a dog,cell phone,simple_positional,to the left of,dog
+phrase_76551336.pt,62,a photo of a chair to the left of a tennis racket,chair,simple_positional,to the left of,tennis racket
+phrase_76551336.pt,63,a photo of a couch to the left of a tv remote,couch,simple_positional,to the left of,tv remote
+phrase_76551336.pt,64,a photo of a donut to the left of a knife,donut,simple_positional,to the left of,knife
+phrase_76551336.pt,65,a photo of a tv remote to the left of a laptop,tv remote,simple_positional,to the left of,laptop
+phrase_76551336.pt,66,a photo of a traffic light to the left of a pizza,traffic light,simple_positional,to the left of,pizza
+phrase_76551336.pt,67,a photo of a motorcycle to the left of a cat,motorcycle,simple_positional,to the left of,cat
+phrase_76551336.pt,68,a photo of a snowboard to the left of a bottle,snowboard,simple_positional,to the left of,bottle
+phrase_76551336.pt,69,a photo of a chair to the left of a umbrella,chair,simple_positional,to the left of,umbrella
+phrase_76551336.pt,70,a photo of a fork to the left of a hot dog,fork,simple_positional,to the left of,hot dog
+phrase_76551336.pt,71,a photo of a clock to the left of a skateboard,clock,simple_positional,to the left of,skateboard
+phrase_76551336.pt,72,a photo of a potted plant to the left of a tv,potted plant,simple_positional,to the left of,tv
+phrase_76551336.pt,73,a photo of a laptop to the left of a computer keyboard,laptop,simple_positional,to the left of,computer keyboard
+phrase_76551336.pt,74,a photo of a broccoli to the left of a dog,broccoli,simple_positional,to the left of,dog
+phrase_76551336.pt,75,a photo of a tv to the left of a traffic light,tv,simple_positional,to the left of,traffic light
+phrase_76551336.pt,76,a photo of a cell phone to the left of a parking meter,cell phone,simple_positional,to the left of,parking meter
+phrase_76551336.pt,77,a photo of a fork to the left of a snowboard,fork,simple_positional,to the left of,snowboard
+phrase_76551336.pt,78,a photo of a cow to the left of a carrot,cow,simple_positional,to the left of,carrot
+phrase_76551336.pt,79,a photo of a truck to the left of a bus,truck,simple_positional,to the left of,bus
+phrase_76551336.pt,80,a photo of a toaster to the left of a fire hydrant,toaster,simple_positional,to the left of,fire hydrant
+phrase_76551336.pt,81,a photo of a bear to the left of a pizza,bear,simple_positional,to the left of,pizza
+phrase_76551336.pt,82,a photo of a pizza to the left of a frisbee,pizza,simple_positional,to the left of,frisbee
+phrase_76551336.pt,83,a photo of a oven to the left of a donut,oven,simple_positional,to the left of,donut
+phrase_76551336.pt,84,a photo of a refrigerator to the left of a motorcycle,refrigerator,simple_positional,to the left of,motorcycle
+phrase_76551336.pt,85,a photo of a book to the left of a tie,book,simple_positional,to the left of,tie
+phrase_76551336.pt,86,a photo of a hair drier to the left of a parking meter,hair drier,simple_positional,to the left of,parking meter
+phrase_76551336.pt,87,a photo of a tv to the left of a truck,tv,simple_positional,to the left of,truck
+phrase_76551336.pt,88,a photo of a teddy bear to the left of a microwave,teddy bear,simple_positional,to the left of,microwave
+phrase_76551336.pt,89,a photo of a clock to the left of a giraffe,clock,simple_positional,to the left of,giraffe
+phrase_76551336.pt,90,a photo of a person to the left of a refrigerator,person,simple_positional,to the left of,refrigerator
+phrase_76551336.pt,91,a photo of a tv to the left of a cow,tv,simple_positional,to the left of,cow
+phrase_76551336.pt,92,a photo of a microwave to the left of a cow,microwave,simple_positional,to the left of,cow
+phrase_76551336.pt,93,a photo of a fire hydrant to the left of a tv remote,fire hydrant,simple_positional,to the left of,tv remote
+phrase_76551336.pt,94,a photo of a donut to the left of a clock,donut,simple_positional,to the left of,clock
+phrase_76551336.pt,95,a photo of a baseball glove to the left of a sandwich,baseball glove,simple_positional,to the left of,sandwich
+phrase_76551336.pt,96,a photo of a hair drier to the left of a computer mouse,hair drier,simple_positional,to the left of,computer mouse
+phrase_76551336.pt,97,a photo of a skateboard to the left of a bear,skateboard,simple_positional,to the left of,bear
+phrase_76551336.pt,98,a photo of a refrigerator to the left of a orange,refrigerator,simple_positional,to the left of,orange
+phrase_76551336.pt,99,a photo of a clock to the left of a dining table,clock,simple_positional,to the left of,dining table
+phrase_91116733.pt,0,a photo of a giraffe to the right of a hair drier,giraffe,simple_positional,to the right of,hair drier
+phrase_91116733.pt,1,a photo of a broccoli to the right of a skis,broccoli,simple_positional,to the right of,skis
+phrase_91116733.pt,2,a photo of a book to the right of a sports ball,book,simple_positional,to the right of,sports ball
+phrase_91116733.pt,3,a photo of a bench to the right of a cow,bench,simple_positional,to the right of,cow
+phrase_91116733.pt,4,a photo of a computer keyboard to the right of a skateboard,computer keyboard,simple_positional,to the right of,skateboard
+phrase_91116733.pt,5,a photo of a toilet to the right of a potted plant,toilet,simple_positional,to the right of,potted plant
+phrase_91116733.pt,6,a photo of a oven to the right of a vase,oven,simple_positional,to the right of,vase
+phrase_91116733.pt,7,a photo of a bed to the right of a book,bed,simple_positional,to the right of,book
+phrase_91116733.pt,8,a photo of a cell phone to the right of a bear,cell phone,simple_positional,to the right of,bear
+phrase_91116733.pt,9,a photo of a sports ball to the right of a refrigerator,sports ball,simple_positional,to the right of,refrigerator
+phrase_91116733.pt,10,a photo of a baseball bat to the right of a dog,baseball bat,simple_positional,to the right of,dog
+phrase_91116733.pt,11,a photo of a orange to the right of a traffic light,orange,simple_positional,to the right of,traffic light
+phrase_91116733.pt,12,a photo of a teddy bear to the right of a orange,teddy bear,simple_positional,to the right of,orange
+phrase_91116733.pt,13,a photo of a skis to the right of a tennis racket,skis,simple_positional,to the right of,tennis racket
+phrase_91116733.pt,14,a photo of a zebra to the right of a bicycle,zebra,simple_positional,to the right of,bicycle
+phrase_91116733.pt,15,a photo of a sheep to the right of a computer mouse,sheep,simple_positional,to the right of,computer mouse
+phrase_91116733.pt,16,a photo of a cell phone to the right of a orange,cell phone,simple_positional,to the right of,orange
+phrase_91116733.pt,17,a photo of a knife to the right of a umbrella,knife,simple_positional,to the right of,umbrella
+phrase_91116733.pt,18,a photo of a motorcycle to the right of a carrot,motorcycle,simple_positional,to the right of,carrot
+phrase_91116733.pt,19,a photo of a traffic light to the right of a horse,traffic light,simple_positional,to the right of,horse
+phrase_91116733.pt,20,a photo of a surfboard to the right of a tv,surfboard,simple_positional,to the right of,tv
+phrase_91116733.pt,21,a photo of a carrot to the right of a truck,carrot,simple_positional,to the right of,truck
+phrase_91116733.pt,22,a photo of a giraffe to the right of a fire hydrant,giraffe,simple_positional,to the right of,fire hydrant
+phrase_91116733.pt,23,a photo of a elephant to the right of a toaster,elephant,simple_positional,to the right of,toaster
+phrase_91116733.pt,24,a photo of a bowl to the right of a dog,bowl,simple_positional,to the right of,dog
+phrase_91116733.pt,25,a photo of a bench to the right of a motorcycle,bench,simple_positional,to the right of,motorcycle
+phrase_91116733.pt,26,a photo of a frisbee to the right of a handbag,frisbee,simple_positional,to the right of,handbag
+phrase_91116733.pt,27,a photo of a skis to the right of a cat,skis,simple_positional,to the right of,cat
+phrase_91116733.pt,28,a photo of a surfboard to the right of a spoon,surfboard,simple_positional,to the right of,spoon
+phrase_91116733.pt,29,a photo of a bicycle to the right of a bus,bicycle,simple_positional,to the right of,bus
+phrase_91116733.pt,30,a photo of a car to the right of a laptop,car,simple_positional,to the right of,laptop
+phrase_91116733.pt,31,a photo of a frisbee to the right of a cat,frisbee,simple_positional,to the right of,cat
+phrase_91116733.pt,32,a photo of a skis to the right of a motorcycle,skis,simple_positional,to the right of,motorcycle
+phrase_91116733.pt,33,a photo of a toilet to the right of a cat,toilet,simple_positional,to the right of,cat
+phrase_91116733.pt,34,a photo of a snowboard to the right of a boat,snowboard,simple_positional,to the right of,boat
+phrase_91116733.pt,35,a photo of a broccoli to the right of a bird,broccoli,simple_positional,to the right of,bird
+phrase_91116733.pt,36,a photo of a scissors to the right of a airplane,scissors,simple_positional,to the right of,airplane
+phrase_91116733.pt,37,a photo of a bowl to the right of a banana,bowl,simple_positional,to the right of,banana
+phrase_91116733.pt,38,a photo of a baseball glove to the right of a bicycle,baseball glove,simple_positional,to the right of,bicycle
+phrase_91116733.pt,39,a photo of a microwave to the right of a skis,microwave,simple_positional,to the right of,skis
+phrase_91116733.pt,40,a photo of a banana to the right of a stop sign,banana,simple_positional,to the right of,stop sign
+phrase_91116733.pt,41,a photo of a oven to the right of a snowboard,oven,simple_positional,to the right of,snowboard
+phrase_91116733.pt,42,a photo of a giraffe to the right of a tie,giraffe,simple_positional,to the right of,tie
+phrase_91116733.pt,43,a photo of a parking meter to the right of a toilet,parking meter,simple_positional,to the right of,toilet
+phrase_91116733.pt,44,a photo of a banana to the right of a fork,banana,simple_positional,to the right of,fork
+phrase_91116733.pt,45,a photo of a laptop to the right of a broccoli,laptop,simple_positional,to the right of,broccoli
+phrase_91116733.pt,46,a photo of a orange to the right of a toothbrush,orange,simple_positional,to the right of,toothbrush
+phrase_91116733.pt,47,a photo of a baseball bat to the right of a boat,baseball bat,simple_positional,to the right of,boat
+phrase_91116733.pt,48,a photo of a snowboard to the right of a skateboard,snowboard,simple_positional,to the right of,skateboard
+phrase_91116733.pt,49,a photo of a book to the right of a dog,book,simple_positional,to the right of,dog
+phrase_91116733.pt,50,a photo of a chair to the right of a pizza,chair,simple_positional,to the right of,pizza
+phrase_91116733.pt,51,a photo of a suitcase to the right of a train,suitcase,simple_positional,to the right of,train
+phrase_91116733.pt,52,a photo of a refrigerator to the right of a sports ball,refrigerator,simple_positional,to the right of,sports ball
+phrase_91116733.pt,53,a photo of a baseball bat to the right of a sandwich,baseball bat,simple_positional,to the right of,sandwich
+phrase_91116733.pt,54,a photo of a potted plant to the right of a fork,potted plant,simple_positional,to the right of,fork
+phrase_91116733.pt,55,a photo of a clock to the right of a cow,clock,simple_positional,to the right of,cow
+phrase_91116733.pt,56,a photo of a skateboard to the right of a motorcycle,skateboard,simple_positional,to the right of,motorcycle
+phrase_91116733.pt,57,a photo of a orange to the right of a bottle,orange,simple_positional,to the right of,bottle
+phrase_91116733.pt,58,a photo of a backpack to the right of a wine glass,backpack,simple_positional,to the right of,wine glass
+phrase_91116733.pt,59,a photo of a surfboard to the right of a handbag,surfboard,simple_positional,to the right of,handbag
+phrase_91116733.pt,60,a photo of a frisbee to the right of a broccoli,frisbee,simple_positional,to the right of,broccoli
+phrase_91116733.pt,61,a photo of a cell phone to the right of a dog,cell phone,simple_positional,to the right of,dog
+phrase_91116733.pt,62,a photo of a chair to the right of a tennis racket,chair,simple_positional,to the right of,tennis racket
+phrase_91116733.pt,63,a photo of a couch to the right of a tv remote,couch,simple_positional,to the right of,tv remote
+phrase_91116733.pt,64,a photo of a donut to the right of a knife,donut,simple_positional,to the right of,knife
+phrase_91116733.pt,65,a photo of a tv remote to the right of a laptop,tv remote,simple_positional,to the right of,laptop
+phrase_91116733.pt,66,a photo of a traffic light to the right of a pizza,traffic light,simple_positional,to the right of,pizza
+phrase_91116733.pt,67,a photo of a motorcycle to the right of a cat,motorcycle,simple_positional,to the right of,cat
+phrase_91116733.pt,68,a photo of a snowboard to the right of a bottle,snowboard,simple_positional,to the right of,bottle
+phrase_91116733.pt,69,a photo of a chair to the right of a umbrella,chair,simple_positional,to the right of,umbrella
+phrase_91116733.pt,70,a photo of a fork to the right of a hot dog,fork,simple_positional,to the right of,hot dog
+phrase_91116733.pt,71,a photo of a clock to the right of a skateboard,clock,simple_positional,to the right of,skateboard
+phrase_91116733.pt,72,a photo of a potted plant to the right of a tv,potted plant,simple_positional,to the right of,tv
+phrase_91116733.pt,73,a photo of a laptop to the right of a computer keyboard,laptop,simple_positional,to the right of,computer keyboard
+phrase_91116733.pt,74,a photo of a broccoli to the right of a dog,broccoli,simple_positional,to the right of,dog
+phrase_91116733.pt,75,a photo of a tv to the right of a traffic light,tv,simple_positional,to the right of,traffic light
+phrase_91116733.pt,76,a photo of a cell phone to the right of a parking meter,cell phone,simple_positional,to the right of,parking meter
+phrase_91116733.pt,77,a photo of a fork to the right of a snowboard,fork,simple_positional,to the right of,snowboard
+phrase_91116733.pt,78,a photo of a cow to the right of a carrot,cow,simple_positional,to the right of,carrot
+phrase_91116733.pt,79,a photo of a truck to the right of a bus,truck,simple_positional,to the right of,bus
+phrase_91116733.pt,80,a photo of a toaster to the right of a fire hydrant,toaster,simple_positional,to the right of,fire hydrant
+phrase_91116733.pt,81,a photo of a bear to the right of a pizza,bear,simple_positional,to the right of,pizza
+phrase_91116733.pt,82,a photo of a pizza to the right of a frisbee,pizza,simple_positional,to the right of,frisbee
+phrase_91116733.pt,83,a photo of a oven to the right of a donut,oven,simple_positional,to the right of,donut
+phrase_91116733.pt,84,a photo of a refrigerator to the right of a motorcycle,refrigerator,simple_positional,to the right of,motorcycle
+phrase_91116733.pt,85,a photo of a book to the right of a tie,book,simple_positional,to the right of,tie
+phrase_91116733.pt,86,a photo of a hair drier to the right of a parking meter,hair drier,simple_positional,to the right of,parking meter
+phrase_91116733.pt,87,a photo of a tv to the right of a truck,tv,simple_positional,to the right of,truck
+phrase_91116733.pt,88,a photo of a teddy bear to the right of a microwave,teddy bear,simple_positional,to the right of,microwave
+phrase_91116733.pt,89,a photo of a clock to the right of a giraffe,clock,simple_positional,to the right of,giraffe
+phrase_91116733.pt,90,a photo of a person to the right of a refrigerator,person,simple_positional,to the right of,refrigerator
+phrase_91116733.pt,91,a photo of a tv to the right of a cow,tv,simple_positional,to the right of,cow
+phrase_91116733.pt,92,a photo of a microwave to the right of a cow,microwave,simple_positional,to the right of,cow
+phrase_91116733.pt,93,a photo of a fire hydrant to the right of a tv remote,fire hydrant,simple_positional,to the right of,tv remote
+phrase_91116733.pt,94,a photo of a donut to the right of a clock,donut,simple_positional,to the right of,clock
+phrase_91116733.pt,95,a photo of a baseball glove to the right of a sandwich,baseball glove,simple_positional,to the right of,sandwich
+phrase_91116733.pt,96,a photo of a hair drier to the right of a computer mouse,hair drier,simple_positional,to the right of,computer mouse
+phrase_91116733.pt,97,a photo of a skateboard to the right of a bear,skateboard,simple_positional,to the right of,bear
+phrase_91116733.pt,98,a photo of a refrigerator to the right of a orange,refrigerator,simple_positional,to the right of,orange
+phrase_91116733.pt,99,a photo of a clock to the right of a dining table,clock,simple_positional,to the right of,dining table
+phrase_39960094.pt,0,a photo of a giraffe above a hair drier,giraffe,simple_positional,above,hair drier
+phrase_39960094.pt,1,a photo of a broccoli above a skis,broccoli,simple_positional,above,skis
+phrase_39960094.pt,2,a photo of a book above a sports ball,book,simple_positional,above,sports ball
+phrase_39960094.pt,3,a photo of a bench above a cow,bench,simple_positional,above,cow
+phrase_39960094.pt,4,a photo of a computer keyboard above a skateboard,computer keyboard,simple_positional,above,skateboard
+phrase_39960094.pt,5,a photo of a toilet above a potted plant,toilet,simple_positional,above,potted plant
+phrase_39960094.pt,6,a photo of a oven above a vase,oven,simple_positional,above,vase
+phrase_39960094.pt,7,a photo of a bed above a book,bed,simple_positional,above,book
+phrase_39960094.pt,8,a photo of a cell phone above a bear,cell phone,simple_positional,above,bear
+phrase_39960094.pt,9,a photo of a sports ball above a refrigerator,sports ball,simple_positional,above,refrigerator
+phrase_39960094.pt,10,a photo of a baseball bat above a dog,baseball bat,simple_positional,above,dog
+phrase_39960094.pt,11,a photo of a orange above a traffic light,orange,simple_positional,above,traffic light
+phrase_39960094.pt,12,a photo of a teddy bear above a orange,teddy bear,simple_positional,above,orange
+phrase_39960094.pt,13,a photo of a skis above a tennis racket,skis,simple_positional,above,tennis racket
+phrase_39960094.pt,14,a photo of a zebra above a bicycle,zebra,simple_positional,above,bicycle
+phrase_39960094.pt,15,a photo of a sheep above a computer mouse,sheep,simple_positional,above,computer mouse
+phrase_39960094.pt,16,a photo of a cell phone above a orange,cell phone,simple_positional,above,orange
+phrase_39960094.pt,17,a photo of a knife above a umbrella,knife,simple_positional,above,umbrella
+phrase_39960094.pt,18,a photo of a motorcycle above a carrot,motorcycle,simple_positional,above,carrot
+phrase_39960094.pt,19,a photo of a traffic light above a horse,traffic light,simple_positional,above,horse
+phrase_39960094.pt,20,a photo of a surfboard above a tv,surfboard,simple_positional,above,tv
+phrase_39960094.pt,21,a photo of a carrot above a truck,carrot,simple_positional,above,truck
+phrase_39960094.pt,22,a photo of a giraffe above a fire hydrant,giraffe,simple_positional,above,fire hydrant
+phrase_39960094.pt,23,a photo of a elephant above a toaster,elephant,simple_positional,above,toaster
+phrase_39960094.pt,24,a photo of a bowl above a dog,bowl,simple_positional,above,dog
+phrase_39960094.pt,25,a photo of a bench above a motorcycle,bench,simple_positional,above,motorcycle
+phrase_39960094.pt,26,a photo of a frisbee above a handbag,frisbee,simple_positional,above,handbag
+phrase_39960094.pt,27,a photo of a skis above a cat,skis,simple_positional,above,cat
+phrase_39960094.pt,28,a photo of a surfboard above a spoon,surfboard,simple_positional,above,spoon
+phrase_39960094.pt,29,a photo of a bicycle above a bus,bicycle,simple_positional,above,bus
+phrase_39960094.pt,30,a photo of a car above a laptop,car,simple_positional,above,laptop
+phrase_39960094.pt,31,a photo of a frisbee above a cat,frisbee,simple_positional,above,cat
+phrase_39960094.pt,32,a photo of a skis above a motorcycle,skis,simple_positional,above,motorcycle
+phrase_39960094.pt,33,a photo of a toilet above a cat,toilet,simple_positional,above,cat
+phrase_39960094.pt,34,a photo of a snowboard above a boat,snowboard,simple_positional,above,boat
+phrase_39960094.pt,35,a photo of a broccoli above a bird,broccoli,simple_positional,above,bird
+phrase_39960094.pt,36,a photo of a scissors above a airplane,scissors,simple_positional,above,airplane
+phrase_39960094.pt,37,a photo of a bowl above a banana,bowl,simple_positional,above,banana
+phrase_39960094.pt,38,a photo of a baseball glove above a bicycle,baseball glove,simple_positional,above,bicycle
+phrase_39960094.pt,39,a photo of a microwave above a skis,microwave,simple_positional,above,skis
+phrase_39960094.pt,40,a photo of a banana above a stop sign,banana,simple_positional,above,stop sign
+phrase_39960094.pt,41,a photo of a oven above a snowboard,oven,simple_positional,above,snowboard
+phrase_39960094.pt,42,a photo of a giraffe above a tie,giraffe,simple_positional,above,tie
+phrase_39960094.pt,43,a photo of a parking meter above a toilet,parking meter,simple_positional,above,toilet
+phrase_39960094.pt,44,a photo of a banana above a fork,banana,simple_positional,above,fork
+phrase_39960094.pt,45,a photo of a laptop above a broccoli,laptop,simple_positional,above,broccoli
+phrase_39960094.pt,46,a photo of a orange above a toothbrush,orange,simple_positional,above,toothbrush
+phrase_39960094.pt,47,a photo of a baseball bat above a boat,baseball bat,simple_positional,above,boat
+phrase_39960094.pt,48,a photo of a snowboard above a skateboard,snowboard,simple_positional,above,skateboard
+phrase_39960094.pt,49,a photo of a book above a dog,book,simple_positional,above,dog
+phrase_39960094.pt,50,a photo of a chair above a pizza,chair,simple_positional,above,pizza
+phrase_39960094.pt,51,a photo of a suitcase above a train,suitcase,simple_positional,above,train
+phrase_39960094.pt,52,a photo of a refrigerator above a sports ball,refrigerator,simple_positional,above,sports ball
+phrase_39960094.pt,53,a photo of a baseball bat above a sandwich,baseball bat,simple_positional,above,sandwich
+phrase_39960094.pt,54,a photo of a potted plant above a fork,potted plant,simple_positional,above,fork
+phrase_39960094.pt,55,a photo of a clock above a cow,clock,simple_positional,above,cow
+phrase_39960094.pt,56,a photo of a skateboard above a motorcycle,skateboard,simple_positional,above,motorcycle
+phrase_39960094.pt,57,a photo of a orange above a bottle,orange,simple_positional,above,bottle
+phrase_39960094.pt,58,a photo of a backpack above a wine glass,backpack,simple_positional,above,wine glass
+phrase_39960094.pt,59,a photo of a surfboard above a handbag,surfboard,simple_positional,above,handbag
+phrase_39960094.pt,60,a photo of a frisbee above a broccoli,frisbee,simple_positional,above,broccoli
+phrase_39960094.pt,61,a photo of a cell phone above a dog,cell phone,simple_positional,above,dog
+phrase_39960094.pt,62,a photo of a chair above a tennis racket,chair,simple_positional,above,tennis racket
+phrase_39960094.pt,63,a photo of a couch above a tv remote,couch,simple_positional,above,tv remote
+phrase_39960094.pt,64,a photo of a donut above a knife,donut,simple_positional,above,knife
+phrase_39960094.pt,65,a photo of a tv remote above a laptop,tv remote,simple_positional,above,laptop
+phrase_39960094.pt,66,a photo of a traffic light above a pizza,traffic light,simple_positional,above,pizza
+phrase_39960094.pt,67,a photo of a motorcycle above a cat,motorcycle,simple_positional,above,cat
+phrase_39960094.pt,68,a photo of a snowboard above a bottle,snowboard,simple_positional,above,bottle
+phrase_39960094.pt,69,a photo of a chair above a umbrella,chair,simple_positional,above,umbrella
+phrase_39960094.pt,70,a photo of a fork above a hot dog,fork,simple_positional,above,hot dog
+phrase_39960094.pt,71,a photo of a clock above a skateboard,clock,simple_positional,above,skateboard
+phrase_39960094.pt,72,a photo of a potted plant above a tv,potted plant,simple_positional,above,tv
+phrase_39960094.pt,73,a photo of a laptop above a computer keyboard,laptop,simple_positional,above,computer keyboard
+phrase_39960094.pt,74,a photo of a broccoli above a dog,broccoli,simple_positional,above,dog
+phrase_39960094.pt,75,a photo of a tv above a traffic light,tv,simple_positional,above,traffic light
+phrase_39960094.pt,76,a photo of a cell phone above a parking meter,cell phone,simple_positional,above,parking meter
+phrase_39960094.pt,77,a photo of a fork above a snowboard,fork,simple_positional,above,snowboard
+phrase_39960094.pt,78,a photo of a cow above a carrot,cow,simple_positional,above,carrot
+phrase_39960094.pt,79,a photo of a truck above a bus,truck,simple_positional,above,bus
+phrase_39960094.pt,80,a photo of a toaster above a fire hydrant,toaster,simple_positional,above,fire hydrant
+phrase_39960094.pt,81,a photo of a bear above a pizza,bear,simple_positional,above,pizza
+phrase_39960094.pt,82,a photo of a pizza above a frisbee,pizza,simple_positional,above,frisbee
+phrase_39960094.pt,83,a photo of a oven above a donut,oven,simple_positional,above,donut
+phrase_39960094.pt,84,a photo of a refrigerator above a motorcycle,refrigerator,simple_positional,above,motorcycle
+phrase_39960094.pt,85,a photo of a book above a tie,book,simple_positional,above,tie
+phrase_39960094.pt,86,a photo of a hair drier above a parking meter,hair drier,simple_positional,above,parking meter
+phrase_39960094.pt,87,a photo of a tv above a truck,tv,simple_positional,above,truck
+phrase_39960094.pt,88,a photo of a teddy bear above a microwave,teddy bear,simple_positional,above,microwave
+phrase_39960094.pt,89,a photo of a clock above a giraffe,clock,simple_positional,above,giraffe
+phrase_39960094.pt,90,a photo of a person above a refrigerator,person,simple_positional,above,refrigerator
+phrase_39960094.pt,91,a photo of a tv above a cow,tv,simple_positional,above,cow
+phrase_39960094.pt,92,a photo of a microwave above a cow,microwave,simple_positional,above,cow
+phrase_39960094.pt,93,a photo of a fire hydrant above a tv remote,fire hydrant,simple_positional,above,tv remote
+phrase_39960094.pt,94,a photo of a donut above a clock,donut,simple_positional,above,clock
+phrase_39960094.pt,95,a photo of a baseball glove above a sandwich,baseball glove,simple_positional,above,sandwich
+phrase_39960094.pt,96,a photo of a hair drier above a computer mouse,hair drier,simple_positional,above,computer mouse
+phrase_39960094.pt,97,a photo of a skateboard above a bear,skateboard,simple_positional,above,bear
+phrase_39960094.pt,98,a photo of a refrigerator above a orange,refrigerator,simple_positional,above,orange
+phrase_39960094.pt,99,a photo of a clock above a dining table,clock,simple_positional,above,dining table

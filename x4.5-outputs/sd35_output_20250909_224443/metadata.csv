@@ -1,0 +1,10 @@
+prompt_text,png_path_sd35,tensor_path_sd35,image_index_sd35
+A mirror reflecting only half of a candle flame.,sd35_output_20250909_224443/png_images/sd35/prompt_82034343.png,sd35_output_20250909_224443/tensors/sd35/prompt_82034343.pt,0
+A window reflecting only half of a mountain peak.,sd35_output_20250909_224443/png_images/sd35/prompt_93206639.png,sd35_output_20250909_224443/tensors/sd35/prompt_93206639.pt,1
+A glass reflecting only half of a painted face.,sd35_output_20250909_224443/png_images/sd35/prompt_26379085.png,sd35_output_20250909_224443/tensors/sd35/prompt_26379085.pt,2
+A lake reflecting only half of the sunrise.,sd35_output_20250909_224443/png_images/sd35/prompt_71541338.png,sd35_output_20250909_224443/tensors/sd35/prompt_71541338.pt,3
+A screen reflecting only half of a shadowy figure.,sd35_output_20250909_224443/png_images/sd35/prompt_49311859.png,sd35_output_20250909_224443/tensors/sd35/prompt_49311859.pt,4
+A road with no cars.,sd35_output_20250909_224443/png_images/sd35/prompt_67038853.png,sd35_output_20250909_224443/tensors/sd35/prompt_67038853.pt,5
+A highway with no cars.,sd35_output_20250909_224443/png_images/sd35/prompt_21517392.png,sd35_output_20250909_224443/tensors/sd35/prompt_21517392.pt,6
+A rectangular pizza kept on a wooden table.,sd35_output_20250909_224443/png_images/sd35/prompt_29315222.png,sd35_output_20250909_224443/tensors/sd35/prompt_29315222.pt,7
+A pizza place flyer floating on water.,sd35_output_20250909_224443/png_images/sd35/prompt_12243438.png,sd35_output_20250909_224443/tensors/sd35/prompt_12243438.pt,8

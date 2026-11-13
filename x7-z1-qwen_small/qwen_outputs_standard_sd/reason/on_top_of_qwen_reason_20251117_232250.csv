@@ -1,0 +1,612 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_40502497.pt,1,giraffe,hair drier,on top of,"Analyze the image to determine if it shows 'a giraffe on top of a hair drier'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The giraffe is clearly visible, depicted in a stylized illustration within a framed picture. The image is well-lit, sharp, and free of blur.
+- The hair dryer is also clearly visible, shown as a black, modern device in the foreground. It is well-lit and in focus.
+- There is no occlusion of the giraffe or the hair dryer by other objects; both are fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The giraffe is not physically on top of the hair dryer",NO
+phrase_40502497.pt,2,broccoli,skis,on top of,"Analyze the image to determine if it shows 'a broccoli on top of a skis'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The broccoli is clearly visible, well-lit, and in sharp focus. It occupies the central portion of the image. The object beneath it, which appears to be a pair of skis, is partially obscured by a white, textured substance resembling snow. The skis are not fully visible; only the tips and the black bindings are seen emerging from the snow. The lighting is bright and even, but the snow and the partial occlusion of the skis make them less distinct than the broccoli.
+
+Step 2: Describe the spatial relationship between",NO
+phrase_40502497.pt,3,book,sports ball,on top of,"Analyze the image to determine if it shows 'a book on top of a sports ball'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with clear, sharp focus, showing both objects in high detail.
+- The book is open, and its pages are clearly visible, with text and page numbers discernible.
+- The basketball is also clearly visible, with its textured surface and black lines in sharp focus.
+- There is no significant occlusion or blur affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The basketball is positioned on top of the open book.
+- The book is lying flat, and the basketball",NO
+phrase_40502497.pt,4,bench,cow,on top of,"Analyze the image to determine if it shows 'a bench on top of a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- Both the bench and the cow are fully visible and in sharp focus.
+- The bench is a dark-colored structure, and the cow is a brown and white animal lying down.
+- The cow is partially occluded by the bench, as its body is positioned behind the horizontal slats of the bench.
+
+Step 2: Describe the spatial relationship between them.
+- The bench is positioned in front of the cow, with the cow lying underneath it.
+- The cow is not",NO
+phrase_40502497.pt,5,computer keyboard,skateboard,on top of,"Analyze the image to determine if it shows 'a computer keyboard on top of a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with clear visibility of both the computer keyboard and the skateboard. There is no significant occlusion or blur; all components are sharp and distinct. The keyboard keys, the skateboard deck, and the wheels are all clearly visible.
+
+Step 2: The computer keyboard is positioned directly on top of the skateboard deck. The keyboard is mounted in the center of the skateboard, aligned with its length, and appears to be securely attached. The skateboard's trucks and wheels are visible beneath the keyboard, confirming that the keyboard rests on top of the board.
+
+Step 3: The image is clear enough to confidently",NO
+phrase_40502497.pt,6,toilet,potted plant,on top of,"Analyze the image to determine if it shows 'a toilet on top of a potted plant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the toilet and the potted plant are fully visible and in focus. The toilet is a standard white ceramic fixture, and the potted plant is in a terracotta pot with green leaves.
+
+Step 2: The spatial relationship is that the potted plant is sitting on top of the closed toilet lid. The toilet is below the plant, not the other way around.
+
+Step 3: The image is clear and the objects and their arrangement are unambiguous.
+
+Conclusion: No",AMBIGUOUS
+phrase_40502497.pt,7,oven,vase,on top of,"Analyze the image to determine if it shows 'a oven on top of a vase'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The oven is clearly visible, well-lit, and in sharp focus. It is a modern, built-in style oven with a stainless steel frame, a digital display, and control knobs.
+- The vase (or pitcher) is also clearly visible. There are two vases present: a green one at the base and a brown one on top of the oven. Both are in focus and well-lit.
+- There is no significant occlusion or blur affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them",NO
+phrase_40502497.pt,8,bed,book,on top of,"Analyze the image to determine if it shows 'a bed on top of a book'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit, with clear visibility of the objects.
+- A large, open book with dark binding and yellowed pages is prominently displayed in the foreground.
+- The book is resting on a surface covered with white, rumpled bedding, which includes a duvet and pillows.
+- There is no significant occlusion of the book or the bed; both are clearly visible.
+- The image is sharp and in focus, with no noticeable blur.
+
+Step 2: Describe the spatial relationship between them.
+- The open book is placed",NO
+phrase_40502497.pt,9,cell phone,bear,on top of,"Analyze the image to determine if it shows 'a cell phone on top of a bear'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the bear and the cell phone are fully visible. The bear is depicted with detailed fur, and the cell phone is shown with a black frame and a white screen.
+
+Step 2: The cell phone is positioned directly on top of the bear's head, covering the area where its eyes would be. The bear's head is below the phone, and the phone is resting on it.
+
+Step 3: The image is clear enough to determine the spatial relationship between the two objects.
+
+Conclusion: Yes",YES
+phrase_40502497.pt,10,sports ball,refrigerator,on top of,"Analyze the image to determine if it shows 'a sports ball on top of a refrigerator'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with clear visibility of both objects. The sports ball, which is a basketball, is in sharp focus and fully visible. The refrigerator is also clearly visible, with its white body, black top edge, and the brand label ""DAPIONT"" legible. There is no significant occlusion or blur affecting the identification of either object.
+
+Step 2: The basketball is positioned directly on the top surface of the refrigerator, resting on its black upper edge. The spatial relationship is clearly one of the ball being on top of the refrigerator.
+
+Step 3: The image is clear enough to confidently",NO
+phrase_40502497.pt,11,baseball bat,dog,on top of,"Analyze the image to determine if it shows 'a baseball bat on top of a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The dog is clearly visible, with well-defined features such as its fur, eyes, nose, and ears. The lighting is bright and even, highlighting the details of the dog's face.
+- The baseball bat is also clearly visible, with a smooth wooden texture and a glossy finish. It is positioned diagonally across the image.
+- The baseball is in sharp focus, resting on the bat, and its red stitching is clearly visible.
+- There is no significant blur or occlusion affecting the visibility of the objects. The entire scene is well",YES
+phrase_40502497.pt,12,orange,traffic light,on top of,"Analyze the image to determine if it shows 'a orange on top of a traffic light'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the traffic light and the orange are fully visible and in sharp focus. The orange is positioned directly on top of the traffic light, and its texture and color are distinct. The traffic light is also clearly visible, with the green light illuminated.
+
+Step 2: The spatial relationship is clear: the orange is resting directly on the top surface of the traffic light casing, above the signal lenses.
+
+Step 3: The image is not ambiguous; the objects and their arrangement are clearly depicted.
+
+Conclusion: Yes",AMBIGUOUS
+phrase_40502497.pt,13,teddy bear,orange,on top of,"Analyze the image to determine if it shows 'a teddy bear on top of a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no occlusion or blur. Both the teddy bear and the orange are fully visible and in sharp focus. The lighting is bright and even, highlighting the texture of the teddy bear's fur and the dimpled skin of the orange.
+
+Step 2: The teddy bear is positioned directly on top of the orange. Its feet are resting on the surface of the orange, and it is seated in a stable, upright position with the orange supporting it from below.
+
+Step 3: The image is clear and unambiguous.
+
+Yes",AMBIGUOUS
+phrase_40502497.pt,14,skis,tennis racket,on top of,"Analyze the image to determine if it shows 'a skis on top of a tennis racket'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no significant blur.
+- Both objects are fully visible and in sharp focus.
+- The skis are positioned vertically, with their tops resting on the tennis racket's frame.
+- The tennis racket is positioned horizontally, with its head facing upwards, and the skis are placed across the strings.
+
+Step 2: Describe the spatial relationship between them.
+- The two skis are placed on top of the tennis racket, spanning across the string bed.
+- The skis are oriented vertically, with",NO
+phrase_40502497.pt,15,zebra,bicycle,on top of,"Analyze the image to determine if it shows 'a zebra on top of a bicycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the zebra and the bicycle are fully visible and sharply defined. The zebra's black and white stripes are distinct, and the bicycle's components—frame, wheels, handlebars, and pedals—are clearly identifiable.
+
+Step 2: The zebra is positioned directly on top of the bicycle. Its front legs are placed on the handlebars and the upper part of the frame, while its hind legs are on the rear section of the bicycle, near the seat and rear wheel. The bicycle appears to be supporting the zebra's full",NO
+phrase_40502497.pt,16,sheep,computer mouse,on top of,"Analyze the image to determine if it shows 'a sheep on top of a computer mouse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is clear and well-lit, with no noticeable blur or occlusion. Both the sheep and the computer mouse are fully visible and sharply defined. The sheep appears to be a small figurine with a textured, wool-like body, and the computer mouse is a standard black, glossy model. The lighting is bright and even, highlighting the objects clearly against a plain white background.
+
+Step 2: Description of spatial relationship  
+The sheep figurine is positioned directly on top of the computer mouse. Its four legs are standing on the surface of the mouse, near the central area where the scroll wheel",NO
+phrase_40502497.pt,17,cell phone,orange,on top of,"Analyze the image to determine if it shows 'a cell phone on top of a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with a bright, clean white background. Both the cell phone and the orange are clearly visible with no significant blur or occlusion. The details of the phone's screen, frame, and camera notch are sharp, and the texture of the orange's peel is distinct.
+
+Step 2: The cell phone is positioned diagonally, leaning against the orange. The phone's body is in direct contact with the surface of the orange, and it is clearly resting on top of it, with the orange supporting the phone from below.
+
+Step 3: The image is clear and unambiguous.
+
+Conclusion:",AMBIGUOUS
+phrase_40502497.pt,18,knife,umbrella,on top of,"Analyze the image to determine if it shows 'a knife on top of a umbrella'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with a clear, high-resolution view of both objects.
+- The knife and the umbrella are both fully visible and in sharp focus.
+- There is no significant blur or occlusion that would hinder the identification of the objects.
+- The knife is positioned on top of the umbrella, with its handle resting on the fabric and its blade extending over the umbrella's canopy.
+
+Step 2: Describe the spatial relationship between them.
+- The knife is placed directly on the surface of the open purple umbrella.
+- The handle of",NO
+phrase_40502497.pt,19,motorcycle,carrot,on top of,"Analyze the image to determine if it shows 'a motorcycle on top of a carrot'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear, well-lit, and in focus.
+- Both the motorcycle and the carrot are fully visible with no occlusion or blur.
+- The lighting is bright and even, highlighting the details of both objects.
+
+Step 2: Description of spatial relationship
+- The motorcycle is positioned on top of the carrot.
+- The carrot is elongated and horizontal, serving as a base.
+- The motorcycle is resting on the carrot, with its wheels and frame aligned along the carrot's length.
+
+Step 3: Clarity assessment
+- The image is clear and unambiguous.
+- The",AMBIGUOUS
+phrase_40502497.pt,20,traffic light,horse,on top of,"Analyze the image to determine if it shows 'a traffic light on top of a horse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The traffic light is clearly visible, mounted on a pole. It has three sections (red, yellow, green), and the green light is illuminated. The lighting is bright and even, typical of a clear day.
+- The horse is also clearly visible, though it appears to be a stylized or decorative figure rather than a live animal. It is black with yellow stripes and a yellow bridle, and it is attached to the traffic light pole. The horse is not occluded by the light or the pole, and there is no blur",NO
+phrase_40502497.pt,21,surfboard,tv,on top of,"Analyze the image to determine if it shows 'a surfboard on top of a tv'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the television and the surfboard are fully visible. The surfboard is displayed as a graphic on the television screen, not as a physical object in the room.
+
+Step 2: The surfboard is not physically on top of the television. Instead, it is shown as an image on the screen of the TV, which is placed on a wooden stand.
+
+Step 3: The image is clear and does not present ambiguity regarding the spatial relationship between the objects.
+
+Conclusion: No",NO
+phrase_40502497.pt,22,carrot,truck,on top of,"Analyze the image to determine if it shows 'a carrot on top of a truck'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The carrot is clearly visible, with bright orange color and distinct ridges. Its green leafy top is also visible. The lighting is bright and even, suggesting a sunny day, which enhances visibility.
+- The truck is also clearly visible. The top of the cab, including a silver roof rack, black trim, and a side mirror, is in sharp focus. The background is a clear blue sky, with no blurring or occlusion affecting the main objects.
+
+Step 2: Describe the spatial relationship between them.
+- The carrot is",NO
+phrase_40502497.pt,23,giraffe,fire hydrant,on top of,"Analyze the image to determine if it shows 'a giraffe on top of a fire hydrant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The giraffe is clearly visible, with bright, even lighting and no occlusion. Its features, including the patterned coat, long neck, and head, are sharp and distinct.
+- The fire hydrant is also clearly visible, brightly lit, and in sharp focus. It is positioned in the foreground and appears to be a standard red fire hydrant.
+- There is no blur or obstruction affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The giraffe is standing directly on top of the",NO
+phrase_40502497.pt,24,elephant,toaster,on top of,"Analyze the image to determine if it shows 'a elephant on top of a toaster'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no occlusion or blur. Both the elephant and the toaster are fully visible and sharply rendered. The elephant is depicted in a stylized, artistic form, and the toaster is a standard two-slice model with a metallic finish.
+
+Step 2: The elephant is positioned directly on top of the toaster. Its feet are placed on the upper surface of the toaster, between the slots, and it is standing upright. The spatial relationship is clearly one of the elephant being on top of the toaster.
+
+Step 3: The image is clear enough to confirm the presence and positioning",NO
+phrase_40502497.pt,25,bowl,dog,on top of,"Analyze the image to determine if it shows 'a bowl on top of a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur. Both the dog and the bowl are fully visible. The dog's head and one paw are visible, with its eyes and snout clearly in focus. The bowl is a dark, round container, and its rim is clearly defined. The dog is partially inside the bowl, with its head and front paw visible above the rim.
+
+Step 2: Describe the spatial relationship between them.  
+The dog is inside the bowl, with its head and front paw resting within it. The",YES
+phrase_40502497.pt,26,bench,motorcycle,on top of,"Analyze the image to determine if it shows 'a bench on top of a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with no significant blur or occlusion.
+- Both the motorcycle and the bench are fully visible and in sharp focus.
+- The motorcycle is a black sportbike, and the bench is a wooden bench with black metal supports.
+- The background is a plain white, which enhances the visibility of both objects.
+
+Step 2: Description of spatial relationship
+- The motorcycle is parked on the ground in front of the bench.
+- The bench is elevated on a concrete base and is positioned behind the motorcycle.
+- The bench is not on top of the motorcycle;",NO
+phrase_40502497.pt,27,frisbee,handbag,on top of,"Analyze the image to determine if it shows 'a frisbee on top of a handbag'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is clear and well-lit, with no significant blur or occlusion. Both the handbag and the object on top are fully visible. The handbag is black with a strap, and the object on top is a circular, white and red item that resembles a frisbee. The frisbee-like object has a red circle with a photo and text on it.
+
+Step 2: Description of spatial relationship  
+The circular object is positioned on top of the handbag, covering a portion of its surface. It appears to be resting directly on the bag, with no visible separation or",NO
+phrase_40502497.pt,28,skis,cat,on top of,"Analyze the image to determine if it shows 'a skis on top of a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is brightly lit with a plain white background, making both objects highly visible and clear.
+- The cat is in sharp focus, with detailed fur, whiskers, and goggles clearly visible.
+- The skis are also sharp and well-defined, with visible branding and bindings.
+- There is no significant occlusion or blur affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The cat is positioned in the center of the image, sitting on a horizontal bar.
+- The skis are standing vertically",NO
+phrase_40502497.pt,29,surfboard,spoon,on top of,"Analyze the image to determine if it shows 'a surfboard on top of a spoon'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the surfboard and the spoon are fully visible and sharply defined. The surfboard is a small, yellow object, and the spoon is a metallic utensil with a reflective surface. The lighting highlights the details of both objects.
+
+Step 2: The spatial relationship between the objects is clear. The yellow surfboard is positioned horizontally on top of the bowl of the spoon, resting directly on its curved surface. A tiny figure of a surfer stands on the surfboard, which is balanced on the spoon.
+
+Step 3: The image",NO
+phrase_40502497.pt,30,bicycle,bus,on top of,"Analyze the image to determine if it shows 'a bicycle on top of a bus'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The bicycle is clearly visible, with good lighting and no blur. All its components, including the frame, wheels, handlebars, and rear rack, are distinct.
+- The bus is also visible, primarily showing its upper section, including a white roof and dark windows. The lighting is consistent, and the image is sharp.
+- There is no significant occlusion between the objects; the bicycle is positioned above the bus, and their edges are well-defined.
+
+Step 2: Describe the spatial relationship between them.
+- The bicycle is positioned directly",NO
+phrase_40502497.pt,31,car,laptop,on top of,"Analyze the image to determine if it shows 'a car on top of a laptop'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is well-lit with a clean, white background, providing high visibility of both objects.
+- The red car is a detailed model, clearly visible with distinct features like the wheels, windows, and grille.
+- The laptop is also clearly visible, showing a keyboard, trackpad, and the body of the device.
+- There is no occlusion of the car by the laptop, and the car is fully visible on top of the laptop.
+- The image is sharp and in focus, with no blur.
+
+Step 2: Description of spatial relationship
+- The red car model is positioned",NO
+phrase_40502497.pt,32,frisbee,cat,on top of,"Analyze the image to determine if it shows 'a frisbee on top of a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The cat is clearly visible, well-lit, and in sharp focus. Its features, such as its eyes, fur pattern, and whiskers, are distinct.
+- The frisbee is also clearly visible, well-lit, and in sharp focus. It is a bright blue color with a yellow and red label in the center.
+- There is no significant blur or occlusion affecting either object. The frisbee is positioned in the foreground, and the cat is slightly behind it.
+
+Step 2: Describe the spatial relationship between",YES
+phrase_40502497.pt,33,skis,motorcycle,on top of,"Analyze the image to determine if it shows 'a skis on top of a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image is clear and well-lit, with no significant blur. Both the motorcycle and the skis are fully visible. The motorcycle is in sharp focus, and the skis, which are mounted on a rack, are also clearly depicted. There is no occlusion of the key features of either object.
+
+Step 2: Describe the spatial relationship between them.
+The skis are positioned horizontally on top of the motorcycle. They are mounted on a rack that is attached to the rear section of the motorcycle, resting above the seat and behind the",NO
+phrase_40502497.pt,34,toilet,cat,on top of,"Analyze the image to determine if it shows 'a toilet on top of a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the toilet and the cat are fully visible. The cat is a tabby with distinct stripes, and the toilet is white and standard in design. The lighting is bright, highlighting the subjects without shadows that obscure details.
+
+Step 2: The spatial relationship between the objects is clear. The cat is sitting on the closed lid of the toilet, not on top of the tank or in any other position. The toilet is beneath the cat, and the cat is positioned on the seat area.
+
+Step 3: The image is clear and",NO
+phrase_40502497.pt,35,snowboard,boat,on top of,"Analyze the image to determine if it shows 'a snowboard on top of a boat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The snowboard is clearly visible, with bright colors (orange, black, red) and distinct graphics. It is well-lit and in focus.
+- The boat is also clearly visible, with a blue deck and a metal railing. It is in focus and well-lit.
+- There is no significant occlusion between the two objects; the snowboard is resting on the boat's deck, and both are fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The snowboard is positioned vertically, leaning against the boat",NO
+phrase_40502497.pt,36,broccoli,bird,on top of,"Analyze the image to determine if it shows 'a broccoli on top of a bird'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur or motion artifacts.
+- Both the bird and the broccoli are fully visible and in sharp focus.
+- The bird is a small, detailed creature with distinct features: a white face, black cap, yellow and black wing markings, and a slender beak.
+- The broccoli is a large, green floret with a thick stalk, positioned directly above the bird's head.
+
+Step 2: Describe the spatial relationship between them.
+- The broccoli is positioned directly on top of the bird",NO
+phrase_40502497.pt,37,scissors,airplane,on top of,"Analyze the image to determine if it shows 'a scissors on top of a airplane'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The scissors are clearly visible in the foreground, sharply focused, and well-lit. They are positioned in front of the airplane window, appearing to be held or floating just outside the window.
+- The airplane is visible in the background, seen through the window. It is slightly out of focus and partially obscured by the window frame and the scissors. The lighting suggests it is daytime, with bright sky and clouds in the background.
+
+Step 2: Describe the spatial relationship between them.
+- The scissors are in the foreground, positioned between the viewer",UNCLEAR
+phrase_40502497.pt,38,bowl,banana,on top of,"Analyze the image to determine if it shows 'a bowl on top of a banana'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no visible blur or occlusion. Both the banana and the bowl are fully visible and in sharp focus. The banana is a standard yellow banana with some brown spots, and the bowl is white with a black rim. The lighting is bright and even, highlighting the objects without creating shadows that obscure details.
+
+Step 2: The spatial relationship between the objects is that the bowl is positioned on top of the banana. The banana curves underneath the bowl, supporting it. The bowl rests directly on the surface of the banana, with its base in contact with the banana's peel.",NO
+phrase_40502497.pt,39,baseball glove,bicycle,on top of,"Analyze the image to determine if it shows 'a baseball glove on top of a bicycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the baseball glove and the bicycle are fully visible and in sharp focus. The lighting highlights the textures and details of the glove and the bike's frame.
+
+Step 2: The baseball glove is positioned on the bicycle's handlebar, directly in front of the seat post and attached to the frame. It is not on top of the bicycle in the sense of resting on the top tube or seat, but rather mounted on the handlebar area. The glove is clearly placed on the bicycle and is not separate from it.
+
+Step 3",NO
+phrase_40502497.pt,40,microwave,skis,on top of,"Analyze the image to determine if it shows 'a microwave on top of a skis'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The microwave is clearly visible in the foreground. It is a black, rectangular appliance with a control panel and a door, sitting on a snowy surface. The lighting is bright, and the object is in sharp focus.
+- The skis are not directly visible. However, in the background, a person is seen skiing, which implies the presence of skis. The skier is small and distant, making the skis themselves difficult to discern clearly. The background is somewhat out of focus, but the skier and their equipment are identifiable.",NO
+phrase_40502497.pt,41,banana,stop sign,on top of,"Analyze the image to determine if it shows 'a banana on top of a stop sign'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Visibility of objects
+- The stop sign is clearly visible, with bright red color, white border, and two visible mounting bolts. The lighting is bright and even, suggesting a clear day.
+- The banana is also clearly visible, with a yellow peel, some brown spots, and a green stem. It is well-lit and in focus.
+- There is no significant occlusion or blur affecting the visibility of either object.
+
+Step 2: Spatial relationship
+- The banana is positioned directly on the surface of the stop sign.
+- It is placed diagonally across the red background, with its body lying flat on the",NO
+phrase_40502497.pt,42,oven,snowboard,on top of,"Analyze the image to determine if it shows 'a oven on top of a snowboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with no blur.
+- The oven is fully visible, showing its front, side, and top. It is a black toaster oven with a glass door and control knobs.
+- The snowboard is also fully visible, with a black base, white graphics, and an orange edge. It is positioned horizontally across the lower part of the image.
+- There is no occlusion; both objects are clearly depicted and fully in view.
+
+Step 2: Describe the spatial relationship between them.
+- The oven",NO
+phrase_40502497.pt,43,giraffe,tie,on top of,"Analyze the image to determine if it shows 'a giraffe on top of a tie'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image clearly shows a giraffe's head and neck. The giraffe is well-lit, in focus, and fully visible against a plain white background. There are no signs of occlusion or blur. However, there is no tie visible in the image.
+
+Step 2: Description of spatial relationship  
+Since a tie is not present in the image, there is no spatial relationship between the giraffe and a tie.
+
+Step 3: Ambiguity assessment  
+The image is clear and unambiguous. The giraffe is depicted without any tie or object resembling a tie. Therefore, the scenario",AMBIGUOUS
+phrase_40502497.pt,44,parking meter,toilet,on top of,"Analyze the image to determine if it shows 'a parking meter on top of a toilet'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no significant blur. Both the parking meter and the toilet are fully visible. The parking meter is mounted on a pole, and the toilet is positioned below it. There is no occlusion of either object.
+
+Step 2: Describe the spatial relationship between them.  
+The parking meter is not on top of the toilet. Instead, it is mounted on a vertical pole that extends upward from the top of the toilet tank. The meter is positioned above the toilet but is not physically resting on it",NO
+phrase_40502497.pt,45,banana,fork,on top of,"Analyze the image to determine if it shows 'a banana on top of a fork'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with high contrast against a plain white background, making both the banana and the fork clearly visible. There is no significant blur or occlusion; the objects are in sharp focus. The banana is a yellow fruit with some brown spots, and the fork is metallic with four tines.
+
+Step 2: The spatial relationship between the objects is that the banana is positioned horizontally across the top of the fork. The fork's tines are inserted into the banana, supporting it, so the banana is resting on top of the fork.
+
+Step 3: The image is clear enough to confirm the presence",NO
+phrase_40502497.pt,46,laptop,broccoli,on top of,"Analyze the image to determine if it shows 'a laptop on top of a broccoli'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with high clarity and no visible blur. Both the laptop and the broccoli are clearly visible. The laptop is a silver-colored device with an Apple logo on the lid. The broccoli is a green vegetable with a detailed texture, positioned in the foreground.
+
+Step 2: The spatial relationship between the objects shows the broccoli in front of the laptop, with the laptop positioned behind and slightly above the broccoli. The laptop is not on top of the broccoli; rather, it appears to be elevated on a stand, with the broccoli placed in front of it. There is no physical contact or stacking where the",NO
+phrase_40502497.pt,47,orange,toothbrush,on top of,"Analyze the image to determine if it shows 'a orange on top of a toothbrush'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no visible occlusion or blur. Both the orange and the toothbrush are fully visible and in sharp focus. The orange is a small, round citrus fruit with a textured peel, and the toothbrush is a standard black toothbrush with white bristles.
+
+Step 2: The orange is positioned directly on top of the bristles of the toothbrush. The bristles are supporting the orange, and the orange is resting on them, confirming a top-down spatial relationship.
+
+Step 3: The image is clear enough to definitively identify both objects and their arrangement.
+
+Conclusion",NO
+phrase_40502497.pt,48,baseball bat,boat,on top of,"Analyze the image to determine if it shows 'a baseball bat on top of a boat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with bright sunlight, causing some glare on the water and the boat's rail. The baseball bat is in sharp focus and clearly visible, with its details, such as the wood grain and blue logo, easily discernible. The boat's rail and part of its structure are also in focus. There is no significant occlusion of the bat by other objects, and the image is not blurry.
+
+Step 2: The baseball bat is positioned horizontally, resting on top of the boat's rail. The rail is part of the boat's structure, and the bat is clearly placed on it, indicating",NO
+phrase_40502497.pt,49,snowboard,skateboard,on top of,"Analyze the image to determine if it shows 'a snowboard on top of a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. The primary object visible is a skateboard with a pair of black and white sneakers on top of it. There is no object resembling a snowboard present in the image.
+
+Step 2: The spatial relationship shown is that the sneakers are on top of the skateboard. There is no second board or object that could be identified as a snowboard. Therefore, there is no snowboard on top of a skateboard.
+
+Step 3: The image is clear and unambiguous. The absence of a snowboard is evident.
+
+Conclusion: No",AMBIGUOUS
+phrase_40502497.pt,50,book,dog,on top of,"Analyze the image to determine if it shows 'a book on top of a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or significant occlusion. Both the dog and the book are fully visible and in sharp focus. The dog is a brown and white animal, and the book is open with visible text on its pages.
+
+Step 2: The spatial relationship shows the dog lying down with its head resting directly on the open pages of the book. The book is positioned underneath the dog's head, not on top of it. The dog's nose and snout are in contact with the book's pages.
+
+Step 3: The image is clear enough to determine the arrangement of the",NO
+phrase_40502497.pt,51,chair,pizza,on top of,"Analyze the image to determine if it shows 'a chair on top of a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur. Both the chair and the pizza are fully visible. The chair is a wooden dining chair, and the pizza is a large pepperoni pizza resting on a round table. There is no occlusion between the two objects; they are distinct and clearly rendered.
+
+Step 2: Describe the spatial relationship between them.  
+The pizza is on a table in the foreground, and the chair is positioned behind the table. The chair is not on top of the pizza; rather, it is",NO
+phrase_40502497.pt,52,suitcase,train,on top of,"Analyze the image to determine if it shows 'a suitcase on top of a train'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The suitcase is clearly visible in the foreground. It is in sharp focus, well-lit, and its details (color, latches, handle) are distinct.
+- The train is visible in the background. It is out of focus and appears blurry, but its shape, color (yellow and white), and windows are discernible. There is no significant occlusion of the train by the suitcase, as the suitcase is in front of it.
+
+Step 2: Describe the spatial relationship between them.
+- The suitcase is positioned on a platform",NO
+phrase_40502497.pt,53,refrigerator,sports ball,on top of,"Analyze the image to determine if it shows 'a refrigerator on top of a sports ball'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no significant blur. Both the refrigerator and the sports ball are fully visible. The refrigerator is a white, two-door model, and the sports ball is a classic black-and-white soccer ball. There is no occlusion of either object; both are fully in view and sharply defined.
+
+Step 2: Describe the spatial relationship between them.  
+The soccer ball is positioned on top of the refrigerator. The refrigerator is below the ball, serving as a base, and the ball is resting on the",NO
+phrase_40502497.pt,54,baseball bat,sandwich,on top of,"Analyze the image to determine if it shows 'a baseball bat on top of a sandwich'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the baseball bat and the sandwich are fully visible and sharply defined. The lighting highlights the textures of the wooden bat, the stitching on the baseball, and the details of the sandwich, including the lettuce and bun.
+
+Step 2: The spatial relationship between the objects is that the baseball bat is resting diagonally on top of the sandwich. The bat is positioned such that its barrel end lies across the top of the sandwich, which is composed of a bun, lettuce, and a baseball as a filling. The bat is clearly above the sandwich",NO
+phrase_40502497.pt,55,potted plant,fork,on top of,"Analyze the image to determine if it shows 'a potted plant on top of a fork'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the potted plant and the fork are fully visible and in sharp focus. The plant is in a terracotta pot with green, rounded leaves, and the fork is a metallic utensil positioned vertically.
+
+Step 2: The spatial relationship shows the potted plant resting directly on the tines of the fork, with the base of the pot balanced atop the fork's prongs. The fork is positioned underneath the pot, supporting it.
+
+Step 3: The image is clear enough to confirm the presence and arrangement of both objects",NO
+phrase_40502497.pt,56,clock,cow,on top of,"Analyze the image to determine if it shows 'a clock on top of a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the clock and the cow are fully visible. The clock is a golden, vintage-style alarm clock with a white face and Roman numerals. The cow is a brown and white cow with large ears and a tag in its left ear.
+
+Step 2: The clock is positioned directly on top of the cow's head, resting on its forehead between the ears. The spatial relationship is clearly one of the clock being placed on the cow.
+
+Step 3: The image is clear and unambiguous. The objects and their relationship are distinct.",AMBIGUOUS
+phrase_40502497.pt,57,skateboard,motorcycle,on top of,"Analyze the image to determine if it shows 'a skateboard on top of a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is a clear, well-lit digital illustration with no blur or occlusion. Both the motorcycle and the skateboard are fully visible and sharply defined. The motorcycle is depicted in profile, and the skateboard is positioned on top of it.
+
+Step 2: The skateboard is located on the rear section of the motorcycle, resting horizontally on the seat and the area behind it. It is clearly placed on top of the motorcycle, with its wheels visible and aligned with the bike’s body.
+
+Step 3: The image is not ambiguous; the relationship between the objects is clearly depicted.
+
+Conclusion: Yes",AMBIGUOUS
+phrase_40502497.pt,58,orange,bottle,on top of,"Analyze the image to determine if it shows 'a orange on top of a bottle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with a clean, white background, making both the orange and the bottle clearly visible. There is no significant blur or occlusion; the orange is in sharp focus, and the bottle is fully visible from the neck up. The orange's textured peel and the green leaf are distinct, and the bottle's green glass and black cap are clearly defined.
+
+Step 2: The orange is positioned directly on top of the bottle's neck, with its stem and leaf pointing upward. The base of the orange makes direct contact with the cap, establishing a clear top-down spatial relationship.
+
+Step 3:",NO
+phrase_40502497.pt,59,backpack,wine glass,on top of,"Analyze the image to determine if it shows 'a backpack on top of a wine glass'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with a neutral white background that enhances visibility.
+- The red backpack is fully visible, with details such as black straps, buckles, and zippers clearly discernible.
+- The wine glass is also clearly visible, with its bowl, stem, and base in focus. The glass is transparent and contains a dark liquid, likely red wine.
+- There is no significant blur or occlusion affecting the visibility of either object.
+
+Step 2: Description of spatial relationship
+- The backpack is positioned on top of the wine glass.
+- The base of the",NO
+phrase_40502497.pt,60,surfboard,handbag,on top of,"Analyze the image to determine if it shows 'a surfboard on top of a handbag'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is well-lit with a clean, white background, and both the surfboard and the handbag are clearly visible. There is no significant blur, and the objects are in sharp focus. The surfboard is yellow with a red edge and appears to be a shortboard with a black fin visible at the rear. The handbag is a black duffel-style bag with a textured fabric, black straps, and a visible zipper. There is no occlusion of the objects by other items, though the surfboard is positioned horizontally",NO
+phrase_40502497.pt,61,frisbee,broccoli,on top of,"Analyze the image to determine if it shows 'a frisbee on top of a broccoli'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no occlusion or blur. Both the frisbee and the broccoli are fully visible and in sharp focus. The frisbee is a bright yellow-orange disc, and the broccoli is a green vegetable with distinct florets.
+
+Step 2: The spatial relationship shows the frisbee positioned on top of the broccoli. The broccoli is arranged in a circular base, supporting the frisbee, which rests directly on its surface.
+
+Step 3: The image is clear and unambiguous.
+
+Conclusion: Yes",AMBIGUOUS
+phrase_40502497.pt,62,cell phone,dog,on top of,"Analyze the image to determine if it shows 'a cell phone on top of a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is clear and well-lit, with high contrast and sharp detail. Both the dog and the cell phone are clearly visible. The dog's fur, facial features, and the blue collar are distinct. The cell phone, with its black screen and silver casing, is also clearly depicted. There is no significant occlusion or blur that would hinder identification.
+
+Step 2: Description of spatial relationship  
+The cell phone is positioned on the dog's head, specifically resting in the space between the dog's ears and its back. The phone is oriented vertically, with its screen facing forward, and appears",NO
+phrase_40502497.pt,63,chair,tennis racket,on top of,"Analyze the image to determine if it shows 'a chair on top of a tennis racket'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+Both the chair and the tennis racket are clearly visible. The lighting is bright and even, illuminating the scene without significant shadows or glare. There is no blur, and both objects are in sharp focus. The chair, with its orange seat and back and black frame, is fully visible. The tennis racket, with its red and green frame and white grip, is also clearly depicted. There is no occlusion of either object by the other.
+
+Step 2: Description of spatial relationship  
+The chair is positioned upright and appears to be standing on the tennis court surface. The tennis racket is lying flat",NO
+phrase_40502497.pt,64,couch,tv remote,on top of,"Analyze the image to determine if it shows 'a couch on top of a tv remote'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is in black and white with high contrast. The lighting is dim, with a bright light source in the background creating a silhouette effect.
+- A TV remote is visible in the center of the frame, resting on a surface. It is relatively clear, though some details are obscured by shadow.
+- The object beneath the remote appears to be a dark, textured surface, consistent with the back of a couch or sofa. The couch is partially visible in the foreground and mid-ground.
+- The TV is visible in the background, but it is turned off and appears as a dark rectangle.
+-",UNCLEAR
+phrase_40502497.pt,65,donut,knife,on top of,"Analyze the image to determine if it shows 'a donut on top of a knife'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with a white background that enhances visibility.
+- Both the donut and the knife are in sharp focus, with no blur.
+- The donut is fully visible, showing a pink glaze and a golden-brown base.
+- The knife is fully visible, with a black handle and a metallic blade.
+- There is no occlusion of either object; both are completely visible.
+
+Step 2: Description of spatial relationship
+- The donut is positioned above the knife.
+- The donut is not on top of the knife; instead, it",NO
+phrase_40502497.pt,66,tv remote,laptop,on top of,"Analyze the image to determine if it shows 'a tv remote on top of a laptop'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit and in focus, with no significant blur. Both the TV remote and the laptop are clearly visible. The remote is positioned diagonally across the surface of the laptop, and the laptop's lid is closed, showing a silver-colored surface with a black Apple logo.
+
+Step 2: The TV remote is physically placed on top of the laptop's lid. The remote's body rests directly on the laptop's surface, and there is no gap or separation between them. The spatial relationship is one of direct contact, with the remote on top.
+
+Step 3: The image is clear enough to confirm",NO
+phrase_40502497.pt,67,traffic light,pizza,on top of,"Analyze the image to determine if it shows 'a traffic light on top of a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the traffic light and the pizza are fully visible and sharply rendered. The traffic light is positioned at the top, with its red and green lights illuminated. The pizza is clearly identifiable, with a crust, cheese, pepperoni, and sauce.
+
+Step 2: The traffic light is mounted on a pole that passes through the center of the pizza slice. The traffic light is physically located above the pizza, with its base attached to the pole that supports the pizza. The pizza appears to be wrapped around the lower portion of the traffic light's",NO
+phrase_40502497.pt,68,motorcycle,cat,on top of,"Analyze the image to determine if it shows 'a motorcycle on top of a cat'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The motorcycle is clearly visible, with bright lighting and sharp details. It is fully in view, with no occlusion.
+- The cat is also clearly visible, with distinct stripes and facial features. It is positioned in the foreground and is not blurred.
+- There is no significant blur or lighting issue affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The motorcycle is positioned on a concrete structure, elevated above the ground.
+- The cat is on a separate, lower concrete structure, positioned directly beneath the",NO
+phrase_40502497.pt,69,snowboard,bottle,on top of,"Analyze the image to determine if it shows 'a snowboard on top of a bottle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The snowboard is clearly visible, with its colorful graphics, bindings, and shape well-defined. The lighting is bright and even, highlighting the details of the board.
+- The bottle is also clearly visible, with a green glass body, a dark neck, and a red cap. It is positioned upright in the snow.
+- There is no significant blur or occlusion affecting the visibility of either object. Both are in sharp focus and fully visible.
+
+Step 2: Describe the spatial relationship between them.
+- The snowboard is positioned horizontally above",NO
+phrase_40502497.pt,70,chair,umbrella,on top of,"Analyze the image to determine if it shows 'a chair on top of a umbrella'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no visible blur or occlusion. Both the chair and the umbrella are fully visible and sharply defined against a plain background.
+
+Step 2: The spatial relationship between the objects shows a red chair positioned directly on top of the canopy of a large red umbrella. The chair is elevated above the umbrella's base and appears to be resting on the upper surface of the umbrella's fabric.
+
+Step 3: The image is clear enough to confirm the objects and their arrangement.
+
+Conclusion: Yes",YES
+phrase_40502497.pt,71,fork,hot dog,on top of,"Analyze the image to determine if it shows 'a fork on top of a hot dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is very clear, with bright, even lighting and no blur. Both the hot dog and the fork are fully visible and in sharp focus. The fork is a metallic utensil, and the hot dog is in a bun with mustard, all clearly depicted.
+
+Step 2: The fork is positioned vertically, with its tines inserted into the hot dog, which is lying horizontally in a bun. The fork is not on top of the hot dog in the sense of resting on its surface; rather, it is piercing it. The handle of the fork extends upward and is not resting on the hot dog.
+
+Step",NO
+phrase_40502497.pt,72,clock,skateboard,on top of,"Analyze the image to determine if it shows 'a clock on top of a skateboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the clock and the skateboard are fully visible and in sharp focus. The clock is a black, classic alarm clock with a white face and Roman numerals. The skateboard has a black deck with a light wood edge, silver trucks, and red wheels.
+
+Step 2: The clock is positioned directly on top of the skateboard. It is resting on the deck, with its base sitting flat and stable on the surface, indicating a clear top-down spatial relationship.
+
+Step 3: The image is not ambiguous. The objects and their arrangement",AMBIGUOUS
+phrase_40502497.pt,73,potted plant,tv,on top of,"Analyze the image to determine if it shows 'a potted plant on top of a tv'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with strong backlighting from a window, creating a high-contrast scene. The potted plant is clearly visible in silhouette, with its leaves and pot distinct despite the lighting. The object beneath it, a dark rectangular device with a screen and what appears to be a control panel, is also visible, though details are obscured by shadow and low resolution. There is no significant blur or occlusion of the main objects.
+
+Step 2: The potted plant is positioned directly on top of the dark rectangular object. The object appears to be a television or a similar electronic device, based on its",NO
+phrase_40502497.pt,74,laptop,computer keyboard,on top of,"Analyze the image to determine if it shows 'a laptop on top of a computer keyboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the laptop and the keyboard are fully visible. The laptop has a silver chassis, a black screen, and a black keyboard with white lettering. The keyboard is part of the laptop's integrated design.
+
+Step 2: The keyboard is not a separate object placed on top of the laptop. Instead, it is an integral component of the laptop itself, located beneath the screen and forming the base of the device. The laptop is not on top of a separate keyboard.
+
+Step 3: The image is clear, and the spatial relationship",NO
+phrase_40502497.pt,75,broccoli,dog,on top of,"Analyze the image to determine if it shows 'a broccoli on top of a dog'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is clear and well-lit, with a neutral background that highlights the subject.
+- The dog is fully visible and in sharp focus, showing its face, ears, and fur pattern in detail.
+- The broccoli is also clearly visible, with distinct green florets and yellow buds, and appears to be in focus.
+- There is no significant blur or occlusion; both objects are clearly depicted.
+
+Step 2: Describe the spatial relationship between them.
+- The broccoli is positioned directly on top of the dog's head, resting between",NO
+phrase_40502497.pt,76,tv,traffic light,on top of,"Analyze the image to determine if it shows 'a tv on top of a traffic light'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility:
+- The television is clearly visible, appearing as a vintage CRT model with a dark screen displaying a silhouette of mountains. It is well-lit and in focus.
+- The traffic light is also clearly visible, with its red and green lights illuminated. The traffic light is in sharp focus and fully visible.
+- There is no significant occlusion, blur, or lighting issue affecting the visibility of either object.
+
+Step 2: Description of spatial relationship:
+- The television is positioned directly above the traffic light.
+- The television is mounted on a pole, and the traffic light is mounted below it on the same",NO
+phrase_40502497.pt,77,cell phone,parking meter,on top of,"Analyze the image to determine if it shows 'a cell phone on top of a parking meter'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with clear visibility. Both the cell phone and the parking meter are in sharp focus, with no significant blur or occlusion. The cell phone is clearly identifiable as a smartphone with a dark screen and a metallic frame. The parking meter is a green, boxy device with visible labels and a card slot.
+
+Step 2: The cell phone is positioned on the top surface of the parking meter, resting at an angle. It is clearly placed on top of the meter, not attached to it or in the background.
+
+Step 3: The image is clear enough to confirm the presence and spatial",NO
+phrase_40502497.pt,78,fork,snowboard,on top of,"Analyze the image to determine if it shows 'a fork on top of a snowboard'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The fork is clearly visible in the foreground, sharply focused, and well-lit. It appears to be a metallic utensil with a blue-tinted handle.
+- The snowboard is also clearly visible in the foreground, directly beneath the fork. It is black with white and gold geometric patterns and is in focus.
+- Both objects are in sharp focus and are not occluded by any other elements. The background, which includes skiers and a snowy mountain, is blurred, but this does not affect the visibility of the fork and snow",NO
+phrase_40502497.pt,79,cow,carrot,on top of,"Analyze the image to determine if it shows 'a cow on top of a carrot'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the cow and the carrot are fully visible. The cow's head is depicted with high detail, including its eyes, ears, and a yellow ear tag. The carrot is also clearly visible, showing its orange body, green top, and texture.
+
+Step 2: The spatial relationship between the objects is that the cow's head is positioned on top of the carrot. The carrot is oriented vertically, and the cow's head appears to be emerging from the top of the carrot, with the carrot's green stem extending into the cow's mouth",YES
+phrase_40502497.pt,80,truck,bus,on top of,"Analyze the image to determine if it shows 'a truck on top of a bus'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The yellow vehicle, which appears to be a school bus, is fully visible and well-lit against a plain white background. It is in sharp focus and not occluded by any other object.
+- The blue vehicle, which appears to be a larger bus or coach, is partially visible at the bottom of the image. Its upper portion, including the roof and windows, is clear and in focus. The lighting is even on both vehicles.
+- There is no significant blur affecting the visibility of either object.
+
+Step 2: Describe the spatial",NO
+phrase_40502497.pt,81,toaster,fire hydrant,on top of,"Analyze the image to determine if it shows 'a toaster on top of a fire hydrant'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the fire hydrant and the toaster are fully visible and in sharp focus. The toaster is positioned on top of the fire hydrant, and its features, such as the handle and slots, are clearly discernible.
+
+Step 2: The spatial relationship between the objects is unambiguous. The red toaster is placed directly on the top flange of the red fire hydrant, with its base resting on the hydrant's upper surface. The toaster is not attached or integrated in any way but is clearly situated on top of it.",AMBIGUOUS
+phrase_40502497.pt,82,bear,pizza,on top of,"Analyze the image to determine if it shows 'a bear on top of a pizza'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with no blur or occlusion.
+- Both the bear and the pizza are fully visible and in sharp focus.
+- The bear is a brown bear with detailed fur, and the pizza is topped with pepperoni, cheese, and sauce.
+
+Step 2: Description of spatial relationship
+- The bear is positioned directly on the surface of the pizza.
+- Its paws are resting on the pizza toppings, and its body is standing on the pizza.
+- The bear is located in the center of the pizza, spanning across the toppings.
+
+Step 3:",NO
+phrase_40502497.pt,83,pizza,frisbee,on top of,"Analyze the image to determine if it shows 'a pizza on top of a frisbee'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the pizza and the blue circular object are fully visible and in sharp focus.
+
+Step 2: The pizza is positioned on top of the blue circular object. The object has a raised rim and a flat surface, consistent with a plate. Its shape and size are similar to a frisbee, but it is being used as a serving dish.
+
+Step 3: While the object resembles a frisbee, its function in the image is clearly that of a plate. The term ""frisbee"" typically refers to a toy",NO
+phrase_40502497.pt,84,oven,donut,on top of,"Analyze the image to determine if it shows 'a oven on top of a donut'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+The image clearly shows a glazed donut on a black plate. The lighting is bright and even, making the donut and plate easily visible with no blur. There is no object resembling an oven in the image.
+
+Step 2: Describe the spatial relationship between them.
+Since there is no oven present in the image, there is no spatial relationship between an oven and the donut.
+
+Step 3: If the image is too unclear to be certain, state that it is ambiguous.
+The image is clear, and it is certain that there is",AMBIGUOUS
+phrase_40502497.pt,85,refrigerator,motorcycle,on top of,"Analyze the image to determine if it shows 'a refrigerator on top of a motorcycle'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The refrigerator is clearly visible, positioned vertically in the center of the image. It is well-lit, with sharp details, a white body, a blue top, and a blue handle. There is no significant blur or occlusion.
+- The motorcycle is also clearly visible, positioned in the foreground. It is a red and blue classic-style motorcycle with a black seat, chrome details, and a kickstand. The lighting is bright and even, making all parts of the motorcycle distinct.
+
+Step 2: Describe the spatial relationship between them.",NO
+phrase_40502497.pt,86,book,tie,on top of,"Analyze the image to determine if it shows 'a book on top of a tie'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is well-lit with a clean white background, making the objects clearly visible. There is no significant occlusion or blur. The book is open, and the tie is laid across it. The objects are in sharp focus.
+
+Step 2: The spatial relationship shows an open book lying flat, and a striped tie is placed across the pages of the book. The book is underneath the tie, not the other way around. The tie is not on top of the book; rather, the book is on top of the tie.
+
+Step 3: The image is clear and the arrangement of the objects is un",NO
+phrase_40502497.pt,87,hair drier,parking meter,on top of,"Analyze the image to determine if it shows 'a hair drier on top of a parking meter'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility  
+The image is clear and well-lit, with no significant blur or occlusion. Both the hair dryer and the parking meter are fully visible and in sharp focus. The objects are presented with high contrast against the background, making their features easily distinguishable.
+
+Step 2: Description of spatial relationship  
+The object identified as a hair dryer—a blue, handheld device with a nozzle and cord—is positioned on top of the blue rectangular object, which is clearly a parking meter. The hair dryer is angled upward and rests directly on the top surface of the parking meter.
+
+Step 3: Ambiguity assessment",NO
+phrase_40502497.pt,88,tv,truck,on top of,"Analyze the image to determine if it shows 'a tv on top of a truck'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no significant blur or occlusion. Both the television and the structure it rests on are fully visible. The television is a black CRT-style monitor with an antenna, and it is positioned on top of a blue metal frame. The frame has orange lights on either side and appears to be part of a vehicle, likely a truck, given its size and the presence of what looks like a roof rack or ladder structure.
+
+Step 2: The television is physically resting on the blue metal frame, which is mounted on the top of a vehicle. The structure's design, including the",NO
+phrase_40502497.pt,89,teddy bear,microwave,on top of,"Analyze the image to determine if it shows 'a teddy bear on top of a microwave'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).  
+The image is clear and well-lit, with no blur or significant occlusion. Both the teddy bear and the microwave are fully visible. The teddy bear is positioned in the center of the frame, and the microwave is clearly identifiable by its door, control panel, and digital display.
+
+Step 2: Describe the spatial relationship between them.  
+The teddy bear is not physically on top of the microwave. Instead, it appears to be inside the microwave, visible through the transparent door. It is positioned in front of the interior",NO
+phrase_40502497.pt,90,clock,giraffe,on top of,"Analyze the image to determine if it shows 'a clock on top of a giraffe'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blurring or occlusion. Both the clock and the giraffe are fully visible and sharply rendered. The clock is a classic alarm clock with Roman numerals, and the giraffe's head, neck, and distinctive pattern are clearly depicted.
+
+Step 2: The spatial relationship is that the clock is positioned directly on top of the giraffe's head, resting between its ossicones (the horn-like protuberances). The clock appears to be balanced on the giraffe's head, with the giraffe's head and neck supporting it from below.
+
+Step",NO
+phrase_40502497.pt,91,person,refrigerator,on top of,"Analyze the image to determine if it shows 'a person on top of a refrigerator'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with high contrast between the dark silhouette of the person and the light background. The person and the refrigerator are both fully visible, with no significant occlusion or blur. The person is shown in profile, and the refrigerator is clearly identifiable by its shape, handle, and brand label.
+
+Step 2: The person is positioned behind the refrigerator, with their head and shoulders visible above the top edge of the appliance. The person is not physically on top of the refrigerator but rather appears to be standing behind it, with their silhouette extending above it.
+
+Step 3: The spatial relationship",NO
+phrase_40502497.pt,92,tv,cow,on top of,"Analyze the image to determine if it shows 'a tv on top of a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the cow and the television are fully visible and in sharp focus. The cow is depicted with brown and white markings and has yellow ear tags. The television is an older model with two antennae and is positioned on top of the cow's head.
+
+Step 2: The television is physically located on top of the cow's head, directly above its ears and eyes. This establishes a clear spatial relationship where the TV is resting on the cow.
+
+Step 3: The image is clear and unambiguous. The objects and their arrangement are distinct",AMBIGUOUS
+phrase_40502497.pt,93,microwave,cow,on top of,"Analyze the image to determine if it shows 'a microwave on top of a cow'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with both the cow and the microwave fully visible and in focus. There is no significant occlusion or blur that would hinder identification. The cow is a black-and-white animal with a yellow ear tag, and the microwave is a black appliance with a digital display showing ""1280"".
+
+Step 2: The spatial relationship between the objects is as follows: the microwave is positioned on a surface to the right of the cow, and the cow is positioned to the left of the microwave. The microwave is not on top of the cow; instead, both are on the same",NO
+phrase_40502497.pt,94,fire hydrant,tv remote,on top of,"Analyze the image to determine if it shows 'a fire hydrant on top of a tv remote'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The fire hydrant is clearly visible, brightly lit, and in sharp focus. It is a large, red object with distinct features like nozzles, chains, and a domed top.
+- The TV remote is also visible, positioned to the right of the fire hydrant. It is smaller, black, with white buttons, and is in focus and well-lit.
+- There is no significant blur or occlusion affecting the visibility of either object.
+
+Step 2: Describe the spatial relationship between them.
+- The fire hydrant",NO
+phrase_40502497.pt,95,donut,clock,on top of,"Analyze the image to determine if it shows 'a donut on top of a clock'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Describe the visibility of both objects (lighting, occlusion, blur).
+- The image is well-lit with high clarity and no blur.
+- A donut with pink frosting and colorful sprinkles is clearly visible at the top of the image.
+- A round analog clock with a black frame and a white face is clearly visible at the bottom.
+- The donut is positioned directly above the clock, and there is no occlusion between the two objects.
+
+Step 2: Describe the spatial relationship between them.
+- The donut is located above the clock, and the clock is below the donut.
+- The",NO
+phrase_40502497.pt,96,baseball glove,sandwich,on top of,"Analyze the image to determine if it shows 'a baseball glove on top of a sandwich'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear, well-lit, and in focus, with no blur.
+- Both a baseball glove and a sandwich are clearly visible.
+- The baseball glove is a golden-brown leather glove, and the sandwich is composed of a bun, lettuce, tomato, and a patty, all integrated into the structure of the glove.
+
+Step 2: Description of spatial relationship
+- The sandwich is not simply placed next to or beneath the glove; rather, the glove's structure has been creatively modified to incorporate the sandwich.
+- The bottom part of the glove forms the bottom bun, and",NO
+phrase_40502497.pt,97,hair drier,computer mouse,on top of,"Analyze the image to determine if it shows 'a hair drier on top of a computer mouse'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is well-lit with clear focus and no blur.
+- Both objects are clearly visible: a purple and black hair dryer and a black computer mouse.
+- The hair dryer is positioned to the left and slightly behind the mouse.
+- The computer mouse is located to the right and in front of the hair dryer.
+
+Step 2: Description of spatial relationship
+- The hair dryer is not on top of the computer mouse.
+- The hair dryer is to the left and behind the mouse, with no physical contact.
+- The computer mouse is on the right and in front of the hair dryer",NO
+phrase_40502497.pt,98,skateboard,bear,on top of,"Analyze the image to determine if it shows 'a skateboard on top of a bear'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image is clear and well-lit, with no blur or occlusion. Both the bear and the skateboard are fully visible and in sharp focus. The bear's head and the skateboard are the central subjects, with no other objects obstructing the view.
+
+Step 2: The skateboard is positioned horizontally on top of the bear's head. The bear is facing forward, and the skateboard rests directly on its head, with the wheels and trucks clearly visible above the bear's ears.
+
+Step 3: The image is clear enough to confidently determine the relationship between the objects.
+
+Conclusion: Yes",YES
+phrase_40502497.pt,99,refrigerator,orange,on top of,"Analyze the image to determine if it shows 'a refrigerator on top of a orange'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: Description of visibility
+- The image is clear and well-lit, with no blur or occlusion.
+- The refrigerator is fully visible, with a white body and black top.
+- The orange is also clearly visible, positioned on top of the refrigerator, showing its textured peel and green stem.
+- The lighting is even, highlighting both objects distinctly.
+
+Step 2: Description of spatial relationship
+- The orange is located on the top surface of the refrigerator.
+- The refrigerator is beneath the orange, supporting it.
+- The spatial arrangement is 'an orange on top of a refrigerator', not the other way around.
+
+Step",NO
+phrase_40502497.pt,100,clock,dining table,on top of,"Analyze the image to determine if it shows 'a clock on top of a dining table'. Step 1: Describe the visibility of both objects (lighting, occlusion, blur). Step 2: Describe the spatial relationship between them. Step 3: If the image is too unclear to be certain, state that it is ambiguous. Finally, conclude with exactly one of these labels: 'Yes', 'No', or 'Ambiguous'.","Step 1: The image clearly shows a round, black-framed analog clock with Roman numerals. The clock is well-lit and in sharp focus. The surface it rests on is white and appears smooth, but there are no visible details (such as table legs, chairs, cutlery, or food) that would indicate it is a dining table. The background includes abstract light patterns and shadows, but no identifiable furniture.
+
+Step 2: The clock is positioned on top of a flat, white surface. The spatial relationship is that the clock is resting on this surface. However, the surface itself is not identifiable as a dining",NO

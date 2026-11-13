@@ -1,0 +1,10 @@
+prompt_text,png_path_sd35,tensor_path_sd35,image_index_sd35
+A rabbit hides behind a fallen log.,sd35_output_20250909_222259/png_images/sd35/prompt_53158627.png,sd35_output_20250909_222259/tensors/sd35/prompt_53158627.pt,0
+A cat hides behind a stack of books.,sd35_output_20250909_222259/png_images/sd35/prompt_45411556.png,sd35_output_20250909_222259/tensors/sd35/prompt_45411556.pt,1
+A child hides behind a heavy curtain.,sd35_output_20250909_222259/png_images/sd35/prompt_39297814.png,sd35_output_20250909_222259/tensors/sd35/prompt_39297814.pt,2
+A lake reflects the glow of the stars.,sd35_output_20250909_222259/png_images/sd35/prompt_12537375.png,sd35_output_20250909_222259/tensors/sd35/prompt_12537375.pt,3
+A mirror reflects the edge of a candle flame.,sd35_output_20250909_222259/png_images/sd35/prompt_35735964.png,sd35_output_20250909_222259/tensors/sd35/prompt_35735964.pt,4
+A window reflects the outline of a passing bird.,sd35_output_20250909_222259/png_images/sd35/prompt_83961565.png,sd35_output_20250909_222259/tensors/sd35/prompt_83961565.pt,5
+Moths circle inside a paper lantern.,sd35_output_20250909_222259/png_images/sd35/prompt_1382953.png,sd35_output_20250909_222259/tensors/sd35/prompt_1382953.pt,6
+Beetles buzz in a wooden box.,sd35_output_20250909_222259/png_images/sd35/prompt_15037246.png,sd35_output_20250909_222259/tensors/sd35/prompt_15037246.pt,7
+Dragonflies hover in a glass bowl.,sd35_output_20250909_222259/png_images/sd35/prompt_55554030.png,sd35_output_20250909_222259/tensors/sd35/prompt_55554030.pt,8

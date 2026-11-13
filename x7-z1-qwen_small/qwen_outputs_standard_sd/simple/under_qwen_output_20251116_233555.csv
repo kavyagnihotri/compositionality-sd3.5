@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_53123201.pt,0,giraffe,hair drier,under,Does this figure show 'a giraffe under a hair drier'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,1,broccoli,skis,under,Does this figure show 'a broccoli under a skis'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,2,book,sports ball,under,Does this figure show 'a book under a sports ball'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,3,bench,cow,under,Does this figure show 'a bench under a cow'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,4,computer keyboard,skateboard,under,Does this figure show 'a computer keyboard under a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,5,toilet,potted plant,under,Does this figure show 'a toilet under a potted plant'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,6,oven,vase,under,Does this figure show 'a oven under a vase'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,7,bed,book,under,Does this figure show 'a bed under a book'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,8,cell phone,bear,under,Does this figure show 'a cell phone under a bear'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,9,sports ball,refrigerator,under,Does this figure show 'a sports ball under a refrigerator'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,10,baseball bat,dog,under,Does this figure show 'a baseball bat under a dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,11,orange,traffic light,under,Does this figure show 'a orange under a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,12,teddy bear,orange,under,Does this figure show 'a teddy bear under a orange'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,13,skis,tennis racket,under,Does this figure show 'a skis under a tennis racket'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,14,zebra,bicycle,under,Does this figure show 'a zebra under a bicycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,15,sheep,computer mouse,under,Does this figure show 'a sheep under a computer mouse'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,16,cell phone,orange,under,Does this figure show 'a cell phone under a orange'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,17,knife,umbrella,under,Does this figure show 'a knife under a umbrella'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,18,motorcycle,carrot,under,Does this figure show 'a motorcycle under a carrot'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,19,traffic light,horse,under,Does this figure show 'a traffic light under a horse'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,20,surfboard,tv,under,Does this figure show 'a surfboard under a tv'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,21,carrot,truck,under,Does this figure show 'a carrot under a truck'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,22,giraffe,fire hydrant,under,Does this figure show 'a giraffe under a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,23,elephant,toaster,under,Does this figure show 'a elephant under a toaster'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,24,bowl,dog,under,Does this figure show 'a bowl under a dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,25,bench,motorcycle,under,Does this figure show 'a bench under a motorcycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,26,frisbee,handbag,under,Does this figure show 'a frisbee under a handbag'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,27,skis,cat,under,Does this figure show 'a skis under a cat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,28,surfboard,spoon,under,Does this figure show 'a surfboard under a spoon'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,29,bicycle,bus,under,Does this figure show 'a bicycle under a bus'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,30,car,laptop,under,Does this figure show 'a car under a laptop'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,31,frisbee,cat,under,Does this figure show 'a frisbee under a cat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,32,skis,motorcycle,under,Does this figure show 'a skis under a motorcycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,33,toilet,cat,under,Does this figure show 'a toilet under a cat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,34,snowboard,boat,under,Does this figure show 'a snowboard under a boat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,35,broccoli,bird,under,Does this figure show 'a broccoli under a bird'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,36,scissors,airplane,under,Does this figure show 'a scissors under a airplane'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,37,bowl,banana,under,Does this figure show 'a bowl under a banana'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,38,baseball glove,bicycle,under,Does this figure show 'a baseball glove under a bicycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,39,microwave,skis,under,Does this figure show 'a microwave under a skis'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,40,banana,stop sign,under,Does this figure show 'a banana under a stop sign'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,41,oven,snowboard,under,Does this figure show 'a oven under a snowboard'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,42,giraffe,tie,under,Does this figure show 'a giraffe under a tie'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,43,parking meter,toilet,under,Does this figure show 'a parking meter under a toilet'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,44,banana,fork,under,Does this figure show 'a banana under a fork'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,45,laptop,broccoli,under,Does this figure show 'a laptop under a broccoli'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,46,orange,toothbrush,under,Does this figure show 'a orange under a toothbrush'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,47,baseball bat,boat,under,Does this figure show 'a baseball bat under a boat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,48,snowboard,skateboard,under,Does this figure show 'a snowboard under a skateboard'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,49,book,dog,under,Does this figure show 'a book under a dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,50,chair,pizza,under,Does this figure show 'a chair under a pizza'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,51,suitcase,train,under,Does this figure show 'a suitcase under a train'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,52,refrigerator,sports ball,under,Does this figure show 'a refrigerator under a sports ball'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,53,baseball bat,sandwich,under,Does this figure show 'a baseball bat under a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,54,potted plant,fork,under,Does this figure show 'a potted plant under a fork'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,55,clock,cow,under,Does this figure show 'a clock under a cow'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,56,skateboard,motorcycle,under,Does this figure show 'a skateboard under a motorcycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,57,orange,bottle,under,Does this figure show 'a orange under a bottle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,58,backpack,wine glass,under,Does this figure show 'a backpack under a wine glass'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,59,surfboard,handbag,under,Does this figure show 'a surfboard under a handbag'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,60,frisbee,broccoli,under,Does this figure show 'a frisbee under a broccoli'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,61,cell phone,dog,under,Does this figure show 'a cell phone under a dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,62,chair,tennis racket,under,Does this figure show 'a chair under a tennis racket'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,63,couch,tv remote,under,Does this figure show 'a couch under a tv remote'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,64,donut,knife,under,Does this figure show 'a donut under a knife'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,65,tv remote,laptop,under,Does this figure show 'a tv remote under a laptop'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,66,traffic light,pizza,under,Does this figure show 'a traffic light under a pizza'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,67,motorcycle,cat,under,Does this figure show 'a motorcycle under a cat'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,68,snowboard,bottle,under,Does this figure show 'a snowboard under a bottle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,69,chair,umbrella,under,Does this figure show 'a chair under a umbrella'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,70,fork,hot dog,under,Does this figure show 'a fork under a hot dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,71,clock,skateboard,under,Does this figure show 'a clock under a skateboard'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,72,potted plant,tv,under,Does this figure show 'a potted plant under a tv'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,73,laptop,computer keyboard,under,Does this figure show 'a laptop under a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,74,broccoli,dog,under,Does this figure show 'a broccoli under a dog'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,75,tv,traffic light,under,Does this figure show 'a tv under a traffic light'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,76,cell phone,parking meter,under,Does this figure show 'a cell phone under a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,77,fork,snowboard,under,Does this figure show 'a fork under a snowboard'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,78,cow,carrot,under,Does this figure show 'a cow under a carrot'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,79,truck,bus,under,Does this figure show 'a truck under a bus'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,80,toaster,fire hydrant,under,Does this figure show 'a toaster under a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,81,bear,pizza,under,Does this figure show 'a bear under a pizza'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,82,pizza,frisbee,under,Does this figure show 'a pizza under a frisbee'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,83,oven,donut,under,Does this figure show 'a oven under a donut'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,84,refrigerator,motorcycle,under,Does this figure show 'a refrigerator under a motorcycle'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,85,book,tie,under,Does this figure show 'a book under a tie'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,86,hair drier,parking meter,under,Does this figure show 'a hair drier under a parking meter'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,87,tv,truck,under,Does this figure show 'a tv under a truck'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,88,teddy bear,microwave,under,Does this figure show 'a teddy bear under a microwave'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,89,clock,giraffe,under,Does this figure show 'a clock under a giraffe'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,90,person,refrigerator,under,Does this figure show 'a person under a refrigerator'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,91,tv,cow,under,Does this figure show 'a tv under a cow'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,92,microwave,cow,under,Does this figure show 'a microwave under a cow'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,93,fire hydrant,tv remote,under,Does this figure show 'a fire hydrant under a tv remote'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,94,donut,clock,under,Does this figure show 'a donut under a clock'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,95,baseball glove,sandwich,under,Does this figure show 'a baseball glove under a sandwich'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,96,hair drier,computer mouse,under,Does this figure show 'a hair drier under a computer mouse'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,97,skateboard,bear,under,Does this figure show 'a skateboard under a bear'? Please answer yes or no.,Yes.,YES
+phrase_53123201.pt,98,refrigerator,orange,under,Does this figure show 'a refrigerator under a orange'? Please answer yes or no.,No.,NO
+phrase_53123201.pt,99,clock,dining table,under,Does this figure show 'a clock under a dining table'? Please answer yes or no.,No.,NO

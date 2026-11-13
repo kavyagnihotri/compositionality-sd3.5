@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_83844588.pt,0,giraffe,hair drier,inside,Does this figure show 'a giraffe inside a hair drier'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,1,broccoli,skis,inside,Does this figure show 'a broccoli inside a skis'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,2,book,sports ball,inside,Does this figure show 'a book inside a sports ball'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,3,bench,cow,inside,Does this figure show 'a bench inside a cow'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,4,computer keyboard,skateboard,inside,Does this figure show 'a computer keyboard inside a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,5,toilet,potted plant,inside,Does this figure show 'a toilet inside a potted plant'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,6,oven,vase,inside,Does this figure show 'a oven inside a vase'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,7,bed,book,inside,Does this figure show 'a bed inside a book'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,8,cell phone,bear,inside,Does this figure show 'a cell phone inside a bear'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,9,sports ball,refrigerator,inside,Does this figure show 'a sports ball inside a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,10,baseball bat,dog,inside,Does this figure show 'a baseball bat inside a dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,11,orange,traffic light,inside,Does this figure show 'a orange inside a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,12,teddy bear,orange,inside,Does this figure show 'a teddy bear inside a orange'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,13,skis,tennis racket,inside,Does this figure show 'a skis inside a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,14,zebra,bicycle,inside,Does this figure show 'a zebra inside a bicycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,15,sheep,computer mouse,inside,Does this figure show 'a sheep inside a computer mouse'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,16,cell phone,orange,inside,Does this figure show 'a cell phone inside a orange'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,17,knife,umbrella,inside,Does this figure show 'a knife inside a umbrella'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,18,motorcycle,carrot,inside,Does this figure show 'a motorcycle inside a carrot'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,19,traffic light,horse,inside,Does this figure show 'a traffic light inside a horse'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,20,surfboard,tv,inside,Does this figure show 'a surfboard inside a tv'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,21,carrot,truck,inside,Does this figure show 'a carrot inside a truck'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,22,giraffe,fire hydrant,inside,Does this figure show 'a giraffe inside a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,23,elephant,toaster,inside,Does this figure show 'a elephant inside a toaster'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,24,bowl,dog,inside,Does this figure show 'a bowl inside a dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,25,bench,motorcycle,inside,Does this figure show 'a bench inside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,26,frisbee,handbag,inside,Does this figure show 'a frisbee inside a handbag'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,27,skis,cat,inside,Does this figure show 'a skis inside a cat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,28,surfboard,spoon,inside,Does this figure show 'a surfboard inside a spoon'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,29,bicycle,bus,inside,Does this figure show 'a bicycle inside a bus'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,30,car,laptop,inside,Does this figure show 'a car inside a laptop'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,31,frisbee,cat,inside,Does this figure show 'a frisbee inside a cat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,32,skis,motorcycle,inside,Does this figure show 'a skis inside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,33,toilet,cat,inside,Does this figure show 'a toilet inside a cat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,34,snowboard,boat,inside,Does this figure show 'a snowboard inside a boat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,35,broccoli,bird,inside,Does this figure show 'a broccoli inside a bird'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,36,scissors,airplane,inside,Does this figure show 'a scissors inside a airplane'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,37,bowl,banana,inside,Does this figure show 'a bowl inside a banana'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,38,baseball glove,bicycle,inside,Does this figure show 'a baseball glove inside a bicycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,39,microwave,skis,inside,Does this figure show 'a microwave inside a skis'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,40,banana,stop sign,inside,Does this figure show 'a banana inside a stop sign'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,41,oven,snowboard,inside,Does this figure show 'a oven inside a snowboard'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,42,giraffe,tie,inside,Does this figure show 'a giraffe inside a tie'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,43,parking meter,toilet,inside,Does this figure show 'a parking meter inside a toilet'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,44,banana,fork,inside,Does this figure show 'a banana inside a fork'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,45,laptop,broccoli,inside,Does this figure show 'a laptop inside a broccoli'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,46,orange,toothbrush,inside,Does this figure show 'a orange inside a toothbrush'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,47,baseball bat,boat,inside,Does this figure show 'a baseball bat inside a boat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,48,snowboard,skateboard,inside,Does this figure show 'a snowboard inside a skateboard'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,49,book,dog,inside,Does this figure show 'a book inside a dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,50,chair,pizza,inside,Does this figure show 'a chair inside a pizza'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,51,suitcase,train,inside,Does this figure show 'a suitcase inside a train'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,52,refrigerator,sports ball,inside,Does this figure show 'a refrigerator inside a sports ball'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,53,baseball bat,sandwich,inside,Does this figure show 'a baseball bat inside a sandwich'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,54,potted plant,fork,inside,Does this figure show 'a potted plant inside a fork'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,55,clock,cow,inside,Does this figure show 'a clock inside a cow'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,56,skateboard,motorcycle,inside,Does this figure show 'a skateboard inside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,57,orange,bottle,inside,Does this figure show 'a orange inside a bottle'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,58,backpack,wine glass,inside,Does this figure show 'a backpack inside a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,59,surfboard,handbag,inside,Does this figure show 'a surfboard inside a handbag'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,60,frisbee,broccoli,inside,Does this figure show 'a frisbee inside a broccoli'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,61,cell phone,dog,inside,Does this figure show 'a cell phone inside a dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,62,chair,tennis racket,inside,Does this figure show 'a chair inside a tennis racket'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,63,couch,tv remote,inside,Does this figure show 'a couch inside a tv remote'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,64,donut,knife,inside,Does this figure show 'a donut inside a knife'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,65,tv remote,laptop,inside,Does this figure show 'a tv remote inside a laptop'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,66,traffic light,pizza,inside,Does this figure show 'a traffic light inside a pizza'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,67,motorcycle,cat,inside,Does this figure show 'a motorcycle inside a cat'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,68,snowboard,bottle,inside,Does this figure show 'a snowboard inside a bottle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,69,chair,umbrella,inside,Does this figure show 'a chair inside a umbrella'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,70,fork,hot dog,inside,Does this figure show 'a fork inside a hot dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,71,clock,skateboard,inside,Does this figure show 'a clock inside a skateboard'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,72,potted plant,tv,inside,Does this figure show 'a potted plant inside a tv'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,73,laptop,computer keyboard,inside,Does this figure show 'a laptop inside a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,74,broccoli,dog,inside,Does this figure show 'a broccoli inside a dog'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,75,tv,traffic light,inside,Does this figure show 'a tv inside a traffic light'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,76,cell phone,parking meter,inside,Does this figure show 'a cell phone inside a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,77,fork,snowboard,inside,Does this figure show 'a fork inside a snowboard'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,78,cow,carrot,inside,Does this figure show 'a cow inside a carrot'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,79,truck,bus,inside,Does this figure show 'a truck inside a bus'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,80,toaster,fire hydrant,inside,Does this figure show 'a toaster inside a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,81,bear,pizza,inside,Does this figure show 'a bear inside a pizza'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,82,pizza,frisbee,inside,Does this figure show 'a pizza inside a frisbee'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,83,oven,donut,inside,Does this figure show 'a oven inside a donut'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,84,refrigerator,motorcycle,inside,Does this figure show 'a refrigerator inside a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,85,book,tie,inside,Does this figure show 'a book inside a tie'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,86,hair drier,parking meter,inside,Does this figure show 'a hair drier inside a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,87,tv,truck,inside,Does this figure show 'a tv inside a truck'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,88,teddy bear,microwave,inside,Does this figure show 'a teddy bear inside a microwave'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,89,clock,giraffe,inside,Does this figure show 'a clock inside a giraffe'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,90,person,refrigerator,inside,Does this figure show 'a person inside a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,91,tv,cow,inside,Does this figure show 'a tv inside a cow'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,92,microwave,cow,inside,Does this figure show 'a microwave inside a cow'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,93,fire hydrant,tv remote,inside,Does this figure show 'a fire hydrant inside a tv remote'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,94,donut,clock,inside,Does this figure show 'a donut inside a clock'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,95,baseball glove,sandwich,inside,Does this figure show 'a baseball glove inside a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_83844588.pt,96,hair drier,computer mouse,inside,Does this figure show 'a hair drier inside a computer mouse'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,97,skateboard,bear,inside,Does this figure show 'a skateboard inside a bear'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,98,refrigerator,orange,inside,Does this figure show 'a refrigerator inside a orange'? Please answer yes or no.,No.,NO
+phrase_83844588.pt,99,clock,dining table,inside,Does this figure show 'a clock inside a dining table'? Please answer yes or no.,Yes.,YES

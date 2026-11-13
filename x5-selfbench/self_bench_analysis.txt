@@ -1,0 +1,64 @@
+2,3; 
+    whole thing is pink (car)
+    meanwhile "yellow" car works 122,123
+
+20,21;
+    wine and apple
+
+36,37;
+    is correct but we also got a road?
+    the train is more like a shodow 
+
+42,43
+    above
+
+44,45;
+    below
+
+46,47;
+    unnatural
+
+48,48;
+    only fork
+    -> try with and
+
+50,51;
+    on?
+
+54,55;
+    below
+
+56,57;
+    above
+
+66,67
+
+78,79
+    -> black toothbrush, carrot
+
+i messed up the swap color prompts 80-99
+
+110,111
+    only fork
+
+118,119
+    carrot toothbrush
+
+color: someimes the bg is also colored like that but lighter
+    137
+
+140,141
+    only bear
+
+144,145
+    below
+
+146,147
+    weird
+
+150,
+    bat + tie
+
+152
+
+158

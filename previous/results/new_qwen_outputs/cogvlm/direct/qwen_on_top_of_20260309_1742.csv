@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+cogvlm,phrase_9617317.pt,0,on top of,direct,No,,giraffe,hair drier
+cogvlm,phrase_9617317.pt,1,on top of,direct,No,,broccoli,skis
+cogvlm,phrase_9617317.pt,2,on top of,direct,No,,book,sports ball
+cogvlm,phrase_9617317.pt,3,on top of,direct,No,,bench,cow
+cogvlm,phrase_9617317.pt,4,on top of,direct,Yes.,,computer keyboard,skateboard
+cogvlm,phrase_9617317.pt,5,on top of,direct,No,,toilet,potted plant
+cogvlm,phrase_9617317.pt,6,on top of,direct,Yes.,,oven,vase
+cogvlm,phrase_9617317.pt,7,on top of,direct,No,,bed,book
+cogvlm,phrase_9617317.pt,8,on top of,direct,Yes.,,cell phone,bear
+cogvlm,phrase_9617317.pt,9,on top of,direct,Yes,,sports ball,refrigerator
+cogvlm,phrase_9617317.pt,10,on top of,direct,No.,,baseball bat,dog
+cogvlm,phrase_9617317.pt,11,on top of,direct,Yes.,,orange,traffic light
+cogvlm,phrase_9617317.pt,12,on top of,direct,Yes.,,teddy bear,orange
+cogvlm,phrase_9617317.pt,13,on top of,direct,No,,skis,tennis racket
+cogvlm,phrase_9617317.pt,14,on top of,direct,Yes.,,zebra,bicycle
+cogvlm,phrase_9617317.pt,15,on top of,direct,No,,sheep,computer mouse
+cogvlm,phrase_9617317.pt,16,on top of,direct,Yes,,cell phone,orange
+cogvlm,phrase_9617317.pt,17,on top of,direct,Yes,,knife,umbrella
+cogvlm,phrase_9617317.pt,18,on top of,direct,No,,motorcycle,carrot
+cogvlm,phrase_9617317.pt,19,on top of,direct,No,,traffic light,horse
+cogvlm,phrase_9617317.pt,20,on top of,direct,No,,surfboard,tv
+cogvlm,phrase_9617317.pt,21,on top of,direct,Yes,,carrot,truck
+cogvlm,phrase_9617317.pt,22,on top of,direct,Yes,,giraffe,fire hydrant
+cogvlm,phrase_9617317.pt,23,on top of,direct,Yes.,,elephant,toaster
+cogvlm,phrase_9617317.pt,24,on top of,direct,No,,bowl,dog
+cogvlm,phrase_9617317.pt,25,on top of,direct,No,,bench,motorcycle
+cogvlm,phrase_9617317.pt,26,on top of,direct,Yes,,frisbee,handbag
+cogvlm,phrase_9617317.pt,27,on top of,direct,No,,skis,cat
+cogvlm,phrase_9617317.pt,28,on top of,direct,Yes.,,surfboard,spoon
+cogvlm,phrase_9617317.pt,29,on top of,direct,Yes.,,bicycle,bus
+cogvlm,phrase_9617317.pt,30,on top of,direct,No,,car,laptop
+cogvlm,phrase_9617317.pt,31,on top of,direct,No,,frisbee,cat
+cogvlm,phrase_9617317.pt,32,on top of,direct,Yes.,,skis,motorcycle
+cogvlm,phrase_9617317.pt,33,on top of,direct,No.,,toilet,cat
+cogvlm,phrase_9617317.pt,34,on top of,direct,Yes,,snowboard,boat
+cogvlm,phrase_9617317.pt,35,on top of,direct,Yes.,,broccoli,bird
+cogvlm,phrase_9617317.pt,36,on top of,direct,No,,scissors,airplane
+cogvlm,phrase_9617317.pt,37,on top of,direct,Yes,,bowl,banana
+cogvlm,phrase_9617317.pt,38,on top of,direct,Yes,,baseball glove,bicycle
+cogvlm,phrase_9617317.pt,39,on top of,direct,No,,microwave,skis
+cogvlm,phrase_9617317.pt,40,on top of,direct,Yes.,,banana,stop sign
+cogvlm,phrase_9617317.pt,41,on top of,direct,No,,oven,snowboard
+cogvlm,phrase_9617317.pt,42,on top of,direct,No.,,giraffe,tie
+cogvlm,phrase_9617317.pt,43,on top of,direct,Yes,,parking meter,toilet
+cogvlm,phrase_9617317.pt,44,on top of,direct,Yes.,,banana,fork
+cogvlm,phrase_9617317.pt,45,on top of,direct,No,,laptop,broccoli
+cogvlm,phrase_9617317.pt,46,on top of,direct,No,,orange,toothbrush
+cogvlm,phrase_9617317.pt,47,on top of,direct,Yes,,baseball bat,boat
+cogvlm,phrase_9617317.pt,48,on top of,direct,No,,snowboard,skateboard
+cogvlm,phrase_9617317.pt,49,on top of,direct,No.,,book,dog
+cogvlm,phrase_9617317.pt,50,on top of,direct,No.,,chair,pizza
+cogvlm,phrase_9617317.pt,51,on top of,direct,Yes,,suitcase,train
+cogvlm,phrase_9617317.pt,52,on top of,direct,Yes,,refrigerator,sports ball
+cogvlm,phrase_9617317.pt,53,on top of,direct,No,,baseball bat,sandwich
+cogvlm,phrase_9617317.pt,54,on top of,direct,No,,potted plant,fork
+cogvlm,phrase_9617317.pt,55,on top of,direct,Yes,,clock,cow
+cogvlm,phrase_9617317.pt,56,on top of,direct,No,,skateboard,motorcycle
+cogvlm,phrase_9617317.pt,57,on top of,direct,Yes.,,orange,bottle
+cogvlm,phrase_9617317.pt,58,on top of,direct,No,,backpack,wine glass
+cogvlm,phrase_9617317.pt,59,on top of,direct,No,,surfboard,handbag
+cogvlm,phrase_9617317.pt,60,on top of,direct,No.,,frisbee,broccoli
+cogvlm,phrase_9617317.pt,61,on top of,direct,No,,cell phone,dog
+cogvlm,phrase_9617317.pt,62,on top of,direct,No,,chair,tennis racket
+cogvlm,phrase_9617317.pt,63,on top of,direct,No,,couch,tv remote
+cogvlm,phrase_9617317.pt,64,on top of,direct,No,,donut,knife
+cogvlm,phrase_9617317.pt,65,on top of,direct,Yes,,tv remote,laptop
+cogvlm,phrase_9617317.pt,66,on top of,direct,Yes.,,traffic light,pizza
+cogvlm,phrase_9617317.pt,67,on top of,direct,No,,motorcycle,cat
+cogvlm,phrase_9617317.pt,68,on top of,direct,No,,snowboard,bottle
+cogvlm,phrase_9617317.pt,69,on top of,direct,No.,,chair,umbrella
+cogvlm,phrase_9617317.pt,70,on top of,direct,No,,fork,hot dog
+cogvlm,phrase_9617317.pt,71,on top of,direct,Yes,,clock,skateboard
+cogvlm,phrase_9617317.pt,72,on top of,direct,Yes,,potted plant,tv
+cogvlm,phrase_9617317.pt,73,on top of,direct,No,,laptop,computer keyboard
+cogvlm,phrase_9617317.pt,74,on top of,direct,Yes,,broccoli,dog
+cogvlm,phrase_9617317.pt,75,on top of,direct,Yes,,tv,traffic light
+cogvlm,phrase_9617317.pt,76,on top of,direct,Yes.,,cell phone,parking meter
+cogvlm,phrase_9617317.pt,77,on top of,direct,No.,,fork,snowboard
+cogvlm,phrase_9617317.pt,78,on top of,direct,No,,cow,carrot
+cogvlm,phrase_9617317.pt,79,on top of,direct,No,,truck,bus
+cogvlm,phrase_9617317.pt,80,on top of,direct,No,,toaster,fire hydrant
+cogvlm,phrase_9617317.pt,81,on top of,direct,No.,,bear,pizza
+cogvlm,phrase_9617317.pt,82,on top of,direct,No.,,pizza,frisbee
+cogvlm,phrase_9617317.pt,83,on top of,direct,No.,,oven,donut
+cogvlm,phrase_9617317.pt,84,on top of,direct,Yes.,,refrigerator,motorcycle
+cogvlm,phrase_9617317.pt,85,on top of,direct,No,,book,tie
+cogvlm,phrase_9617317.pt,86,on top of,direct,Yes,,hair drier,parking meter
+cogvlm,phrase_9617317.pt,87,on top of,direct,Yes,,tv,truck
+cogvlm,phrase_9617317.pt,88,on top of,direct,Yes,,teddy bear,microwave
+cogvlm,phrase_9617317.pt,89,on top of,direct,Yes,,clock,giraffe
+cogvlm,phrase_9617317.pt,90,on top of,direct,No.,,person,refrigerator
+cogvlm,phrase_9617317.pt,91,on top of,direct,Yes,,tv,cow
+cogvlm,phrase_9617317.pt,92,on top of,direct,Yes,,microwave,cow
+cogvlm,phrase_9617317.pt,93,on top of,direct,No,,fire hydrant,tv remote
+cogvlm,phrase_9617317.pt,94,on top of,direct,Yes,,donut,clock
+cogvlm,phrase_9617317.pt,95,on top of,direct,No,,baseball glove,sandwich
+cogvlm,phrase_9617317.pt,96,on top of,direct,No,,hair drier,computer mouse
+cogvlm,phrase_9617317.pt,97,on top of,direct,No,,skateboard,bear
+cogvlm,phrase_9617317.pt,98,on top of,direct,No.,,refrigerator,orange
+cogvlm,phrase_9617317.pt,99,on top of,direct,Yes.,,clock,dining table

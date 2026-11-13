@@ -1,0 +1,4 @@
+Not doing for:
+- on -> very vague
+- "and not" -> known problem
+- outside -> vague

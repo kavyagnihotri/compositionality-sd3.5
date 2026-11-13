@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+standard,phrase_26255437.pt,1,behind,direct,No.,,giraffe,hair drier
+standard,phrase_26255437.pt,2,behind,direct,No,,broccoli,skis
+standard,phrase_26255437.pt,3,behind,direct,No,,book,sports ball
+standard,phrase_26255437.pt,4,behind,direct,No,,bench,cow
+standard,phrase_26255437.pt,5,behind,direct,No,,computer keyboard,skateboard
+standard,phrase_26255437.pt,6,behind,direct,No,,toilet,potted plant
+standard,phrase_26255437.pt,7,behind,direct,No,,oven,vase
+standard,phrase_26255437.pt,8,behind,direct,No,,bed,book
+standard,phrase_26255437.pt,9,behind,direct,No,,cell phone,bear
+standard,phrase_26255437.pt,10,behind,direct,No.,,sports ball,refrigerator
+standard,phrase_26255437.pt,11,behind,direct,No,,baseball bat,dog
+standard,phrase_26255437.pt,12,behind,direct,No.,,orange,traffic light
+standard,phrase_26255437.pt,13,behind,direct,No,,teddy bear,orange
+standard,phrase_26255437.pt,14,behind,direct,No,,skis,tennis racket
+standard,phrase_26255437.pt,15,behind,direct,No.,,zebra,bicycle
+standard,phrase_26255437.pt,16,behind,direct,No,,sheep,computer mouse
+standard,phrase_26255437.pt,17,behind,direct,No,,cell phone,orange
+standard,phrase_26255437.pt,18,behind,direct,No,,knife,umbrella
+standard,phrase_26255437.pt,19,behind,direct,No,,motorcycle,carrot
+standard,phrase_26255437.pt,20,behind,direct,No,,traffic light,horse
+standard,phrase_26255437.pt,21,behind,direct,No,,surfboard,tv
+standard,phrase_26255437.pt,22,behind,direct,No,,carrot,truck
+standard,phrase_26255437.pt,23,behind,direct,No.,,giraffe,fire hydrant
+standard,phrase_26255437.pt,24,behind,direct,No,,elephant,toaster
+standard,phrase_26255437.pt,25,behind,direct,No,,bowl,dog
+standard,phrase_26255437.pt,26,behind,direct,No,,bench,motorcycle
+standard,phrase_26255437.pt,27,behind,direct,No,,frisbee,handbag
+standard,phrase_26255437.pt,28,behind,direct,No,,skis,cat
+standard,phrase_26255437.pt,29,behind,direct,No,,surfboard,spoon
+standard,phrase_26255437.pt,30,behind,direct,No,,bicycle,bus
+standard,phrase_26255437.pt,31,behind,direct,No,,car,laptop
+standard,phrase_26255437.pt,32,behind,direct,No,,frisbee,cat
+standard,phrase_26255437.pt,33,behind,direct,No,,skis,motorcycle
+standard,phrase_26255437.pt,34,behind,direct,No,,toilet,cat
+standard,phrase_26255437.pt,35,behind,direct,No,,snowboard,boat
+standard,phrase_26255437.pt,36,behind,direct,No,,broccoli,bird
+standard,phrase_26255437.pt,37,behind,direct,No,,scissors,airplane
+standard,phrase_26255437.pt,38,behind,direct,No,,bowl,banana
+standard,phrase_26255437.pt,39,behind,direct,No,,baseball glove,bicycle
+standard,phrase_26255437.pt,40,behind,direct,No,,microwave,skis
+standard,phrase_26255437.pt,41,behind,direct,No.,,banana,stop sign
+standard,phrase_26255437.pt,42,behind,direct,No,,oven,snowboard
+standard,phrase_26255437.pt,43,behind,direct,No,,giraffe,tie
+standard,phrase_26255437.pt,44,behind,direct,No.,,parking meter,toilet
+standard,phrase_26255437.pt,45,behind,direct,No,,banana,fork
+standard,phrase_26255437.pt,46,behind,direct,No,,laptop,broccoli
+standard,phrase_26255437.pt,47,behind,direct,No,,orange,toothbrush
+standard,phrase_26255437.pt,48,behind,direct,No.,,baseball bat,boat
+standard,phrase_26255437.pt,49,behind,direct,No,,snowboard,skateboard
+standard,phrase_26255437.pt,50,behind,direct,No,,book,dog
+standard,phrase_26255437.pt,51,behind,direct,No.,,chair,pizza
+standard,phrase_26255437.pt,52,behind,direct,No,,suitcase,train
+standard,phrase_26255437.pt,53,behind,direct,No,,refrigerator,sports ball
+standard,phrase_26255437.pt,54,behind,direct,No,,baseball bat,sandwich
+standard,phrase_26255437.pt,55,behind,direct,No,,potted plant,fork
+standard,phrase_26255437.pt,56,behind,direct,No.,,clock,cow
+standard,phrase_26255437.pt,57,behind,direct,No.,,skateboard,motorcycle
+standard,phrase_26255437.pt,58,behind,direct,No,,orange,bottle
+standard,phrase_26255437.pt,59,behind,direct,No,,backpack,wine glass
+standard,phrase_26255437.pt,60,behind,direct,No,,surfboard,handbag
+standard,phrase_26255437.pt,61,behind,direct,No,,frisbee,broccoli
+standard,phrase_26255437.pt,62,behind,direct,No.,,cell phone,dog
+standard,phrase_26255437.pt,63,behind,direct,No,,chair,tennis racket
+standard,phrase_26255437.pt,64,behind,direct,No,,couch,tv remote
+standard,phrase_26255437.pt,65,behind,direct,No,,donut,knife
+standard,phrase_26255437.pt,66,behind,direct,No,,tv remote,laptop
+standard,phrase_26255437.pt,67,behind,direct,No.,,traffic light,pizza
+standard,phrase_26255437.pt,68,behind,direct,No,,motorcycle,cat
+standard,phrase_26255437.pt,69,behind,direct,No,,snowboard,bottle
+standard,phrase_26255437.pt,70,behind,direct,No,,chair,umbrella
+standard,phrase_26255437.pt,71,behind,direct,No,,fork,hot dog
+standard,phrase_26255437.pt,72,behind,direct,No,,clock,skateboard
+standard,phrase_26255437.pt,73,behind,direct,No,,potted plant,tv
+standard,phrase_26255437.pt,74,behind,direct,No,,laptop,computer keyboard
+standard,phrase_26255437.pt,75,behind,direct,No.,,broccoli,dog
+standard,phrase_26255437.pt,76,behind,direct,No,,tv,traffic light
+standard,phrase_26255437.pt,77,behind,direct,No,,cell phone,parking meter
+standard,phrase_26255437.pt,78,behind,direct,No,,fork,snowboard
+standard,phrase_26255437.pt,79,behind,direct,No,,cow,carrot
+standard,phrase_26255437.pt,80,behind,direct,No,,truck,bus
+standard,phrase_26255437.pt,81,behind,direct,No,,toaster,fire hydrant
+standard,phrase_26255437.pt,82,behind,direct,No,,bear,pizza
+standard,phrase_26255437.pt,83,behind,direct,No,,pizza,frisbee
+standard,phrase_26255437.pt,84,behind,direct,No,,oven,donut
+standard,phrase_26255437.pt,85,behind,direct,No.,,refrigerator,motorcycle
+standard,phrase_26255437.pt,86,behind,direct,No,,book,tie
+standard,phrase_26255437.pt,87,behind,direct,No.,,hair drier,parking meter
+standard,phrase_26255437.pt,88,behind,direct,No,,tv,truck
+standard,phrase_26255437.pt,89,behind,direct,No.,,teddy bear,microwave
+standard,phrase_26255437.pt,90,behind,direct,No.,,clock,giraffe
+standard,phrase_26255437.pt,91,behind,direct,Yes,,person,refrigerator
+standard,phrase_26255437.pt,92,behind,direct,No,,tv,cow
+standard,phrase_26255437.pt,93,behind,direct,No.,,microwave,cow
+standard,phrase_26255437.pt,94,behind,direct,No.,,fire hydrant,tv remote
+standard,phrase_26255437.pt,95,behind,direct,No.,,donut,clock
+standard,phrase_26255437.pt,96,behind,direct,No,,baseball glove,sandwich
+standard,phrase_26255437.pt,97,behind,direct,No,,hair drier,computer mouse
+standard,phrase_26255437.pt,98,behind,direct,No.,,skateboard,bear
+standard,phrase_26255437.pt,99,behind,direct,No,,refrigerator,orange
+standard,phrase_26255437.pt,100,behind,direct,No.,,clock,dining table

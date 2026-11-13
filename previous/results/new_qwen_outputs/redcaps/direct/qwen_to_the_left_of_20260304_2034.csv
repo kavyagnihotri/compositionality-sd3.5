@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_30234472.pt,0,to the left of,direct,Yes.,,giraffe,hair drier
+redcaps,phrase_30234472.pt,1,to the left of,direct,Yes,,broccoli,skis
+redcaps,phrase_30234472.pt,2,to the left of,direct,Yes,,book,sports ball
+redcaps,phrase_30234472.pt,3,to the left of,direct,Yes,,bench,cow
+redcaps,phrase_30234472.pt,4,to the left of,direct,No,,computer keyboard,skateboard
+redcaps,phrase_30234472.pt,5,to the left of,direct,Yes,,toilet,potted plant
+redcaps,phrase_30234472.pt,6,to the left of,direct,No,,oven,vase
+redcaps,phrase_30234472.pt,7,to the left of,direct,No.,,bed,book
+redcaps,phrase_30234472.pt,8,to the left of,direct,Yes,,cell phone,bear
+redcaps,phrase_30234472.pt,9,to the left of,direct,Yes,,sports ball,refrigerator
+redcaps,phrase_30234472.pt,10,to the left of,direct,No.,,baseball bat,dog
+redcaps,phrase_30234472.pt,11,to the left of,direct,No.,,orange,traffic light
+redcaps,phrase_30234472.pt,12,to the left of,direct,Yes,,teddy bear,orange
+redcaps,phrase_30234472.pt,13,to the left of,direct,Yes,,skis,tennis racket
+redcaps,phrase_30234472.pt,14,to the left of,direct,No.,,zebra,bicycle
+redcaps,phrase_30234472.pt,15,to the left of,direct,Yes,,sheep,computer mouse
+redcaps,phrase_30234472.pt,16,to the left of,direct,No,,cell phone,orange
+redcaps,phrase_30234472.pt,17,to the left of,direct,No,,knife,umbrella
+redcaps,phrase_30234472.pt,18,to the left of,direct,No.,,motorcycle,carrot
+redcaps,phrase_30234472.pt,19,to the left of,direct,No.,,traffic light,horse
+redcaps,phrase_30234472.pt,20,to the left of,direct,Yes,,surfboard,tv
+redcaps,phrase_30234472.pt,21,to the left of,direct,Yes,,carrot,truck
+redcaps,phrase_30234472.pt,22,to the left of,direct,Yes,,giraffe,fire hydrant
+redcaps,phrase_30234472.pt,23,to the left of,direct,Yes.,,elephant,toaster
+redcaps,phrase_30234472.pt,24,to the left of,direct,No.,,bowl,dog
+redcaps,phrase_30234472.pt,25,to the left of,direct,Yes,,bench,motorcycle
+redcaps,phrase_30234472.pt,26,to the left of,direct,Yes,,frisbee,handbag
+redcaps,phrase_30234472.pt,27,to the left of,direct,Yes,,skis,cat
+redcaps,phrase_30234472.pt,28,to the left of,direct,Yes,,surfboard,spoon
+redcaps,phrase_30234472.pt,29,to the left of,direct,Yes.,,bicycle,bus
+redcaps,phrase_30234472.pt,30,to the left of,direct,No,,car,laptop
+redcaps,phrase_30234472.pt,31,to the left of,direct,No,,frisbee,cat
+redcaps,phrase_30234472.pt,32,to the left of,direct,Yes,,skis,motorcycle
+redcaps,phrase_30234472.pt,33,to the left of,direct,Yes,,toilet,cat
+redcaps,phrase_30234472.pt,34,to the left of,direct,Yes.,,snowboard,boat
+redcaps,phrase_30234472.pt,35,to the left of,direct,Yes.,,broccoli,bird
+redcaps,phrase_30234472.pt,36,to the left of,direct,No.,,scissors,airplane
+redcaps,phrase_30234472.pt,37,to the left of,direct,Yes,,bowl,banana
+redcaps,phrase_30234472.pt,38,to the left of,direct,Yes,,baseball glove,bicycle
+redcaps,phrase_30234472.pt,39,to the left of,direct,No,,microwave,skis
+redcaps,phrase_30234472.pt,40,to the left of,direct,Yes,,banana,stop sign
+redcaps,phrase_30234472.pt,41,to the left of,direct,No,,oven,snowboard
+redcaps,phrase_30234472.pt,42,to the left of,direct,Yes,,giraffe,tie
+redcaps,phrase_30234472.pt,43,to the left of,direct,Yes.,,parking meter,toilet
+redcaps,phrase_30234472.pt,44,to the left of,direct,No.,,banana,fork
+redcaps,phrase_30234472.pt,45,to the left of,direct,Yes,,laptop,broccoli
+redcaps,phrase_30234472.pt,46,to the left of,direct,No,,orange,toothbrush
+redcaps,phrase_30234472.pt,47,to the left of,direct,Yes.,,baseball bat,boat
+redcaps,phrase_30234472.pt,48,to the left of,direct,No.,,snowboard,skateboard
+redcaps,phrase_30234472.pt,49,to the left of,direct,Yes,,book,dog
+redcaps,phrase_30234472.pt,50,to the left of,direct,Yes,,chair,pizza
+redcaps,phrase_30234472.pt,51,to the left of,direct,No,,suitcase,train
+redcaps,phrase_30234472.pt,52,to the left of,direct,Yes,,refrigerator,sports ball
+redcaps,phrase_30234472.pt,53,to the left of,direct,Yes,,baseball bat,sandwich
+redcaps,phrase_30234472.pt,54,to the left of,direct,Yes,,potted plant,fork
+redcaps,phrase_30234472.pt,55,to the left of,direct,Yes,,clock,cow
+redcaps,phrase_30234472.pt,56,to the left of,direct,Yes.,,skateboard,motorcycle
+redcaps,phrase_30234472.pt,57,to the left of,direct,Yes,,orange,bottle
+redcaps,phrase_30234472.pt,58,to the left of,direct,No,,backpack,wine glass
+redcaps,phrase_30234472.pt,59,to the left of,direct,Yes,,surfboard,handbag
+redcaps,phrase_30234472.pt,60,to the left of,direct,No.,,frisbee,broccoli
+redcaps,phrase_30234472.pt,61,to the left of,direct,Yes,,cell phone,dog
+redcaps,phrase_30234472.pt,62,to the left of,direct,Yes,,chair,tennis racket
+redcaps,phrase_30234472.pt,63,to the left of,direct,No.,,couch,tv remote
+redcaps,phrase_30234472.pt,64,to the left of,direct,No,,donut,knife
+redcaps,phrase_30234472.pt,65,to the left of,direct,Yes,,tv remote,laptop
+redcaps,phrase_30234472.pt,66,to the left of,direct,No.,,traffic light,pizza
+redcaps,phrase_30234472.pt,67,to the left of,direct,No,,motorcycle,cat
+redcaps,phrase_30234472.pt,68,to the left of,direct,Yes,,snowboard,bottle
+redcaps,phrase_30234472.pt,69,to the left of,direct,Yes,,chair,umbrella
+redcaps,phrase_30234472.pt,70,to the left of,direct,Yes,,fork,hot dog
+redcaps,phrase_30234472.pt,71,to the left of,direct,Yes,,clock,skateboard
+redcaps,phrase_30234472.pt,72,to the left of,direct,Yes,,potted plant,tv
+redcaps,phrase_30234472.pt,73,to the left of,direct,No,,laptop,computer keyboard
+redcaps,phrase_30234472.pt,74,to the left of,direct,Yes,,broccoli,dog
+redcaps,phrase_30234472.pt,75,to the left of,direct,Yes,,tv,traffic light
+redcaps,phrase_30234472.pt,76,to the left of,direct,Yes.,,cell phone,parking meter
+redcaps,phrase_30234472.pt,77,to the left of,direct,No,,fork,snowboard
+redcaps,phrase_30234472.pt,78,to the left of,direct,Yes,,cow,carrot
+redcaps,phrase_30234472.pt,79,to the left of,direct,Yes,,truck,bus
+redcaps,phrase_30234472.pt,80,to the left of,direct,No,,toaster,fire hydrant
+redcaps,phrase_30234472.pt,81,to the left of,direct,Yes,,bear,pizza
+redcaps,phrase_30234472.pt,82,to the left of,direct,No,,pizza,frisbee
+redcaps,phrase_30234472.pt,83,to the left of,direct,No.,,oven,donut
+redcaps,phrase_30234472.pt,84,to the left of,direct,Yes.,,refrigerator,motorcycle
+redcaps,phrase_30234472.pt,85,to the left of,direct,No,,book,tie
+redcaps,phrase_30234472.pt,86,to the left of,direct,Yes,,hair drier,parking meter
+redcaps,phrase_30234472.pt,87,to the left of,direct,Yes,,tv,truck
+redcaps,phrase_30234472.pt,88,to the left of,direct,Yes,,teddy bear,microwave
+redcaps,phrase_30234472.pt,89,to the left of,direct,Yes,,clock,giraffe
+redcaps,phrase_30234472.pt,90,to the left of,direct,No,,person,refrigerator
+redcaps,phrase_30234472.pt,91,to the left of,direct,No.,,tv,cow
+redcaps,phrase_30234472.pt,92,to the left of,direct,No,,microwave,cow
+redcaps,phrase_30234472.pt,93,to the left of,direct,Yes,,fire hydrant,tv remote
+redcaps,phrase_30234472.pt,94,to the left of,direct,No,,donut,clock
+redcaps,phrase_30234472.pt,95,to the left of,direct,Yes,,baseball glove,sandwich
+redcaps,phrase_30234472.pt,96,to the left of,direct,Yes,,hair drier,computer mouse
+redcaps,phrase_30234472.pt,97,to the left of,direct,Yes.,,skateboard,bear
+redcaps,phrase_30234472.pt,98,to the left of,direct,Yes,,refrigerator,orange
+redcaps,phrase_30234472.pt,99,to the left of,direct,Yes,,clock,dining table

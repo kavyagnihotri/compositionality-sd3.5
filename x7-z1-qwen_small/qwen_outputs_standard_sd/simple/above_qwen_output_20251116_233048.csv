@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_83840957.pt,1,giraffe,hair drier,above,Does this figure show 'a giraffe above a hair drier'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,2,broccoli,skis,above,Does this figure show 'a broccoli above a skis'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,3,book,sports ball,above,Does this figure show 'a book above a sports ball'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,4,bench,cow,above,Does this figure show 'a bench above a cow'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,5,computer keyboard,skateboard,above,Does this figure show 'a computer keyboard above a skateboard'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,6,toilet,potted plant,above,Does this figure show 'a toilet above a potted plant'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,7,oven,vase,above,Does this figure show 'a oven above a vase'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,8,bed,book,above,Does this figure show 'a bed above a book'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,9,cell phone,bear,above,Does this figure show 'a cell phone above a bear'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,10,sports ball,refrigerator,above,Does this figure show 'a sports ball above a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,11,baseball bat,dog,above,Does this figure show 'a baseball bat above a dog'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,12,orange,traffic light,above,Does this figure show 'a orange above a traffic light'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,13,teddy bear,orange,above,Does this figure show 'a teddy bear above a orange'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,14,skis,tennis racket,above,Does this figure show 'a skis above a tennis racket'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,15,zebra,bicycle,above,Does this figure show 'a zebra above a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,16,sheep,computer mouse,above,Does this figure show 'a sheep above a computer mouse'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,17,cell phone,orange,above,Does this figure show 'a cell phone above a orange'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,18,knife,umbrella,above,Does this figure show 'a knife above a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,19,motorcycle,carrot,above,Does this figure show 'a motorcycle above a carrot'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,20,traffic light,horse,above,Does this figure show 'a traffic light above a horse'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,21,surfboard,tv,above,Does this figure show 'a surfboard above a tv'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,22,carrot,truck,above,Does this figure show 'a carrot above a truck'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,23,giraffe,fire hydrant,above,Does this figure show 'a giraffe above a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,24,elephant,toaster,above,Does this figure show 'a elephant above a toaster'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,25,bowl,dog,above,Does this figure show 'a bowl above a dog'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,26,bench,motorcycle,above,Does this figure show 'a bench above a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,27,frisbee,handbag,above,Does this figure show 'a frisbee above a handbag'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,28,skis,cat,above,Does this figure show 'a skis above a cat'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,29,surfboard,spoon,above,Does this figure show 'a surfboard above a spoon'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,30,bicycle,bus,above,Does this figure show 'a bicycle above a bus'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,31,car,laptop,above,Does this figure show 'a car above a laptop'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,32,frisbee,cat,above,Does this figure show 'a frisbee above a cat'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,33,skis,motorcycle,above,Does this figure show 'a skis above a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,34,toilet,cat,above,Does this figure show 'a toilet above a cat'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,35,snowboard,boat,above,Does this figure show 'a snowboard above a boat'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,36,broccoli,bird,above,Does this figure show 'a broccoli above a bird'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,37,scissors,airplane,above,Does this figure show 'a scissors above a airplane'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,38,bowl,banana,above,Does this figure show 'a bowl above a banana'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,39,baseball glove,bicycle,above,Does this figure show 'a baseball glove above a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,40,microwave,skis,above,Does this figure show 'a microwave above a skis'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,41,banana,stop sign,above,Does this figure show 'a banana above a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,42,oven,snowboard,above,Does this figure show 'a oven above a snowboard'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,43,giraffe,tie,above,Does this figure show 'a giraffe above a tie'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,44,parking meter,toilet,above,Does this figure show 'a parking meter above a toilet'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,45,banana,fork,above,Does this figure show 'a banana above a fork'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,46,laptop,broccoli,above,Does this figure show 'a laptop above a broccoli'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,47,orange,toothbrush,above,Does this figure show 'a orange above a toothbrush'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,48,baseball bat,boat,above,Does this figure show 'a baseball bat above a boat'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,49,snowboard,skateboard,above,Does this figure show 'a snowboard above a skateboard'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,50,book,dog,above,Does this figure show 'a book above a dog'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,51,chair,pizza,above,Does this figure show 'a chair above a pizza'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,52,suitcase,train,above,Does this figure show 'a suitcase above a train'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,53,refrigerator,sports ball,above,Does this figure show 'a refrigerator above a sports ball'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,54,baseball bat,sandwich,above,Does this figure show 'a baseball bat above a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,55,potted plant,fork,above,Does this figure show 'a potted plant above a fork'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,56,clock,cow,above,Does this figure show 'a clock above a cow'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,57,skateboard,motorcycle,above,Does this figure show 'a skateboard above a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,58,orange,bottle,above,Does this figure show 'a orange above a bottle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,59,backpack,wine glass,above,Does this figure show 'a backpack above a wine glass'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,60,surfboard,handbag,above,Does this figure show 'a surfboard above a handbag'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,61,frisbee,broccoli,above,Does this figure show 'a frisbee above a broccoli'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,62,cell phone,dog,above,Does this figure show 'a cell phone above a dog'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,63,chair,tennis racket,above,Does this figure show 'a chair above a tennis racket'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,64,couch,tv remote,above,Does this figure show 'a couch above a tv remote'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,65,donut,knife,above,Does this figure show 'a donut above a knife'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,66,tv remote,laptop,above,Does this figure show 'a tv remote above a laptop'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,67,traffic light,pizza,above,Does this figure show 'a traffic light above a pizza'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,68,motorcycle,cat,above,Does this figure show 'a motorcycle above a cat'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,69,snowboard,bottle,above,Does this figure show 'a snowboard above a bottle'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,70,chair,umbrella,above,Does this figure show 'a chair above a umbrella'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,71,fork,hot dog,above,Does this figure show 'a fork above a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,72,clock,skateboard,above,Does this figure show 'a clock above a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,73,potted plant,tv,above,Does this figure show 'a potted plant above a tv'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,74,laptop,computer keyboard,above,Does this figure show 'a laptop above a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,75,broccoli,dog,above,Does this figure show 'a broccoli above a dog'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,76,tv,traffic light,above,Does this figure show 'a tv above a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,77,cell phone,parking meter,above,Does this figure show 'a cell phone above a parking meter'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,78,fork,snowboard,above,Does this figure show 'a fork above a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,79,cow,carrot,above,Does this figure show 'a cow above a carrot'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,80,truck,bus,above,Does this figure show 'a truck above a bus'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,81,toaster,fire hydrant,above,Does this figure show 'a toaster above a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,82,bear,pizza,above,Does this figure show 'a bear above a pizza'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,83,pizza,frisbee,above,Does this figure show 'a pizza above a frisbee'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,84,oven,donut,above,Does this figure show 'a oven above a donut'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,85,refrigerator,motorcycle,above,Does this figure show 'a refrigerator above a motorcycle'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,86,book,tie,above,Does this figure show 'a book above a tie'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,87,hair drier,parking meter,above,Does this figure show 'a hair drier above a parking meter'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,88,tv,truck,above,Does this figure show 'a tv above a truck'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,89,teddy bear,microwave,above,Does this figure show 'a teddy bear above a microwave'? Please answer yes or no.,Yes.,YES
+phrase_83840957.pt,90,clock,giraffe,above,Does this figure show 'a clock above a giraffe'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,91,person,refrigerator,above,Does this figure show 'a person above a refrigerator'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,92,tv,cow,above,Does this figure show 'a tv above a cow'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,93,microwave,cow,above,Does this figure show 'a microwave above a cow'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,94,fire hydrant,tv remote,above,Does this figure show 'a fire hydrant above a tv remote'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,95,donut,clock,above,Does this figure show 'a donut above a clock'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,96,baseball glove,sandwich,above,Does this figure show 'a baseball glove above a sandwich'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,97,hair drier,computer mouse,above,Does this figure show 'a hair drier above a computer mouse'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,98,skateboard,bear,above,Does this figure show 'a skateboard above a bear'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,99,refrigerator,orange,above,Does this figure show 'a refrigerator above a orange'? Please answer yes or no.,No.,NO
+phrase_83840957.pt,100,clock,dining table,above,Does this figure show 'a clock above a dining table'? Please answer yes or no.,Yes.,YES

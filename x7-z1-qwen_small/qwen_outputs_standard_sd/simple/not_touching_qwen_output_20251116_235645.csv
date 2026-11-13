@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_31985809.pt,0,giraffe,hair drier,not touching,Does this figure show 'a giraffe not touching a hair drier'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,1,broccoli,skis,not touching,Does this figure show 'a broccoli not touching a skis'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,2,book,sports ball,not touching,Does this figure show 'a book not touching a sports ball'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,3,bench,cow,not touching,Does this figure show 'a bench not touching a cow'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,4,computer keyboard,skateboard,not touching,Does this figure show 'a computer keyboard not touching a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,5,toilet,potted plant,not touching,Does this figure show 'a toilet not touching a potted plant'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,6,oven,vase,not touching,Does this figure show 'a oven not touching a vase'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,7,bed,book,not touching,Does this figure show 'a bed not touching a book'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,8,cell phone,bear,not touching,Does this figure show 'a cell phone not touching a bear'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,9,sports ball,refrigerator,not touching,Does this figure show 'a sports ball not touching a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,10,baseball bat,dog,not touching,Does this figure show 'a baseball bat not touching a dog'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,11,orange,traffic light,not touching,Does this figure show 'a orange not touching a traffic light'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,12,teddy bear,orange,not touching,Does this figure show 'a teddy bear not touching a orange'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,13,skis,tennis racket,not touching,Does this figure show 'a skis not touching a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,14,zebra,bicycle,not touching,Does this figure show 'a zebra not touching a bicycle'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,15,sheep,computer mouse,not touching,Does this figure show 'a sheep not touching a computer mouse'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,16,cell phone,orange,not touching,Does this figure show 'a cell phone not touching a orange'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,17,knife,umbrella,not touching,Does this figure show 'a knife not touching a umbrella'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,18,motorcycle,carrot,not touching,Does this figure show 'a motorcycle not touching a carrot'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,19,traffic light,horse,not touching,Does this figure show 'a traffic light not touching a horse'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,20,surfboard,tv,not touching,Does this figure show 'a surfboard not touching a tv'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,21,carrot,truck,not touching,Does this figure show 'a carrot not touching a truck'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,22,giraffe,fire hydrant,not touching,Does this figure show 'a giraffe not touching a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,23,elephant,toaster,not touching,Does this figure show 'a elephant not touching a toaster'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,24,bowl,dog,not touching,Does this figure show 'a bowl not touching a dog'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,25,bench,motorcycle,not touching,Does this figure show 'a bench not touching a motorcycle'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,26,frisbee,handbag,not touching,Does this figure show 'a frisbee not touching a handbag'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,27,skis,cat,not touching,Does this figure show 'a skis not touching a cat'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,28,surfboard,spoon,not touching,Does this figure show 'a surfboard not touching a spoon'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,29,bicycle,bus,not touching,Does this figure show 'a bicycle not touching a bus'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,30,car,laptop,not touching,Does this figure show 'a car not touching a laptop'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,31,frisbee,cat,not touching,Does this figure show 'a frisbee not touching a cat'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,32,skis,motorcycle,not touching,Does this figure show 'a skis not touching a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,33,toilet,cat,not touching,Does this figure show 'a toilet not touching a cat'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,34,snowboard,boat,not touching,Does this figure show 'a snowboard not touching a boat'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,35,broccoli,bird,not touching,Does this figure show 'a broccoli not touching a bird'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,36,scissors,airplane,not touching,Does this figure show 'a scissors not touching a airplane'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,37,bowl,banana,not touching,Does this figure show 'a bowl not touching a banana'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,38,baseball glove,bicycle,not touching,Does this figure show 'a baseball glove not touching a bicycle'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,39,microwave,skis,not touching,Does this figure show 'a microwave not touching a skis'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,40,banana,stop sign,not touching,Does this figure show 'a banana not touching a stop sign'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,41,oven,snowboard,not touching,Does this figure show 'a oven not touching a snowboard'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,42,giraffe,tie,not touching,Does this figure show 'a giraffe not touching a tie'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,43,parking meter,toilet,not touching,Does this figure show 'a parking meter not touching a toilet'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,44,banana,fork,not touching,Does this figure show 'a banana not touching a fork'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,45,laptop,broccoli,not touching,Does this figure show 'a laptop not touching a broccoli'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,46,orange,toothbrush,not touching,Does this figure show 'a orange not touching a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,47,baseball bat,boat,not touching,Does this figure show 'a baseball bat not touching a boat'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,48,snowboard,skateboard,not touching,Does this figure show 'a snowboard not touching a skateboard'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,49,book,dog,not touching,Does this figure show 'a book not touching a dog'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,50,chair,pizza,not touching,Does this figure show 'a chair not touching a pizza'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,51,suitcase,train,not touching,Does this figure show 'a suitcase not touching a train'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,52,refrigerator,sports ball,not touching,Does this figure show 'a refrigerator not touching a sports ball'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,53,baseball bat,sandwich,not touching,Does this figure show 'a baseball bat not touching a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,54,potted plant,fork,not touching,Does this figure show 'a potted plant not touching a fork'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,55,clock,cow,not touching,Does this figure show 'a clock not touching a cow'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,56,skateboard,motorcycle,not touching,Does this figure show 'a skateboard not touching a motorcycle'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,57,orange,bottle,not touching,Does this figure show 'a orange not touching a bottle'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,58,backpack,wine glass,not touching,Does this figure show 'a backpack not touching a wine glass'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,59,surfboard,handbag,not touching,Does this figure show 'a surfboard not touching a handbag'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,60,frisbee,broccoli,not touching,Does this figure show 'a frisbee not touching a broccoli'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,61,cell phone,dog,not touching,Does this figure show 'a cell phone not touching a dog'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,62,chair,tennis racket,not touching,Does this figure show 'a chair not touching a tennis racket'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,63,couch,tv remote,not touching,Does this figure show 'a couch not touching a tv remote'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,64,donut,knife,not touching,Does this figure show 'a donut not touching a knife'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,65,tv remote,laptop,not touching,Does this figure show 'a tv remote not touching a laptop'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,66,traffic light,pizza,not touching,Does this figure show 'a traffic light not touching a pizza'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,67,motorcycle,cat,not touching,Does this figure show 'a motorcycle not touching a cat'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,68,snowboard,bottle,not touching,Does this figure show 'a snowboard not touching a bottle'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,69,chair,umbrella,not touching,Does this figure show 'a chair not touching a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,70,fork,hot dog,not touching,Does this figure show 'a fork not touching a hot dog'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,71,clock,skateboard,not touching,Does this figure show 'a clock not touching a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,72,potted plant,tv,not touching,Does this figure show 'a potted plant not touching a tv'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,73,laptop,computer keyboard,not touching,Does this figure show 'a laptop not touching a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,74,broccoli,dog,not touching,Does this figure show 'a broccoli not touching a dog'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,75,tv,traffic light,not touching,Does this figure show 'a tv not touching a traffic light'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,76,cell phone,parking meter,not touching,Does this figure show 'a cell phone not touching a parking meter'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,77,fork,snowboard,not touching,Does this figure show 'a fork not touching a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,78,cow,carrot,not touching,Does this figure show 'a cow not touching a carrot'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,79,truck,bus,not touching,Does this figure show 'a truck not touching a bus'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,80,toaster,fire hydrant,not touching,Does this figure show 'a toaster not touching a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,81,bear,pizza,not touching,Does this figure show 'a bear not touching a pizza'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,82,pizza,frisbee,not touching,Does this figure show 'a pizza not touching a frisbee'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,83,oven,donut,not touching,Does this figure show 'a oven not touching a donut'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,84,refrigerator,motorcycle,not touching,Does this figure show 'a refrigerator not touching a motorcycle'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,85,book,tie,not touching,Does this figure show 'a book not touching a tie'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,86,hair drier,parking meter,not touching,Does this figure show 'a hair drier not touching a parking meter'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,87,tv,truck,not touching,Does this figure show 'a tv not touching a truck'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,88,teddy bear,microwave,not touching,Does this figure show 'a teddy bear not touching a microwave'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,89,clock,giraffe,not touching,Does this figure show 'a clock not touching a giraffe'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,90,person,refrigerator,not touching,Does this figure show 'a person not touching a refrigerator'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,91,tv,cow,not touching,Does this figure show 'a tv not touching a cow'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,92,microwave,cow,not touching,Does this figure show 'a microwave not touching a cow'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,93,fire hydrant,tv remote,not touching,Does this figure show 'a fire hydrant not touching a tv remote'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,94,donut,clock,not touching,Does this figure show 'a donut not touching a clock'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,95,baseball glove,sandwich,not touching,Does this figure show 'a baseball glove not touching a sandwich'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,96,hair drier,computer mouse,not touching,Does this figure show 'a hair drier not touching a computer mouse'? Please answer yes or no.,Yes.,YES
+phrase_31985809.pt,97,skateboard,bear,not touching,Does this figure show 'a skateboard not touching a bear'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,98,refrigerator,orange,not touching,Does this figure show 'a refrigerator not touching a orange'? Please answer yes or no.,No.,NO
+phrase_31985809.pt,99,clock,dining table,not touching,Does this figure show 'a clock not touching a dining table'? Please answer yes or no.,No.,NO

@@ -1,0 +1,151 @@
+category,prompt_type,prompt_text,tensor_path,image_index,model
+swap_object,negative_caption,A painting of a sunflower with a vase on a table.,tensors/sd15/swap_object/negative_caption/006.pt,6,sd15
+swap_object,negative_caption,"A cat sits on the plant, and swats at its hind legs.",tensors/sd15/swap_object/negative_caption/000.pt,0,sd15
+swap_object,negative_caption,A person holding a game controller with a person looking on.,tensors/sd15/swap_object/negative_caption/008.pt,8,sd15
+swap_object,negative_caption,Two people on a motorcycle are waving at a person.,tensors/sd15/swap_object/negative_caption/001.pt,1,sd15
+swap_object,negative_caption,Men wash a motorcycle while girls look on.,tensors/sd15/swap_object/negative_caption/003.pt,3,sd15
+swap_object,negative_caption,A sailboat is riding the waves as a surfer surfs in the background.,tensors/sd15/swap_object/negative_caption/004.pt,4,sd15
+swap_object,negative_caption,A small horse eating hay while three large horses stand behind.,tensors/sd15/swap_object/negative_caption/005.pt,5,sd15
+swap_object,negative_caption,A person prepares a pizza while a person watches.,tensors/sd15/swap_object/negative_caption/002.pt,2,sd15
+swap_object,negative_caption,A child with a ball facing a person with a racquet.,tensors/sd15/swap_object/negative_caption/009.pt,9,sd15
+swap_object,negative_caption,A storage tub with several vegetable toppings sitting on a pizza.,tensors/sd15/swap_object/negative_caption/007.pt,7,sd15
+swap_object,caption,A painting of a vase with a sunflower on a table.,tensors/sd15/swap_object/caption/006.pt,6,sd15
+swap_object,caption,"A cat sits on its hind legs, and swats at the plant.",tensors/sd15/swap_object/caption/000.pt,0,sd15
+swap_object,caption,A person holding a game controller with a person looking on.,tensors/sd15/swap_object/caption/008.pt,8,sd15
+swap_object,caption,A person on a motorcycle is waving at two people.,tensors/sd15/swap_object/caption/001.pt,1,sd15
+swap_object,caption,Girls wash a motorcycle while men look on.,tensors/sd15/swap_object/caption/003.pt,3,sd15
+swap_object,caption,A surfer is riding the waves as a sailboat sails in the background.,tensors/sd15/swap_object/caption/004.pt,4,sd15
+swap_object,caption,Three large horses eating hay while a small horse stands behind.,tensors/sd15/swap_object/caption/005.pt,5,sd15
+swap_object,caption,A person prepares a pizza while a person watches.,tensors/sd15/swap_object/caption/002.pt,2,sd15
+swap_object,caption,A person with a ball facing a child with a racquet.,tensors/sd15/swap_object/caption/009.pt,9,sd15
+swap_object,caption,A pizza with several vegetable toppings sitting on a storage tub.,tensors/sd15/swap_object/caption/007.pt,7,sd15
+swap_object,caption2,A vase containing a sunflower is positioned on a table in a painting.,tensors/sd15/swap_object/caption2/006.pt,6,sd15
+swap_object,caption2,The cat swats at the plant while sitting on its hind legs.,tensors/sd15/swap_object/caption2/000.pt,0,sd15
+swap_object,caption2,A person is looking on while another person holds a game controller.,tensors/sd15/swap_object/caption2/008.pt,8,sd15
+swap_object,caption2,A person is waving at two other people while being on a motorcycle.,tensors/sd15/swap_object/caption2/001.pt,1,sd15
+swap_object,caption2,The motorcycle is being washed by girls while men observe.,tensors/sd15/swap_object/caption2/003.pt,3,sd15
+swap_object,caption2,A sailboat is sailing in the background while a surfer is riding the waves.,tensors/sd15/swap_object/caption2/004.pt,4,sd15
+swap_object,caption2,a small horse stands behind three large horses that are eating hay.,tensors/sd15/swap_object/caption2/005.pt,5,sd15
+swap_object,caption2,A person watches as another person is preparing a pizza.,tensors/sd15/swap_object/caption2/002.pt,2,sd15
+swap_object,caption2,A person holding a ball is standing in front of a child holding a racquet.,tensors/sd15/swap_object/caption2/009.pt,9,sd15
+swap_object,caption2,A pizza topped with various vegetable is placed on top of a storage tub.,tensors/sd15/swap_object/caption2/007.pt,7,sd15
+replace_attribute,negative_caption,A yellow stop sign with a green street sign posted above it.,tensors/sd15/replace_attribute/negative_caption/006.pt,6,sd15
+replace_attribute,negative_caption,A white toilet and sink combination in a small room.,tensors/sd15/replace_attribute/negative_caption/000.pt,0,sd15
+replace_attribute,negative_caption,Someone is cooking meat-filled stir fry in a skillet.,tensors/sd15/replace_attribute/negative_caption/008.pt,8,sd15
+replace_attribute,negative_caption,"Frisbee in the air, a dog squatting looking up at it, and a person sitting behind the dog watching it, on the grass with a tree.",tensors/sd15/replace_attribute/negative_caption/001.pt,1,sd15
+replace_attribute,negative_caption,A child kneeling in front of a closed refrigerator and looking in at an empty lower shelf.,tensors/sd15/replace_attribute/negative_caption/003.pt,3,sd15
+replace_attribute,negative_caption,A person leaning up against a plastic rail while holding a rainbow colored umbrella.,tensors/sd15/replace_attribute/negative_caption/004.pt,4,sd15
+replace_attribute,negative_caption,A group of children sitting in front of a blanket.,tensors/sd15/replace_attribute/negative_caption/005.pt,5,sd15
+replace_attribute,negative_caption,A person holding up a vanilla doughnut with a face drawn on it.,tensors/sd15/replace_attribute/negative_caption/002.pt,2,sd15
+replace_attribute,negative_caption,A Halloween ornament is a donut with a squirrel on it.,tensors/sd15/replace_attribute/negative_caption/009.pt,9,sd15
+replace_attribute,negative_caption,A kid standing with a big suitcase on a street.,tensors/sd15/replace_attribute/negative_caption/007.pt,7,sd15
+replace_attribute,caption,A red stop sign with a green street sign posted above it.,tensors/sd15/replace_attribute/caption/006.pt,6,sd15
+replace_attribute,caption,A tan toilet and sink combination in a small room.,tensors/sd15/replace_attribute/caption/000.pt,0,sd15
+replace_attribute,caption,Someone is cooking vegetarian stir fry in a skillet.,tensors/sd15/replace_attribute/caption/008.pt,8,sd15
+replace_attribute,caption,"Frisbee in the air, a dog squatting looking up at it, and a person standing behind the dog watching it, on the grass with a tree.",tensors/sd15/replace_attribute/caption/001.pt,1,sd15
+replace_attribute,caption,A child kneeling in front of an open refrigerator and looking in at an empty lower shelf.,tensors/sd15/replace_attribute/caption/003.pt,3,sd15
+replace_attribute,caption,A person leaning up against a metal rail while holding a rainbow colored umbrella.,tensors/sd15/replace_attribute/caption/004.pt,4,sd15
+replace_attribute,caption,A couple of children sitting in front of a blanket.,tensors/sd15/replace_attribute/caption/005.pt,5,sd15
+replace_attribute,caption,A person holding up a chocolate doughnut with a face drawn on it.,tensors/sd15/replace_attribute/caption/002.pt,2,sd15
+replace_attribute,caption,A Christmas ornament is a donut with a squirrel on it.,tensors/sd15/replace_attribute/caption/009.pt,9,sd15
+replace_attribute,caption,A kid standing with a small suitcase on a street.,tensors/sd15/replace_attribute/caption/007.pt,7,sd15
+replace_attribute,caption2,A green street sign is positioned above a red stop sign.,tensors/sd15/replace_attribute/caption2/006.pt,6,sd15
+replace_attribute,caption2,A small room with a tan toilet and sink combination positioned in close proximity to one another.,tensors/sd15/replace_attribute/caption2/000.pt,0,sd15
+replace_attribute,caption2,Someone is stir-frying vegetables in a skillet.,tensors/sd15/replace_attribute/caption2/008.pt,8,sd15
+replace_attribute,caption2,"The Frisbee is in the air, with a dog squatting and looking up at it, and a person standing behind the dog, observing it, on the grass with a tree.",tensors/sd15/replace_attribute/caption2/001.pt,1,sd15
+replace_attribute,caption2,A child is positioned in front of an open refrigerator and is looking into the empty lower shelf.,tensors/sd15/replace_attribute/caption2/003.pt,3,sd15
+replace_attribute,caption2,A person is positioned against a metal rail while holding a rainbow-colored umbrella.,tensors/sd15/replace_attribute/caption2/004.pt,4,sd15
+replace_attribute,caption2,A blanket is behind a couple of children.,tensors/sd15/replace_attribute/caption2/005.pt,5,sd15
+replace_attribute,caption2,A chocolate doughnut with a face drawn on it is being held up by a person.,tensors/sd15/replace_attribute/caption2/002.pt,2,sd15
+replace_attribute,caption2,A squirrel is on a donut that is shaped like a Christmas ornament.,tensors/sd15/replace_attribute/caption2/009.pt,9,sd15
+replace_attribute,caption2,A small suitcase is positioned alongside a kid standing on a street.,tensors/sd15/replace_attribute/caption2/007.pt,7,sd15
+swap_atribute,negative_caption,a blue building with a brick sign on it is next to a metal pole.,tensors/sd15/swap_atribute/negative_caption/006.pt,6,sd15
+swap_atribute,negative_caption,White bathroom with two blue towels hanging by the shower.,tensors/sd15/swap_atribute/negative_caption/000.pt,0,sd15
+swap_atribute,negative_caption,A person in a yellow shirt rides a red surfboard on light blue water.,tensors/sd15/swap_atribute/negative_caption/008.pt,8,sd15
+swap_atribute,negative_caption,Two baby cows get milk from their mother while another cow stands nearby.,tensors/sd15/swap_atribute/negative_caption/001.pt,1,sd15
+swap_atribute,negative_caption,Several apples and one orange sit in a bowl.,tensors/sd15/swap_atribute/negative_caption/003.pt,3,sd15
+swap_atribute,negative_caption,An orange vase with a blue floral pattern sits in front of a map.,tensors/sd15/swap_atribute/negative_caption/004.pt,4,sd15
+swap_atribute,negative_caption,A person with a knife cutting a red cake.,tensors/sd15/swap_atribute/negative_caption/005.pt,5,sd15
+swap_atribute,negative_caption,A giraffe and two zebras are standing in a field.,tensors/sd15/swap_atribute/negative_caption/002.pt,2,sd15
+swap_atribute,negative_caption,A yellow train with a white front running on rails.,tensors/sd15/swap_atribute/negative_caption/009.pt,9,sd15
+swap_atribute,negative_caption,A bunch of elephants standing next to a large tree.,tensors/sd15/swap_atribute/negative_caption/007.pt,7,sd15
+swap_atribute,caption,a brick building with a blue sign on it is next to a metal pole.,tensors/sd15/swap_atribute/caption/006.pt,6,sd15
+swap_atribute,caption,Blue bathroom with two white towels hanging by the shower.,tensors/sd15/swap_atribute/caption/000.pt,0,sd15
+swap_atribute,caption,A person in a red shirt rides a yellow surfboard on light blue water.,tensors/sd15/swap_atribute/caption/008.pt,8,sd15
+swap_atribute,caption,A baby cow gets milk from its mother while two other cows stand nearby.,tensors/sd15/swap_atribute/caption/001.pt,1,sd15
+swap_atribute,caption,One apple and several oranges sit in a bowl.,tensors/sd15/swap_atribute/caption/003.pt,3,sd15
+swap_atribute,caption,A blue vase with an orange floral patters sits in front of a map.,tensors/sd15/swap_atribute/caption/004.pt,4,sd15
+swap_atribute,caption,A person in a red dress cutting a cake with a knife.,tensors/sd15/swap_atribute/caption/005.pt,5,sd15
+swap_atribute,caption,Two giraffe and a zebra are standing in a field.,tensors/sd15/swap_atribute/caption/002.pt,2,sd15
+swap_atribute,caption,A white train with a yellow front running on rails.,tensors/sd15/swap_atribute/caption/009.pt,9,sd15
+swap_atribute,caption,A large elephant standing next to a bunch of trees.,tensors/sd15/swap_atribute/caption/007.pt,7,sd15
+swap_atribute,caption2,A metal pole is next to a brick building with a blue sign on it.,tensors/sd15/swap_atribute/caption2/006.pt,6,sd15
+swap_atribute,caption2,The bathroom is blue and has two white towels hanging by the shower.,tensors/sd15/swap_atribute/caption2/000.pt,0,sd15
+swap_atribute,caption2,The person wearing a red shirt rides a yellow surfboard on light blue water.,tensors/sd15/swap_atribute/caption2/008.pt,8,sd15
+swap_atribute,caption2,A mother cow gives milk to the baby cow while two other cows stand nearby.,tensors/sd15/swap_atribute/caption2/001.pt,1,sd15
+swap_atribute,caption2,several oranges and an apple are positioned in a bowl.,tensors/sd15/swap_atribute/caption2/003.pt,3,sd15
+swap_atribute,caption2,A map is positioned behind a blue vase with an orange floral pattern.,tensors/sd15/swap_atribute/caption2/004.pt,4,sd15
+swap_atribute,caption2,A person wearing red dress is cutting a cake with a knife.,tensors/sd15/swap_atribute/caption2/005.pt,5,sd15
+swap_atribute,caption2,"In a field, two giraffes and a zebra are standing.",tensors/sd15/swap_atribute/caption2/002.pt,2,sd15
+swap_atribute,caption2,A train with a yellow front and white body runs on rails.,tensors/sd15/swap_atribute/caption2/009.pt,9,sd15
+swap_atribute,caption2,A large elephant is positioned next to a group of trees.,tensors/sd15/swap_atribute/caption2/007.pt,7,sd15
+replace_object,negative_caption,A young man throwing a blue frisbee while standing on a lush green field.,tensors/sd15/replace_object/negative_caption/006.pt,6,sd15
+replace_object,negative_caption,"Several toy animals - a bull, giraffe, snake and parakeet.",tensors/sd15/replace_object/negative_caption/000.pt,0,sd15
+replace_object,negative_caption,A lady wearing a scarf and blue jeans.,tensors/sd15/replace_object/negative_caption/008.pt,8,sd15
+replace_object,negative_caption,A brown and black dog laying on top of a bag of luggage.,tensors/sd15/replace_object/negative_caption/001.pt,1,sd15
+replace_object,negative_caption,A man taking a bite of a doughnut while wearing a hat.,tensors/sd15/replace_object/negative_caption/003.pt,3,sd15
+replace_object,negative_caption,A sandwich with a swirl of sauce on top.,tensors/sd15/replace_object/negative_caption/004.pt,4,sd15
+replace_object,negative_caption,A little girl sitting down with her blanket and a toy.,tensors/sd15/replace_object/negative_caption/005.pt,5,sd15
+replace_object,negative_caption,A woman in a blue coat skiing through a snowy field.,tensors/sd15/replace_object/negative_caption/002.pt,2,sd15
+replace_object,negative_caption,A cat stands on a counter drinking water out of a glass.,tensors/sd15/replace_object/negative_caption/009.pt,9,sd15
+replace_object,negative_caption,A woman wearing shorts bends over a wok on a stove.,tensors/sd15/replace_object/negative_caption/007.pt,7,sd15
+replace_object,caption,A young lady throwing a blue frisbee while standing on a lush green field.,tensors/sd15/replace_object/caption/006.pt,6,sd15
+replace_object,caption,"Several toy animals - a bull, giraffe, deer and parakeet.",tensors/sd15/replace_object/caption/000.pt,0,sd15
+replace_object,caption,A lady wearing a pink shoe and blue jeans.,tensors/sd15/replace_object/caption/008.pt,8,sd15
+replace_object,caption,An orange and white cat laying on top of a bag of luggage.,tensors/sd15/replace_object/caption/001.pt,1,sd15
+replace_object,caption,A man taking a bite of a doughnut while wearing glasses.,tensors/sd15/replace_object/caption/003.pt,3,sd15
+replace_object,caption,A slice of pizza with a swirl of sauce on top.,tensors/sd15/replace_object/caption/004.pt,4,sd15
+replace_object,caption,A little boy sitting down with his blanket and a toy.,tensors/sd15/replace_object/caption/005.pt,5,sd15
+replace_object,caption,A man in a blue coat skiing through a snowy field. ,tensors/sd15/replace_object/caption/002.pt,2,sd15
+replace_object,caption,a cat stands on a table drinking water out of a glass ,tensors/sd15/replace_object/caption/009.pt,9,sd15
+replace_object,caption,A woman wearing shorts bends over a frying pan on a stove.,tensors/sd15/replace_object/caption/007.pt,7,sd15
+replace_object,caption2,A young lady is standing on a lush green field while throwing a blue frisbee.,tensors/sd15/replace_object/caption2/006.pt,6,sd15
+replace_object,caption2,"There are several toy animals, including a bull, deer, giraffe, and parakeet.",tensors/sd15/replace_object/caption2/000.pt,0,sd15
+replace_object,caption2,A lady is wearing blue jeans and a pink shoe.,tensors/sd15/replace_object/caption2/008.pt,8,sd15
+replace_object,caption2,The  white cat and an orange are positioned on top of a bag of luggage.,tensors/sd15/replace_object/caption2/001.pt,1,sd15
+replace_object,caption2,A man wearing glasses is taking a bite of a doughnut.,tensors/sd15/replace_object/caption2/003.pt,3,sd15
+replace_object,caption2,A pizza slice topped with a swirl of sauce,tensors/sd15/replace_object/caption2/004.pt,4,sd15
+replace_object,caption2,A small kid with his blanket and a toy is sitting down.,tensors/sd15/replace_object/caption2/005.pt,5,sd15
+replace_object,caption2,A man wearing blue coat is skiing through a field covered with snow.,tensors/sd15/replace_object/caption2/002.pt,2,sd15
+replace_object,caption2,a cat drinking water out of a glass while standing on a table.,tensors/sd15/replace_object/caption2/009.pt,9,sd15
+replace_object,caption2,The woman bends over the frying pan on a stove while wearing shorts.,tensors/sd15/replace_object/caption2/007.pt,7,sd15
+replace_relation,negative_caption,A tall vase with red and white tulips next to a bowl of water.,tensors/sd15/replace_relation/negative_caption/006.pt,6,sd15
+replace_relation,negative_caption,A white with red striped bus is stuck in the slow lane on a freeway surrounded by several other cars.,tensors/sd15/replace_relation/negative_caption/000.pt,0,sd15
+replace_relation,negative_caption,A baseball player fielding a baseball on a field.,tensors/sd15/replace_relation/negative_caption/008.pt,8,sd15
+replace_relation,negative_caption,A picture of an animal is behind a pole and next to it is a yellow taxi.,tensors/sd15/replace_relation/negative_caption/001.pt,1,sd15
+replace_relation,negative_caption,A zebra is running across an open field.,tensors/sd15/replace_relation/negative_caption/003.pt,3,sd15
+replace_relation,negative_caption,A guy riding a skate board is speaking into a microphone.,tensors/sd15/replace_relation/negative_caption/004.pt,4,sd15
+replace_relation,negative_caption,A child laying on top of a couch under a pink blanket.,tensors/sd15/replace_relation/negative_caption/005.pt,5,sd15
+replace_relation,negative_caption,There are women that are laughing next to the umbrella.,tensors/sd15/replace_relation/negative_caption/002.pt,2,sd15
+replace_relation,negative_caption,A pizza covered in lots of greens next to a table.,tensors/sd15/replace_relation/negative_caption/009.pt,9,sd15
+replace_relation,negative_caption,Several people sitting at a train station while a train arrives.,tensors/sd15/replace_relation/negative_caption/007.pt,7,sd15
+replace_relation,caption,A tall vase with red and white tulips in water.,tensors/sd15/replace_relation/caption/006.pt,6,sd15
+replace_relation,caption,A white with red striped bus drives down the slow lane on a freeway surrounded by several other cars.,tensors/sd15/replace_relation/caption/000.pt,0,sd15
+replace_relation,caption,A baseball player pitching a baseball on a field.,tensors/sd15/replace_relation/caption/008.pt,8,sd15
+replace_relation,caption,A picture of an animal is on a pole and next to it is a yellow taxi.,tensors/sd15/replace_relation/caption/001.pt,1,sd15
+replace_relation,caption,A zebra is standing in an open field.,tensors/sd15/replace_relation/caption/003.pt,3,sd15
+replace_relation,caption,A guy holding a skate board is speaking into a microphone.,tensors/sd15/replace_relation/caption/004.pt,4,sd15
+replace_relation,caption,A child sitting on top of a couch under a pink blanket.,tensors/sd15/replace_relation/caption/005.pt,5,sd15
+replace_relation,caption,THERE ARE WOMEN THAT ARE LAUGHING UNDER THE UMBRELLA,tensors/sd15/replace_relation/caption/002.pt,2,sd15
+replace_relation,caption,A pizza covered in lots of greens on top of a table.,tensors/sd15/replace_relation/caption/009.pt,9,sd15
+replace_relation,caption,Several people standing at a train station while a train arrives.,tensors/sd15/replace_relation/caption/007.pt,7,sd15
+replace_relation,caption2,"A tall vase contains red and white tulips, submerged in water.",tensors/sd15/replace_relation/caption2/006.pt,6,sd15
+replace_relation,caption2,A white bus with red stripes drives in the slow lane on the freeway surrounded by various other cars.,tensors/sd15/replace_relation/caption2/000.pt,0,sd15
+replace_relation,caption2,"On a field, a baseball player is pitching a baseball.",tensors/sd15/replace_relation/caption2/008.pt,8,sd15
+replace_relation,caption2,Next to the pole with the picture of an animal is a yellow taxi.,tensors/sd15/replace_relation/caption2/001.pt,1,sd15
+replace_relation,caption2,"On an open field, stands a zebra.",tensors/sd15/replace_relation/caption2/003.pt,3,sd15
+replace_relation,caption2,The microphone is positioned in front of the guy who is holding a skateboard.,tensors/sd15/replace_relation/caption2/004.pt,4,sd15
+replace_relation,caption2,"A child sits on a couch, a pink blanket spread over him.",tensors/sd15/replace_relation/caption2/005.pt,5,sd15
+replace_relation,caption2,The women are laughing under the umbrella.,tensors/sd15/replace_relation/caption2/002.pt,2,sd15
+replace_relation,caption2,A table has a pizza on top of it covered in lots of greens.,tensors/sd15/replace_relation/caption2/009.pt,9,sd15
+replace_relation,caption2,Several individuals are positioned at a train station as a train arrives.,tensors/sd15/replace_relation/caption2/007.pt,7,sd15

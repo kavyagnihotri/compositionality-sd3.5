@@ -1,0 +1,12 @@
+SD1.5 Within-category similarity: 0.551
+SD1.5 Between-category similarity: 0.554
+SDXL Within-category similarity: 0.557
+SDXL Between-category similarity: 0.552
+
+Same subtype pairs:
+SD1.5 avg similarity: nan
+SDXL avg similarity: nan
+
+Different subtype (same category) pairs:
+SD1.5 avg similarity: 0.551
+SDXL avg similarity: 0.557

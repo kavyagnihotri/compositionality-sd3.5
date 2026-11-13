@@ -1,0 +1,101 @@
+tensor_file,tensor_index,prompt,class1,category,phrase,class2
+phrase_9617317.pt,0,a photo of a giraffe on top of a hair drier,giraffe,simple_positional,on top of,hair drier
+phrase_9617317.pt,1,a photo of a broccoli on top of a skis,broccoli,simple_positional,on top of,skis
+phrase_9617317.pt,2,a photo of a book on top of a sports ball,book,simple_positional,on top of,sports ball
+phrase_9617317.pt,3,a photo of a bench on top of a cow,bench,simple_positional,on top of,cow
+phrase_9617317.pt,4,a photo of a computer keyboard on top of a skateboard,computer keyboard,simple_positional,on top of,skateboard
+phrase_9617317.pt,5,a photo of a toilet on top of a potted plant,toilet,simple_positional,on top of,potted plant
+phrase_9617317.pt,6,a photo of a oven on top of a vase,oven,simple_positional,on top of,vase
+phrase_9617317.pt,7,a photo of a bed on top of a book,bed,simple_positional,on top of,book
+phrase_9617317.pt,8,a photo of a cell phone on top of a bear,cell phone,simple_positional,on top of,bear
+phrase_9617317.pt,9,a photo of a sports ball on top of a refrigerator,sports ball,simple_positional,on top of,refrigerator
+phrase_9617317.pt,10,a photo of a baseball bat on top of a dog,baseball bat,simple_positional,on top of,dog
+phrase_9617317.pt,11,a photo of a orange on top of a traffic light,orange,simple_positional,on top of,traffic light
+phrase_9617317.pt,12,a photo of a teddy bear on top of a orange,teddy bear,simple_positional,on top of,orange
+phrase_9617317.pt,13,a photo of a skis on top of a tennis racket,skis,simple_positional,on top of,tennis racket
+phrase_9617317.pt,14,a photo of a zebra on top of a bicycle,zebra,simple_positional,on top of,bicycle
+phrase_9617317.pt,15,a photo of a sheep on top of a computer mouse,sheep,simple_positional,on top of,computer mouse
+phrase_9617317.pt,16,a photo of a cell phone on top of a orange,cell phone,simple_positional,on top of,orange
+phrase_9617317.pt,17,a photo of a knife on top of a umbrella,knife,simple_positional,on top of,umbrella
+phrase_9617317.pt,18,a photo of a motorcycle on top of a carrot,motorcycle,simple_positional,on top of,carrot
+phrase_9617317.pt,19,a photo of a traffic light on top of a horse,traffic light,simple_positional,on top of,horse
+phrase_9617317.pt,20,a photo of a surfboard on top of a tv,surfboard,simple_positional,on top of,tv
+phrase_9617317.pt,21,a photo of a carrot on top of a truck,carrot,simple_positional,on top of,truck
+phrase_9617317.pt,22,a photo of a giraffe on top of a fire hydrant,giraffe,simple_positional,on top of,fire hydrant
+phrase_9617317.pt,23,a photo of a elephant on top of a toaster,elephant,simple_positional,on top of,toaster
+phrase_9617317.pt,24,a photo of a bowl on top of a dog,bowl,simple_positional,on top of,dog
+phrase_9617317.pt,25,a photo of a bench on top of a motorcycle,bench,simple_positional,on top of,motorcycle
+phrase_9617317.pt,26,a photo of a frisbee on top of a handbag,frisbee,simple_positional,on top of,handbag
+phrase_9617317.pt,27,a photo of a skis on top of a cat,skis,simple_positional,on top of,cat
+phrase_9617317.pt,28,a photo of a surfboard on top of a spoon,surfboard,simple_positional,on top of,spoon
+phrase_9617317.pt,29,a photo of a bicycle on top of a bus,bicycle,simple_positional,on top of,bus
+phrase_9617317.pt,30,a photo of a car on top of a laptop,car,simple_positional,on top of,laptop
+phrase_9617317.pt,31,a photo of a frisbee on top of a cat,frisbee,simple_positional,on top of,cat
+phrase_9617317.pt,32,a photo of a skis on top of a motorcycle,skis,simple_positional,on top of,motorcycle
+phrase_9617317.pt,33,a photo of a toilet on top of a cat,toilet,simple_positional,on top of,cat
+phrase_9617317.pt,34,a photo of a snowboard on top of a boat,snowboard,simple_positional,on top of,boat
+phrase_9617317.pt,35,a photo of a broccoli on top of a bird,broccoli,simple_positional,on top of,bird
+phrase_9617317.pt,36,a photo of a scissors on top of a airplane,scissors,simple_positional,on top of,airplane
+phrase_9617317.pt,37,a photo of a bowl on top of a banana,bowl,simple_positional,on top of,banana
+phrase_9617317.pt,38,a photo of a baseball glove on top of a bicycle,baseball glove,simple_positional,on top of,bicycle
+phrase_9617317.pt,39,a photo of a microwave on top of a skis,microwave,simple_positional,on top of,skis
+phrase_9617317.pt,40,a photo of a banana on top of a stop sign,banana,simple_positional,on top of,stop sign
+phrase_9617317.pt,41,a photo of a oven on top of a snowboard,oven,simple_positional,on top of,snowboard
+phrase_9617317.pt,42,a photo of a giraffe on top of a tie,giraffe,simple_positional,on top of,tie
+phrase_9617317.pt,43,a photo of a parking meter on top of a toilet,parking meter,simple_positional,on top of,toilet
+phrase_9617317.pt,44,a photo of a banana on top of a fork,banana,simple_positional,on top of,fork
+phrase_9617317.pt,45,a photo of a laptop on top of a broccoli,laptop,simple_positional,on top of,broccoli
+phrase_9617317.pt,46,a photo of a orange on top of a toothbrush,orange,simple_positional,on top of,toothbrush
+phrase_9617317.pt,47,a photo of a baseball bat on top of a boat,baseball bat,simple_positional,on top of,boat
+phrase_9617317.pt,48,a photo of a snowboard on top of a skateboard,snowboard,simple_positional,on top of,skateboard
+phrase_9617317.pt,49,a photo of a book on top of a dog,book,simple_positional,on top of,dog
+phrase_9617317.pt,50,a photo of a chair on top of a pizza,chair,simple_positional,on top of,pizza
+phrase_9617317.pt,51,a photo of a suitcase on top of a train,suitcase,simple_positional,on top of,train
+phrase_9617317.pt,52,a photo of a refrigerator on top of a sports ball,refrigerator,simple_positional,on top of,sports ball
+phrase_9617317.pt,53,a photo of a baseball bat on top of a sandwich,baseball bat,simple_positional,on top of,sandwich
+phrase_9617317.pt,54,a photo of a potted plant on top of a fork,potted plant,simple_positional,on top of,fork
+phrase_9617317.pt,55,a photo of a clock on top of a cow,clock,simple_positional,on top of,cow
+phrase_9617317.pt,56,a photo of a skateboard on top of a motorcycle,skateboard,simple_positional,on top of,motorcycle
+phrase_9617317.pt,57,a photo of a orange on top of a bottle,orange,simple_positional,on top of,bottle
+phrase_9617317.pt,58,a photo of a backpack on top of a wine glass,backpack,simple_positional,on top of,wine glass
+phrase_9617317.pt,59,a photo of a surfboard on top of a handbag,surfboard,simple_positional,on top of,handbag
+phrase_9617317.pt,60,a photo of a frisbee on top of a broccoli,frisbee,simple_positional,on top of,broccoli
+phrase_9617317.pt,61,a photo of a cell phone on top of a dog,cell phone,simple_positional,on top of,dog
+phrase_9617317.pt,62,a photo of a chair on top of a tennis racket,chair,simple_positional,on top of,tennis racket
+phrase_9617317.pt,63,a photo of a couch on top of a tv remote,couch,simple_positional,on top of,tv remote
+phrase_9617317.pt,64,a photo of a donut on top of a knife,donut,simple_positional,on top of,knife
+phrase_9617317.pt,65,a photo of a tv remote on top of a laptop,tv remote,simple_positional,on top of,laptop
+phrase_9617317.pt,66,a photo of a traffic light on top of a pizza,traffic light,simple_positional,on top of,pizza
+phrase_9617317.pt,67,a photo of a motorcycle on top of a cat,motorcycle,simple_positional,on top of,cat
+phrase_9617317.pt,68,a photo of a snowboard on top of a bottle,snowboard,simple_positional,on top of,bottle
+phrase_9617317.pt,69,a photo of a chair on top of a umbrella,chair,simple_positional,on top of,umbrella
+phrase_9617317.pt,70,a photo of a fork on top of a hot dog,fork,simple_positional,on top of,hot dog
+phrase_9617317.pt,71,a photo of a clock on top of a skateboard,clock,simple_positional,on top of,skateboard
+phrase_9617317.pt,72,a photo of a potted plant on top of a tv,potted plant,simple_positional,on top of,tv
+phrase_9617317.pt,73,a photo of a laptop on top of a computer keyboard,laptop,simple_positional,on top of,computer keyboard
+phrase_9617317.pt,74,a photo of a broccoli on top of a dog,broccoli,simple_positional,on top of,dog
+phrase_9617317.pt,75,a photo of a tv on top of a traffic light,tv,simple_positional,on top of,traffic light
+phrase_9617317.pt,76,a photo of a cell phone on top of a parking meter,cell phone,simple_positional,on top of,parking meter
+phrase_9617317.pt,77,a photo of a fork on top of a snowboard,fork,simple_positional,on top of,snowboard
+phrase_9617317.pt,78,a photo of a cow on top of a carrot,cow,simple_positional,on top of,carrot
+phrase_9617317.pt,79,a photo of a truck on top of a bus,truck,simple_positional,on top of,bus
+phrase_9617317.pt,80,a photo of a toaster on top of a fire hydrant,toaster,simple_positional,on top of,fire hydrant
+phrase_9617317.pt,81,a photo of a bear on top of a pizza,bear,simple_positional,on top of,pizza
+phrase_9617317.pt,82,a photo of a pizza on top of a frisbee,pizza,simple_positional,on top of,frisbee
+phrase_9617317.pt,83,a photo of a oven on top of a donut,oven,simple_positional,on top of,donut
+phrase_9617317.pt,84,a photo of a refrigerator on top of a motorcycle,refrigerator,simple_positional,on top of,motorcycle
+phrase_9617317.pt,85,a photo of a book on top of a tie,book,simple_positional,on top of,tie
+phrase_9617317.pt,86,a photo of a hair drier on top of a parking meter,hair drier,simple_positional,on top of,parking meter
+phrase_9617317.pt,87,a photo of a tv on top of a truck,tv,simple_positional,on top of,truck
+phrase_9617317.pt,88,a photo of a teddy bear on top of a microwave,teddy bear,simple_positional,on top of,microwave
+phrase_9617317.pt,89,a photo of a clock on top of a giraffe,clock,simple_positional,on top of,giraffe
+phrase_9617317.pt,90,a photo of a person on top of a refrigerator,person,simple_positional,on top of,refrigerator
+phrase_9617317.pt,91,a photo of a tv on top of a cow,tv,simple_positional,on top of,cow
+phrase_9617317.pt,92,a photo of a microwave on top of a cow,microwave,simple_positional,on top of,cow
+phrase_9617317.pt,93,a photo of a fire hydrant on top of a tv remote,fire hydrant,simple_positional,on top of,tv remote
+phrase_9617317.pt,94,a photo of a donut on top of a clock,donut,simple_positional,on top of,clock
+phrase_9617317.pt,95,a photo of a baseball glove on top of a sandwich,baseball glove,simple_positional,on top of,sandwich
+phrase_9617317.pt,96,a photo of a hair drier on top of a computer mouse,hair drier,simple_positional,on top of,computer mouse
+phrase_9617317.pt,97,a photo of a skateboard on top of a bear,skateboard,simple_positional,on top of,bear
+phrase_9617317.pt,98,a photo of a refrigerator on top of a orange,refrigerator,simple_positional,on top of,orange
+phrase_9617317.pt,99,a photo of a clock on top of a dining table,clock,simple_positional,on top of,dining table

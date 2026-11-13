@@ -1,0 +1,172 @@
+img_idx; prompt; problem
+
+3; A mirror reflecting only half of a person’s face.;
+    full face
+
+6; A mountain road lit by headlights at dusk.
+    ?
+
+12; A chef tossing pizza dough high into the air.
+    pizza is made
+    -> maybe not a problem, spurious feature
+
+16; A futuristic bus stop with holographic signs.
+    holograms
+
+19; A chessboard set up on a café table outdoors.
+    not a chessboard size
+
+21; A person sketching a skyline on a rooftop.
+    sketching not a skyline
+
+23; A lantern glowing inside a glass bottle.
+    no glass bottle
+
+28; A child drawing with chalk on a sidewalk.
+    not chalk
+
+35; A pair of glasses resting on an open newspaper.
+    newspaper+book?
+
+36; A dragonfly landing on the rim of a glass of water.
+    not the rim
+
+
+
+
+
+### sd35_output_20250909_173450
+- leaning doesn't have a problem 
+- "performer" shadow not there
+
+- not first person view
+    7; Hands playing a piano in the first person view of the player.
+    8; Feet walking across a crowded city path in the first person view.
+    9; Hands adjusting a telescope in the first person view.
+    12; Hands typing on an old typewriter in the first person view.
+    
+    10, 11; is first person view somehow
+
+-> "shaped like", individual objects
+    13; A moon shaped like a dolphin.
+    17; A cloud shaped like a violin.
+
+19; A dog looking from behind a couch.
+    same problem as before, dog is inside somehow?
+    but idx 23 is correct
+
+- "in the background", 
+    25; A beach with city in the background.
+    again in the side
+
+    27; A farmhouse with waterfall in the background.
+    waterfall is the front
+-> switch up the background first and then the next object
+    measure similarity
+    enocders
+
+
+31; A futuristic city at night with neon signs, flying ships in the sky, and nothing on the ground
+    still cars
+    maybe road is the trigger
+
+34; A neon jungle at midnight with hovering animals, holograms in the air, and no earth beneath.
+    animals on ground, no holograms
+
+
+-> "without", "no"
+
+### sd35_output_20250909_211822
+0; A cat curls up on the back of a worn sofa.
+    "on" the sofa
+
+1; A traveler glances back at the trail behind.
+    no glancing back
+
+2; A horse carries a lantern strapped to its back.
+    lantern on the face
+
+9; A child stands aboard a wooden ship.
+    floor is also wooden
+
+12; A fox hides behind a broken fence.
+    not hiding
+
+23; A clean floor reflects the light of the chandelier.
+    not a clear image
+
+24; Fireflies dance in a glass jar.
+    also butterflies
+
+
+
+
+
+### sd35_output_20250909_220646
+2; A puddle reflecting only half of the moon.
+    what is it
+
+5; A closed pizza box placed inside a fridge.
+    it's open
+
+8; Holograms of birds fly above a neon street.
+    sometimes it's a bit confused about holograms
+
+9, 10, 11;
+    never a correct chessboard 
+
+12; An artist sketching a train cabin.
+    train is outside
+
+13; A child sketching the corner of a classroom.
+    classroom
+
+- doesn't make mistakes with things kept on xyz
+- "rim" seems to be fine 
+
+28; A cloud shaped like a drying rack.
+    only a cloud
+
+29; A mountain shaped like a sleeping giant.
+    only a mountain
+
+31, 32, 33; beach with xyz in the background    
+    always in the side
+
+34, 35; abc with xyz in background
+    xyz with abc in background 
+
+- behind/peeking a couch correct for 37,38,39,40
+
+
+
+
+### sd35_output_20250909_222259
+- hides behind works for other things than dog
+
+4; A mirror reflects the edge of a candle flame.
+
+6; Moths circle inside a paper lantern.
+    butterfiles
+
+
+
+### sd35_output_20250909_224443
+- "reflecting only half of a"
+    0; A mirror reflecting only half of a candle flame.
+    1; A window reflecting only half of a mountain peak.
+    2; A glass reflecting only half of a painted face.
+    3; A lake reflecting only half of the sunrise.
+    4; A screen reflecting only half of a shadowy figure.
+
+8; A pizza place flyer floating on water.
+    pizza 
+
+
+
+
+### 
+2; A pair of shoes left next to a puddle.
+    it's fine, but puddle?
+
+7; A spider crawling under a glass jar.

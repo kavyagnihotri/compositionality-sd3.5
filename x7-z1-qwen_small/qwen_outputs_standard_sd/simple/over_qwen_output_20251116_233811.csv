@@ -1,0 +1,101 @@
+tensor_file,tensor_index,class1,class2,phrase,question,full_answer,answer
+phrase_38486703.pt,0,giraffe,hair drier,over,Does this figure show 'a giraffe over a hair drier'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,1,broccoli,skis,over,Does this figure show 'a broccoli over a skis'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,2,book,sports ball,over,Does this figure show 'a book over a sports ball'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,3,bench,cow,over,Does this figure show 'a bench over a cow'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,4,computer keyboard,skateboard,over,Does this figure show 'a computer keyboard over a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,5,toilet,potted plant,over,Does this figure show 'a toilet over a potted plant'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,6,oven,vase,over,Does this figure show 'a oven over a vase'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,7,bed,book,over,Does this figure show 'a bed over a book'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,8,cell phone,bear,over,Does this figure show 'a cell phone over a bear'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,9,sports ball,refrigerator,over,Does this figure show 'a sports ball over a refrigerator'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,10,baseball bat,dog,over,Does this figure show 'a baseball bat over a dog'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,11,orange,traffic light,over,Does this figure show 'a orange over a traffic light'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,12,teddy bear,orange,over,Does this figure show 'a teddy bear over a orange'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,13,skis,tennis racket,over,Does this figure show 'a skis over a tennis racket'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,14,zebra,bicycle,over,Does this figure show 'a zebra over a bicycle'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,15,sheep,computer mouse,over,Does this figure show 'a sheep over a computer mouse'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,16,cell phone,orange,over,Does this figure show 'a cell phone over a orange'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,17,knife,umbrella,over,Does this figure show 'a knife over a umbrella'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,18,motorcycle,carrot,over,Does this figure show 'a motorcycle over a carrot'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,19,traffic light,horse,over,Does this figure show 'a traffic light over a horse'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,20,surfboard,tv,over,Does this figure show 'a surfboard over a tv'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,21,carrot,truck,over,Does this figure show 'a carrot over a truck'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,22,giraffe,fire hydrant,over,Does this figure show 'a giraffe over a fire hydrant'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,23,elephant,toaster,over,Does this figure show 'a elephant over a toaster'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,24,bowl,dog,over,Does this figure show 'a bowl over a dog'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,25,bench,motorcycle,over,Does this figure show 'a bench over a motorcycle'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,26,frisbee,handbag,over,Does this figure show 'a frisbee over a handbag'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,27,skis,cat,over,Does this figure show 'a skis over a cat'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,28,surfboard,spoon,over,Does this figure show 'a surfboard over a spoon'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,29,bicycle,bus,over,Does this figure show 'a bicycle over a bus'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,30,car,laptop,over,Does this figure show 'a car over a laptop'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,31,frisbee,cat,over,Does this figure show 'a frisbee over a cat'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,32,skis,motorcycle,over,Does this figure show 'a skis over a motorcycle'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,33,toilet,cat,over,Does this figure show 'a toilet over a cat'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,34,snowboard,boat,over,Does this figure show 'a snowboard over a boat'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,35,broccoli,bird,over,Does this figure show 'a broccoli over a bird'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,36,scissors,airplane,over,Does this figure show 'a scissors over a airplane'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,37,bowl,banana,over,Does this figure show 'a bowl over a banana'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,38,baseball glove,bicycle,over,Does this figure show 'a baseball glove over a bicycle'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,39,microwave,skis,over,Does this figure show 'a microwave over a skis'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,40,banana,stop sign,over,Does this figure show 'a banana over a stop sign'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,41,oven,snowboard,over,Does this figure show 'a oven over a snowboard'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,42,giraffe,tie,over,Does this figure show 'a giraffe over a tie'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,43,parking meter,toilet,over,Does this figure show 'a parking meter over a toilet'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,44,banana,fork,over,Does this figure show 'a banana over a fork'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,45,laptop,broccoli,over,Does this figure show 'a laptop over a broccoli'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,46,orange,toothbrush,over,Does this figure show 'a orange over a toothbrush'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,47,baseball bat,boat,over,Does this figure show 'a baseball bat over a boat'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,48,snowboard,skateboard,over,Does this figure show 'a snowboard over a skateboard'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,49,book,dog,over,Does this figure show 'a book over a dog'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,50,chair,pizza,over,Does this figure show 'a chair over a pizza'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,51,suitcase,train,over,Does this figure show 'a suitcase over a train'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,52,refrigerator,sports ball,over,Does this figure show 'a refrigerator over a sports ball'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,53,baseball bat,sandwich,over,Does this figure show 'a baseball bat over a sandwich'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,54,potted plant,fork,over,Does this figure show 'a potted plant over a fork'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,55,clock,cow,over,Does this figure show 'a clock over a cow'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,56,skateboard,motorcycle,over,Does this figure show 'a skateboard over a motorcycle'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,57,orange,bottle,over,Does this figure show 'a orange over a bottle'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,58,backpack,wine glass,over,Does this figure show 'a backpack over a wine glass'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,59,surfboard,handbag,over,Does this figure show 'a surfboard over a handbag'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,60,frisbee,broccoli,over,Does this figure show 'a frisbee over a broccoli'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,61,cell phone,dog,over,Does this figure show 'a cell phone over a dog'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,62,chair,tennis racket,over,Does this figure show 'a chair over a tennis racket'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,63,couch,tv remote,over,Does this figure show 'a couch over a tv remote'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,64,donut,knife,over,Does this figure show 'a donut over a knife'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,65,tv remote,laptop,over,Does this figure show 'a tv remote over a laptop'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,66,traffic light,pizza,over,Does this figure show 'a traffic light over a pizza'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,67,motorcycle,cat,over,Does this figure show 'a motorcycle over a cat'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,68,snowboard,bottle,over,Does this figure show 'a snowboard over a bottle'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,69,chair,umbrella,over,Does this figure show 'a chair over a umbrella'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,70,fork,hot dog,over,Does this figure show 'a fork over a hot dog'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,71,clock,skateboard,over,Does this figure show 'a clock over a skateboard'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,72,potted plant,tv,over,Does this figure show 'a potted plant over a tv'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,73,laptop,computer keyboard,over,Does this figure show 'a laptop over a computer keyboard'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,74,broccoli,dog,over,Does this figure show 'a broccoli over a dog'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,75,tv,traffic light,over,Does this figure show 'a tv over a traffic light'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,76,cell phone,parking meter,over,Does this figure show 'a cell phone over a parking meter'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,77,fork,snowboard,over,Does this figure show 'a fork over a snowboard'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,78,cow,carrot,over,Does this figure show 'a cow over a carrot'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,79,truck,bus,over,Does this figure show 'a truck over a bus'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,80,toaster,fire hydrant,over,Does this figure show 'a toaster over a fire hydrant'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,81,bear,pizza,over,Does this figure show 'a bear over a pizza'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,82,pizza,frisbee,over,Does this figure show 'a pizza over a frisbee'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,83,oven,donut,over,Does this figure show 'a oven over a donut'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,84,refrigerator,motorcycle,over,Does this figure show 'a refrigerator over a motorcycle'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,85,book,tie,over,Does this figure show 'a book over a tie'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,86,hair drier,parking meter,over,Does this figure show 'a hair drier over a parking meter'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,87,tv,truck,over,Does this figure show 'a tv over a truck'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,88,teddy bear,microwave,over,Does this figure show 'a teddy bear over a microwave'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,89,clock,giraffe,over,Does this figure show 'a clock over a giraffe'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,90,person,refrigerator,over,Does this figure show 'a person over a refrigerator'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,91,tv,cow,over,Does this figure show 'a tv over a cow'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,92,microwave,cow,over,Does this figure show 'a microwave over a cow'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,93,fire hydrant,tv remote,over,Does this figure show 'a fire hydrant over a tv remote'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,94,donut,clock,over,Does this figure show 'a donut over a clock'? Please answer yes or no.,Yes.,YES
+phrase_38486703.pt,95,baseball glove,sandwich,over,Does this figure show 'a baseball glove over a sandwich'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,96,hair drier,computer mouse,over,Does this figure show 'a hair drier over a computer mouse'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,97,skateboard,bear,over,Does this figure show 'a skateboard over a bear'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,98,refrigerator,orange,over,Does this figure show 'a refrigerator over a orange'? Please answer yes or no.,No.,NO
+phrase_38486703.pt,99,clock,dining table,over,Does this figure show 'a clock over a dining table'? Please answer yes or no.,No.,NO

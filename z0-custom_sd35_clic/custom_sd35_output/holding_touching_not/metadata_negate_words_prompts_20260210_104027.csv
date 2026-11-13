@@ -1,0 +1,401 @@
+tensor_file,tensor_index,prompt,class1,class2,category,phrase
+phrase_76658777.pt,0,a photo of a giraffe holding a hair drier,giraffe,hair drier,negate_words,holding
+phrase_76658777.pt,1,a photo of a broccoli holding a skis,broccoli,skis,negate_words,holding
+phrase_76658777.pt,2,a photo of a book holding a sports ball,book,sports ball,negate_words,holding
+phrase_76658777.pt,3,a photo of a bench holding a cow,bench,cow,negate_words,holding
+phrase_76658777.pt,4,a photo of a computer keyboard holding a skateboard,computer keyboard,skateboard,negate_words,holding
+phrase_76658777.pt,5,a photo of a toilet holding a potted plant,toilet,potted plant,negate_words,holding
+phrase_76658777.pt,6,a photo of a oven holding a vase,oven,vase,negate_words,holding
+phrase_76658777.pt,7,a photo of a bed holding a book,bed,book,negate_words,holding
+phrase_76658777.pt,8,a photo of a cell phone holding a bear,cell phone,bear,negate_words,holding
+phrase_76658777.pt,9,a photo of a sports ball holding a refrigerator,sports ball,refrigerator,negate_words,holding
+phrase_76658777.pt,10,a photo of a baseball bat holding a dog,baseball bat,dog,negate_words,holding
+phrase_76658777.pt,11,a photo of a orange holding a traffic light,orange,traffic light,negate_words,holding
+phrase_76658777.pt,12,a photo of a teddy bear holding a orange,teddy bear,orange,negate_words,holding
+phrase_76658777.pt,13,a photo of a skis holding a tennis racket,skis,tennis racket,negate_words,holding
+phrase_76658777.pt,14,a photo of a zebra holding a bicycle,zebra,bicycle,negate_words,holding
+phrase_76658777.pt,15,a photo of a sheep holding a computer mouse,sheep,computer mouse,negate_words,holding
+phrase_76658777.pt,16,a photo of a cell phone holding a orange,cell phone,orange,negate_words,holding
+phrase_76658777.pt,17,a photo of a knife holding a umbrella,knife,umbrella,negate_words,holding
+phrase_76658777.pt,18,a photo of a motorcycle holding a carrot,motorcycle,carrot,negate_words,holding
+phrase_76658777.pt,19,a photo of a traffic light holding a horse,traffic light,horse,negate_words,holding
+phrase_76658777.pt,20,a photo of a surfboard holding a tv,surfboard,tv,negate_words,holding
+phrase_76658777.pt,21,a photo of a carrot holding a truck,carrot,truck,negate_words,holding
+phrase_76658777.pt,22,a photo of a giraffe holding a fire hydrant,giraffe,fire hydrant,negate_words,holding
+phrase_76658777.pt,23,a photo of a elephant holding a toaster,elephant,toaster,negate_words,holding
+phrase_76658777.pt,24,a photo of a bowl holding a dog,bowl,dog,negate_words,holding
+phrase_76658777.pt,25,a photo of a bench holding a motorcycle,bench,motorcycle,negate_words,holding
+phrase_76658777.pt,26,a photo of a frisbee holding a handbag,frisbee,handbag,negate_words,holding
+phrase_76658777.pt,27,a photo of a skis holding a cat,skis,cat,negate_words,holding
+phrase_76658777.pt,28,a photo of a surfboard holding a spoon,surfboard,spoon,negate_words,holding
+phrase_76658777.pt,29,a photo of a bicycle holding a bus,bicycle,bus,negate_words,holding
+phrase_76658777.pt,30,a photo of a car holding a laptop,car,laptop,negate_words,holding
+phrase_76658777.pt,31,a photo of a frisbee holding a cat,frisbee,cat,negate_words,holding
+phrase_76658777.pt,32,a photo of a skis holding a motorcycle,skis,motorcycle,negate_words,holding
+phrase_76658777.pt,33,a photo of a toilet holding a cat,toilet,cat,negate_words,holding
+phrase_76658777.pt,34,a photo of a snowboard holding a boat,snowboard,boat,negate_words,holding
+phrase_76658777.pt,35,a photo of a broccoli holding a bird,broccoli,bird,negate_words,holding
+phrase_76658777.pt,36,a photo of a scissors holding a airplane,scissors,airplane,negate_words,holding
+phrase_76658777.pt,37,a photo of a bowl holding a banana,bowl,banana,negate_words,holding
+phrase_76658777.pt,38,a photo of a baseball glove holding a bicycle,baseball glove,bicycle,negate_words,holding
+phrase_76658777.pt,39,a photo of a microwave holding a skis,microwave,skis,negate_words,holding
+phrase_76658777.pt,40,a photo of a banana holding a stop sign,banana,stop sign,negate_words,holding
+phrase_76658777.pt,41,a photo of a oven holding a snowboard,oven,snowboard,negate_words,holding
+phrase_76658777.pt,42,a photo of a giraffe holding a tie,giraffe,tie,negate_words,holding
+phrase_76658777.pt,43,a photo of a parking meter holding a toilet,parking meter,toilet,negate_words,holding
+phrase_76658777.pt,44,a photo of a banana holding a fork,banana,fork,negate_words,holding
+phrase_76658777.pt,45,a photo of a laptop holding a broccoli,laptop,broccoli,negate_words,holding
+phrase_76658777.pt,46,a photo of a orange holding a toothbrush,orange,toothbrush,negate_words,holding
+phrase_76658777.pt,47,a photo of a baseball bat holding a boat,baseball bat,boat,negate_words,holding
+phrase_76658777.pt,48,a photo of a snowboard holding a skateboard,snowboard,skateboard,negate_words,holding
+phrase_76658777.pt,49,a photo of a book holding a dog,book,dog,negate_words,holding
+phrase_76658777.pt,50,a photo of a chair holding a pizza,chair,pizza,negate_words,holding
+phrase_76658777.pt,51,a photo of a suitcase holding a train,suitcase,train,negate_words,holding
+phrase_76658777.pt,52,a photo of a refrigerator holding a sports ball,refrigerator,sports ball,negate_words,holding
+phrase_76658777.pt,53,a photo of a baseball bat holding a sandwich,baseball bat,sandwich,negate_words,holding
+phrase_76658777.pt,54,a photo of a potted plant holding a fork,potted plant,fork,negate_words,holding
+phrase_76658777.pt,55,a photo of a clock holding a cow,clock,cow,negate_words,holding
+phrase_76658777.pt,56,a photo of a skateboard holding a motorcycle,skateboard,motorcycle,negate_words,holding
+phrase_76658777.pt,57,a photo of a orange holding a bottle,orange,bottle,negate_words,holding
+phrase_76658777.pt,58,a photo of a backpack holding a wine glass,backpack,wine glass,negate_words,holding
+phrase_76658777.pt,59,a photo of a surfboard holding a handbag,surfboard,handbag,negate_words,holding
+phrase_76658777.pt,60,a photo of a frisbee holding a broccoli,frisbee,broccoli,negate_words,holding
+phrase_76658777.pt,61,a photo of a cell phone holding a dog,cell phone,dog,negate_words,holding
+phrase_76658777.pt,62,a photo of a chair holding a tennis racket,chair,tennis racket,negate_words,holding
+phrase_76658777.pt,63,a photo of a couch holding a tv remote,couch,tv remote,negate_words,holding
+phrase_76658777.pt,64,a photo of a donut holding a knife,donut,knife,negate_words,holding
+phrase_76658777.pt,65,a photo of a tv remote holding a laptop,tv remote,laptop,negate_words,holding
+phrase_76658777.pt,66,a photo of a traffic light holding a pizza,traffic light,pizza,negate_words,holding
+phrase_76658777.pt,67,a photo of a motorcycle holding a cat,motorcycle,cat,negate_words,holding
+phrase_76658777.pt,68,a photo of a snowboard holding a bottle,snowboard,bottle,negate_words,holding
+phrase_76658777.pt,69,a photo of a chair holding a umbrella,chair,umbrella,negate_words,holding
+phrase_76658777.pt,70,a photo of a fork holding a hot dog,fork,hot dog,negate_words,holding
+phrase_76658777.pt,71,a photo of a clock holding a skateboard,clock,skateboard,negate_words,holding
+phrase_76658777.pt,72,a photo of a potted plant holding a tv,potted plant,tv,negate_words,holding
+phrase_76658777.pt,73,a photo of a laptop holding a computer keyboard,laptop,computer keyboard,negate_words,holding
+phrase_76658777.pt,74,a photo of a broccoli holding a dog,broccoli,dog,negate_words,holding
+phrase_76658777.pt,75,a photo of a tv holding a traffic light,tv,traffic light,negate_words,holding
+phrase_76658777.pt,76,a photo of a cell phone holding a parking meter,cell phone,parking meter,negate_words,holding
+phrase_76658777.pt,77,a photo of a fork holding a snowboard,fork,snowboard,negate_words,holding
+phrase_76658777.pt,78,a photo of a cow holding a carrot,cow,carrot,negate_words,holding
+phrase_76658777.pt,79,a photo of a truck holding a bus,truck,bus,negate_words,holding
+phrase_76658777.pt,80,a photo of a toaster holding a fire hydrant,toaster,fire hydrant,negate_words,holding
+phrase_76658777.pt,81,a photo of a bear holding a pizza,bear,pizza,negate_words,holding
+phrase_76658777.pt,82,a photo of a pizza holding a frisbee,pizza,frisbee,negate_words,holding
+phrase_76658777.pt,83,a photo of a oven holding a donut,oven,donut,negate_words,holding
+phrase_76658777.pt,84,a photo of a refrigerator holding a motorcycle,refrigerator,motorcycle,negate_words,holding
+phrase_76658777.pt,85,a photo of a book holding a tie,book,tie,negate_words,holding
+phrase_76658777.pt,86,a photo of a hair drier holding a parking meter,hair drier,parking meter,negate_words,holding
+phrase_76658777.pt,87,a photo of a tv holding a truck,tv,truck,negate_words,holding
+phrase_76658777.pt,88,a photo of a teddy bear holding a microwave,teddy bear,microwave,negate_words,holding
+phrase_76658777.pt,89,a photo of a clock holding a giraffe,clock,giraffe,negate_words,holding
+phrase_76658777.pt,90,a photo of a person holding a refrigerator,person,refrigerator,negate_words,holding
+phrase_76658777.pt,91,a photo of a tv holding a cow,tv,cow,negate_words,holding
+phrase_76658777.pt,92,a photo of a microwave holding a cow,microwave,cow,negate_words,holding
+phrase_76658777.pt,93,a photo of a fire hydrant holding a tv remote,fire hydrant,tv remote,negate_words,holding
+phrase_76658777.pt,94,a photo of a donut holding a clock,donut,clock,negate_words,holding
+phrase_76658777.pt,95,a photo of a baseball glove holding a sandwich,baseball glove,sandwich,negate_words,holding
+phrase_76658777.pt,96,a photo of a hair drier holding a computer mouse,hair drier,computer mouse,negate_words,holding
+phrase_76658777.pt,97,a photo of a skateboard holding a bear,skateboard,bear,negate_words,holding
+phrase_76658777.pt,98,a photo of a refrigerator holding a orange,refrigerator,orange,negate_words,holding
+phrase_76658777.pt,99,a photo of a clock holding a dining table,clock,dining table,negate_words,holding
+phrase_52011864.pt,0,a photo of a giraffe touching a hair drier,giraffe,hair drier,negate_words,touching
+phrase_52011864.pt,1,a photo of a broccoli touching a skis,broccoli,skis,negate_words,touching
+phrase_52011864.pt,2,a photo of a book touching a sports ball,book,sports ball,negate_words,touching
+phrase_52011864.pt,3,a photo of a bench touching a cow,bench,cow,negate_words,touching
+phrase_52011864.pt,4,a photo of a computer keyboard touching a skateboard,computer keyboard,skateboard,negate_words,touching
+phrase_52011864.pt,5,a photo of a toilet touching a potted plant,toilet,potted plant,negate_words,touching
+phrase_52011864.pt,6,a photo of a oven touching a vase,oven,vase,negate_words,touching
+phrase_52011864.pt,7,a photo of a bed touching a book,bed,book,negate_words,touching
+phrase_52011864.pt,8,a photo of a cell phone touching a bear,cell phone,bear,negate_words,touching
+phrase_52011864.pt,9,a photo of a sports ball touching a refrigerator,sports ball,refrigerator,negate_words,touching
+phrase_52011864.pt,10,a photo of a baseball bat touching a dog,baseball bat,dog,negate_words,touching
+phrase_52011864.pt,11,a photo of a orange touching a traffic light,orange,traffic light,negate_words,touching
+phrase_52011864.pt,12,a photo of a teddy bear touching a orange,teddy bear,orange,negate_words,touching
+phrase_52011864.pt,13,a photo of a skis touching a tennis racket,skis,tennis racket,negate_words,touching
+phrase_52011864.pt,14,a photo of a zebra touching a bicycle,zebra,bicycle,negate_words,touching
+phrase_52011864.pt,15,a photo of a sheep touching a computer mouse,sheep,computer mouse,negate_words,touching
+phrase_52011864.pt,16,a photo of a cell phone touching a orange,cell phone,orange,negate_words,touching
+phrase_52011864.pt,17,a photo of a knife touching a umbrella,knife,umbrella,negate_words,touching
+phrase_52011864.pt,18,a photo of a motorcycle touching a carrot,motorcycle,carrot,negate_words,touching
+phrase_52011864.pt,19,a photo of a traffic light touching a horse,traffic light,horse,negate_words,touching
+phrase_52011864.pt,20,a photo of a surfboard touching a tv,surfboard,tv,negate_words,touching
+phrase_52011864.pt,21,a photo of a carrot touching a truck,carrot,truck,negate_words,touching
+phrase_52011864.pt,22,a photo of a giraffe touching a fire hydrant,giraffe,fire hydrant,negate_words,touching
+phrase_52011864.pt,23,a photo of a elephant touching a toaster,elephant,toaster,negate_words,touching
+phrase_52011864.pt,24,a photo of a bowl touching a dog,bowl,dog,negate_words,touching
+phrase_52011864.pt,25,a photo of a bench touching a motorcycle,bench,motorcycle,negate_words,touching
+phrase_52011864.pt,26,a photo of a frisbee touching a handbag,frisbee,handbag,negate_words,touching
+phrase_52011864.pt,27,a photo of a skis touching a cat,skis,cat,negate_words,touching
+phrase_52011864.pt,28,a photo of a surfboard touching a spoon,surfboard,spoon,negate_words,touching
+phrase_52011864.pt,29,a photo of a bicycle touching a bus,bicycle,bus,negate_words,touching
+phrase_52011864.pt,30,a photo of a car touching a laptop,car,laptop,negate_words,touching
+phrase_52011864.pt,31,a photo of a frisbee touching a cat,frisbee,cat,negate_words,touching
+phrase_52011864.pt,32,a photo of a skis touching a motorcycle,skis,motorcycle,negate_words,touching
+phrase_52011864.pt,33,a photo of a toilet touching a cat,toilet,cat,negate_words,touching
+phrase_52011864.pt,34,a photo of a snowboard touching a boat,snowboard,boat,negate_words,touching
+phrase_52011864.pt,35,a photo of a broccoli touching a bird,broccoli,bird,negate_words,touching
+phrase_52011864.pt,36,a photo of a scissors touching a airplane,scissors,airplane,negate_words,touching
+phrase_52011864.pt,37,a photo of a bowl touching a banana,bowl,banana,negate_words,touching
+phrase_52011864.pt,38,a photo of a baseball glove touching a bicycle,baseball glove,bicycle,negate_words,touching
+phrase_52011864.pt,39,a photo of a microwave touching a skis,microwave,skis,negate_words,touching
+phrase_52011864.pt,40,a photo of a banana touching a stop sign,banana,stop sign,negate_words,touching
+phrase_52011864.pt,41,a photo of a oven touching a snowboard,oven,snowboard,negate_words,touching
+phrase_52011864.pt,42,a photo of a giraffe touching a tie,giraffe,tie,negate_words,touching
+phrase_52011864.pt,43,a photo of a parking meter touching a toilet,parking meter,toilet,negate_words,touching
+phrase_52011864.pt,44,a photo of a banana touching a fork,banana,fork,negate_words,touching
+phrase_52011864.pt,45,a photo of a laptop touching a broccoli,laptop,broccoli,negate_words,touching
+phrase_52011864.pt,46,a photo of a orange touching a toothbrush,orange,toothbrush,negate_words,touching
+phrase_52011864.pt,47,a photo of a baseball bat touching a boat,baseball bat,boat,negate_words,touching
+phrase_52011864.pt,48,a photo of a snowboard touching a skateboard,snowboard,skateboard,negate_words,touching
+phrase_52011864.pt,49,a photo of a book touching a dog,book,dog,negate_words,touching
+phrase_52011864.pt,50,a photo of a chair touching a pizza,chair,pizza,negate_words,touching
+phrase_52011864.pt,51,a photo of a suitcase touching a train,suitcase,train,negate_words,touching
+phrase_52011864.pt,52,a photo of a refrigerator touching a sports ball,refrigerator,sports ball,negate_words,touching
+phrase_52011864.pt,53,a photo of a baseball bat touching a sandwich,baseball bat,sandwich,negate_words,touching
+phrase_52011864.pt,54,a photo of a potted plant touching a fork,potted plant,fork,negate_words,touching
+phrase_52011864.pt,55,a photo of a clock touching a cow,clock,cow,negate_words,touching
+phrase_52011864.pt,56,a photo of a skateboard touching a motorcycle,skateboard,motorcycle,negate_words,touching
+phrase_52011864.pt,57,a photo of a orange touching a bottle,orange,bottle,negate_words,touching
+phrase_52011864.pt,58,a photo of a backpack touching a wine glass,backpack,wine glass,negate_words,touching
+phrase_52011864.pt,59,a photo of a surfboard touching a handbag,surfboard,handbag,negate_words,touching
+phrase_52011864.pt,60,a photo of a frisbee touching a broccoli,frisbee,broccoli,negate_words,touching
+phrase_52011864.pt,61,a photo of a cell phone touching a dog,cell phone,dog,negate_words,touching
+phrase_52011864.pt,62,a photo of a chair touching a tennis racket,chair,tennis racket,negate_words,touching
+phrase_52011864.pt,63,a photo of a couch touching a tv remote,couch,tv remote,negate_words,touching
+phrase_52011864.pt,64,a photo of a donut touching a knife,donut,knife,negate_words,touching
+phrase_52011864.pt,65,a photo of a tv remote touching a laptop,tv remote,laptop,negate_words,touching
+phrase_52011864.pt,66,a photo of a traffic light touching a pizza,traffic light,pizza,negate_words,touching
+phrase_52011864.pt,67,a photo of a motorcycle touching a cat,motorcycle,cat,negate_words,touching
+phrase_52011864.pt,68,a photo of a snowboard touching a bottle,snowboard,bottle,negate_words,touching
+phrase_52011864.pt,69,a photo of a chair touching a umbrella,chair,umbrella,negate_words,touching
+phrase_52011864.pt,70,a photo of a fork touching a hot dog,fork,hot dog,negate_words,touching
+phrase_52011864.pt,71,a photo of a clock touching a skateboard,clock,skateboard,negate_words,touching
+phrase_52011864.pt,72,a photo of a potted plant touching a tv,potted plant,tv,negate_words,touching
+phrase_52011864.pt,73,a photo of a laptop touching a computer keyboard,laptop,computer keyboard,negate_words,touching
+phrase_52011864.pt,74,a photo of a broccoli touching a dog,broccoli,dog,negate_words,touching
+phrase_52011864.pt,75,a photo of a tv touching a traffic light,tv,traffic light,negate_words,touching
+phrase_52011864.pt,76,a photo of a cell phone touching a parking meter,cell phone,parking meter,negate_words,touching
+phrase_52011864.pt,77,a photo of a fork touching a snowboard,fork,snowboard,negate_words,touching
+phrase_52011864.pt,78,a photo of a cow touching a carrot,cow,carrot,negate_words,touching
+phrase_52011864.pt,79,a photo of a truck touching a bus,truck,bus,negate_words,touching
+phrase_52011864.pt,80,a photo of a toaster touching a fire hydrant,toaster,fire hydrant,negate_words,touching
+phrase_52011864.pt,81,a photo of a bear touching a pizza,bear,pizza,negate_words,touching
+phrase_52011864.pt,82,a photo of a pizza touching a frisbee,pizza,frisbee,negate_words,touching
+phrase_52011864.pt,83,a photo of a oven touching a donut,oven,donut,negate_words,touching
+phrase_52011864.pt,84,a photo of a refrigerator touching a motorcycle,refrigerator,motorcycle,negate_words,touching
+phrase_52011864.pt,85,a photo of a book touching a tie,book,tie,negate_words,touching
+phrase_52011864.pt,86,a photo of a hair drier touching a parking meter,hair drier,parking meter,negate_words,touching
+phrase_52011864.pt,87,a photo of a tv touching a truck,tv,truck,negate_words,touching
+phrase_52011864.pt,88,a photo of a teddy bear touching a microwave,teddy bear,microwave,negate_words,touching
+phrase_52011864.pt,89,a photo of a clock touching a giraffe,clock,giraffe,negate_words,touching
+phrase_52011864.pt,90,a photo of a person touching a refrigerator,person,refrigerator,negate_words,touching
+phrase_52011864.pt,91,a photo of a tv touching a cow,tv,cow,negate_words,touching
+phrase_52011864.pt,92,a photo of a microwave touching a cow,microwave,cow,negate_words,touching
+phrase_52011864.pt,93,a photo of a fire hydrant touching a tv remote,fire hydrant,tv remote,negate_words,touching
+phrase_52011864.pt,94,a photo of a donut touching a clock,donut,clock,negate_words,touching
+phrase_52011864.pt,95,a photo of a baseball glove touching a sandwich,baseball glove,sandwich,negate_words,touching
+phrase_52011864.pt,96,a photo of a hair drier touching a computer mouse,hair drier,computer mouse,negate_words,touching
+phrase_52011864.pt,97,a photo of a skateboard touching a bear,skateboard,bear,negate_words,touching
+phrase_52011864.pt,98,a photo of a refrigerator touching a orange,refrigerator,orange,negate_words,touching
+phrase_52011864.pt,99,a photo of a clock touching a dining table,clock,dining table,negate_words,touching
+phrase_57048123.pt,0,a photo of a giraffe not holding a hair drier,giraffe,hair drier,negate_words,not holding
+phrase_57048123.pt,1,a photo of a broccoli not holding a skis,broccoli,skis,negate_words,not holding
+phrase_57048123.pt,2,a photo of a book not holding a sports ball,book,sports ball,negate_words,not holding
+phrase_57048123.pt,3,a photo of a bench not holding a cow,bench,cow,negate_words,not holding
+phrase_57048123.pt,4,a photo of a computer keyboard not holding a skateboard,computer keyboard,skateboard,negate_words,not holding
+phrase_57048123.pt,5,a photo of a toilet not holding a potted plant,toilet,potted plant,negate_words,not holding
+phrase_57048123.pt,6,a photo of a oven not holding a vase,oven,vase,negate_words,not holding
+phrase_57048123.pt,7,a photo of a bed not holding a book,bed,book,negate_words,not holding
+phrase_57048123.pt,8,a photo of a cell phone not holding a bear,cell phone,bear,negate_words,not holding
+phrase_57048123.pt,9,a photo of a sports ball not holding a refrigerator,sports ball,refrigerator,negate_words,not holding
+phrase_57048123.pt,10,a photo of a baseball bat not holding a dog,baseball bat,dog,negate_words,not holding
+phrase_57048123.pt,11,a photo of a orange not holding a traffic light,orange,traffic light,negate_words,not holding
+phrase_57048123.pt,12,a photo of a teddy bear not holding a orange,teddy bear,orange,negate_words,not holding
+phrase_57048123.pt,13,a photo of a skis not holding a tennis racket,skis,tennis racket,negate_words,not holding
+phrase_57048123.pt,14,a photo of a zebra not holding a bicycle,zebra,bicycle,negate_words,not holding
+phrase_57048123.pt,15,a photo of a sheep not holding a computer mouse,sheep,computer mouse,negate_words,not holding
+phrase_57048123.pt,16,a photo of a cell phone not holding a orange,cell phone,orange,negate_words,not holding
+phrase_57048123.pt,17,a photo of a knife not holding a umbrella,knife,umbrella,negate_words,not holding
+phrase_57048123.pt,18,a photo of a motorcycle not holding a carrot,motorcycle,carrot,negate_words,not holding
+phrase_57048123.pt,19,a photo of a traffic light not holding a horse,traffic light,horse,negate_words,not holding
+phrase_57048123.pt,20,a photo of a surfboard not holding a tv,surfboard,tv,negate_words,not holding
+phrase_57048123.pt,21,a photo of a carrot not holding a truck,carrot,truck,negate_words,not holding
+phrase_57048123.pt,22,a photo of a giraffe not holding a fire hydrant,giraffe,fire hydrant,negate_words,not holding
+phrase_57048123.pt,23,a photo of a elephant not holding a toaster,elephant,toaster,negate_words,not holding
+phrase_57048123.pt,24,a photo of a bowl not holding a dog,bowl,dog,negate_words,not holding
+phrase_57048123.pt,25,a photo of a bench not holding a motorcycle,bench,motorcycle,negate_words,not holding
+phrase_57048123.pt,26,a photo of a frisbee not holding a handbag,frisbee,handbag,negate_words,not holding
+phrase_57048123.pt,27,a photo of a skis not holding a cat,skis,cat,negate_words,not holding
+phrase_57048123.pt,28,a photo of a surfboard not holding a spoon,surfboard,spoon,negate_words,not holding
+phrase_57048123.pt,29,a photo of a bicycle not holding a bus,bicycle,bus,negate_words,not holding
+phrase_57048123.pt,30,a photo of a car not holding a laptop,car,laptop,negate_words,not holding
+phrase_57048123.pt,31,a photo of a frisbee not holding a cat,frisbee,cat,negate_words,not holding
+phrase_57048123.pt,32,a photo of a skis not holding a motorcycle,skis,motorcycle,negate_words,not holding
+phrase_57048123.pt,33,a photo of a toilet not holding a cat,toilet,cat,negate_words,not holding
+phrase_57048123.pt,34,a photo of a snowboard not holding a boat,snowboard,boat,negate_words,not holding
+phrase_57048123.pt,35,a photo of a broccoli not holding a bird,broccoli,bird,negate_words,not holding
+phrase_57048123.pt,36,a photo of a scissors not holding a airplane,scissors,airplane,negate_words,not holding
+phrase_57048123.pt,37,a photo of a bowl not holding a banana,bowl,banana,negate_words,not holding
+phrase_57048123.pt,38,a photo of a baseball glove not holding a bicycle,baseball glove,bicycle,negate_words,not holding
+phrase_57048123.pt,39,a photo of a microwave not holding a skis,microwave,skis,negate_words,not holding
+phrase_57048123.pt,40,a photo of a banana not holding a stop sign,banana,stop sign,negate_words,not holding
+phrase_57048123.pt,41,a photo of a oven not holding a snowboard,oven,snowboard,negate_words,not holding
+phrase_57048123.pt,42,a photo of a giraffe not holding a tie,giraffe,tie,negate_words,not holding
+phrase_57048123.pt,43,a photo of a parking meter not holding a toilet,parking meter,toilet,negate_words,not holding
+phrase_57048123.pt,44,a photo of a banana not holding a fork,banana,fork,negate_words,not holding
+phrase_57048123.pt,45,a photo of a laptop not holding a broccoli,laptop,broccoli,negate_words,not holding
+phrase_57048123.pt,46,a photo of a orange not holding a toothbrush,orange,toothbrush,negate_words,not holding
+phrase_57048123.pt,47,a photo of a baseball bat not holding a boat,baseball bat,boat,negate_words,not holding
+phrase_57048123.pt,48,a photo of a snowboard not holding a skateboard,snowboard,skateboard,negate_words,not holding
+phrase_57048123.pt,49,a photo of a book not holding a dog,book,dog,negate_words,not holding
+phrase_57048123.pt,50,a photo of a chair not holding a pizza,chair,pizza,negate_words,not holding
+phrase_57048123.pt,51,a photo of a suitcase not holding a train,suitcase,train,negate_words,not holding
+phrase_57048123.pt,52,a photo of a refrigerator not holding a sports ball,refrigerator,sports ball,negate_words,not holding
+phrase_57048123.pt,53,a photo of a baseball bat not holding a sandwich,baseball bat,sandwich,negate_words,not holding
+phrase_57048123.pt,54,a photo of a potted plant not holding a fork,potted plant,fork,negate_words,not holding
+phrase_57048123.pt,55,a photo of a clock not holding a cow,clock,cow,negate_words,not holding
+phrase_57048123.pt,56,a photo of a skateboard not holding a motorcycle,skateboard,motorcycle,negate_words,not holding
+phrase_57048123.pt,57,a photo of a orange not holding a bottle,orange,bottle,negate_words,not holding
+phrase_57048123.pt,58,a photo of a backpack not holding a wine glass,backpack,wine glass,negate_words,not holding
+phrase_57048123.pt,59,a photo of a surfboard not holding a handbag,surfboard,handbag,negate_words,not holding
+phrase_57048123.pt,60,a photo of a frisbee not holding a broccoli,frisbee,broccoli,negate_words,not holding
+phrase_57048123.pt,61,a photo of a cell phone not holding a dog,cell phone,dog,negate_words,not holding
+phrase_57048123.pt,62,a photo of a chair not holding a tennis racket,chair,tennis racket,negate_words,not holding
+phrase_57048123.pt,63,a photo of a couch not holding a tv remote,couch,tv remote,negate_words,not holding
+phrase_57048123.pt,64,a photo of a donut not holding a knife,donut,knife,negate_words,not holding
+phrase_57048123.pt,65,a photo of a tv remote not holding a laptop,tv remote,laptop,negate_words,not holding
+phrase_57048123.pt,66,a photo of a traffic light not holding a pizza,traffic light,pizza,negate_words,not holding
+phrase_57048123.pt,67,a photo of a motorcycle not holding a cat,motorcycle,cat,negate_words,not holding
+phrase_57048123.pt,68,a photo of a snowboard not holding a bottle,snowboard,bottle,negate_words,not holding
+phrase_57048123.pt,69,a photo of a chair not holding a umbrella,chair,umbrella,negate_words,not holding
+phrase_57048123.pt,70,a photo of a fork not holding a hot dog,fork,hot dog,negate_words,not holding
+phrase_57048123.pt,71,a photo of a clock not holding a skateboard,clock,skateboard,negate_words,not holding
+phrase_57048123.pt,72,a photo of a potted plant not holding a tv,potted plant,tv,negate_words,not holding
+phrase_57048123.pt,73,a photo of a laptop not holding a computer keyboard,laptop,computer keyboard,negate_words,not holding
+phrase_57048123.pt,74,a photo of a broccoli not holding a dog,broccoli,dog,negate_words,not holding
+phrase_57048123.pt,75,a photo of a tv not holding a traffic light,tv,traffic light,negate_words,not holding
+phrase_57048123.pt,76,a photo of a cell phone not holding a parking meter,cell phone,parking meter,negate_words,not holding
+phrase_57048123.pt,77,a photo of a fork not holding a snowboard,fork,snowboard,negate_words,not holding
+phrase_57048123.pt,78,a photo of a cow not holding a carrot,cow,carrot,negate_words,not holding
+phrase_57048123.pt,79,a photo of a truck not holding a bus,truck,bus,negate_words,not holding
+phrase_57048123.pt,80,a photo of a toaster not holding a fire hydrant,toaster,fire hydrant,negate_words,not holding
+phrase_57048123.pt,81,a photo of a bear not holding a pizza,bear,pizza,negate_words,not holding
+phrase_57048123.pt,82,a photo of a pizza not holding a frisbee,pizza,frisbee,negate_words,not holding
+phrase_57048123.pt,83,a photo of a oven not holding a donut,oven,donut,negate_words,not holding
+phrase_57048123.pt,84,a photo of a refrigerator not holding a motorcycle,refrigerator,motorcycle,negate_words,not holding
+phrase_57048123.pt,85,a photo of a book not holding a tie,book,tie,negate_words,not holding
+phrase_57048123.pt,86,a photo of a hair drier not holding a parking meter,hair drier,parking meter,negate_words,not holding
+phrase_57048123.pt,87,a photo of a tv not holding a truck,tv,truck,negate_words,not holding
+phrase_57048123.pt,88,a photo of a teddy bear not holding a microwave,teddy bear,microwave,negate_words,not holding
+phrase_57048123.pt,89,a photo of a clock not holding a giraffe,clock,giraffe,negate_words,not holding
+phrase_57048123.pt,90,a photo of a person not holding a refrigerator,person,refrigerator,negate_words,not holding
+phrase_57048123.pt,91,a photo of a tv not holding a cow,tv,cow,negate_words,not holding
+phrase_57048123.pt,92,a photo of a microwave not holding a cow,microwave,cow,negate_words,not holding
+phrase_57048123.pt,93,a photo of a fire hydrant not holding a tv remote,fire hydrant,tv remote,negate_words,not holding
+phrase_57048123.pt,94,a photo of a donut not holding a clock,donut,clock,negate_words,not holding
+phrase_57048123.pt,95,a photo of a baseball glove not holding a sandwich,baseball glove,sandwich,negate_words,not holding
+phrase_57048123.pt,96,a photo of a hair drier not holding a computer mouse,hair drier,computer mouse,negate_words,not holding
+phrase_57048123.pt,97,a photo of a skateboard not holding a bear,skateboard,bear,negate_words,not holding
+phrase_57048123.pt,98,a photo of a refrigerator not holding a orange,refrigerator,orange,negate_words,not holding
+phrase_57048123.pt,99,a photo of a clock not holding a dining table,clock,dining table,negate_words,not holding
+phrase_57742424.pt,0,a photo of a giraffe not touching a hair drier,giraffe,hair drier,negate_words,not touching
+phrase_57742424.pt,1,a photo of a broccoli not touching a skis,broccoli,skis,negate_words,not touching
+phrase_57742424.pt,2,a photo of a book not touching a sports ball,book,sports ball,negate_words,not touching
+phrase_57742424.pt,3,a photo of a bench not touching a cow,bench,cow,negate_words,not touching
+phrase_57742424.pt,4,a photo of a computer keyboard not touching a skateboard,computer keyboard,skateboard,negate_words,not touching
+phrase_57742424.pt,5,a photo of a toilet not touching a potted plant,toilet,potted plant,negate_words,not touching
+phrase_57742424.pt,6,a photo of a oven not touching a vase,oven,vase,negate_words,not touching
+phrase_57742424.pt,7,a photo of a bed not touching a book,bed,book,negate_words,not touching
+phrase_57742424.pt,8,a photo of a cell phone not touching a bear,cell phone,bear,negate_words,not touching
+phrase_57742424.pt,9,a photo of a sports ball not touching a refrigerator,sports ball,refrigerator,negate_words,not touching
+phrase_57742424.pt,10,a photo of a baseball bat not touching a dog,baseball bat,dog,negate_words,not touching
+phrase_57742424.pt,11,a photo of a orange not touching a traffic light,orange,traffic light,negate_words,not touching
+phrase_57742424.pt,12,a photo of a teddy bear not touching a orange,teddy bear,orange,negate_words,not touching
+phrase_57742424.pt,13,a photo of a skis not touching a tennis racket,skis,tennis racket,negate_words,not touching
+phrase_57742424.pt,14,a photo of a zebra not touching a bicycle,zebra,bicycle,negate_words,not touching
+phrase_57742424.pt,15,a photo of a sheep not touching a computer mouse,sheep,computer mouse,negate_words,not touching
+phrase_57742424.pt,16,a photo of a cell phone not touching a orange,cell phone,orange,negate_words,not touching
+phrase_57742424.pt,17,a photo of a knife not touching a umbrella,knife,umbrella,negate_words,not touching
+phrase_57742424.pt,18,a photo of a motorcycle not touching a carrot,motorcycle,carrot,negate_words,not touching
+phrase_57742424.pt,19,a photo of a traffic light not touching a horse,traffic light,horse,negate_words,not touching
+phrase_57742424.pt,20,a photo of a surfboard not touching a tv,surfboard,tv,negate_words,not touching
+phrase_57742424.pt,21,a photo of a carrot not touching a truck,carrot,truck,negate_words,not touching
+phrase_57742424.pt,22,a photo of a giraffe not touching a fire hydrant,giraffe,fire hydrant,negate_words,not touching
+phrase_57742424.pt,23,a photo of a elephant not touching a toaster,elephant,toaster,negate_words,not touching
+phrase_57742424.pt,24,a photo of a bowl not touching a dog,bowl,dog,negate_words,not touching
+phrase_57742424.pt,25,a photo of a bench not touching a motorcycle,bench,motorcycle,negate_words,not touching
+phrase_57742424.pt,26,a photo of a frisbee not touching a handbag,frisbee,handbag,negate_words,not touching
+phrase_57742424.pt,27,a photo of a skis not touching a cat,skis,cat,negate_words,not touching
+phrase_57742424.pt,28,a photo of a surfboard not touching a spoon,surfboard,spoon,negate_words,not touching
+phrase_57742424.pt,29,a photo of a bicycle not touching a bus,bicycle,bus,negate_words,not touching
+phrase_57742424.pt,30,a photo of a car not touching a laptop,car,laptop,negate_words,not touching
+phrase_57742424.pt,31,a photo of a frisbee not touching a cat,frisbee,cat,negate_words,not touching
+phrase_57742424.pt,32,a photo of a skis not touching a motorcycle,skis,motorcycle,negate_words,not touching
+phrase_57742424.pt,33,a photo of a toilet not touching a cat,toilet,cat,negate_words,not touching
+phrase_57742424.pt,34,a photo of a snowboard not touching a boat,snowboard,boat,negate_words,not touching
+phrase_57742424.pt,35,a photo of a broccoli not touching a bird,broccoli,bird,negate_words,not touching
+phrase_57742424.pt,36,a photo of a scissors not touching a airplane,scissors,airplane,negate_words,not touching
+phrase_57742424.pt,37,a photo of a bowl not touching a banana,bowl,banana,negate_words,not touching
+phrase_57742424.pt,38,a photo of a baseball glove not touching a bicycle,baseball glove,bicycle,negate_words,not touching
+phrase_57742424.pt,39,a photo of a microwave not touching a skis,microwave,skis,negate_words,not touching
+phrase_57742424.pt,40,a photo of a banana not touching a stop sign,banana,stop sign,negate_words,not touching
+phrase_57742424.pt,41,a photo of a oven not touching a snowboard,oven,snowboard,negate_words,not touching
+phrase_57742424.pt,42,a photo of a giraffe not touching a tie,giraffe,tie,negate_words,not touching
+phrase_57742424.pt,43,a photo of a parking meter not touching a toilet,parking meter,toilet,negate_words,not touching
+phrase_57742424.pt,44,a photo of a banana not touching a fork,banana,fork,negate_words,not touching
+phrase_57742424.pt,45,a photo of a laptop not touching a broccoli,laptop,broccoli,negate_words,not touching
+phrase_57742424.pt,46,a photo of a orange not touching a toothbrush,orange,toothbrush,negate_words,not touching
+phrase_57742424.pt,47,a photo of a baseball bat not touching a boat,baseball bat,boat,negate_words,not touching
+phrase_57742424.pt,48,a photo of a snowboard not touching a skateboard,snowboard,skateboard,negate_words,not touching
+phrase_57742424.pt,49,a photo of a book not touching a dog,book,dog,negate_words,not touching
+phrase_57742424.pt,50,a photo of a chair not touching a pizza,chair,pizza,negate_words,not touching
+phrase_57742424.pt,51,a photo of a suitcase not touching a train,suitcase,train,negate_words,not touching
+phrase_57742424.pt,52,a photo of a refrigerator not touching a sports ball,refrigerator,sports ball,negate_words,not touching
+phrase_57742424.pt,53,a photo of a baseball bat not touching a sandwich,baseball bat,sandwich,negate_words,not touching
+phrase_57742424.pt,54,a photo of a potted plant not touching a fork,potted plant,fork,negate_words,not touching
+phrase_57742424.pt,55,a photo of a clock not touching a cow,clock,cow,negate_words,not touching
+phrase_57742424.pt,56,a photo of a skateboard not touching a motorcycle,skateboard,motorcycle,negate_words,not touching
+phrase_57742424.pt,57,a photo of a orange not touching a bottle,orange,bottle,negate_words,not touching
+phrase_57742424.pt,58,a photo of a backpack not touching a wine glass,backpack,wine glass,negate_words,not touching
+phrase_57742424.pt,59,a photo of a surfboard not touching a handbag,surfboard,handbag,negate_words,not touching
+phrase_57742424.pt,60,a photo of a frisbee not touching a broccoli,frisbee,broccoli,negate_words,not touching
+phrase_57742424.pt,61,a photo of a cell phone not touching a dog,cell phone,dog,negate_words,not touching
+phrase_57742424.pt,62,a photo of a chair not touching a tennis racket,chair,tennis racket,negate_words,not touching
+phrase_57742424.pt,63,a photo of a couch not touching a tv remote,couch,tv remote,negate_words,not touching
+phrase_57742424.pt,64,a photo of a donut not touching a knife,donut,knife,negate_words,not touching
+phrase_57742424.pt,65,a photo of a tv remote not touching a laptop,tv remote,laptop,negate_words,not touching
+phrase_57742424.pt,66,a photo of a traffic light not touching a pizza,traffic light,pizza,negate_words,not touching
+phrase_57742424.pt,67,a photo of a motorcycle not touching a cat,motorcycle,cat,negate_words,not touching
+phrase_57742424.pt,68,a photo of a snowboard not touching a bottle,snowboard,bottle,negate_words,not touching
+phrase_57742424.pt,69,a photo of a chair not touching a umbrella,chair,umbrella,negate_words,not touching
+phrase_57742424.pt,70,a photo of a fork not touching a hot dog,fork,hot dog,negate_words,not touching
+phrase_57742424.pt,71,a photo of a clock not touching a skateboard,clock,skateboard,negate_words,not touching
+phrase_57742424.pt,72,a photo of a potted plant not touching a tv,potted plant,tv,negate_words,not touching
+phrase_57742424.pt,73,a photo of a laptop not touching a computer keyboard,laptop,computer keyboard,negate_words,not touching
+phrase_57742424.pt,74,a photo of a broccoli not touching a dog,broccoli,dog,negate_words,not touching
+phrase_57742424.pt,75,a photo of a tv not touching a traffic light,tv,traffic light,negate_words,not touching
+phrase_57742424.pt,76,a photo of a cell phone not touching a parking meter,cell phone,parking meter,negate_words,not touching
+phrase_57742424.pt,77,a photo of a fork not touching a snowboard,fork,snowboard,negate_words,not touching
+phrase_57742424.pt,78,a photo of a cow not touching a carrot,cow,carrot,negate_words,not touching
+phrase_57742424.pt,79,a photo of a truck not touching a bus,truck,bus,negate_words,not touching
+phrase_57742424.pt,80,a photo of a toaster not touching a fire hydrant,toaster,fire hydrant,negate_words,not touching
+phrase_57742424.pt,81,a photo of a bear not touching a pizza,bear,pizza,negate_words,not touching
+phrase_57742424.pt,82,a photo of a pizza not touching a frisbee,pizza,frisbee,negate_words,not touching
+phrase_57742424.pt,83,a photo of a oven not touching a donut,oven,donut,negate_words,not touching
+phrase_57742424.pt,84,a photo of a refrigerator not touching a motorcycle,refrigerator,motorcycle,negate_words,not touching
+phrase_57742424.pt,85,a photo of a book not touching a tie,book,tie,negate_words,not touching
+phrase_57742424.pt,86,a photo of a hair drier not touching a parking meter,hair drier,parking meter,negate_words,not touching
+phrase_57742424.pt,87,a photo of a tv not touching a truck,tv,truck,negate_words,not touching
+phrase_57742424.pt,88,a photo of a teddy bear not touching a microwave,teddy bear,microwave,negate_words,not touching
+phrase_57742424.pt,89,a photo of a clock not touching a giraffe,clock,giraffe,negate_words,not touching
+phrase_57742424.pt,90,a photo of a person not touching a refrigerator,person,refrigerator,negate_words,not touching
+phrase_57742424.pt,91,a photo of a tv not touching a cow,tv,cow,negate_words,not touching
+phrase_57742424.pt,92,a photo of a microwave not touching a cow,microwave,cow,negate_words,not touching
+phrase_57742424.pt,93,a photo of a fire hydrant not touching a tv remote,fire hydrant,tv remote,negate_words,not touching
+phrase_57742424.pt,94,a photo of a donut not touching a clock,donut,clock,negate_words,not touching
+phrase_57742424.pt,95,a photo of a baseball glove not touching a sandwich,baseball glove,sandwich,negate_words,not touching
+phrase_57742424.pt,96,a photo of a hair drier not touching a computer mouse,hair drier,computer mouse,negate_words,not touching
+phrase_57742424.pt,97,a photo of a skateboard not touching a bear,skateboard,bear,negate_words,not touching
+phrase_57742424.pt,98,a photo of a refrigerator not touching a orange,refrigerator,orange,negate_words,not touching
+phrase_57742424.pt,99,a photo of a clock not touching a dining table,clock,dining table,negate_words,not touching

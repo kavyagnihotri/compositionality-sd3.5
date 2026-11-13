@@ -1,0 +1,201 @@
+prompt,class1,class2,category,phrase
+a photo of a giraffe closeby a hair drier,giraffe,hair drier,misc,closeby
+a photo of a giraffe far from a hair drier,giraffe,hair drier,misc,far from
+a photo of a broccoli closeby a skis,broccoli,skis,misc,closeby
+a photo of a broccoli far from a skis,broccoli,skis,misc,far from
+a photo of a book closeby a sports ball,book,sports ball,misc,closeby
+a photo of a book far from a sports ball,book,sports ball,misc,far from
+a photo of a bench closeby a cow,bench,cow,misc,closeby
+a photo of a bench far from a cow,bench,cow,misc,far from
+a photo of a computer keyboard closeby a skateboard,computer keyboard,skateboard,misc,closeby
+a photo of a computer keyboard far from a skateboard,computer keyboard,skateboard,misc,far from
+a photo of a toilet closeby a potted plant,toilet,potted plant,misc,closeby
+a photo of a toilet far from a potted plant,toilet,potted plant,misc,far from
+a photo of a oven closeby a vase,oven,vase,misc,closeby
+a photo of a oven far from a vase,oven,vase,misc,far from
+a photo of a bed closeby a book,bed,book,misc,closeby
+a photo of a bed far from a book,bed,book,misc,far from
+a photo of a cell phone closeby a bear,cell phone,bear,misc,closeby
+a photo of a cell phone far from a bear,cell phone,bear,misc,far from
+a photo of a sports ball closeby a refrigerator,sports ball,refrigerator,misc,closeby
+a photo of a sports ball far from a refrigerator,sports ball,refrigerator,misc,far from
+a photo of a baseball bat closeby a dog,baseball bat,dog,misc,closeby
+a photo of a baseball bat far from a dog,baseball bat,dog,misc,far from
+a photo of a orange closeby a traffic light,orange,traffic light,misc,closeby
+a photo of a orange far from a traffic light,orange,traffic light,misc,far from
+a photo of a teddy bear closeby a orange,teddy bear,orange,misc,closeby
+a photo of a teddy bear far from a orange,teddy bear,orange,misc,far from
+a photo of a skis closeby a tennis racket,skis,tennis racket,misc,closeby
+a photo of a skis far from a tennis racket,skis,tennis racket,misc,far from
+a photo of a zebra closeby a bicycle,zebra,bicycle,misc,closeby
+a photo of a zebra far from a bicycle,zebra,bicycle,misc,far from
+a photo of a sheep closeby a computer mouse,sheep,computer mouse,misc,closeby
+a photo of a sheep far from a computer mouse,sheep,computer mouse,misc,far from
+a photo of a cell phone closeby a orange,cell phone,orange,misc,closeby
+a photo of a cell phone far from a orange,cell phone,orange,misc,far from
+a photo of a knife closeby a umbrella,knife,umbrella,misc,closeby
+a photo of a knife far from a umbrella,knife,umbrella,misc,far from
+a photo of a motorcycle closeby a carrot,motorcycle,carrot,misc,closeby
+a photo of a motorcycle far from a carrot,motorcycle,carrot,misc,far from
+a photo of a traffic light closeby a horse,traffic light,horse,misc,closeby
+a photo of a traffic light far from a horse,traffic light,horse,misc,far from
+a photo of a surfboard closeby a tv,surfboard,tv,misc,closeby
+a photo of a surfboard far from a tv,surfboard,tv,misc,far from
+a photo of a carrot closeby a truck,carrot,truck,misc,closeby
+a photo of a carrot far from a truck,carrot,truck,misc,far from
+a photo of a giraffe closeby a fire hydrant,giraffe,fire hydrant,misc,closeby
+a photo of a giraffe far from a fire hydrant,giraffe,fire hydrant,misc,far from
+a photo of a elephant closeby a toaster,elephant,toaster,misc,closeby
+a photo of a elephant far from a toaster,elephant,toaster,misc,far from
+a photo of a bowl closeby a dog,bowl,dog,misc,closeby
+a photo of a bowl far from a dog,bowl,dog,misc,far from
+a photo of a bench closeby a motorcycle,bench,motorcycle,misc,closeby
+a photo of a bench far from a motorcycle,bench,motorcycle,misc,far from
+a photo of a frisbee closeby a handbag,frisbee,handbag,misc,closeby
+a photo of a frisbee far from a handbag,frisbee,handbag,misc,far from
+a photo of a skis closeby a cat,skis,cat,misc,closeby
+a photo of a skis far from a cat,skis,cat,misc,far from
+a photo of a surfboard closeby a spoon,surfboard,spoon,misc,closeby
+a photo of a surfboard far from a spoon,surfboard,spoon,misc,far from
+a photo of a bicycle closeby a bus,bicycle,bus,misc,closeby
+a photo of a bicycle far from a bus,bicycle,bus,misc,far from
+a photo of a car closeby a laptop,car,laptop,misc,closeby
+a photo of a car far from a laptop,car,laptop,misc,far from
+a photo of a frisbee closeby a cat,frisbee,cat,misc,closeby
+a photo of a frisbee far from a cat,frisbee,cat,misc,far from
+a photo of a skis closeby a motorcycle,skis,motorcycle,misc,closeby
+a photo of a skis far from a motorcycle,skis,motorcycle,misc,far from
+a photo of a toilet closeby a cat,toilet,cat,misc,closeby
+a photo of a toilet far from a cat,toilet,cat,misc,far from
+a photo of a snowboard closeby a boat,snowboard,boat,misc,closeby
+a photo of a snowboard far from a boat,snowboard,boat,misc,far from
+a photo of a broccoli closeby a bird,broccoli,bird,misc,closeby
+a photo of a broccoli far from a bird,broccoli,bird,misc,far from
+a photo of a scissors closeby a airplane,scissors,airplane,misc,closeby
+a photo of a scissors far from a airplane,scissors,airplane,misc,far from
+a photo of a bowl closeby a banana,bowl,banana,misc,closeby
+a photo of a bowl far from a banana,bowl,banana,misc,far from
+a photo of a baseball glove closeby a bicycle,baseball glove,bicycle,misc,closeby
+a photo of a baseball glove far from a bicycle,baseball glove,bicycle,misc,far from
+a photo of a microwave closeby a skis,microwave,skis,misc,closeby
+a photo of a microwave far from a skis,microwave,skis,misc,far from
+a photo of a banana closeby a stop sign,banana,stop sign,misc,closeby
+a photo of a banana far from a stop sign,banana,stop sign,misc,far from
+a photo of a oven closeby a snowboard,oven,snowboard,misc,closeby
+a photo of a oven far from a snowboard,oven,snowboard,misc,far from
+a photo of a giraffe closeby a tie,giraffe,tie,misc,closeby
+a photo of a giraffe far from a tie,giraffe,tie,misc,far from
+a photo of a parking meter closeby a toilet,parking meter,toilet,misc,closeby
+a photo of a parking meter far from a toilet,parking meter,toilet,misc,far from
+a photo of a banana closeby a fork,banana,fork,misc,closeby
+a photo of a banana far from a fork,banana,fork,misc,far from
+a photo of a laptop closeby a broccoli,laptop,broccoli,misc,closeby
+a photo of a laptop far from a broccoli,laptop,broccoli,misc,far from
+a photo of a orange closeby a toothbrush,orange,toothbrush,misc,closeby
+a photo of a orange far from a toothbrush,orange,toothbrush,misc,far from
+a photo of a baseball bat closeby a boat,baseball bat,boat,misc,closeby
+a photo of a baseball bat far from a boat,baseball bat,boat,misc,far from
+a photo of a snowboard closeby a skateboard,snowboard,skateboard,misc,closeby
+a photo of a snowboard far from a skateboard,snowboard,skateboard,misc,far from
+a photo of a book closeby a dog,book,dog,misc,closeby
+a photo of a book far from a dog,book,dog,misc,far from
+a photo of a chair closeby a pizza,chair,pizza,misc,closeby
+a photo of a chair far from a pizza,chair,pizza,misc,far from
+a photo of a suitcase closeby a train,suitcase,train,misc,closeby
+a photo of a suitcase far from a train,suitcase,train,misc,far from
+a photo of a refrigerator closeby a sports ball,refrigerator,sports ball,misc,closeby
+a photo of a refrigerator far from a sports ball,refrigerator,sports ball,misc,far from
+a photo of a baseball bat closeby a sandwich,baseball bat,sandwich,misc,closeby
+a photo of a baseball bat far from a sandwich,baseball bat,sandwich,misc,far from
+a photo of a potted plant closeby a fork,potted plant,fork,misc,closeby
+a photo of a potted plant far from a fork,potted plant,fork,misc,far from
+a photo of a clock closeby a cow,clock,cow,misc,closeby
+a photo of a clock far from a cow,clock,cow,misc,far from
+a photo of a skateboard closeby a motorcycle,skateboard,motorcycle,misc,closeby
+a photo of a skateboard far from a motorcycle,skateboard,motorcycle,misc,far from
+a photo of a orange closeby a bottle,orange,bottle,misc,closeby
+a photo of a orange far from a bottle,orange,bottle,misc,far from
+a photo of a backpack closeby a wine glass,backpack,wine glass,misc,closeby
+a photo of a backpack far from a wine glass,backpack,wine glass,misc,far from
+a photo of a surfboard closeby a handbag,surfboard,handbag,misc,closeby
+a photo of a surfboard far from a handbag,surfboard,handbag,misc,far from
+a photo of a frisbee closeby a broccoli,frisbee,broccoli,misc,closeby
+a photo of a frisbee far from a broccoli,frisbee,broccoli,misc,far from
+a photo of a cell phone closeby a dog,cell phone,dog,misc,closeby
+a photo of a cell phone far from a dog,cell phone,dog,misc,far from
+a photo of a chair closeby a tennis racket,chair,tennis racket,misc,closeby
+a photo of a chair far from a tennis racket,chair,tennis racket,misc,far from
+a photo of a couch closeby a tv remote,couch,tv remote,misc,closeby
+a photo of a couch far from a tv remote,couch,tv remote,misc,far from
+a photo of a donut closeby a knife,donut,knife,misc,closeby
+a photo of a donut far from a knife,donut,knife,misc,far from
+a photo of a tv remote closeby a laptop,tv remote,laptop,misc,closeby
+a photo of a tv remote far from a laptop,tv remote,laptop,misc,far from
+a photo of a traffic light closeby a pizza,traffic light,pizza,misc,closeby
+a photo of a traffic light far from a pizza,traffic light,pizza,misc,far from
+a photo of a motorcycle closeby a cat,motorcycle,cat,misc,closeby
+a photo of a motorcycle far from a cat,motorcycle,cat,misc,far from
+a photo of a snowboard closeby a bottle,snowboard,bottle,misc,closeby
+a photo of a snowboard far from a bottle,snowboard,bottle,misc,far from
+a photo of a chair closeby a umbrella,chair,umbrella,misc,closeby
+a photo of a chair far from a umbrella,chair,umbrella,misc,far from
+a photo of a fork closeby a hot dog,fork,hot dog,misc,closeby
+a photo of a fork far from a hot dog,fork,hot dog,misc,far from
+a photo of a clock closeby a skateboard,clock,skateboard,misc,closeby
+a photo of a clock far from a skateboard,clock,skateboard,misc,far from
+a photo of a potted plant closeby a tv,potted plant,tv,misc,closeby
+a photo of a potted plant far from a tv,potted plant,tv,misc,far from
+a photo of a laptop closeby a computer keyboard,laptop,computer keyboard,misc,closeby
+a photo of a laptop far from a computer keyboard,laptop,computer keyboard,misc,far from
+a photo of a broccoli closeby a dog,broccoli,dog,misc,closeby
+a photo of a broccoli far from a dog,broccoli,dog,misc,far from
+a photo of a tv closeby a traffic light,tv,traffic light,misc,closeby
+a photo of a tv far from a traffic light,tv,traffic light,misc,far from
+a photo of a cell phone closeby a parking meter,cell phone,parking meter,misc,closeby
+a photo of a cell phone far from a parking meter,cell phone,parking meter,misc,far from
+a photo of a fork closeby a snowboard,fork,snowboard,misc,closeby
+a photo of a fork far from a snowboard,fork,snowboard,misc,far from
+a photo of a cow closeby a carrot,cow,carrot,misc,closeby
+a photo of a cow far from a carrot,cow,carrot,misc,far from
+a photo of a truck closeby a bus,truck,bus,misc,closeby
+a photo of a truck far from a bus,truck,bus,misc,far from
+a photo of a toaster closeby a fire hydrant,toaster,fire hydrant,misc,closeby
+a photo of a toaster far from a fire hydrant,toaster,fire hydrant,misc,far from
+a photo of a bear closeby a pizza,bear,pizza,misc,closeby
+a photo of a bear far from a pizza,bear,pizza,misc,far from
+a photo of a pizza closeby a frisbee,pizza,frisbee,misc,closeby
+a photo of a pizza far from a frisbee,pizza,frisbee,misc,far from
+a photo of a oven closeby a donut,oven,donut,misc,closeby
+a photo of a oven far from a donut,oven,donut,misc,far from
+a photo of a refrigerator closeby a motorcycle,refrigerator,motorcycle,misc,closeby
+a photo of a refrigerator far from a motorcycle,refrigerator,motorcycle,misc,far from
+a photo of a book closeby a tie,book,tie,misc,closeby
+a photo of a book far from a tie,book,tie,misc,far from
+a photo of a hair drier closeby a parking meter,hair drier,parking meter,misc,closeby
+a photo of a hair drier far from a parking meter,hair drier,parking meter,misc,far from
+a photo of a tv closeby a truck,tv,truck,misc,closeby
+a photo of a tv far from a truck,tv,truck,misc,far from
+a photo of a teddy bear closeby a microwave,teddy bear,microwave,misc,closeby
+a photo of a teddy bear far from a microwave,teddy bear,microwave,misc,far from
+a photo of a clock closeby a giraffe,clock,giraffe,misc,closeby
+a photo of a clock far from a giraffe,clock,giraffe,misc,far from
+a photo of a person closeby a refrigerator,person,refrigerator,misc,closeby
+a photo of a person far from a refrigerator,person,refrigerator,misc,far from
+a photo of a tv closeby a cow,tv,cow,misc,closeby
+a photo of a tv far from a cow,tv,cow,misc,far from
+a photo of a microwave closeby a cow,microwave,cow,misc,closeby
+a photo of a microwave far from a cow,microwave,cow,misc,far from
+a photo of a fire hydrant closeby a tv remote,fire hydrant,tv remote,misc,closeby
+a photo of a fire hydrant far from a tv remote,fire hydrant,tv remote,misc,far from
+a photo of a donut closeby a clock,donut,clock,misc,closeby
+a photo of a donut far from a clock,donut,clock,misc,far from
+a photo of a baseball glove closeby a sandwich,baseball glove,sandwich,misc,closeby
+a photo of a baseball glove far from a sandwich,baseball glove,sandwich,misc,far from
+a photo of a hair drier closeby a computer mouse,hair drier,computer mouse,misc,closeby
+a photo of a hair drier far from a computer mouse,hair drier,computer mouse,misc,far from
+a photo of a skateboard closeby a bear,skateboard,bear,misc,closeby
+a photo of a skateboard far from a bear,skateboard,bear,misc,far from
+a photo of a refrigerator closeby a orange,refrigerator,orange,misc,closeby
+a photo of a refrigerator far from a orange,refrigerator,orange,misc,far from
+a photo of a clock closeby a dining table,clock,dining table,misc,closeby
+a photo of a clock far from a dining table,clock,dining table,misc,far from

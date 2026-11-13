@@ -1,0 +1,101 @@
+sd_model_type,tensor_file,tensor_index,phrase,strategy,full_output,predicted_label,class1,class2
+redcaps,phrase_56264520.pt,0,over,direct,No,,giraffe,hair drier
+redcaps,phrase_56264520.pt,1,over,direct,Yes.,,broccoli,skis
+redcaps,phrase_56264520.pt,2,over,direct,No,,book,sports ball
+redcaps,phrase_56264520.pt,3,over,direct,Yes,,bench,cow
+redcaps,phrase_56264520.pt,4,over,direct,Yes,,computer keyboard,skateboard
+redcaps,phrase_56264520.pt,5,over,direct,No.,,toilet,potted plant
+redcaps,phrase_56264520.pt,6,over,direct,No,,oven,vase
+redcaps,phrase_56264520.pt,7,over,direct,No,,bed,book
+redcaps,phrase_56264520.pt,8,over,direct,No,,cell phone,bear
+redcaps,phrase_56264520.pt,9,over,direct,No.,,sports ball,refrigerator
+redcaps,phrase_56264520.pt,10,over,direct,Yes.,,baseball bat,dog
+redcaps,phrase_56264520.pt,11,over,direct,No,,orange,traffic light
+redcaps,phrase_56264520.pt,12,over,direct,Yes,,teddy bear,orange
+redcaps,phrase_56264520.pt,13,over,direct,No,,skis,tennis racket
+redcaps,phrase_56264520.pt,14,over,direct,No,,zebra,bicycle
+redcaps,phrase_56264520.pt,15,over,direct,No.,,sheep,computer mouse
+redcaps,phrase_56264520.pt,16,over,direct,Yes.,,cell phone,orange
+redcaps,phrase_56264520.pt,17,over,direct,Yes,,knife,umbrella
+redcaps,phrase_56264520.pt,18,over,direct,No,,motorcycle,carrot
+redcaps,phrase_56264520.pt,19,over,direct,Yes,,traffic light,horse
+redcaps,phrase_56264520.pt,20,over,direct,No,,surfboard,tv
+redcaps,phrase_56264520.pt,21,over,direct,Yes.,,carrot,truck
+redcaps,phrase_56264520.pt,22,over,direct,Yes,,giraffe,fire hydrant
+redcaps,phrase_56264520.pt,23,over,direct,Yes,,elephant,toaster
+redcaps,phrase_56264520.pt,24,over,direct,No,,bowl,dog
+redcaps,phrase_56264520.pt,25,over,direct,No,,bench,motorcycle
+redcaps,phrase_56264520.pt,26,over,direct,No,,frisbee,handbag
+redcaps,phrase_56264520.pt,27,over,direct,No.,,skis,cat
+redcaps,phrase_56264520.pt,28,over,direct,No.,,surfboard,spoon
+redcaps,phrase_56264520.pt,29,over,direct,Yes,,bicycle,bus
+redcaps,phrase_56264520.pt,30,over,direct,Yes,,car,laptop
+redcaps,phrase_56264520.pt,31,over,direct,Yes,,frisbee,cat
+redcaps,phrase_56264520.pt,32,over,direct,Yes,,skis,motorcycle
+redcaps,phrase_56264520.pt,33,over,direct,No,,toilet,cat
+redcaps,phrase_56264520.pt,34,over,direct,Yes,,snowboard,boat
+redcaps,phrase_56264520.pt,35,over,direct,Yes,,broccoli,bird
+redcaps,phrase_56264520.pt,36,over,direct,No.,,scissors,airplane
+redcaps,phrase_56264520.pt,37,over,direct,No,,bowl,banana
+redcaps,phrase_56264520.pt,38,over,direct,Yes,,baseball glove,bicycle
+redcaps,phrase_56264520.pt,39,over,direct,No,,microwave,skis
+redcaps,phrase_56264520.pt,40,over,direct,Yes.,,banana,stop sign
+redcaps,phrase_56264520.pt,41,over,direct,No.,,oven,snowboard
+redcaps,phrase_56264520.pt,42,over,direct,No.,,giraffe,tie
+redcaps,phrase_56264520.pt,43,over,direct,Yes,,parking meter,toilet
+redcaps,phrase_56264520.pt,44,over,direct,No,,banana,fork
+redcaps,phrase_56264520.pt,45,over,direct,Yes.,,laptop,broccoli
+redcaps,phrase_56264520.pt,46,over,direct,No,,orange,toothbrush
+redcaps,phrase_56264520.pt,47,over,direct,Yes,,baseball bat,boat
+redcaps,phrase_56264520.pt,48,over,direct,No.,,snowboard,skateboard
+redcaps,phrase_56264520.pt,49,over,direct,No,,book,dog
+redcaps,phrase_56264520.pt,50,over,direct,Yes,,chair,pizza
+redcaps,phrase_56264520.pt,51,over,direct,No,,suitcase,train
+redcaps,phrase_56264520.pt,52,over,direct,No.,,refrigerator,sports ball
+redcaps,phrase_56264520.pt,53,over,direct,No,,baseball bat,sandwich
+redcaps,phrase_56264520.pt,54,over,direct,Yes,,potted plant,fork
+redcaps,phrase_56264520.pt,55,over,direct,Yes,,clock,cow
+redcaps,phrase_56264520.pt,56,over,direct,Yes,,skateboard,motorcycle
+redcaps,phrase_56264520.pt,57,over,direct,Yes.,,orange,bottle
+redcaps,phrase_56264520.pt,58,over,direct,No,,backpack,wine glass
+redcaps,phrase_56264520.pt,59,over,direct,No,,surfboard,handbag
+redcaps,phrase_56264520.pt,60,over,direct,No,,frisbee,broccoli
+redcaps,phrase_56264520.pt,61,over,direct,No.,,cell phone,dog
+redcaps,phrase_56264520.pt,62,over,direct,No,,chair,tennis racket
+redcaps,phrase_56264520.pt,63,over,direct,No,,couch,tv remote
+redcaps,phrase_56264520.pt,64,over,direct,Yes,,donut,knife
+redcaps,phrase_56264520.pt,65,over,direct,Yes,,tv remote,laptop
+redcaps,phrase_56264520.pt,66,over,direct,Yes,,traffic light,pizza
+redcaps,phrase_56264520.pt,67,over,direct,No,,motorcycle,cat
+redcaps,phrase_56264520.pt,68,over,direct,No,,snowboard,bottle
+redcaps,phrase_56264520.pt,69,over,direct,No,,chair,umbrella
+redcaps,phrase_56264520.pt,70,over,direct,Yes,,fork,hot dog
+redcaps,phrase_56264520.pt,71,over,direct,Yes,,clock,skateboard
+redcaps,phrase_56264520.pt,72,over,direct,Yes,,potted plant,tv
+redcaps,phrase_56264520.pt,73,over,direct,No,,laptop,computer keyboard
+redcaps,phrase_56264520.pt,74,over,direct,Yes.,,broccoli,dog
+redcaps,phrase_56264520.pt,75,over,direct,Yes,,tv,traffic light
+redcaps,phrase_56264520.pt,76,over,direct,No.,,cell phone,parking meter
+redcaps,phrase_56264520.pt,77,over,direct,No.,,fork,snowboard
+redcaps,phrase_56264520.pt,78,over,direct,No,,cow,carrot
+redcaps,phrase_56264520.pt,79,over,direct,Yes,,truck,bus
+redcaps,phrase_56264520.pt,80,over,direct,Yes,,toaster,fire hydrant
+redcaps,phrase_56264520.pt,81,over,direct,No,,bear,pizza
+redcaps,phrase_56264520.pt,82,over,direct,No,,pizza,frisbee
+redcaps,phrase_56264520.pt,83,over,direct,No,,oven,donut
+redcaps,phrase_56264520.pt,84,over,direct,No.,,refrigerator,motorcycle
+redcaps,phrase_56264520.pt,85,over,direct,No,,book,tie
+redcaps,phrase_56264520.pt,86,over,direct,Yes,,hair drier,parking meter
+redcaps,phrase_56264520.pt,87,over,direct,Yes,,tv,truck
+redcaps,phrase_56264520.pt,88,over,direct,No,,teddy bear,microwave
+redcaps,phrase_56264520.pt,89,over,direct,No,,clock,giraffe
+redcaps,phrase_56264520.pt,90,over,direct,No,,person,refrigerator
+redcaps,phrase_56264520.pt,91,over,direct,Yes,,tv,cow
+redcaps,phrase_56264520.pt,92,over,direct,No,,microwave,cow
+redcaps,phrase_56264520.pt,93,over,direct,No,,fire hydrant,tv remote
+redcaps,phrase_56264520.pt,94,over,direct,Yes.,,donut,clock
+redcaps,phrase_56264520.pt,95,over,direct,No,,baseball glove,sandwich
+redcaps,phrase_56264520.pt,96,over,direct,No,,hair drier,computer mouse
+redcaps,phrase_56264520.pt,97,over,direct,Yes.,,skateboard,bear
+redcaps,phrase_56264520.pt,98,over,direct,Yes,,refrigerator,orange
+redcaps,phrase_56264520.pt,99,over,direct,Yes,,clock,dining table
